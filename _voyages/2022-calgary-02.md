@@ -1,0 +1,71 @@
+---
+layout: post
+destination: Calgary & Banff
+time: Août/Septembre 2022
+---
+
+This is part 2 of a series of articles I wrote to preserve a memory of my week-long trip to Banff and Calgary in August 2022. It’s a mix of anecdotes, relevant or not, with some information here and there that you might find interesting if you’re planning to go too. Feel free to ask questions in the comments if you want more details on anything in particular.
+
+## Day 1 — Saturday, Aug. 27th (continued)
+### 8:30 PM MDT
+I checked in to the Banff International Hostel at 5 PM. My room (#210) has four bunk beds and luckily I was given one of the top beds. I dropped my suitcase and headed for “downtown” Banff, a 5-minute walk away from the hostel. I wandered around Banff Ave. for a while, marveling at the view of the Rockies, which can be seen in all directions. The streets in Banff (Wolf St., Bear St., Elk St., Lynx St…) are named after all the animals that can attack you on the surrounding hiking trails, which I still like better than the names of politicians. Soon enough, I realized that I was hungry and started looking for a place to eat.
+
+![Banff Ave. under the clouds](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-ave.png)
+
+I walked over to Bear St., where a few restaurants I had targeted in travel guides and blog posts are located. I sat at the bar at the Bear St. Tavern and had the delicious “Three Pigs” pizza. When I left, I was full, but a little tired. I walked along Banff Ave. and spotted some interesting shops. Just after the Bow River Bridge, I wandered a bit in the Cascade of Time Garden, a beautiful garden with gazebos, small waterfalls, and pretty flower beds. The cloudy but kind-of-bright weather gave the place a mystical feel.
+
+![The Bow River Bridge. The Cascade of Time Garden is at the end of the bridge, across Cave Ave.](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-bowriverbridge.png)
+
+![In the Cascade of Time Garden](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-gardenstime.png)
+
+At 8:00 PM, as the sun started to set, I decided to do the same to recharge and be prepared for the next day.
+
+## Day 2 — Sunday, Aug. 28th
+### 8:20 AM MDT
+At 7:40 AM, I was in downtown Banff and ready to go to Lake Louise. For 25$, I bought a “Super Pass”, which gives me access for the whole day to all Roam bus lines. I don’t know if it will be worth it yet, but just the round trip to Lake Louise costs $16. If nothing else, I’m willing to pay the difference to have a piece of paper to carry around instead of an awkward bunch of loonies.
+
+Good to know: Roam buses board people who have reservations first. It’s only afterwards that people with passes can board. At 8 AM, we were still few to take the bus, but at “rush hour”, it could be a problem if you are in a hurry and don’t have a reservation.
+
+![Banff Ave. before 8 AM](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-ave2.png)
+
+### 1:45 PM MDT
+The bus arrived at Lake Louise at 8:45 AM. Dozens of people started taking pictures and selfies in front of Mount Victoria and the turquoise waters of Lake Louise. You know, the famous background that appears in one of the profile pictures of half of the people who use dating apps (at least in Montréal). I wish I had brought a jacket. Even for a Quebecer who likes cool weather, it was a bit too chilly to be wearing a T-shirt. I wanted to take pictures too, but my phone, this wimp, gave up because of the cold. Too bad, I set off for the trail.
+
+![Lake Louise, just before my phone shut off](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-lakelouise.png)
+
+The next halt was Mirror Lake. Once there, the temperature had warmed up and I could now turn my phone back on without it automatically turning off. While I was sitting on a rock to contemplate the lake, a ballsy chipmunk climbed on my shoe. Had he read the signs, the little guy would have known that I was not allowed to give him anything to eat.
+
+![Mirror Lake](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-mirrorlake.png)
+
+After Mirror Lake, I started walking for Lake Agnes, a little higher. The view from there is splendid. At this point, it is about 11 AM and there is a long line of people for the Tea House.
+
+![Lake Agnes](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-lakeagnes.png)
+
+Last stop: Little Beehive, at an altitude of slightly over 2200 meters. It takes about 25 minutes to get to Little Beehive from Lake Agnes, but I found it well worth it. There are much fewer people on the trail and at one point, you can get a bird’s eye view of the three lakes seen earlier.
+
+![From the trail to Little Beehive, you can see Lake Louise (left), Mirror Lake (center), and Lake Agnes (right, but not shown in this picture)](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-3lakes.png)
+
+Once at the top of Little Beehive, I was (almost) alone. It made me feel less like a tourist. I stayed a while to enjoy the quietness.
+
+![The view from Little Beehive](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-littlebeehive.png)
+
+At 1:30, I was back at the bottom and as I passed Lake Louise again, the place was packed with people. At least twice the number of people there were in the morning. I congratulated myself for coming here early and got in line for the bus back to Banff. I definitely would’ve hated having to take that bus at 5 PM, especially without a reservation!
+
+### 4 PM MDT
+At 3 PM, I sat down at the Coyotes Southwestern Grill. The waiter noticed my accent and started speaking French to me; he was from New Brunswick. Speaking of which, I’ve heard a lot of people speaking French around me in Banff and Lake Louise, so if you do, you’d better assume that someone around you understands what you’re saying.
+I got my plate of penne with chorizo and mushrooms. It’s good, but the portion is a little too small for my taste, especially considering that I haven’t eaten all day. It gave me an excuse to eat a BeaverTail.
+
+![Left: Penne from Coyotes Southwestern Grill; Right: a brownie Beavertail](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-coyotes-southwestern.png)
+
+### 10 PM MDT
+At 6 PM, I used my Roam Super Pass to go to the Banff Gondola, a tourist attraction 4 km away from downtown Banff. It’s an aerial lift that takes you to the top of Sulphur Mountain (2450 meters above sea level), from which you can enjoy a beautiful view of Banff, the Bow River and the surrounding mountains.
+
+![On my way up in the Banff Gondola](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-gondola.png)
+
+At the top, there is a four-story observatory with a patio, a restaurant, and a museum. Even more interesting is the path that leads to the Cosmic Ray Station.
+
+![The path from the observatory to the Cosmic Ray Station](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-observatory.png)
+
+![Banff from the Cosmic Ray Station](https://samdouble-githubio.nyc3.cdn.digitaloceanspaces.com/20220827-banff-cosmicraystation.png)
+
+Back from the Gondola, I went to Magpie & Stump for tacos, more out of gluttony than hunger, and then called it a day and headed straight back to the hostel.
