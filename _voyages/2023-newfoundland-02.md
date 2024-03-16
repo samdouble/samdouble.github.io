@@ -4,9 +4,16 @@ destination: Terre-Neuve
 time: Septembre 2023
 ---
 
-# Itinéraire prévu
+# Avant le voyage II
+## L'itinéraire
+À la fin du mois de juillet, je réalise que mon voyage est dans à peine un mois, mais qu'il me reste encore beaucoup à planifier.
 
-## Samedi 2 septembre
+Avec la liste des endroits que je veux visiter, je peux maintenant organiser un itinéraire plus précis. En sachant où je vais être et quand, ça va me permettre de réserver mon hébergement et s'il y a lieu, les activités qui doivent être réservées d'avance.
+
+### Références
+[Bateaux pour Bell Island](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/)
+
+### Samedi 2 septembre
 - 13h00: Départ de YUL
 - 16h45: Arrivée à **St.John's** (YYT)
 - 17h30: Récupérer ma voiture louée sur Turo, dans le nord de St.John's
@@ -14,7 +21,7 @@ time: Septembre 2023
 - St.John's
 - Nuit à **Torbay**
 
-## Dimanche 3 septembre
+### Dimanche 3 septembre
 - Faire la Father Troy's Trail et voir le lever du soleil
 - Départ de Torbay
 - Prendre le bateau pour Bell Island (1 Ferry Terminal Rd, Portugal Cove-St. Philip's, NL, 20 minutes, 7h25, 8h35, 9h45)
@@ -32,7 +39,7 @@ time: Septembre 2023
    - 17h: Souper au Mallard Cottage (8 Barrows Rd, St. John's, NL A1A 1G8, +17092377314)
 - Nuit à Torbay
 
-## Lundi 4 septembre**
+### Lundi 4 septembre**
 - Départ de Torbay pour **Brigus** (92km, 62 minutes)
 - Brigus / Cupids
    - Brigus Tunnel
@@ -43,7 +50,7 @@ time: Septembre 2023
 - Heart's Ease Beach Trail
 - Nuit à Clarenville
 
-**Mar 5 septembre**
+### Mar 5 septembre
 - Bare Mountain Trail
 - Départ de Clarenville pour **Port Rexton** (130km, 90 minutes)
 - 12h30: Tour de bateau avec Trinity Eco Tours (1 Stoneman's Lane, Trinity, NL A0C 2S0, +17094643712)
@@ -52,7 +59,7 @@ time: Septembre 2023
    - Cape Bonavista Lighthouse
 - Nuit à Bonavista
 
-**Mer 6 septembre**
+### Mer 6 septembre
 - Elliston
 - Port Rexton
    - Skerwink Trail
@@ -61,13 +68,13 @@ time: Septembre 2023
 - Bonavista
 - Nuit à Bonavista
 
-**Jeu 7 septembre**
+### Jeu 7 septembre
 - Départ de Bonavista pour **Cape St.Mary's** (320km, 234 minutes)
 - Cape St.Mary's
 - Départ de Cape St.Mary's pour **Trepassey** (186km, 154 minutes)
 - Nuit à Trepassey
 
-**Ven 8 septembre**
+### Ven 8 septembre
 - Départ de Trepassey pour **Mistaken Point** (28km, 31 minutes)
 - Mistaken Point
 - Départ de Mistaken Point pour **Tors Cove** (108km, 90 minutes)
@@ -79,14 +86,14 @@ time: Septembre 2023
    - East Coast Trail - La Manche Suspension Bridge
 - Nuit à Bauline East
 
-**Sam 9 septembre**
+### Sam 9 septembre
 - Départ de Bauline East pour **Ferryland** (36km, 33 minutes)
 - 12h00: Pique-nique au phare de Ferryland
 - 17h30: Rapporter ma voiture dans le nord de St.John's
 - St.John's
 - Nuit à **St.John's**
 
-**Dim 10 septembre**
+### Dim 10 septembre**
 - Journée de marche à St.John's
    - Water St.
    - Duckworth St.
@@ -101,12 +108,11 @@ time: Septembre 2023
    - Cape Spear
 - Nuit à St.John's
 
-**Lun 11 septembre**
+### Lun 11 septembre
 - 13h00: Départ de YYT
 - 14h15: Arrivée à YUL
 
 ### À St.John's
-
 - Quidi Vidi
 - Bell Island
 - Cape Spear
@@ -114,21 +120,3 @@ time: Septembre 2023
 - Jellybean Row
 - Signal Hill
 - The Rooms
-
-### Ce que j'ai remarqué ou appris
-- Les plaques d'immatriculation commencent presque toutes par "J"
-- Mary Brown's Chicken & Taters
-- Beaucoup de gros VUS et camionettes
-- Les ambulances sont blanches avec des lignes bleues et oranges
-- Bleuets, canneberges, partridge berries et bakeapples
-- Les gens disent "yes" comme "yé-ehss"
-- Beaucoup de drapeaux canadiens, anglais, terre-neuviens (y compris un qui ressemble à l'Italie)
-- Petits bureaux de poste de village
-- Maisons colorées sur des collines de gazon
-- Beaucoup de cimetières en bordure de route, à côté d'une église
-
-### Références
-[Bateaux pour Bell Island](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/)
-
-### Recherches Google
-- Villages to see in Newfoundland
