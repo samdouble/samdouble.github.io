@@ -4,8 +4,8 @@ destination: Portugal
 time: Avril/Mai 2023
 ---
 
-### Préparation avant le voyage
-J'ai acheté mes billets d'avion le 21 septembre 2022, soit exactement 7 mois avant le début du voyage, après avoir vu une annonce de [Yuldeals](https://yuldeals.com) pour des vols à bas prix vers LIS et OPO en partance de YUL à l'été 2023.
+# Avant le voyage
+J'ai acheté mes billets d'avion le 21 septembre 2022, soit exactement 7 mois avant le début du voyage, après avoir vu une annonce de [YUL Deals](https://yuldeals.com) pour des vols à bas prix vers LIS et OPO en partance de YUL à l'été 2023.
 
 ### Ce que j'ai envie de voir et faire
 - Lisbonne
