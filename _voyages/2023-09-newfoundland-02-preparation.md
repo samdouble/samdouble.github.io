@@ -5,13 +5,10 @@ time: Septembre 2023
 ---
 
 # Avant le voyage II
-## L'itinéraire
+## Itinéraire prévu
 À la fin du mois de juillet, je réalise que mon voyage est dans à peine un mois, mais qu'il me reste encore beaucoup à planifier.
 
 Avec la liste des endroits que je veux visiter, je peux maintenant organiser un itinéraire plus précis. En sachant où je vais être et quand, ça va me permettre de réserver mon hébergement et s'il y a lieu, les activités qui doivent être réservées d'avance.
-
-### Références
-[Bateaux pour Bell Island](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/)
 
 ### Samedi 2 septembre
 - 13h00: Départ de YUL
@@ -95,28 +92,32 @@ Avec la liste des endroits que je veux visiter, je peux maintenant organiser un 
 
 ### Dim 10 septembre**
 - Journée de marche à St.John's
-   - Water St.
-   - Duckworth St.
-   - Gower St.
-   - Musée The Rooms
-   - Restaurant: Hungry Heart Cafe
-   - Restaurant: Terre Restaurant & Café
-   - North Head Trail
-   - North Head Trail Lookout
-   - Ladies Lookout Trail
-   - The Battery
-   - Cape Spear
+  - Water St.
+  - Duckworth St.
+  - Gower St.
+  - Musée The Rooms
+  - Restaurant: Hungry Heart Cafe
+  - Restaurant: Terre Restaurant & Café
+  - North Head Trail
+  - North Head Trail Lookout
+  - Ladies Lookout Trail
+  - The Battery
+  - Cape Spear
+  - Quidi Vidi
+  - Bell Island
+  - Cape Spear
+  - East Coast Trail
+  - Jellybean Row
+  - Signal Hill
+  - The Rooms
 - Nuit à St.John's
 
 ### Lun 11 septembre
 - 13h00: Départ de YYT
 - 14h15: Arrivée à YUL
 
-### À St.John's
-- Quidi Vidi
-- Bell Island
-- Cape Spear
-- East Coast Trail
-- Jellybean Row
-- Signal Hill
-- The Rooms
+## 
+Je ne sais pas si je vais avoir le temps TODO
+
+### Références
+[Bateaux pour Bell Island](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/)

@@ -5,17 +5,27 @@ time: Avril/Mai 2023
 ---
 
 # Avant le voyage
-J'ai acheté mes billets d'avion le 21 septembre 2022, soit exactement 7 mois avant le début du voyage, après avoir vu une annonce de [YUL Deals](https://yuldeals.com) pour des vols à bas prix vers LIS et OPO en partance de YUL à l'été 2023.
+## L'avion
+J'ai acheté mes billets d'avion à la mi-septembre 2022, soit exactement 7 mois avant le début du voyage, après avoir vu une annonce de [YUL Deals](https://yuldeals.com) pour des vols à bas prix vers LIS et OPO en partance de YUL à l'été 2023. Ça va être mon premier voyage en Europe, et même si c'est encore loin, ça semble irréel.
 
-### Ce que j'ai envie de voir et faire
-- Lisbonne
-- Porto
-- L'Algarve
+## Itinéraire prévu
+C'est à la mi-janvier que je commence à préparer plus sérieusement mon voyage. Je ne veux pas rester à Lisbonne pendant ces 2 semaines. Idéalement, j'aurai le temps de visiter aussi Porto et l'Algarve. En faisant des recherches sur ce qu'il y a à voir et à faire dans chaque ville et les temps de déplacement, j'aboutis avec l'itinéraire suivant:
 
-### Itinéraire prévu
+- 21 avril, 22h40: Départ de YUL
+- 22 avril, 10h15: Arrivée à LIS
+- 22-27 avril: Lisbonne
+- 27-28 avril: Coimbra
+- 28 avril-1er mai: Porto
+- 1-2 mai: Faro
+- 2-4 mai: Lagos
+- 4-5 mai: Lisbonne
+- 5 mai, 18h45: Départ de LIS
+- 5 mai, 21h15: Arrivée à YUL
 
-**Ven 21 avril**
-- 22h40: Départ de YUL
+Je devrai prendre un avion entre Porto et Faro. J'aurais pu le faire en train, mais ç'aurait pris toute une journée de voyage.
+
+## L'hébergement
+TODO
 
 ### Ce que j'ai remarqué ou appris
 

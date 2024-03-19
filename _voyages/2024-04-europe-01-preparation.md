@@ -27,6 +27,8 @@ Il m'apparaît vite clair qu'arriver et repartir de Malte me fait perdre du pré
 - 21-25 avril: Rome, Italie
 
 ## Paris
-Lorsque j'appelle Air France pour changer mon vol de retour, ce n'est vraiment pas évident à faire moyennant un prix raisonnable. J'essaie plein de combinaisons possibles: partir de Rome, d'Amsterdam, de Paris, le 24, le 25, le 26, le 27, ... À chaque fois, le prix de modification est beaucoup plus que ce que je suis près à payer. Finalement, on m'offre de partir de Paris le 30 avril, soit 5 jours plus tard que prévu, pour un montant additionnel de 278$. J'hésite, ayant fait approuver des vacances de 14 jours, pas 19. J'accepte quand même, pour ne pas perdre ce prix qui est de loin meilleur que tous les autres qu'on m'a proposés, en me disant que j'ai encore beaucoup de temps pour en discuter au travail. Ça me chicote un peu, mais en même temps, je vais visiter Paris!
+Lorsque j'ai appelé Air France pour faire changer mon vol de retour, ça s'est révélé difficile à faire moyennant un prix raisonnable. J'ai essayé plein de combinaisons possibles: partir de Rome, d'Amsterdam, de Paris, le 24, le 25, le 26, le 27, ... À chaque fois, le prix de modification était beaucoup plus que ce que j'étais près à payer.
 
-La même semaine, je me trouve un AirBnB dans le tranquille XVIème arrondissement, près du Bois de Boulogne.
+Finalement, ils m'ont offert de partir de Paris le 30 avril, soit 5 jours plus tard que prévu, pour un montant additionnel de 278$. J'ai hésité, ayant fait approuver des vacances de 14 jours, pas 19. J'ai quand même accepté, pour ne pas perdre ce prix qui était de loin meilleur que tous les autres qu'on m'a proposés, en me disant que j'ai encore beaucoup de temps pour en discuter au travail. Ça me chicote un peu, mais en même temps, je vais visiter Paris!
+
+La même semaine, je me suis trouvé un AirBnB dans le tranquille XVIème arrondissement, près du Bois de Boulogne.
