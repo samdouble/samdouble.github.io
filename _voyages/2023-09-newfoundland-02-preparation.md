@@ -118,6 +118,3 @@ Avec la liste des endroits que je veux visiter, je peux maintenant organiser un 
 
 ## 
 Je ne sais pas si je vais avoir le temps TODO
-
-### Références
-[Bateaux pour Bell Island](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/)
