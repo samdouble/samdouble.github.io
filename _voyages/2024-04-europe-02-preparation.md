@@ -20,4 +20,4 @@ Malheureusement, j'ai peut-être déjà un peu trop attendu pour la visite du Va
 Le prix des activités commence bien à partir de 60-70$, mais pour des dates en mai, pas en avril. J'aurais dû entreprendre ma recherche au moins 2-3 semaines avant pour avoir un meilleur prix...ça m'apprendra à traîner. Bon, on n'est pas tous les jours à Rome.
 
 ### À Paris
-En faisant des recherches sur Google, je suis tombé sur quelque chose d'assez original, que je n'aurais probablement pas trouvé sur GetYourGuide: Arsène Lupin et le secret de l'Opéra. C'est un jeu immersif qui est organisé dans le Palais Garnier depuis fin 2022. Je ne suis pas sûr d'avoir tout compris, mais ça semble être un genre d'escape game avec des indices. En tout cas, je suis partant!
+En faisant des recherches sur Google, je suis tombé sur quelque chose d'assez original, que je n'aurais probablement pas trouvé sur GetYourGuide: Arsène Lupin et le secret de l'Opéra. C'est un jeu immersif qui est organisé dans le Palais Garnier depuis fin 2022. De ce que j'ai compris, c'est un genre d'escape game avec des indices à trouver. Rien de mieux pour découvrir l'endroit!

@@ -10,8 +10,7 @@ Le vol était très court, un peu moins de 2 heures. Comme prévu, à ma sortie 
 
 Le propriétaire de la Subaru me laisse les clefs, après avoir pris des photos de tous les angles de sa voiture. Ça me rend un peu nerveux de conduire. C'est une voiture automatique, mais ça fait quelques années que je ne conduis plus. J'installe mon GPS sur le tableau de bord et j'attends un peu, le temps qu'il comprenne qu'il n'est plus au Québec. Je délaie autant que possible le moment où je devrai quitter le bord de la route et commencer à rouler.
 
-À 18h, j'arrive à mon AirBnB
-TODO
+À 18h, j'arrive à mon AirBnB de Torbay, un petit village à 2-3 kilomètres au nord de l'aéroport de St.John's. C'est une petite maison au bout d'un cul-de-sac. Devant la maison, il y a le stationnement et tout de suite après, un sentier qui descend vers la Father Troy's Trail. Je parle un peu avec l'hôte, une vieille dame qui habite seule avec son petit chien et qui se passionne à trouver de vieilles photos de la région dans les archives.
 
 ### Ce que j'ai remarqué ou appris
 - Les plaques d'immatriculation commencent presque toutes par "J"
