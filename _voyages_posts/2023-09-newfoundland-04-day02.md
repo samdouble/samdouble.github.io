@@ -2,6 +2,7 @@
 layout: post
 destination: Terre-Neuve
 time: Septembre 2023
+voyage: Newfoundland2023
 ---
 
 # Jour 2: dimanche, 3 septembre

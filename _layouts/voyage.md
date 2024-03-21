@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: post
 ---
 
-<h1>Chapter {{ page.voyage }}</h1>
+<h1>{{ page.voyage }}</h1>
 
-{% for section in site.sections %}
-  {% if section.voyage == page.voyage %}
-    {{ section.output }}
+{% for voyage_post in site.voyages_posts %}
+  {% if voyage_post.voyage == page.voyage %}
+    {{ voyage_post.content | markdownify }}
   {% endif %}
 {% endfor %}

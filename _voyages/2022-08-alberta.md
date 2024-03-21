@@ -1,4 +1,4 @@
 ---
 layout: voyage
-voyage: NewOrleans2022
+voyage: Alberta2022
 ---

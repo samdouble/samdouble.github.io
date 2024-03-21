@@ -1,5 +1,4 @@
 ---
-layout: post
-destination: Vancouver
-time: Juillet 2021
+layout: voyage
+voyage: Vancouver2021
 ---

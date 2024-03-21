@@ -2,6 +2,7 @@
 layout: post
 destination: Portugal
 time: Avril/Mai 2023
+voyage: Portugal2023
 ---
 
 # Avant le voyage

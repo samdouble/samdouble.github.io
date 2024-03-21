@@ -30,10 +30,10 @@ plugins:
   - jekyll-feed
 
 collections:
-  sections:
-    output: false
   voyages:
     output: true
+  voyages_posts:
+    output: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
