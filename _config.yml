@@ -30,6 +30,8 @@ plugins:
   - jekyll-feed
 
 collections:
+  sections:
+    output: false
   voyages:
     output: true
 

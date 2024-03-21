@@ -21,5 +21,7 @@ De la route principale, je tourne sur une voie qui descend dans un cul-de-sac, p
 
 ![Plage de Lance Cove](/docs/assets/202309_newfoundland/20230902_lancecove.jpg)
 
-Je me remets en route pour chercher la mine #2. J'ai mis un peu de temps à la trouver, mon GPS ne trouvant pas l'adresse qui était indiquée par Google Maps. Il reste encore une bonne heure et demie avant la visite de 10h30. Je patiente un peu dans le coin à réfléchir, peser les pour et les contre de rester à mon emploi actuel et de quitter pour l'un ou l'autre des deux emplois pour lesquels j'ai passé des entrevues.
+Je me remets en route pour chercher la mine #2. J'ai mis un peu de temps à la trouver, vu que mon GPS ne trouvait pas l'adresse qui était indiquée par Google Maps. Il reste encore une bonne heure et demie avant la visite de 10h30. Je patiente un peu dans le coin à réfléchir, peser les pour et les contre de rester à mon emploi actuel et de quitter pour l'un ou l'autre des deux emplois pour lesquels j'ai passé des entrevues.
 
+## 10h30 NDT
+À 10h30, la visite commence
