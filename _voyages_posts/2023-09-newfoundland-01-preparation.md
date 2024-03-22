@@ -5,16 +5,16 @@ time: Septembre 2023
 voyage: Newfoundland2023
 ---
 
-# Avant le voyage I
-## L'avion
+## Avant le voyage I
+### L'avion
 J'ai acheté mes billets d'avion à la mi-mars, après avoir reçu un courriel des vols d'Alexi annonçant un rabais de 78% sur les vols pour Terre-Neuve cet été. Lynx Air, une nouvelle compagnie aérienne pour des vols à bas prix, s'installe à Montréal et offre des vols pas chers pour plusieurs destinations au Canada cette année. J'ai pris quelques heures pour vérifier mes disponibilités et, moins de 24 heures après avoir reçu le courriel, j'ai pu réserver mes billets pour un départ au mois de septembre. Le temps que je me décide, les prix avaient un peu augmenté, mais j'ai payé mon aller-retour 309$ (avec un bagage en soute), ce qui représente un rabais d'au moins 50% par rapport au prix régulier.
 
-## La voiture
+### La voiture
 Comme je suis parti pour le Portugal à la fin du mois d'avril, ce n'est qu'au mois de juin que j'ai commencé à planifier plus sérieusement ce voyage-ci. Outre les recherches Google d'usage, la [liste de choses à voir et à faire du sub-reddit r/newfoundland](https://www.reddit.com/r/newfoundland/wiki/thingstodoinnl/) s'est avérée très pratique. J'aimerais ne pas avoir à conduire, mais assez vite je me rends compte que la plupart des points d'intérêt sont à l'extérieur de St.John's. Sur Reddit, les locaux me disent que pour profiter de mon voyage, je dois obligatoirement avoir une voiture. Même Cape Spear, qui semble être à une distance marchable de St.John's, serait difficile d'accès à pied ou en vélo. Pour dire à quel point je n'avais pas envie de conduire, j'ai demandé aux Terre-Neuviens de Reddit si c'était possible de se rendre à Cape Spear en taxi. J'ai fini par me résigner quand on m'a dit qu'ils n'étaient pas toujours accessibles et qu'on pouvait les attendre pendant très longtemps.
 
 Je dois louer une voiture rapidement, car elles sont en demande pour cette période de l'année. Je suis frappé par les prix affichés sur Turo et Enterprise. La moyenne semble être autour de 900-1000$ par semaine. Ça m'énerve de payer le triple du prix de mon billet d'avion pour louer une voiture. Finalement, je trouve une Subaru Impreza 2017 automatique à 575$ / 7 jours sur Turo. Elle est dans Clovelly Trails, un quartier au nord de St.John's, près de l'aéroport. Je l'ai louée du 2 septembre à 17h au 9 septembre à 17h. Comme ça, je pourrai la récupérer tout de suite en atterrissant à St.John's, visiter tout ce qui doit être visité en voiture pendant les 7 jours où je l'aurai, et me garder le soir du 9 et le 10 pour visiter St.John's à pied.
 
-## Le trajet
+### Le trajet
 J'ai commencé par dresser une liste de tout ce que je souhaitais voir et faire à Terre-Neuve. J'ai ensuite tout situé sur une carte pour calculer les distances.
 
 - St.John's

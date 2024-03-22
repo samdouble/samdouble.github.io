@@ -5,11 +5,11 @@ time: Avril/Mai 2023
 voyage: Portugal2023
 ---
 
-# Avant le voyage
-## L'avion
+## Avant le voyage
+### L'avion
 J'ai acheté mes billets d'avion à la mi-septembre 2022, soit exactement 7 mois avant le début du voyage, après avoir vu une annonce de [YUL Deals](https://yuldeals.com) pour des vols à bas prix vers LIS et OPO en partance de YUL à l'été 2023. Ça va être mon premier voyage en Europe, et même si c'est encore loin, ça semble irréel.
 
-## Itinéraire prévu
+### Itinéraire prévu
 C'est à la mi-janvier que je commence à préparer plus sérieusement mon voyage. Je ne veux pas rester à Lisbonne pendant ces 2 semaines. Idéalement, j'aurai le temps de visiter aussi Porto et l'Algarve. En faisant des recherches sur ce qu'il y a à voir et à faire dans chaque ville et les temps de déplacement, j'aboutis avec l'itinéraire suivant:
 
 - 21 avril, 22h40: Départ de YUL
@@ -25,10 +25,10 @@ C'est à la mi-janvier que je commence à préparer plus sérieusement mon voyag
 
 Je devrai prendre un avion entre Porto et Faro. J'aurais pu le faire en train, mais ç'aurait pris toute une journée de voyage.
 
-## L'hébergement
+### L'hébergement
 TODO
 
-### Ce que j'ai remarqué ou appris
+#### Ce que j'ai remarqué ou appris
 
 - Physiquement, les Portugais sont relativement petits
 - Bon nombre de personnes ne parlent que le Portugais. Je croyais bien m'en tirer avec le français et l'anglais, mais les quelques mots de portugais que je savais dire m'ont été utiles à quelques reprises
@@ -42,6 +42,6 @@ TODO
 - Sur les places publiques de Lisbonne en particulier, il n'est pas rare de se faire subtilement proposer du haschich ou de la cocaïne
 - Les rues, sauf quelques exceptions, sont très étroites. Parfois, le trottoir fait 1 ou 2 pieds de large
 
-### Références
+#### Références
 
-### Recherches Google
+#### Recherches Google
