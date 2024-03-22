@@ -30,6 +30,10 @@ plugins:
   - jekyll-feed
 
 collections:
+  projets:
+    output: true
+  projets_posts:
+    output: false
   voyages:
     output: true
   voyages_posts:
