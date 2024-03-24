@@ -5,7 +5,7 @@ time: Septembre 2023
 voyage: Newfoundland2023
 ---
 
-## Jour 2: dimanche, 3 septembre
+## Dimanche, 3 septembre: Bell Island et Quidi Vidi
 ### 6h00 NDT
 Ce matin, je me suis réveillé de bonne heure pour pouvoir prendre le ferry vers [Bell Island](https://en.wikipedia.org/wiki/Bell_Island_(Newfoundland_and_Labrador)). Plus j'y vais tôt, moins il y aura d'autres voitures...en tout cas, j'espère. Je pars de Torbay à 6h30 pour me rendre à 7km de là, au port de Portugal Cove, où je prendrai à 7h25 [le premier bateau](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/) de la journée en direction de Bell Island.
 
@@ -29,19 +29,14 @@ Je me remets en route pour chercher la mine #2. J'ai mis un peu de temps à la t
 ![Musée de la mine #2](/docs/assets/202309_newfoundland/20230903/bellisland02.jpg)
 
 ### 10h30 NDT
-À 10h30, la visite commence
+Un peu avant la visite, je fais le tour du petit musée. On y lit sur le rôle de Bell Island dans la deuxième guerre mondiale, étant le seul endroit sur le continent à avoir été attaqué par les Allemands. On y voit aussi une copie des lettres de renvoi qui ont été données aux mineurs quelques décennies plus tard lorsque l'extraction du minerai de fer sur l'île n'était plus profitable.
 
+À 10h30, la visite commence. On est un groupe d'environ 20 personnes, quelques américains, quelques ontariens, mais la plupart viennent d'ailleurs à Terre-Neuve. La guide nous fait descendre dans la mine. C'est un long tunnel en pente avec des embranchements sur les côtés. On entre dans quelques-uns de ces embranchements alors que la guide nous parle du travail des enfants, des morts qui survenaient et d'à quel point il faisait noir dans la mine sans électricité, avec seulement la lueur de quelques chandelles.
 
+![Dans la mine #2](/docs/assets/202309_newfoundland/20230903/bellisland03.jpg)
 
+Quand je suis sorti du musée de la mine, il faisait beau dehors. Je me suis promené sur l'île en voiture, en m'arrêtant quelques fois pour profiter de la vue et du vent. À Cove #2, les vagues s'écrasaient sur la falaise dans un bruit de tonnerre.
 
-#### Ce que j'ai remarqué ou appris
-- Les plaques d'immatriculation commencent presque toutes par "J"
-- Mary Brown's Chicken & Taters
-- Beaucoup de gros VUS et camionettes
-- Les ambulances sont blanches avec des lignes bleues et oranges
-- Bleuets, canneberges, partridge berries et bakeapples
-- Les gens disent "yes" comme "yé-ehss"
-- Beaucoup de drapeaux canadiens, anglais, terre-neuviens (y compris un qui ressemble à l'Italie)
-- Petits bureaux de poste de village
-- Maisons colorées sur des collines de gazon
-- Beaucoup de cimetières en bordure de route, à côté d'une église
+![À Cove #2](/docs/assets/202309_newfoundland/20230903/bellisland04.jpg)
+
+TODO

@@ -5,7 +5,7 @@ time: Septembre 2023
 voyage: Newfoundland2023
 ---
 
-## Jour 1: samedi, 2 septembre
+## Samedi, 2 septembre: Arrivée et Torbay
 ### 16h45 NDT
 Le vol était très court, d'une durée d'un peu moins de 2 heures. Comme prévu, à ma sortie de l'aéroport, j'ai pris un taxi pour aller récupérer ma Subaru Impreza dans le nord de St.John's. Je pensais payer peu pour le taxi, étant donné que l'aéroport est aussi dans le nord, mais le chauffeur m'a dit que de l'aéroport, c'est un taux fixe de 35$. Il s'avère que c'est faux, c'est seulement un taux fixe de 35$ lorsque la destination de la course est un hôtel du centre-ville. C'est le taxi que je prendrai une semaine plus tard qui me l'apprendra.
 
