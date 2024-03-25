@@ -40,3 +40,7 @@ Quand je suis sorti du musée de la mine, il faisait beau dehors. Je me suis pro
 ![À Cove #2](/docs/assets/202309_newfoundland/20230903/bellisland04.jpg)
 
 TODO
+
+
+
+Le soir, je vois que j'ai reçu un courriel à propos du tour que j'ai réservé pour voir les baleines à Bonavista le 6. Les organisateurs m'annoncent qu'il n'y a pas encore assez de réservations pour ma plage horaire et qu'à cause qu'il leur faut un minimum de passagers pour que ce soit rentable, il est possible que mon tour soit annulé. Je leur envoie une réponse, mais dès demain matin, je vais devoir trouver un nouveau plan A. Je ne passe que 2 jours à Bonavista/Trinity et c'est là que je veux aller voir les baleines.

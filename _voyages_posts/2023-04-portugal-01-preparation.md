@@ -30,7 +30,7 @@ TODO
 
 #### Ce que j'ai remarqué ou appris
 
-- Physiquement, les Portugais sont relativement petits
+- Physiquement, les Portugais sont plutôt petits
 - Bon nombre de personnes ne parlent que le Portugais. Je croyais bien m'en tirer avec le français et l'anglais, mais les quelques mots de portugais que je savais dire m'ont été utiles à quelques reprises
 - La plupart du temps, lorsqu'on demande des directions aux Portugais vers une rue, ils ne savent pas. Ils sont souvent ravis d'aider.
 - Classiques des boutiques de souvenir:
