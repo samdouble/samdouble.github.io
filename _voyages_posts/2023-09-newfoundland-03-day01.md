@@ -13,7 +13,7 @@ Le propriétaire de la Subaru me laisse les clefs, après avoir pris des photos 
 
 ![Ma Subaru Impreza de location](/docs/assets/202309_newfoundland/20230902/subaru.jpg)
 
-### 18h NDT
+### 18h00 NDT
 J'arrive à mon AirBnB de Torbay, un petit village à 2-3 kilomètres au nord de l'aéroport de St.John's. C'est une petite maison au bout d'un cul-de-sac. Devant la maison, il y a le stationnement et tout de suite après, un sentier qui descend vers la Father Troy's Trail. La vue vers la baie de Torbay en contrebas est imprenable. Je parle un peu avec l'hôte, une vieille dame qui habite seule avec son petit chien et qui se passionne à collectionner de vieilles photos de la région dans les archives de la ville.
 
 ![La vue sur la baie de Torbay prise de devant la maison avec le sentier qui mène à la Father Troy's Trail](/docs/assets/202309_newfoundland/20230902/torbaybight.jpg)
@@ -30,7 +30,7 @@ J'ai pris les "Buttermilk Fried Chicken Tenders" avec la salade césar. Les breu
 
 ![Vue de la terrasse du Post Taphouse](/docs/assets/202309_newfoundland/20230902/post_taphouse.jpg)
 
-### 20h NDT
+### 20h00 NDT
 Lorsque je sors du Post Taphouse, le soleil a déjà commencé à se coucher. Je ne veux pas revenir au AirBnB en marchant sur le bord de Torbay Rd., comme c'est une route sinueuse et qu'elle n'a pas de trottoir. Je rentre par le sentier d'où je suis venu en espérant réussir à arriver avant que toute la clarté ait disparu. Par bouts, la Father Troy's Trail est mal dégagée et il faut faire attention où mettre les pieds avec toutes les racines.
 
 ![Le chemin du retour sur la Father Troy's Trail](/docs/assets/202309_newfoundland/20230902/fathertroys_trail02.jpg)
