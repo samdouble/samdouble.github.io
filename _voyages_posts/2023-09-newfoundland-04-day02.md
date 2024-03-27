@@ -35,9 +35,31 @@ Un peu avant la visite, je fais le tour du petit musée. On y lit sur le rôle d
 
 ![Dans la mine #2](/docs/assets/202309_newfoundland/20230903/bellisland03.jpg)
 
-Quand je suis sorti du musée de la mine, il faisait beau dehors. Je me suis promené sur l'île en voiture, en m'arrêtant quelques fois pour profiter de la vue et du vent. À Cove #2, les vagues s'écrasaient sur la falaise dans un bruit de tonnerre.
+Quand je suis sorti du musée de la mine, il faisait beau dehors. Je me suis promené sur l'île en voiture, en m'arrêtant quelques fois pour profiter de la vue et du vent. À Cove #2, les vagues s'écrasaient sur la falaise en faisant le même bruit que des feux d'artifice.
 
 ![À Cove #2](/docs/assets/202309_newfoundland/20230903/bellisland04.jpg)
+
+Je me suis rendu au Bell Island Lighthouse, à côté du Keeper's Café. Plusieurs personnes marchaient près de la falaise, malgré les panneaux qui nous avertissaient que le sol à cet endroit était instable. Au café, j'ai commandé une salade et je suis parti marcher sur le Gregory Normore Coastal Walking Trail, derrière, vers Long Harry Cove. Je calcule mon temps, car je veux absolument prendre le bateau de 15h15. Si je le manque, je devrai attendre une autre heure et demie.
+
+![Sur le sentier vers Long Harry Cove, près du Keeper's Café](/docs/assets/202309_newfoundland/20230903/bellisland05.jpg)
+
+### 13h45 NDT
+Je suis reparti vers le quai d'embarquement, pour avoir la chance de manger de ce fish & chips dont on parle tant. Je me suis stationné au Dick's Fish & Chips, mais j'aurais dû plutôt me stationner en file vers le quai, tandis qu'il y avait peu de voitures. Je l'ai seulement fait plus tard à 14h45 et j'ai dû stationner la voiture dans la pente, parce que la file était rendue plus longue à ce moment-là.
+
+![Retour au quai d'embarquement](/docs/assets/202309_newfoundland/20230903/return_to_dicksfishnchips.jpg)
+
+Pendant les 30 minutes où j'attendais ma commande de fish & chips, j'ai remonté la côte à pied vers Harry's Lookout. Ce n'est pas grand-chose, juste une petite aire de repos avec quelques chaises et une vue sur le quai.
+
+J'ai eu un peu le temps de manger mon fish & chips dans la voiture avant d'embarquer dans le ferry. Ce n'était pas mauvais, mais pour la réputation de l'endroit, je m'attendais à mieux.
+
+![Retour au quai d'embarquement](/docs/assets/202309_newfoundland/20230903/return_from_bellisland.jpg)
+
+Je me suis promené sur le bateau pendant la traversée vers Portugal Cove. Quand ils ont annoncé qu'on pouvait retourner aux voitures, je n'ai pas trouvé comment me rendre à la Subaru, qui avait été élevée en porte-à-faux. Au moment du débarquement, je n'ai pu regagner ma voiture que lorsque toutes les voitures du premier niveau eurent débarqué. Quand j'ai finalement pu rejoindre la Subaru, le VUS qui est resté coincé derrière klaxonnait, probablement énervé d'être le dernier à quitter le bateau.
+
+### 16h15 NDT
+
+
+
 
 TODO
 
