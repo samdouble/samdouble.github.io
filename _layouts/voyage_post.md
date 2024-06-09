@@ -1,0 +1,15 @@
+---
+layout: post
+---
+
+{{ content | mardownify }}
+
+{% for voyage_post in site.voyages_posts %}
+  {% if voyage_post.voyage == page.voyage %}
+    <div>
+      <a href="{{ voyage_post.url }}">
+        {{ voyage_post.title }}
+      </a>
+    </div>
+  {% endif %}
+{% endfor %}
