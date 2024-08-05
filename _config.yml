@@ -32,9 +32,13 @@ collections:
     output: true
   projets_posts:
     output: true
+  restaurants:
+    output: true
+  restaurants_posts:
+    output: true
   trips:
     output: true
-  voyages_posts:
+  trips_posts:
     output: true
 
 # Exclude from processing.
