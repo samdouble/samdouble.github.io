@@ -12,3 +12,5 @@ You can find the source code for Minima at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+{% tf about.md %}
