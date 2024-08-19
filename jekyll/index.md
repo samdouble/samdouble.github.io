@@ -24,15 +24,3 @@ layout: home
 <a href="https://stackoverflow.com/users/12787394/samdouble">
   <img src="/docs/assets/icons/stackoverflow.webp" alt="GitHub" width="60"/>
 </a>
-
-<footer>
-    <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
-    {% for lang in site.languageNames %}
-    {% if lang[0] == site.lang %} {% continue %} {% endif %}
-    {% if page.namespace %}
-    <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
-    {% else %}
-    <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
-    {% endif %}
-    {% endfor %}
-</footer>
