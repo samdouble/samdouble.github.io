@@ -1,0 +1,23 @@
+{
+    "posts": [
+        {
+            "id": "2024-07-12-knuckles",
+            "category": "restaurants",
+            "date": "2024-07-12",
+            "title": "Knuckles",
+            "path": "restaurants/2024-07-12-knuckles.md"
+        }, {
+            "id": "2024-07-19-taverne-atlantic",
+            "category": "restaurants",
+            "date": "2024-07-19",
+            "title": "Taverne Atlantic",
+            "path": "restaurants/2024-07-19-taverne-atlantic.md"
+        }, {
+            "id": "2024-08-02-tiradito",
+            "category": "restaurants",
+            "date": "2024-08-02",
+            "title": "Tiradito",
+            "path": "restaurants/2024-08-02-tiradito.md"
+        }
+    ]
+}

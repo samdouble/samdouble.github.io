@@ -20,6 +20,10 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "es5",
+    "typeRoots": [
+      "node_modules/@types",
+      "./globals.d.ts"
+    ],
   },
   "include": [
     "src"
