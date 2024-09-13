@@ -24,3 +24,6 @@ layout: home
 <a href="https://stackoverflow.com/users/12787394/samdouble">
   <img src="/docs/assets/icons/stackoverflow.webp" alt="GitHub" width="60"/>
 </a>
+
+https://pypi.org/user/samdouble/
+https://www.npmjs.com/~samdouble
