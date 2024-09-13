@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import content from 'content/content.json';
+import content from 'content.json';
 
 function PostsPage() {
   const { category } = useParams();
