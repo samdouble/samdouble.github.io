@@ -2,7 +2,7 @@ import React from 'react';
 import { createHashRouter, RouterProvider } from 'react-router-dom';
 import TopMenu from 'components/TopMenu';
 import HomePage from 'pages/HomePage';
-import PostsPage from 'pages/PostsPage';
+import CategoryPage from 'pages/CategoryPage';
 import PostPage from 'pages/PostPage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
@@ -15,7 +15,7 @@ const router = createHashRouter(
       children : [
         { path: "/", element: <HomePage /> },
         { path: "/home", element: <HomePage /> },
-        { path: "/posts/:category", element: <PostsPage /> },
+        { path: "/category/:id", element: <CategoryPage /> },
         { path: "/post/:id", element: <PostPage /> },
       ],
     },
@@ -25,21 +25,6 @@ const router = createHashRouter(
 function App() {
   return (
     <div className="App">
-      {
-        /*
-          <HashRouter>
-            <div className="siteContent">
-              <TopMenu />
-              <Routes>
-                <Route path="/" element={<HomePage />} />
-                <Route path="/home" element={<HomePage />} />
-                <Route path="/posts/:category" element={<PostsPage />} />
-                <Route path="/post/:id" element={<PostPage />} />
-              </Routes>
-            </div>
-          </HashRouter>
-        */
-      }
       <TopMenu />
       <RouterProvider router={router} />
     </div>

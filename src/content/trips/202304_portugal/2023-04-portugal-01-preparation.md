@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Portugal
-time: Avril/Mai 2023
-title: Avant le voyage I
-voyage: Portugal2023
----
-
 ### L'avion
 J'ai acheté mes billets d'avion à la mi-septembre 2022, soit exactement 7 mois avant le début du voyage, après avoir vu une annonce de [YUL Deals](https://yuldeals.com) pour des vols à bas prix vers LIS et OPO en partance de YUL à l'été 2023. Ça va être mon premier voyage en Europe, et même si c'est encore loin, ça me semble irréel.
 
@@ -23,7 +15,7 @@ C'est à la mi-janvier que je commence à préparer plus sérieusement mon voyag
 - 5 mai, 18h45: Départ de LIS
 - 5 mai, 21h15: Arrivée à YUL
 
-![Itinéraire](/docs/assets/trips/202304_portugal/itinerary.png)
+![Itinéraire](/assets/trips/202304_portugal/itinerary.png)
 
 Je devrai prendre un avion entre Porto et Faro. Je pourrais le faire en train, mais ça prendrait une journée complète.
 

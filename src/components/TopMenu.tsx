@@ -3,18 +3,31 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import logo from 'logo.png';
 
 function TopMenu() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="/#/home">React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="/#/home">
+          <img
+            src={logo}
+            alt="samdouble"
+            style={{
+              borderRadius: '50%',
+              marginRight: 10,
+            }}
+            width={30}
+          />
+          samdouble
+        </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/#/">Home</Nav.Link>
-            <Nav.Link href="/#/posts/restaurants">Restaurants</Nav.Link>
-            <Nav.Link href="/#/posts/trips">Voyages</Nav.Link>
+            <Nav.Link href="/#/category/projects">Projets</Nav.Link>
+            <Nav.Link href="/#/category/restaurants">Restaurants</Nav.Link>
+            <Nav.Link href="/#/category/trips">Voyages</Nav.Link>
             <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">

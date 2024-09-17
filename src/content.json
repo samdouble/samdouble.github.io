@@ -1,23 +1,111 @@
 {
+    "categories": [
+        {
+            "id": "restaurants"
+        }, {
+            "id": "trips"
+        }, {
+            "id": "2021-07-vancouver",
+            "date": "2021-07-09",
+            "mainImage": "/assets/trips/202107_vancouver/vancouver_flag.svg",
+            "parent": "trips",
+            "title": "Vancouver 2021"
+        }, {
+            "id": "2022-03-neworleans",
+            "date": "2022-03-08",
+            "mainImage": "/assets/trips/202203_neworleans/neworleans_flag.png",
+            "parent": "trips",
+            "title": "New Orleans 2022"
+        }, {
+            "id": "2022-08-alberta",
+            "date": "2022-08-26",
+            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "parent": "trips",
+            "title": "Alberta 2022"
+        }, {
+            "id": "2023-04-portugal",
+            "date": "2023-04-21",
+            "mainImage": "/assets/trips/202304_portugal/portugal_flag.png",
+            "parent": "trips",
+            "title": "Portugal 2023"
+        }, {
+            "id": "2023-09-newfoundland",
+            "date": "2023-09-02",
+            "mainImage": "/assets/trips/202304_newfoundland/newfoundland_flag.png",
+            "parent": "trips",
+            "title": "Newfoundland 2023"
+        }, {
+            "id": "2024-04-europe",
+            "date": "2024-04-11",
+            "mainImage": "/assets/trips/202404_europe/europe_flag.png",
+            "parent": "trips",
+            "title": "Europe 2024"
+        }
+    ],
     "posts": [
         {
+            "id": "2021-07-vancouver-01",
+            "category": "2021-07-vancouver",
+            "date": "2021-01-01",
+            "mainImage": "/assets/trips/202107_vancouver/vancouver_flag.svg",
+            "path": "trips/202107_vancouver/2021-07-vancouver.md",
+            "title": "Avant le voyage I"
+        }, {
+            "id": "2022-03-neworleans-01",
+            "category": "2022-03-neworleans",
+            "date": "2022-01-01",
+            "mainImage": "/assets/trips/202203_neworleans/neworleans_flag.png",
+            "path": "trips/202203_neworleans/2022-03-neworleans.md",
+            "title": "Avant le voyage I"
+        }, {
+            "id": "2022-08-alberta-01",
+            "category": "2022-08-alberta",
+            "date": "2022-05-01",
+            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "path": "trips/202208_alberta/2022-08-alberta-01-preparation.md",
+            "title": "Avant le voyage I"
+        }, {
+            "id": "2022-08-alberta-02",
+            "category": "2022-08-alberta",
+            "date": "2022-08-26",
+            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "path": "trips/202208_alberta/2022-08-alberta-02-day01.md",
+            "title": "Jour 1"
+        }, {
+            "id": "2022-08-alberta-03",
+            "category": "2022-08-alberta",
+            "date": "2022-08-27",
+            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "path": "trips/202208_alberta/2022-08-alberta-03-day02.md",
+            "title": "Jour 2"
+        }, {
+            "id": "2023-04-portugal-01",
+            "category": "2023-04-portugal",
+            "date": "2023-04-21",
+            "mainImage": "/assets/trips/202304_portugal/portugal_flag.png",
+            "path": "trips/202304_portugal/2023-04-portugal-01-preparation.md",
+            "title": "Avant le voyage I"
+        }, {
             "id": "2024-07-12-knuckles",
             "category": "restaurants",
             "date": "2024-07-12",
-            "title": "Knuckles",
-            "path": "restaurants/2024-07-12-knuckles.md"
+            "mainImage": "/assets/restaurants/20240712_knuckles/restaurant.png",
+            "path": "restaurants/2024-07-12-knuckles.md",
+            "title": "Knuckles"
         }, {
             "id": "2024-07-19-taverne-atlantic",
             "category": "restaurants",
             "date": "2024-07-19",
-            "title": "Taverne Atlantic",
-            "path": "restaurants/2024-07-19-taverne-atlantic.md"
+            "mainImage": "/assets/restaurants/20240719_taverne-atlantic/restaurant.jpg",
+            "path": "restaurants/2024-07-19-taverne-atlantic.md",
+            "title": "Taverne Atlantic"
         }, {
             "id": "2024-08-02-tiradito",
             "category": "restaurants",
             "date": "2024-08-02",
-            "title": "Tiradito",
-            "path": "restaurants/2024-08-02-tiradito.md"
+            "mainImage": "/assets/restaurants/20240802_tiradito/restaurant.jpg",
+            "path": "restaurants/2024-08-02-tiradito.md",
+            "title": "Tiradito"
         }
     ]
 }

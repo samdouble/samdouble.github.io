@@ -3,7 +3,6 @@ import { useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-// import Markdown from 'react-markdown';
 import Markdown from 'markdown-to-jsx';
 import content from 'content.json';
 import './styles.css';
@@ -14,13 +13,6 @@ function PostPage() {
   const post = content.posts.find(p => p.id === id);
 
   useEffect(() => {
-    const fetchPost = async () => {
-      const file = await import(`../content/${post?.path}`);
-      const response = await fetch(file.default);
-      const text = await response.text();
-      console.log(response, text);
-    }
-    fetchPost();
     const termsFrPath = require(`../content/${post?.path}`);
     fetch(termsFrPath)
       .then(response => response.text())
