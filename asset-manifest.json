@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0914960.css",
-    "main.js": "/static/js/main.40c1136b.js",
+    "main.js": "/static/js/main.179ce41d.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/2024-04-europe-08-day03.md": "/static/media/2024-04-europe-08-day03.18f74c6f739ef1a41a9c.md",
     "static/media/2024-04-europe-07-day02.md": "/static/media/2024-04-europe-07-day02.9c0b4e7fc3138b0ba57e.md",
@@ -23,20 +23,20 @@
     "static/media/2024-04-europe-21-day16.md": "/static/media/2024-04-europe-21-day16.a01708f6c0bc1b81cdf1.md",
     "static/media/2024-04-europe-01-preparation.md": "/static/media/2024-04-europe-01-preparation.5b702b707edb655e88e1.md",
     "static/media/2024-04-europe-20-day15.md": "/static/media/2024-04-europe-20-day15.8e094e91293b68c72817.md",
-    "static/media/2023-09-newfoundland-05-day03.md": "/static/media/2023-09-newfoundland-05-day03.3fab3900f8be70e435cb.md",
+    "static/media/2023-09-newfoundland-05-day03.md": "/static/media/2023-09-newfoundland-05-day03.0485b77349ac2c589232.md",
     "static/media/2024-04-europe-10-day05.md": "/static/media/2024-04-europe-10-day05.899a7065b73866d4a61e.md",
     "static/media/2023-04-portugal-01-preparation.md": "/static/media/2023-04-portugal-01-preparation.2be54127d789eb044e1c.md",
     "static/media/2024-04-europe-18-day13.md": "/static/media/2024-04-europe-18-day13.b09c61194b3faeb612f3.md",
     "static/media/2024-04-europe-24-day19.md": "/static/media/2024-04-europe-24-day19.b9c0247e7634aa5a1bbf.md",
-    "static/media/2023-09-newfoundland-10-day08.md": "/static/media/2023-09-newfoundland-10-day08.72583a04442ed4209a7c.md",
     "static/media/2022-08-alberta-02-day01.md": "/static/media/2022-08-alberta-02-day01.7e099cdfc582e3ee4615.md",
+    "static/media/2023-09-newfoundland-10-day08.md": "/static/media/2023-09-newfoundland-10-day08.fcd4e4d027e0d3157a01.md",
     "static/media/2024-04-europe-11-day06.md": "/static/media/2024-04-europe-11-day06.c2891e175fb8e6a7ba6d.md",
     "static/media/2024-04-europe-25-day20.md": "/static/media/2024-04-europe-25-day20.d77254820971045c1d02.md",
     "static/media/2024-04-europe-23-day18.md": "/static/media/2024-04-europe-23-day18.c54f52c6cab366fe5318.md",
-    "static/media/2023-09-newfoundland-09-day07.md": "/static/media/2023-09-newfoundland-09-day07.df8878fe06d68bbd1647.md",
     "static/media/2024-04-europe-17-day12.md": "/static/media/2024-04-europe-17-day12.aed28b06dd0375e4aae1.md",
+    "static/media/2023-09-newfoundland-09-day07.md": "/static/media/2023-09-newfoundland-09-day07.daf1c5c59e70400e9699.md",
     "static/media/2024-04-europe-06-day01.md": "/static/media/2024-04-europe-06-day01.deac2d214de5fc65ce46.md",
-    "static/media/2023-09-newfoundland-08-day06.md": "/static/media/2023-09-newfoundland-08-day06.b3af9b9ddaff3e0cd34b.md",
+    "static/media/2023-09-newfoundland-08-day06.md": "/static/media/2023-09-newfoundland-08-day06.48176a31ac56b6642e88.md",
     "static/media/2023-09-newfoundland-13-conclusion.md": "/static/media/2023-09-newfoundland-13-conclusion.750d0dce781f54818a47.md",
     "index.html": "/index.html",
     "static/media/2024-04-europe-05-checklist.md": "/static/media/2024-04-europe-05-checklist.a8983b668b3e7a8e7236.md",
@@ -47,18 +47,18 @@
     "static/media/2024-07-12-knuckles.md": "/static/media/2024-07-12-knuckles.1e91661677da204f55f4.md",
     "static/media/2024-07-19-taverne-atlantic.md": "/static/media/2024-07-19-taverne-atlantic.7e9b19e54674bdd0881d.md",
     "static/media/2024-04-europe-26-conclusion.md": "/static/media/2024-04-europe-26-conclusion.25b3728cbb05e8933589.md",
-    "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.ecc277b3753624dc4de0.md",
-    "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.0000e2e80980ef87bbe4.md",
-    "static/media/2023-09-newfoundland-06-day04.md": "/static/media/2023-09-newfoundland-06-day04.78b7a2f771d0ae6a414f.md",
     "static/media/2022-08-alberta-01-preparation.md": "/static/media/2022-08-alberta-01-preparation.993cf99496645931553d.md",
     "static/media/2021-07-vancouver.md": "/static/media/2021-07-vancouver.31d6cfe0d16ae931b73c.md",
     "static/media/2022-03-neworleans.md": "/static/media/2022-03-neworleans.31d6cfe0d16ae931b73c.md",
+    "static/media/2023-09-newfoundland-06-day04.md": "/static/media/2023-09-newfoundland-06-day04.31d6cfe0d16ae931b73c.md",
+    "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
+    "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
     "main.b0914960.css.map": "/static/css/main.b0914960.css.map",
-    "main.40c1136b.js.map": "/static/js/main.40c1136b.js.map",
+    "main.179ce41d.js.map": "/static/js/main.179ce41d.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b0914960.css",
-    "static/js/main.40c1136b.js"
+    "static/js/main.179ce41d.js"
   ]
 }
