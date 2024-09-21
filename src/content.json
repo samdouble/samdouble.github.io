@@ -86,6 +86,34 @@
             "path": "trips/202304_portugal/2023-04-portugal-01-preparation.md",
             "title": "Avant le voyage I"
         }, {
+            "id": "2023-09-newfoundland-01",
+            "category": "2023-09-newfoundland",
+            "date": "2023-06-28",
+            "mainImage": "/assets/trips/202309_newfoundland/newfoundland_flag.png",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-01-preparation.md",
+            "title": "Avant le voyage I - Avion et hébergement"
+        }, {
+            "id": "2023-09-newfoundland-02",
+            "category": "2023-09-newfoundland",
+            "date": "2023-07-29",
+            "mainImage": "/assets/trips/202309_newfoundland/newfoundland_flag.png",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-02-preparation.md",
+            "title": "Avant le voyage II - Itinéraire"
+        }, {
+            "id": "2023-09-newfoundland-03",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-02",
+            "mainImage": "/assets/trips/202309_newfoundland/20230902/torbaybight.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-03-day01.md",
+            "title": "Samedi, 2 septembre - Arrivée à Torbay"
+        }, {
+            "id": "2023-09-newfoundland-04",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-03",
+            "mainImage": "/assets/trips/202309_newfoundland/20230903/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-04-day02.md",
+            "title": "Dimanche, 3 septembre - Bell Island et Quidi Vidi"
+        }, {
             "id": "2024-07-12-knuckles",
             "category": "restaurants",
             "date": "2024-07-12",

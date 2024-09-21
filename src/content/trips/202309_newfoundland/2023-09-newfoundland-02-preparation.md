@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Avant le voyage II
-voyage: Newfoundland2023
----
-
 ### Fin juillet 2023
 Je réalise que mon voyage est dans à peine un mois, mais qu'il me reste encore beaucoup à planifier.
 
