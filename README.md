@@ -1,36 +1,45 @@
-# Getting Started with Create React App
+# samdouble.github.io
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a small application to export a comic book in PDF format from an XML configuration and a set of images.
 
-## Available Scripts
+## Technologies & Languages
 
-In the project directory, you can run:
+- C# 11
+- .NET 7
+- iText 8
+- GitHub Actions
+- GitHub Releases
 
-### `npm start`
+## Development
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Installing the dependencies
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Run the following command:
 
-### `npm test`
+```
+npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Running the tests
 
-### `npm run build`
+Run the following command:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm test
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Starting the app locally
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Run the following command:
 
-## Learn More
+```
+npm start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The webpage should be available on [http://localhost:3000](http://localhost:3000) and refresh automatically when files are changed and saved.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Production
+
+1. Change the version number in the *csproj* file.
+1. Push your changes to any branch.
+2. dotnet-releaser on CircleCI will create a new release on GitHub.

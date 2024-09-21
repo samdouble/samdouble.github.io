@@ -9,6 +9,7 @@ import content from 'content.json';
 
 function CategoryPage() {
   const { id } = useParams();
+  const category = content.categories.find(cat => cat.id === id);
 
   const subCategories = content.categories
     .filter(cat => cat.parent === id);
@@ -22,6 +23,7 @@ function CategoryPage() {
     >
       <Row>
         <Col lg={12}>
+          <h2>{category?.title}</h2>
           <CategoriesList categories={subCategories} />
           <PostsList posts={latestPosts} />
         </Col>

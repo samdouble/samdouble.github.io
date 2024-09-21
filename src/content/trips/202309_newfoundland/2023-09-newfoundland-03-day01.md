@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Samedi, 2 septembre - Arrivée à Torbay
-voyage: Newfoundland2023
----
-
 ### 16h45 NDT
 Le vol était très court, d'une durée d'un peu moins de deux heures. Comme prévu, à ma sortie de l'aéroport, j'ai pris un taxi pour aller récupérer ma Subaru Impreza dans le nord de St.John's. Je pensais payer peu pour le taxi, étant donné que l'aéroport est aussi dans le nord, mais le chauffeur m'a dit que de l'aéroport, c'est un taux fixe de 35$. J'ai appris une semaine plus tard en prenant un autre taxi que c'était faux, et que le taux de 35$ ne s'appliquait que lorsque la destination de la course est un hôtel du centre-ville.
 
