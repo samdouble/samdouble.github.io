@@ -1,9 +1,20 @@
 {
     "categories": [
         {
-            "id": "restaurants"
+            "id": "book-reviews",
+            "title": "Book reviews"
         }, {
-            "id": "trips"
+            "id": "movie-reviews",
+            "title": "Movie reviews"
+        }, {
+            "id": "projects",
+            "title": "Projects"
+        }, {
+            "id": "restaurant-reviews",
+            "title": "Restaurant reviews"
+        }, {
+            "id": "trips",
+            "title": "Trips"
         }, {
             "id": "2021-07-vancouver",
             "date": "2021-07-09",
@@ -113,6 +124,69 @@
             "mainImage": "/assets/trips/202309_newfoundland/20230903/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-04-day02.md",
             "title": "Dimanche, 3 septembre - Bell Island et Quidi Vidi"
+        }, {
+            "id": "2023-09-newfoundland-05",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-04",
+            "mainImage": "/assets/trips/202309_newfoundland/20230904/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-05-day03.md",
+            "title": "Lundi, 4 septembre - Brigus et la Bay de Verde Peninsula"
+        }, {
+            "id": "2023-09-newfoundland-06",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-05",
+            "mainImage": "/assets/trips/202309_newfoundland/20230905/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-06-day04.md",
+            "title": "Mardi, 5 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-07",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-06",
+            "mainImage": "/assets/trips/202309_newfoundland/20230906/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-07-day05.md",
+            "title": "Mercredi, 6 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-08",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-07",
+            "mainImage": "/assets/trips/202309_newfoundland/20230907/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-08-day06.md",
+            "title": "Jeudi, 7 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-09",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-08",
+            "mainImage": "/assets/trips/202309_newfoundland/20230908/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-09-day07.md",
+            "title": "Vendredi, 8 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-10",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-09",
+            "mainImage": "/assets/trips/202309_newfoundland/20230909/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-10-day08.md",
+            "title": "Samedi, 9 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-11",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-10",
+            "mainImage": "/assets/trips/202309_newfoundland/20230910/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-11-day09.md",
+            "title": "Dimanche, 10 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-12",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-11",
+            "mainImage": "/assets/trips/202309_newfoundland/20230911/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-12-day10.md",
+            "title": "Lundi, 11 septembre - Retour à Montréal"
+        }, {
+            "id": "2023-09-newfoundland-13",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-14",
+            "mainImage": "/assets/trips/202309_newfoundland/20230914/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-13-conclusion.md",
+            "title": "Conclusion"
         }, {
             "id": "2024-07-12-knuckles",
             "category": "restaurants",

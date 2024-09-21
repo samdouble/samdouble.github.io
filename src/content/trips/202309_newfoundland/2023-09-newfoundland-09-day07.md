@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Vendredi, 8 septembre - 
-voyage: Newfoundland2023
----
-
 Mon mal de gorge a disparu, mais le mal de tête d'hier soir semble avoir un peu empiré. Je suis parti à 9h15 de Harold's Old Place pour me laisser le temps d'aller voir le Powles Head Lighthouse et d'acheter de l'aspirine avant ma visite guidée de Mistaken Point à 10h30.
 
 Le chemin de quelques kilomètres dans le brouillard vers le Powles Head Lighthouse était raboteux, avec de gros trous d'eau que je ne pouvais pas vraiment éviter à cause de l'étroitesse du chemin. Au retour, j'avais un peu la nausée et je ne me sentais pas vraiment en forme pour faire la marche de 5 km nécessaire pour visiter Mistaken Point.

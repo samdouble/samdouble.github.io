@@ -33,7 +33,9 @@ function TopMenu() {
           <Nav.Link href="/#/category/projects">Projets</Nav.Link>
           <Nav.Link href="/#/category/trips">Voyages</Nav.Link>
           <NavDropdown title="Miscellaneous">
-            <NavDropdown.Item href="/#/category/restaurants">Restaurants</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/book-reviews">Book Reviews</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/movie-reviews">Movie Reviews</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/restaurant-reviews">Restaurant Reviews</NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Navbar.Collapse>
