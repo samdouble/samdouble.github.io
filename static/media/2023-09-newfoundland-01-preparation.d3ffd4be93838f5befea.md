@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Avant le voyage I - Avion et hébergement
-voyage: Newfoundland2023
----
-
 ### Mi-mars 2023
 J'ai acheté mes billets d'avion après avoir reçu un courriel des vols d'Alexi annonçant un rabais de 78% sur les vols pour Terre-Neuve pour l'été 2023. Lynx Air, une nouvelle compagnie aérienne de vols à bas prix, s'est installée à Montréal et offrait des vols pas chers pour plusieurs destinations au Canada dans l'année. J'ai pris quelques heures pour vérifier mes disponibilités et, moins de 24 heures après avoir reçu le courriel, j'ai pu réserver mes billets pour un départ au mois de septembre. Entretemps, les prix avaient un peu augmenté, mais j'ai payé mon aller-retour 309$ (avec un bagage en soute), ce qui représentait quand même un rabais de plus ou moins 50% par rapport au prix régulier.
 

@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Dimanche, 3 septembre - Bell Island et Quidi Vidi
-voyage: Newfoundland2023
----
-
 ### 6h00 NDT
 Ce matin, je me suis réveillé de bonne heure pour pouvoir prendre le ferry vers [Bell Island](https://en.wikipedia.org/wiki/Bell_Island_(Newfoundland_and_Labrador)). Plus j'y vais tôt, moins il y aura d'autres voitures...en tout cas, j'espère. Je pars de Torbay à 6h30 pour me rendre à 7km de là, au port de Portugal Cove, où je prendrai à 7h25 [le premier bateau](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/) de la journée en direction de Bell Island.
 
