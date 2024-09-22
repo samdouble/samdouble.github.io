@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Malte / Italie / France
-time: Avril 2024
-title: Avant le voyage II - Activités
-voyage: Europe2024
----
-
 ### Mi-mars 2024
 #### En Italie
 Mon voyage est dans à peine un mois. Je réserve sur [GetYourGuide](https://www.getyourguide.com/) les activités qui risquent d'afficher complet si j'attends trop:

@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Malte / Italie / France
-time: Avril 2024
-title: Avant le voyage III - Itinéraire et restaurants
-voyage: Europe2024
----
-
 ### L'itinéraire
 
 #### Jeudi 11 avril
