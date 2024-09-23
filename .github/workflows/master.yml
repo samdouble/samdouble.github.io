@@ -26,6 +26,10 @@ jobs:
       - name: Build
         run: |
           npm run build
-      - name: Deploy
+      - name: Deploy with gh-pages
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
-          npm run deploy
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/samdouble/samdouble.github.io.git
+          npm run deploy -- -u "github-actions-bot <support+actions@github.com>"
+

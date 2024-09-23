@@ -25,6 +25,7 @@ function PostPage() {
     >
       <Row>
         <Col lg={12}>
+          <h2>{post?.title}</h2>
           <Markdown>{text}</Markdown>
         </Col>
       </Row>
