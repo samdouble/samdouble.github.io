@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Lundi, 4 septembre - Brigus et la Bay de Verde Peninsula
-voyage: Newfoundland2023
----
-
 ### 7h00 NDT
 Je me suis réveillé à 7h. J'ai pris une heure dans ma chambre pour préparer ma journée. Aujourd'hui sera le premier vrai long trajet avec la voiture puisque ce soir, je devrai être à Clarenville, à 200km de Torbay. En réalité, je vais conduire au moins 100km de plus, puisque j'ai prévu faire un détour dans la péninsule de Bay de Verde pour visiter quelques petits villages, notamment Brigus, Cupids, Harbour Grace et Heart's Content.
 

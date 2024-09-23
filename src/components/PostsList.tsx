@@ -34,12 +34,12 @@ function PostsList({
                   <Link
                     style={{
                       color: 'black',
-                      fontSize: 24,
+                      fontSize: 16,
                       textDecoration: 'none',
                     }}
                     to={`/post/${post.id}`}
                   >
-                    {post.title}
+                    <h4>{post.title}</h4>
                   </Link>
                   <div
                     style={{

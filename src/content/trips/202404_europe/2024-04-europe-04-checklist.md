@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Malte / Italie / France
-time: Avril 2024
-title: Avant le voyage IV - Checklist
-voyage: Europe2024
----
-
 ### Checklist
 #### À apporter
 - [ ] Passeport

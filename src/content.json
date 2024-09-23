@@ -1,9 +1,20 @@
 {
     "categories": [
         {
-            "id": "restaurants"
+            "id": "book-reviews",
+            "title": "Book reviews"
         }, {
-            "id": "trips"
+            "id": "movie-reviews",
+            "title": "Movie reviews"
+        }, {
+            "id": "projects",
+            "title": "Projects"
+        }, {
+            "id": "restaurant-reviews",
+            "title": "Restaurant reviews"
+        }, {
+            "id": "trips",
+            "title": "Trips"
         }, {
             "id": "2021-07-vancouver",
             "date": "2021-07-09",
@@ -114,22 +125,141 @@
             "path": "trips/202309_newfoundland/2023-09-newfoundland-04-day02.md",
             "title": "Dimanche, 3 septembre - Bell Island et Quidi Vidi"
         }, {
+            "id": "2023-09-newfoundland-05",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-04",
+            "mainImage": "/assets/trips/202309_newfoundland/20230904/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-05-day03.md",
+            "title": "Lundi, 4 septembre - Brigus et la Bay de Verde Peninsula"
+        }, {
+            "id": "2023-09-newfoundland-06",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-05",
+            "mainImage": "/assets/trips/202309_newfoundland/20230905/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-06-day04.md",
+            "title": "Mardi, 5 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-07",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-06",
+            "mainImage": "/assets/trips/202309_newfoundland/20230906/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-07-day05.md",
+            "title": "Mercredi, 6 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-08",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-07",
+            "mainImage": "/assets/trips/202309_newfoundland/20230907/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-08-day06.md",
+            "title": "Jeudi, 7 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-09",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-08",
+            "mainImage": "/assets/trips/202309_newfoundland/20230908/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-09-day07.md",
+            "title": "Vendredi, 8 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-10",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-09",
+            "mainImage": "/assets/trips/202309_newfoundland/20230909/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-10-day08.md",
+            "title": "Samedi, 9 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-11",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-10",
+            "mainImage": "/assets/trips/202309_newfoundland/20230910/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-11-day09.md",
+            "title": "Dimanche, 10 septembre - "
+        }, {
+            "id": "2023-09-newfoundland-12",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-11",
+            "mainImage": "/assets/trips/202309_newfoundland/20230911/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-12-day10.md",
+            "title": "Lundi, 11 septembre - Retour à Montréal"
+        }, {
+            "id": "2023-09-newfoundland-13",
+            "category": "2023-09-newfoundland",
+            "date": "2023-09-14",
+            "mainImage": "/assets/trips/202309_newfoundland/20230914/portugalcove.jpg",
+            "path": "trips/202309_newfoundland/2023-09-newfoundland-13-conclusion.md",
+            "title": "Conclusion"
+        }, {
+            "id": "2024-04-europe-01",
+            "category": "2024-04-europe",
+            "date": "2024-04-01",
+            "mainImage": "/assets/trips/202404_europe/20240401/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-01-preparation.md",
+            "title": "Avant le voyage I - Avion et hébergement"
+        }, {
+            "id": "2024-04-europe-02",
+            "category": "2024-04-europe",
+            "date": "2024-04-02",
+            "mainImage": "/assets/trips/202404_europe/20240402/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-02-preparation.md",
+            "title": "Avant le voyage II - Activités"
+        }, {
+            "id": "2024-04-europe-03",
+            "category": "2024-04-europe",
+            "date": "2024-04-03",
+            "mainImage": "/assets/trips/202404_europe/20240403/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-03-restaurants.md",
+            "title": "Avant le voyage III - Itinéraire et restaurants"
+        }, {
+            "id": "2024-04-europe-04",
+            "category": "2024-04-europe",
+            "date": "2024-04-04",
+            "mainImage": "/assets/trips/202404_europe/20240404/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-04-checklist.md",
+            "title": "Avant le voyage IV - Checklist"
+        }, {
+            "id": "2024-04-europe-05",
+            "category": "2024-04-europe",
+            "date": "2024-04-11",
+            "mainImage": "/assets/trips/202404_europe/20240411/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-05-day01.md",
+            "title": "Jeudi, 11 avril - Départ de Montréal"
+        }, {
+            "id": "2024-04-europe-06",
+            "category": "2024-04-europe",
+            "date": "2024-04-12",
+            "mainImage": "/assets/trips/202404_europe/20240412/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-06-day02.md",
+            "title": "Vendredi, 12 avril - Arrivée à La Valette"
+        }, {
+            "id": "2024-04-europe-07",
+            "category": "2024-04-europe",
+            "date": "2024-04-13",
+            "mainImage": "/assets/trips/202404_europe/20240413/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-07-day03.md",
+            "title": "Samedi, 13 avril - La Valette, Marsaskala et Marsaxlokk"
+        }, {
+            "id": "2024-04-europe-08",
+            "category": "2024-04-europe",
+            "date": "2024-04-14",
+            "mainImage": "/assets/trips/202404_europe/20240414/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-08-day04.md",
+            "title": "Dimanche, 14 avril - Excursion en bateau à Gozo et Comino"
+        }, {
             "id": "2024-07-12-knuckles",
-            "category": "restaurants",
+            "category": "restaurant-reviews",
             "date": "2024-07-12",
             "mainImage": "/assets/restaurants/20240712_knuckles/restaurant.png",
             "path": "restaurants/2024-07-12-knuckles.md",
             "title": "Knuckles"
         }, {
             "id": "2024-07-19-taverne-atlantic",
-            "category": "restaurants",
+            "category": "restaurant-reviews",
             "date": "2024-07-19",
             "mainImage": "/assets/restaurants/20240719_taverne-atlantic/restaurant.jpg",
             "path": "restaurants/2024-07-19-taverne-atlantic.md",
             "title": "Taverne Atlantic"
         }, {
             "id": "2024-08-02-tiradito",
-            "category": "restaurants",
+            "category": "restaurant-reviews",
             "date": "2024-08-02",
             "mainImage": "/assets/restaurants/20240802_tiradito/restaurant.jpg",
             "path": "restaurants/2024-08-02-tiradito.md",

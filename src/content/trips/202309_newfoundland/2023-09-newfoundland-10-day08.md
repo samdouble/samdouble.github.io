@@ -1,11 +1,3 @@
----
-layout: voyage_post
-destination: Terre-Neuve
-time: Septembre 2023
-title: Samedi, 9 septembre - 
-voyage: Newfoundland2023
----
-
 J'en suis maintenant à la phase mouchage de mon rhume. Au moins, je n'ai plus mal à la gorge, ni mal à la tête. À midi, j'ai mon pique-nique au phare de Ferryland que j'ai réservé avec Lighthouse Picnics.
 
 À 9h15, je suis allé marcher sur la East Coast Trail, qui débutait de l'autre côté de la rue. Je commençais à m'enfoncer dans la forêt et je n'étais qu'à environ un kilomètre et demi du parc provincial de La Manche quand j'ai rebroussé chemin. J'avais dépassé depuis peu un panneau disant qu'à partir de ce point, j'étais entouré de nature à l'état sauvage ("unsupervised wilderness") et j'aurais trouvé dommage de me faire manger par un ours avant d'avoir pu déguster le pique-nique que j'avais déjà payé.
