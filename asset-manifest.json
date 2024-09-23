@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0914960.css",
-    "main.js": "/static/js/main.f459126e.js",
+    "main.css": "/static/css/main.6d7bdaf5.css",
+    "main.js": "/static/js/main.8d9f3378.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/2024-04-europe-07-day03.md": "/static/media/2024-04-europe-07-day03.e650ec18d19bb15f22c1.md",
     "static/media/2024-04-europe-06-day02.md": "/static/media/2024-04-europe-06-day02.fb2e3cbe1698ea7a3865.md",
@@ -11,7 +11,7 @@
     "static/media/2023-09-newfoundland-04-day02.md": "/static/media/2023-09-newfoundland-04-day02.3595ef636aadb1d9a84e.md",
     "static/media/2024-04-europe-13-day08.md": "/static/media/2024-04-europe-13-day08.c1c0fbd74c323d2ee0e6.md",
     "static/media/2024-04-europe-22-day17.md": "/static/media/2024-04-europe-22-day17.3102f5c86bd862391544.md",
-    "static/media/2024-04-europe-08-day04.md": "/static/media/2024-04-europe-08-day04.6562dce25dbb369f8456.md",
+    "static/media/2024-04-europe-08-day04.md": "/static/media/2024-04-europe-08-day04.8fe190d90202c3c7a781.md",
     "static/media/2024-04-europe-02-preparation.md": "/static/media/2024-04-europe-02-preparation.5816f98fd9709c04b5a4.md",
     "static/media/2024-04-europe-16-day11.md": "/static/media/2024-04-europe-16-day11.ef03b2cd48e29fa76d5e.md",
     "static/media/2023-09-newfoundland-01-preparation.md": "/static/media/2023-09-newfoundland-01-preparation.d3ffd4be93838f5befea.md",
@@ -53,12 +53,12 @@
     "static/media/2023-09-newfoundland-06-day04.md": "/static/media/2023-09-newfoundland-06-day04.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
-    "main.b0914960.css.map": "/static/css/main.b0914960.css.map",
-    "main.f459126e.js.map": "/static/js/main.f459126e.js.map",
+    "main.6d7bdaf5.css.map": "/static/css/main.6d7bdaf5.css.map",
+    "main.8d9f3378.js.map": "/static/js/main.8d9f3378.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0914960.css",
-    "static/js/main.f459126e.js"
+    "static/css/main.6d7bdaf5.css",
+    "static/js/main.8d9f3378.js"
   ]
 }
