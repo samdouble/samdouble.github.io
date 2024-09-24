@@ -244,6 +244,125 @@
             "path": "trips/202404_europe/2024-04-europe-08-day04.md",
             "title": "Dimanche, 14 avril - Excursion en bateau à Gozo et Comino"
         }, {
+            "id": "2024-04-europe-09",
+            "category": "2024-04-europe",
+            "date": "2024-04-15",
+            "mainImage": "/assets/trips/202404_europe/20240415/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-09-day05.md",
+            "title": "Lundi, 15 avril - La Valette, Sliema, Floriana et arrivée à Catania"
+        }, {
+            "id": "2024-04-europe-10",
+            "category": "2024-04-europe",
+            "date": "2024-04-16",
+            "mainImage": "/assets/trips/202404_europe/20240416/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-10-day06.md",
+            "title": "Mardi, 16 avril - Catania et arrivée à Palermo"
+        }, {
+            "id": "2024-04-europe-11",
+            "category": "2024-04-europe",
+            "date": "2024-04-17",
+            "mainImage": "/assets/trips/202404_europe/20240417/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-11-day07.md",
+            "title": "Mercredi, 17 avril - Palermo"
+        }, {
+            "id": "2024-04-europe-12",
+            "category": "2024-04-europe",
+            "date": "2024-04-18",
+            "mainImage": "/assets/trips/202404_europe/20240418/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-12-day08.md",
+            "title": "Jeudi, 18 avril - Arrivée à Naples"
+        }, {
+            "id": "2024-04-europe-13",
+            "category": "2024-04-europe",
+            "date": "2024-04-19",
+            "mainImage": "/assets/trips/202404_europe/20240419/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-13-day09.md",
+            "title": "Vendredi, 19 avril - Naples"
+        }, {
+            "id": "2024-04-europe-14",
+            "category": "2024-04-europe",
+            "date": "2024-04-20",
+            "mainImage": "/assets/trips/202404_europe/20240420/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-14-day10.md",
+            "title": "Samedi, 20 avril - Pompéi et le Mont Vésuve"
+        }, {
+            "id": "2024-04-europe-15",
+            "category": "2024-04-europe",
+            "date": "2024-04-21",
+            "mainImage": "/assets/trips/202404_europe/20240421/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-15-day11.md",
+            "title": "Dimanche, 21 avril - La côte amalfitaine et arrivée à Rome"
+        }, {
+            "id": "2024-04-europe-16",
+            "category": "2024-04-europe",
+            "date": "2024-04-22",
+            "mainImage": "/assets/trips/202404_europe/20240422/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-16-day12.md",
+            "title": "Lundi, 22 avril - Le Panthéon, le monument à Vittorio Emanuele II et Villa Borghese"
+        }, {
+            "id": "2024-04-europe-17",
+            "category": "2024-04-europe",
+            "date": "2024-04-23",
+            "mainImage": "/assets/trips/202404_europe/20240423/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-17-day13.md",
+            "title": "Mardi, 23 avril - Le Vatican"
+        }, {
+            "id": "2024-04-europe-18",
+            "category": "2024-04-europe",
+            "date": "2024-04-24",
+            "mainImage": "/assets/trips/202404_europe/20240424/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-18-day14.md",
+            "title": "Mercredi, 24 avril - Le Colisée, le Forum Romain et le Circus Maximus"
+        }, {
+            "id": "2024-04-europe-19",
+            "category": "2024-04-europe",
+            "date": "2024-04-25",
+            "mainImage": "/assets/trips/202404_europe/20240425/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-19-day15.md",
+            "title": "Jeudi, 25 avril - Arrivée à Paris"
+        }, {
+            "id": "2024-04-europe-20",
+            "category": "2024-04-europe",
+            "date": "2024-04-26",
+            "mainImage": "/assets/trips/202404_europe/20240426/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-20-day16.md",
+            "title": "Vendredi, 26 avril - Le Trocadéro, le Petit Palais, l'Opéra Garnier et le Jardin des Tuileries"
+        }, {
+            "id": "2024-04-europe-21",
+            "category": "2024-04-europe",
+            "date": "2024-04-27",
+            "mainImage": "/assets/trips/202404_europe/20240427/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-21-day17.md",
+            "title": "Samedi, 27 avril - La Tour Eiffel et l'Hôtel des Invalides"
+        }, {
+            "id": "2024-04-europe-22",
+            "category": "2024-04-europe",
+            "date": "2024-04-28",
+            "mainImage": "/assets/trips/202404_europe/20240428/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-22-day18.md",
+            "title": "Dimanche, 28 avril - L'Arc de Triomphe, le Marais et les Jardins du Luxembourg"
+        }, {
+            "id": "2024-04-europe-23",
+            "category": "2024-04-europe",
+            "date": "2024-04-29",
+            "mainImage": "/assets/trips/202404_europe/20240429/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-23-day19.md",
+            "title": "Lundi, 29 avril - Montmartre et la Basilique du Sacré-Cœur"
+        }, {
+            "id": "2024-04-europe-24",
+            "category": "2024-04-europe",
+            "date": "2024-04-30",
+            "mainImage": "/assets/trips/202404_europe/20240430/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-24-day20.md",
+            "title": "Mardi, 30 avril - Retour à Montréal"
+        }, {
+            "id": "2024-04-europe-25",
+            "category": "2024-04-europe",
+            "date": "2024-05-03",
+            "mainImage": "/assets/trips/202404_europe/20240503/portugalcove.jpg",
+            "path": "trips/202404_europe/2024-04-europe-25-conclusion.md",
+            "title": "Conclusion"
+        }, {
             "id": "2024-07-12-knuckles",
             "category": "restaurant-reviews",
             "date": "2024-07-12",
