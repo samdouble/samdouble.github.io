@@ -4,11 +4,9 @@ This is a small application to export a comic book in PDF format from an XML con
 
 ## Technologies & Languages
 
-- C# 11
-- .NET 7
-- iText 8
+- React 18
+- Node 22
 - GitHub Actions
-- GitHub Releases
 
 ## Development
 
@@ -40,6 +38,4 @@ The webpage should be available on [http://localhost:3000](http://localhost:3000
 
 ## Production
 
-1. Change the version number in the *csproj* file.
-1. Push your changes to any branch.
-2. dotnet-releaser on CircleCI will create a new release on GitHub.
+1. Push your changes to the `master` branch.
