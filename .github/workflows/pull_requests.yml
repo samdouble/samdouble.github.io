@@ -6,7 +6,7 @@ permissions:
   pull-requests: read
 
 jobs:
-  commitlint:
+  checks:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,6 +20,12 @@ jobs:
       - name: Install
         run: |
           npm install
+      - name: Lint
+        run: |
+          npm run lint
+      - name: Audit
+        run: |
+          npm audit
       - name: Test
         run: |
           npm test
