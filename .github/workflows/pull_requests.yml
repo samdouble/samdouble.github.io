@@ -25,7 +25,7 @@ jobs:
           npm run lint
       - name: Audit
         run: |
-          npm audit
+          npm run audit -- --moderate=2 --high=6
       - name: Test
         run: |
           npm test

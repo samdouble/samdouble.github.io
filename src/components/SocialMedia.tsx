@@ -42,7 +42,7 @@ function SocialMedia() {
       <div>
         <a href="https://www.npmjs.com/~samdouble">
           <img
-            src="/assets/icons/npm.webp"
+            src="/assets/icons/npm.png"
             alt="npm"
             width="60"
           />
