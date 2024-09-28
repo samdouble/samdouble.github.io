@@ -7,6 +7,7 @@ This is a small application to export a comic book in PDF format from an XML con
 - React 18
 - Node 22
 - GitHub Actions
+- GitHub Pages
 
 ## Development
 
