@@ -1,14 +1,13 @@
 import React from 'react';
-import { useSelector } from 'react-redux';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import { RootState } from 'store';
+import { useTranslation } from 'react-i18next';
 import LanguageSelector from './LanguageSelector';
 import logo from 'logo.png';
 
 function TopMenu() {
-  const { language } = useSelector((state: RootState) => state.language);
+  const { t } = useTranslation();
 
   return (
     <Navbar
@@ -34,13 +33,13 @@ function TopMenu() {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse>
         <Nav className="me-auto">
-          <Nav.Link href="/#/">{language === 'en' ? 'Home' : 'Accueil'}</Nav.Link>
-          <Nav.Link href="/#/category/projects">Projets</Nav.Link>
-          <Nav.Link href="/#/category/trips">Voyages</Nav.Link>
-          <NavDropdown title="Miscellaneous">
-            <NavDropdown.Item href="/#/category/book-reviews">Book Reviews</NavDropdown.Item>
-            <NavDropdown.Item href="/#/category/movie-reviews">Movie Reviews</NavDropdown.Item>
-            <NavDropdown.Item href="/#/category/restaurant-reviews">Restaurant Reviews</NavDropdown.Item>
+          <Nav.Link href="/#/">{t('home')}</Nav.Link>
+          <Nav.Link href="/#/category/projects">{t('projects')}</Nav.Link>
+          <Nav.Link href="/#/category/trips">{t('trips')}</Nav.Link>
+          <NavDropdown title={t('miscellaneous')}>
+            <NavDropdown.Item href="/#/category/book-reviews">{t('bookReviews')}</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/movie-reviews">{t('movieReviews')}</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/restaurant-reviews">{t('restaurantReviews')}</NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Navbar.Collapse>
