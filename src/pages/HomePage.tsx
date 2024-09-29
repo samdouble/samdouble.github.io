@@ -1,4 +1,5 @@
 import React from 'react';
+import { useSelector } from 'react-redux';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
@@ -6,13 +7,18 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
 import PostsList from 'components/PostsList';
-import SocialMedia from 'components/SocialMedia';
+import SocialMedia from 'components/SocialMedia/SocialMedia';
+import { RootState } from 'store';
+import { Post } from 'utils/types';
 import content from 'content.json';
 
 function HomePage() {
   const { t } = useTranslation();
 
-  const latestPosts = content.posts
+  const { language } = useSelector((state: RootState) => state.language);
+
+  const latestPosts = (content.posts as Post[])
+    .filter(post => post.translation.some(tr => tr.language === language))
     .sort((postA, postB) => postA.date < postB.date ? 1 : -1)
     .slice(0, 10);
 

@@ -3,7 +3,10 @@ export interface Category {
   date?: string;
   mainImage?: string;
   parent?: string;
-  title?: string;
+  translation: [{
+    language: string;
+    title: string;
+  }];
 }
 
 export interface Post {
@@ -12,5 +15,8 @@ export interface Post {
   id: string;
   mainImage: string;
   path: string;
-  title: string;
+  translation: [{
+    language: string;
+    title: string;
+  }];
 }
