@@ -2,55 +2,121 @@
     "categories": [
         {
             "id": "book-reviews",
-            "title": "Book reviews"
+            "translation": [{
+                "language": "en",
+                "title": "Book reviews"
+            }, {
+                "language": "fr",
+                "title": "Revues de livres"
+            }]
         }, {
             "id": "movie-reviews",
-            "title": "Movie reviews"
+            "translation": [{
+                "language": "en",
+                "title": "Movie reviews"
+            }, {
+                "language": "fr",
+                "title": "Revues de films"
+            }]
         }, {
             "id": "projects",
-            "title": "Projects"
+            "translation": [{
+                "language": "en",
+                "title": "Projects"
+            }, {
+                "language": "fr",
+                "title": "Projets"
+            }]
         }, {
             "id": "restaurant-reviews",
-            "title": "Restaurant reviews"
+            "translation": [{
+                "language": "en",
+                "title": "Restaurant reviews"
+            }, {
+                "language": "fr",
+                "title": "Revues de restaurants"
+            }]
         }, {
             "id": "trips",
-            "title": "Trips"
+            "translation": [{
+                "language": "en",
+                "title": "Trips"
+            }, {
+                "language": "fr",
+                "title": "Voyages"
+            }]
         }, {
             "id": "2021-07-vancouver",
             "date": "2021-07-09",
             "mainImage": "/assets/trips/202107_vancouver/vancouver_flag.svg",
             "parent": "trips",
-            "title": "Vancouver 2021"
+            "translation": [{
+                "language": "en",
+                "title": "Vancouver 2021"
+            }, {
+                "language": "fr",
+                "title": "Vancouver 2021"
+            }]
         }, {
             "id": "2022-03-neworleans",
             "date": "2022-03-08",
             "mainImage": "/assets/trips/202203_neworleans/neworleans_flag.png",
             "parent": "trips",
-            "title": "New Orleans 2022"
+            "translation": [{
+                "language": "en",
+                "title": "New Orleans 2022"
+            }, {
+                "language": "fr",
+                "title": "Nouvelle-Orléans 2022"
+            }]
         }, {
             "id": "2022-08-alberta",
             "date": "2022-08-26",
             "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
             "parent": "trips",
-            "title": "Alberta 2022"
+            "translation": [{
+                "language": "en",
+                "title": "Alberta 2022"
+            }, {
+                "language": "fr",
+                "title": "Alberta 2022"
+            }]
         }, {
             "id": "2023-04-portugal",
             "date": "2023-04-21",
             "mainImage": "/assets/trips/202304_portugal/portugal_flag.png",
             "parent": "trips",
-            "title": "Portugal 2023"
+            "translation": [{
+                "language": "en",
+                "title": "Portugal 2023"
+            }, {
+                "language": "fr",
+                "title": "Portugal 2023"
+            }]
         }, {
             "id": "2023-09-newfoundland",
             "date": "2023-09-02",
             "mainImage": "/assets/trips/202304_newfoundland/newfoundland_flag.png",
             "parent": "trips",
-            "title": "Newfoundland 2023"
+            "translation": [{
+                "language": "en",
+                "title": "Newfoundland 2023"
+            }, {
+                "language": "fr",
+                "title": "Terre-Neuve 2023"
+            }]
         }, {
             "id": "2024-04-europe",
             "date": "2024-04-11",
             "mainImage": "/assets/trips/202404_europe/europe_flag.png",
             "parent": "trips",
-            "title": "Europe 2024"
+            "translation": [{
+                "language": "en",
+                "title": "Europe 2024"
+            }, {
+                "language": "fr",
+                "title": "Europe 2024"
+            }]
         }
     ],
     "posts": [
@@ -60,329 +126,470 @@
             "date": "2021-01-01",
             "mainImage": "/assets/trips/202107_vancouver/vancouver_flag.svg",
             "path": "trips/202107_vancouver/2021-07-vancouver.md",
-            "title": "Avant le voyage I"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage I"
+            }]
         }, {
             "id": "2022-03-neworleans-01",
             "category": "2022-03-neworleans",
             "date": "2022-01-01",
             "mainImage": "/assets/trips/202203_neworleans/neworleans_flag.png",
             "path": "trips/202203_neworleans/2022-03-neworleans.md",
-            "title": "Avant le voyage I"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage I"
+            }]
         }, {
             "id": "2022-08-alberta-01",
             "category": "2022-08-alberta",
             "date": "2022-05-01",
             "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
             "path": "trips/202208_alberta/2022-08-alberta-01-preparation.md",
-            "title": "Avant le voyage I"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage I"
+            }]
         }, {
             "id": "2022-08-alberta-02",
             "category": "2022-08-alberta",
             "date": "2022-08-26",
             "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
             "path": "trips/202208_alberta/2022-08-alberta-02-day01.md",
-            "title": "Jour 1"
+            "translation": [{
+                "language": "fr",
+                "title": "Jour 1"
+            }]
         }, {
             "id": "2022-08-alberta-03",
             "category": "2022-08-alberta",
             "date": "2022-08-27",
             "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
             "path": "trips/202208_alberta/2022-08-alberta-03-day02.md",
-            "title": "Jour 2"
+            "translation": [{
+                "language": "fr",
+                "title": "Jour 2"
+            }]
         }, {
             "id": "2023-04-portugal-01",
             "category": "2023-04-portugal",
             "date": "2023-04-21",
             "mainImage": "/assets/trips/202304_portugal/portugal_flag.png",
             "path": "trips/202304_portugal/2023-04-portugal-01-preparation.md",
-            "title": "Avant le voyage I"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage I"
+            }]
         }, {
             "id": "2023-09-newfoundland-01",
             "category": "2023-09-newfoundland",
             "date": "2023-06-28",
             "mainImage": "/assets/trips/202309_newfoundland/newfoundland_flag.png",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-01-preparation.md",
-            "title": "Avant le voyage I - Avion et hébergement"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage I - Avion et hébergement"
+            }]
         }, {
             "id": "2023-09-newfoundland-02",
             "category": "2023-09-newfoundland",
             "date": "2023-07-29",
             "mainImage": "/assets/trips/202309_newfoundland/newfoundland_flag.png",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-02-preparation.md",
-            "title": "Avant le voyage II - Itinéraire"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage II - Itinéraire"
+            }]
         }, {
             "id": "2023-09-newfoundland-03",
             "category": "2023-09-newfoundland",
             "date": "2023-09-02",
             "mainImage": "/assets/trips/202309_newfoundland/20230902/torbaybight.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-03-day01.md",
-            "title": "Samedi, 2 septembre - Arrivée à Torbay"
+            "translation": [{
+                "language": "fr",
+                "title": "Samedi, 2 septembre - Arrivée à Torbay"
+            }]
         }, {
             "id": "2023-09-newfoundland-04",
             "category": "2023-09-newfoundland",
             "date": "2023-09-03",
             "mainImage": "/assets/trips/202309_newfoundland/20230903/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-04-day02.md",
-            "title": "Dimanche, 3 septembre - Bell Island et Quidi Vidi"
+            "translation": [{
+                "language": "fr",
+                "title": "Dimanche, 3 septembre - Bell Island et Quidi Vidi"
+            }]
         }, {
             "id": "2023-09-newfoundland-05",
             "category": "2023-09-newfoundland",
             "date": "2023-09-04",
             "mainImage": "/assets/trips/202309_newfoundland/20230904/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-05-day03.md",
-            "title": "Lundi, 4 septembre - Brigus et la Bay de Verde Peninsula"
+            "translation": [{
+                "language": "fr",
+                "title": "Lundi, 4 septembre - Brigus et la Bay de Verde Peninsula"
+            }]
         }, {
             "id": "2023-09-newfoundland-06",
             "category": "2023-09-newfoundland",
             "date": "2023-09-05",
             "mainImage": "/assets/trips/202309_newfoundland/20230905/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-06-day04.md",
-            "title": "Mardi, 5 septembre - "
+            "translation": [{
+                "language": "fr",
+                "title": "Mardi, 5 septembre - "
+            }]
         }, {
             "id": "2023-09-newfoundland-07",
             "category": "2023-09-newfoundland",
             "date": "2023-09-06",
             "mainImage": "/assets/trips/202309_newfoundland/20230906/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-07-day05.md",
-            "title": "Mercredi, 6 septembre - "
+            "translation": [{
+                "language": "fr",
+                "title": "Mercredi, 6 septembre - "
+            }]
         }, {
             "id": "2023-09-newfoundland-08",
             "category": "2023-09-newfoundland",
             "date": "2023-09-07",
             "mainImage": "/assets/trips/202309_newfoundland/20230907/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-08-day06.md",
-            "title": "Jeudi, 7 septembre - "
+            "translation": [{
+                "language": "fr",
+                "title": "Jeudi, 7 septembre - "
+            }]
         }, {
             "id": "2023-09-newfoundland-09",
             "category": "2023-09-newfoundland",
             "date": "2023-09-08",
             "mainImage": "/assets/trips/202309_newfoundland/20230908/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-09-day07.md",
-            "title": "Vendredi, 8 septembre - "
+            "translation": [{
+                "language": "fr",
+                "title": "Vendredi, 8 septembre - "
+            }]
         }, {
             "id": "2023-09-newfoundland-10",
             "category": "2023-09-newfoundland",
             "date": "2023-09-09",
             "mainImage": "/assets/trips/202309_newfoundland/20230909/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-10-day08.md",
-            "title": "Samedi, 9 septembre - "
+            "translation": [{
+                "language": "fr",
+                "title": "Samedi, 9 septembre - "
+            }]
         }, {
             "id": "2023-09-newfoundland-11",
             "category": "2023-09-newfoundland",
             "date": "2023-09-10",
             "mainImage": "/assets/trips/202309_newfoundland/20230910/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-11-day09.md",
-            "title": "Dimanche, 10 septembre - "
+            "translation": [{
+                "language": "fr",
+                "title": "Dimanche, 10 septembre - "
+            }]
         }, {
             "id": "2023-09-newfoundland-12",
             "category": "2023-09-newfoundland",
             "date": "2023-09-11",
             "mainImage": "/assets/trips/202309_newfoundland/20230911/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-12-day10.md",
-            "title": "Lundi, 11 septembre - Retour à Montréal"
+            "translation": [{
+                "language": "fr",
+                "title": "Lundi, 11 septembre - Retour à Montréal"
+            }]
         }, {
             "id": "2023-09-newfoundland-13",
             "category": "2023-09-newfoundland",
             "date": "2023-09-14",
             "mainImage": "/assets/trips/202309_newfoundland/20230914/portugalcove.jpg",
             "path": "trips/202309_newfoundland/2023-09-newfoundland-13-conclusion.md",
-            "title": "Conclusion"
+            "translation": [{
+                "language": "fr",
+                "title": "Conclusion"
+            }]
         }, {
             "id": "2024-04-europe-01",
             "category": "2024-04-europe",
             "date": "2024-04-01",
             "mainImage": "/assets/trips/202404_europe/20240401/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-01-preparation.md",
-            "title": "Avant le voyage I - Avion et hébergement"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage I - Avion et hébergement"
+            }]
         }, {
             "id": "2024-04-europe-02",
             "category": "2024-04-europe",
             "date": "2024-04-02",
             "mainImage": "/assets/trips/202404_europe/20240402/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-02-preparation.md",
-            "title": "Avant le voyage II - Activités"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage II - Activités"
+            }]
         }, {
             "id": "2024-04-europe-03",
             "category": "2024-04-europe",
             "date": "2024-04-03",
             "mainImage": "/assets/trips/202404_europe/20240403/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-03-restaurants.md",
-            "title": "Avant le voyage III - Itinéraire et restaurants"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage III - Itinéraire et restaurants"
+            }]
         }, {
             "id": "2024-04-europe-04",
             "category": "2024-04-europe",
             "date": "2024-04-04",
             "mainImage": "/assets/trips/202404_europe/20240404/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-04-checklist.md",
-            "title": "Avant le voyage IV - Checklist"
+            "translation": [{
+                "language": "fr",
+                "title": "Avant le voyage IV - Checklist"
+            }]
         }, {
             "id": "2024-04-europe-05",
             "category": "2024-04-europe",
             "date": "2024-04-11",
             "mainImage": "/assets/trips/202404_europe/20240411/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-05-day01.md",
-            "title": "Jeudi, 11 avril - Départ de Montréal"
+            "translation": [{
+                "language": "fr",
+                "title": "Jeudi, 11 avril - Départ de Montréal"
+            }]
         }, {
             "id": "2024-04-europe-06",
             "category": "2024-04-europe",
             "date": "2024-04-12",
             "mainImage": "/assets/trips/202404_europe/20240412/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-06-day02.md",
-            "title": "Vendredi, 12 avril - Arrivée à La Valette"
+            "translation": [{
+                "language": "fr",
+                "title": "Vendredi, 12 avril - Arrivée à La Valette"
+            }]
         }, {
             "id": "2024-04-europe-07",
             "category": "2024-04-europe",
             "date": "2024-04-13",
             "mainImage": "/assets/trips/202404_europe/20240413/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-07-day03.md",
-            "title": "Samedi, 13 avril - La Valette, Marsaskala et Marsaxlokk"
+            "translation": [{
+                "language": "fr",
+                "title": "Samedi, 13 avril - La Valette, Marsaskala et Marsaxlokk"
+            }]
         }, {
             "id": "2024-04-europe-08",
             "category": "2024-04-europe",
             "date": "2024-04-14",
             "mainImage": "/assets/trips/202404_europe/20240414/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-08-day04.md",
-            "title": "Dimanche, 14 avril - Excursion en bateau à Gozo et Comino"
+            "translation": [{
+                "language": "fr",
+                "title": "Dimanche, 14 avril - Excursion en bateau à Gozo et Comino"
+            }]
         }, {
             "id": "2024-04-europe-09",
             "category": "2024-04-europe",
             "date": "2024-04-15",
             "mainImage": "/assets/trips/202404_europe/20240415/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-09-day05.md",
-            "title": "Lundi, 15 avril - La Valette, Sliema, Floriana et arrivée à Catania"
+            "translation": [{
+                "language": "fr",
+                "title": "Lundi, 15 avril - La Valette, Sliema, Floriana et arrivée à Catania"
+            }]
         }, {
             "id": "2024-04-europe-10",
             "category": "2024-04-europe",
             "date": "2024-04-16",
             "mainImage": "/assets/trips/202404_europe/20240416/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-10-day06.md",
-            "title": "Mardi, 16 avril - Catania et arrivée à Palermo"
+            "translation": [{
+                "language": "fr",
+                "title": "Mardi, 16 avril - Catania et arrivée à Palermo"
+            }]
         }, {
             "id": "2024-04-europe-11",
             "category": "2024-04-europe",
             "date": "2024-04-17",
             "mainImage": "/assets/trips/202404_europe/20240417/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-11-day07.md",
-            "title": "Mercredi, 17 avril - Palermo"
+            "translation": [{
+                "language": "fr",
+                "title": "Mercredi, 17 avril - Palermo"
+            }]
         }, {
             "id": "2024-04-europe-12",
             "category": "2024-04-europe",
             "date": "2024-04-18",
             "mainImage": "/assets/trips/202404_europe/20240418/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-12-day08.md",
-            "title": "Jeudi, 18 avril - Arrivée à Naples"
+            "translation": [{
+                "language": "fr",
+                "title": "Jeudi, 18 avril - Arrivée à Naples"
+            }]
         }, {
             "id": "2024-04-europe-13",
             "category": "2024-04-europe",
             "date": "2024-04-19",
             "mainImage": "/assets/trips/202404_europe/20240419/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-13-day09.md",
-            "title": "Vendredi, 19 avril - Naples"
+            "translation": [{
+                "language": "fr",
+                "title": "Vendredi, 19 avril - Naples"
+            }]
         }, {
             "id": "2024-04-europe-14",
             "category": "2024-04-europe",
             "date": "2024-04-20",
             "mainImage": "/assets/trips/202404_europe/20240420/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-14-day10.md",
-            "title": "Samedi, 20 avril - Pompéi et le Mont Vésuve"
+            "translation": [{
+                "language": "fr",
+                "title": "Samedi, 20 avril - Pompéi et le Mont Vésuve"
+            }]
         }, {
             "id": "2024-04-europe-15",
             "category": "2024-04-europe",
             "date": "2024-04-21",
             "mainImage": "/assets/trips/202404_europe/20240421/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-15-day11.md",
-            "title": "Dimanche, 21 avril - La côte amalfitaine et arrivée à Rome"
+            "translation": [{
+                "language": "fr",
+                "title": "Dimanche, 21 avril - La côte amalfitaine et arrivée à Rome"
+            }]
         }, {
             "id": "2024-04-europe-16",
             "category": "2024-04-europe",
             "date": "2024-04-22",
             "mainImage": "/assets/trips/202404_europe/20240422/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-16-day12.md",
-            "title": "Lundi, 22 avril - Le Panthéon, le monument à Vittorio Emanuele II et Villa Borghese"
+            "translation": [{
+                "language": "fr",
+                "title": "Lundi, 22 avril - Le Panthéon, le monument à Vittorio Emanuele II et Villa Borghese"
+            }]
         }, {
             "id": "2024-04-europe-17",
             "category": "2024-04-europe",
             "date": "2024-04-23",
             "mainImage": "/assets/trips/202404_europe/20240423/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-17-day13.md",
-            "title": "Mardi, 23 avril - Le Vatican"
+            "translation": [{
+                "language": "fr",
+                "title": "Mardi, 23 avril - Le Vatican"
+            }]
         }, {
             "id": "2024-04-europe-18",
             "category": "2024-04-europe",
             "date": "2024-04-24",
             "mainImage": "/assets/trips/202404_europe/20240424/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-18-day14.md",
-            "title": "Mercredi, 24 avril - Le Colisée, le Forum Romain et le Circus Maximus"
+            "translation": [{
+                "language": "fr",
+                "title": "Mercredi, 24 avril - Le Colisée, le Forum Romain et le Circus Maximus"
+            }]
         }, {
             "id": "2024-04-europe-19",
             "category": "2024-04-europe",
             "date": "2024-04-25",
             "mainImage": "/assets/trips/202404_europe/20240425/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-19-day15.md",
-            "title": "Jeudi, 25 avril - Arrivée à Paris"
+            "translation": [{
+                "language": "fr",
+                "title": "Jeudi, 25 avril - Arrivée à Paris"
+            }]
         }, {
             "id": "2024-04-europe-20",
             "category": "2024-04-europe",
             "date": "2024-04-26",
             "mainImage": "/assets/trips/202404_europe/20240426/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-20-day16.md",
-            "title": "Vendredi, 26 avril - Le Trocadéro, le Petit Palais, l'Opéra Garnier et le Jardin des Tuileries"
+            "translation": [{
+                "language": "fr",
+                "title": "Vendredi, 26 avril - Le Trocadéro, le Petit Palais, l'Opéra Garnier et le Jardin des Tuileries"
+            }]
         }, {
             "id": "2024-04-europe-21",
             "category": "2024-04-europe",
             "date": "2024-04-27",
             "mainImage": "/assets/trips/202404_europe/20240427/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-21-day17.md",
-            "title": "Samedi, 27 avril - La Tour Eiffel et l'Hôtel des Invalides"
+            "translation": [{
+                "language": "fr",
+                "title": "Samedi, 27 avril - La Tour Eiffel et l'Hôtel des Invalides"
+            }]
         }, {
             "id": "2024-04-europe-22",
             "category": "2024-04-europe",
             "date": "2024-04-28",
             "mainImage": "/assets/trips/202404_europe/20240428/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-22-day18.md",
-            "title": "Dimanche, 28 avril - L'Arc de Triomphe, le Marais et les Jardins du Luxembourg"
+            "translation": [{
+                "language": "fr",
+                "title": "Dimanche, 28 avril - L'Arc de Triomphe, le Marais et les Jardins du Luxembourg"
+            }]
         }, {
             "id": "2024-04-europe-23",
             "category": "2024-04-europe",
             "date": "2024-04-29",
             "mainImage": "/assets/trips/202404_europe/20240429/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-23-day19.md",
-            "title": "Lundi, 29 avril - Montmartre et la Basilique du Sacré-Cœur"
+            "translation": [{
+                "language": "fr",
+                "title": "Lundi, 29 avril - Montmartre et la Basilique du Sacré-Cœur"
+            }]
         }, {
             "id": "2024-04-europe-24",
             "category": "2024-04-europe",
             "date": "2024-04-30",
             "mainImage": "/assets/trips/202404_europe/20240430/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-24-day20.md",
-            "title": "Mardi, 30 avril - Retour à Montréal"
+            "translation": [{
+                "language": "fr",
+                "title": "Mardi, 30 avril - Retour à Montréal"
+            }]
         }, {
             "id": "2024-04-europe-25",
             "category": "2024-04-europe",
             "date": "2024-05-03",
             "mainImage": "/assets/trips/202404_europe/20240503/portugalcove.jpg",
             "path": "trips/202404_europe/2024-04-europe-25-conclusion.md",
-            "title": "Conclusion"
+            "translation": [{
+                "language": "fr",
+                "title": "Conclusion"
+            }]
         }, {
             "id": "2024-07-12-knuckles",
             "category": "restaurant-reviews",
             "date": "2024-07-12",
             "mainImage": "/assets/restaurants/20240712_knuckles/restaurant.png",
             "path": "restaurants/2024-07-12-knuckles.md",
-            "title": "Knuckles"
+            "translation": [{
+                "language": "fr",
+                "title": "Knuckles"
+            }]
         }, {
             "id": "2024-07-19-taverne-atlantic",
             "category": "restaurant-reviews",
             "date": "2024-07-19",
             "mainImage": "/assets/restaurants/20240719_taverne-atlantic/restaurant.jpg",
             "path": "restaurants/2024-07-19-taverne-atlantic.md",
-            "title": "Taverne Atlantic"
+            "translation": [{
+                "language": "fr",
+                "title": "Taverne Atlantic"
+            }]
         }, {
             "id": "2024-08-02-tiradito",
             "category": "restaurant-reviews",
             "date": "2024-08-02",
             "mainImage": "/assets/restaurants/20240802_tiradito/restaurant.jpg",
             "path": "restaurants/2024-08-02-tiradito.md",
-            "title": "Tiradito"
+            "translation": [{
+                "language": "fr",
+                "title": "Tiradito"
+            }]
         }
     ]
 }
