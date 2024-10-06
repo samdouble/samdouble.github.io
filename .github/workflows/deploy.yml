@@ -1,0 +1,19 @@
+name: Deploy
+on:
+  push:
+    tags:
+      - '[0-9]+.[0-9]+.[0-9]+'
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy with gh-pages
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/samdouble/samdouble.github.io.git
+          npm run deploy -- -u "github-actions-bot <support+actions@github.com>"

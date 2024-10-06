@@ -1,16 +1,22 @@
-name: Deploy
+name: Checks
 on:
+  pull_request:
+    branches:
+      - '*'
   push:
     branches:
       - master
 
 permissions:
-  contents: write
+  contents: read
+  pull-requests: read
 
 jobs:
-  publish:
+  checks:
     runs-on: ubuntu-latest
     steps:
+      - name: Commitlint
+        uses: wagoid/commitlint-github-action@v6
       - name: Checkout
         uses: actions/checkout@v4
       - name: Set up Node
@@ -32,9 +38,3 @@ jobs:
       - name: Build
         run: |
           npm run build
-      - name: Deploy with gh-pages
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        run: |
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/samdouble/samdouble.github.io.git
-          npm run deploy -- -u "github-actions-bot <support+actions@github.com>"
