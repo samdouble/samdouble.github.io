@@ -14,9 +14,9 @@ export interface Post {
   date: string;
   id: string;
   mainImage: string;
-  path: string;
   translation: [{
     language: string;
+    path: string;
     title: string;
   }];
 }

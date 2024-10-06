@@ -18,7 +18,7 @@ function PostPage() {
   const postLanguageInfo = post?.translation.find(t => t.language === language);
 
   useEffect(() => {
-    const termsFrPath = require(`../content/${post?.path}`);
+    const termsFrPath = require(`../content/${postLanguageInfo?.path}`);
     fetch(termsFrPath)
       .then(response => response.text())
       .then(t => setText(t));
