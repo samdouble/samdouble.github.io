@@ -596,16 +596,31 @@
             }]
         }, {
             "id": "2024-08-19-react",
+            "category": "movie-reviews",
             "date": "2024-08-19",
             "mainImage": "/assets/2024/08/20240819_react/react.png",
             "translation": [{
                 "language": "en",
                 "path": "2024/08/20240819_react.en.md",
-                "title": "From Jekyll to React"
+                "title": "Why I switched from Jekyll to React for this website"
             }, {
                 "language": "fr",
                 "path": "2024/08/20240819_react.fr.md",
-                "title": "De Jekyll à React"
+                "title": "Pourquoi je passe de Jekyll à React pour ce site web"
+            }]
+        }, {
+            "id": "2024-10-05-reacher2",
+            "category": "movie-reviews",
+            "date": "2024-10-05",
+            "mainImage": "/assets/2024/10/20241005_reacher2/reacher2.png",
+            "translation": [{
+                "language": "en",
+                "path": "2024/10/20241005_reacher2.en.md",
+                "title": "Reacher Season 2"
+            }, {
+                "language": "fr",
+                "path": "2024/10/20241005_reacher2.fr.md",
+                "title": "Reacher, saison 2"
             }]
         }
     ]
