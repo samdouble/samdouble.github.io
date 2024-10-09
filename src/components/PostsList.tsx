@@ -33,6 +33,9 @@ function PostsList({
                         height={100}
                         src={post.mainImage}
                         width={160}
+                        style={{
+                          objectFit: 'cover',
+                        }}
                       />
                     </Link>
                   </td>

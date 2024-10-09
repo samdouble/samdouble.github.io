@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
+import { DateTime } from 'luxon';
 import Markdown from 'markdown-to-jsx';
 import { RootState } from 'store';
 import content from 'content.json';
@@ -18,24 +19,34 @@ function PostPage() {
   const postLanguageInfo = post?.translation.find(t => t.language === language);
 
   useEffect(() => {
-    const termsFrPath = require(`../content/${postLanguageInfo?.path}`);
-    fetch(termsFrPath)
-      .then(response => response.text())
-      .then(t => setText(t));
-  }, [post]);
+    if (postLanguageInfo) {
+      const termsFrPath = require(`../content/${postLanguageInfo?.path}`);
+      fetch(termsFrPath)
+        .then(response => response.text())
+        .then(t => setText(t));
+    }
+  }, [post, language]);
 
-  return (
-    <Container
-      fluid
-    >
-      <Row>
-        <Col lg={12}>
-          <h2>{postLanguageInfo?.title}</h2>
-          <Markdown>{text}</Markdown>
-        </Col>
-      </Row>
-    </Container>
-  );
+  const date = post && DateTime.fromFormat(post.date, 'yyyy-MM-dd');
+
+  return post
+  ? (
+      <Container
+        style={{
+          marginTop: 30,
+          textAlign: 'justify',
+        }}
+      >
+        <Row>
+          <Col lg={12}>
+            <h2>{postLanguageInfo?.title}</h2>
+            <p>{date?.toRelative()}</p>
+            <Markdown>{text}</Markdown>
+          </Col>
+        </Row>
+      </Container>
+    )
+  : null;
 }
 
 export default PostPage;
