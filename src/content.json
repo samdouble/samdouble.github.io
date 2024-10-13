@@ -124,11 +124,15 @@
             "id": "2021-07-vancouver-01",
             "category": "2021-07-vancouver",
             "date": "2021-01-01",
-            "mainImage": "/assets/trips/202107_vancouver/vancouver_flag.svg",
+            "mainImage": "/assets/2021/07/20210709_vancouver/yul.jpg",
             "translation": [{
+                "language": "en",
+                "path": "2021/07/20210709_vancouver-day01.en.md",
+                "title": "Friday, July 9th - Departure from YUL"
+            }, {
                 "language": "fr",
-                "path": "trips/202107_vancouver/2021-07-vancouver.md",
-                "title": "Avant le voyage I"
+                "path": "2021/07/20210709_vancouver-day01.en.md",
+                "title": "Vendredi, 9 juillet - Départ de Montréal"
             }]
         }, {
             "id": "2022-03-neworleans-01",
@@ -358,10 +362,14 @@
             "id": "2024-04-europe-05",
             "category": "2024-04-europe",
             "date": "2024-04-11",
-            "mainImage": "/assets/trips/202404_europe/20240411/portugalcove.jpg",
+            "mainImage": "/assets/2024/04/20240411_europe/takeoff.jpg",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240411_europe-day01.en.md",
+                "title": "Thursday, Apr. 11th - Departure from YUL"
+            }, {
                 "language": "fr",
-                "path": "trips/202404_europe/2024-04-europe-05-day01.md",
+                "path": "2024/04/20240411_europe-day01.fr.md",
                 "title": "Jeudi, 11 avril - Départ de Montréal"
             }]
         }, {
