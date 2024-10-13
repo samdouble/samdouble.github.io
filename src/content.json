@@ -204,10 +204,14 @@
             "id": "2023-09-newfoundland-03",
             "category": "2023-09-newfoundland",
             "date": "2023-09-02",
-            "mainImage": "/assets/trips/202309_newfoundland/20230902/torbaybight.jpg",
+            "mainImage": "/assets/2023/09/20230902_newfoundland/torbaybight.jpg",
             "translation": [{
+                "language": "en",
+                "path": "2023/09/20230902_newfoundland-day01.en.md",
+                "title": "Saturday, Sept. 2nd - Arrival in Torbay"
+            }, {
                 "language": "fr",
-                "path": "trips/202309_newfoundland/2023-09-newfoundland-03-day01.md",
+                "path": "2023/09/20230902_newfoundland-day01.fr.md",
                 "title": "Samedi, 2 septembre - Arrivée à Torbay"
             }]
         }, {
@@ -596,7 +600,6 @@
             }]
         }, {
             "id": "2024-08-19-react",
-            "category": "movie-reviews",
             "date": "2024-08-19",
             "mainImage": "/assets/2024/08/20240819_react/react.png",
             "translation": [{

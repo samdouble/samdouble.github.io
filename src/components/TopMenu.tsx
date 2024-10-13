@@ -18,7 +18,7 @@ function TopMenu() {
         paddingRight: 15,
       }}
     >
-      <Navbar.Brand href="/#/home">
+      <Navbar.Brand href="/#/">
         <img
           src={logo}
           alt="samdouble"
