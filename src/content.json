@@ -175,6 +175,20 @@
                 "title": "Jour 2"
             }]
         }, {
+            "id": "2023-03-30-john-wick4",
+            "category": "movie-reviews",
+            "date": "2023-03-30",
+            "mainImage": "/assets/2023/03/20230330_john-wick4/johnwick.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2023/03/20230330_john-wick4.en.md",
+                "title": "John Wick 4"
+            }, {
+                "language": "fr",
+                "path": "2023/03/20230330_john-wick4.fr.md",
+                "title": "John Wick 4"
+            }]
+        }, {
             "id": "2023-04-portugal-01",
             "category": "2023-04-portugal",
             "date": "2023-04-21",
@@ -317,6 +331,20 @@
                 "language": "fr",
                 "path": "trips/202309_newfoundland/2023-09-newfoundland-13-conclusion.md",
                 "title": "Conclusion"
+            }]
+        }, {
+            "id": "2024-01-27-beekeeper",
+            "category": "movie-reviews",
+            "date": "2024-01-27",
+            "mainImage": "/assets/2024/01/20240127_beekeeper/beekeeper.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/01/20240127_beekeeper.en.md",
+                "title": "The Beekeeper"
+            }, {
+                "language": "fr",
+                "path": "2024/01/20240127_beekeeper.fr.md",
+                "title": "The Beekeeper"
             }]
         }, {
             "id": "2024-04-europe-01",
@@ -613,11 +641,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2024/08/20240819_react.en.md",
-                "title": "Why I switched from Jekyll to React for this website"
+                "title": "Why I Switched From Jekyll to React for This Website"
             }, {
                 "language": "fr",
                 "path": "2024/08/20240819_react.fr.md",
-                "title": "Pourquoi je passe de Jekyll à React pour ce site web"
+                "title": "Pourquoi j'ai passé de Jekyll à React pour ce site web"
             }]
         }, {
             "id": "2024-10-05-reacher2",
