@@ -199,6 +199,20 @@
                 "title": "Avant le voyage I"
             }]
         }, {
+            "id": "2023-07-14-sound-of-freedom",
+            "category": "movie-reviews",
+            "date": "2023-07-14",
+            "mainImage": "/assets/2023/07/20230714_sound-of-freedom/sound-of-freedom.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2023/07/20230714_sound-of-freedom.en.md",
+                "title": "Sound of Freedom"
+            }, {
+                "language": "fr",
+                "path": "2023/07/20230714_sound-of-freedom.fr.md",
+                "title": "Sound of Freedom"
+            }]
+        }, {
             "id": "2023-09-newfoundland-01",
             "category": "2023-09-newfoundland",
             "date": "2023-06-28",
@@ -331,6 +345,20 @@
                 "language": "fr",
                 "path": "trips/202309_newfoundland/2023-09-newfoundland-13-conclusion.md",
                 "title": "Conclusion"
+            }]
+        }, {
+            "id": "2023-10-01-equalizer3",
+            "category": "movie-reviews",
+            "date": "2023-10-01",
+            "mainImage": "/assets/2023/10/20231001_equalizer3/equalizer3.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2023/10/20231001_equalizer3.en.md",
+                "title": "Equalizer 3"
+            }, {
+                "language": "fr",
+                "path": "2023/10/20231001_equalizer3.fr.md",
+                "title": "Equalizer 3"
             }]
         }, {
             "id": "2024-01-27-beekeeper",

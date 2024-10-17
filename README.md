@@ -40,3 +40,5 @@ The webpage should be available on [http://localhost:3000](http://localhost:3000
 ## Production
 
 1. Push your changes to the `master` branch.
+
+Déodorant maison
