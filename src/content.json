@@ -117,6 +117,18 @@
                 "language": "fr",
                 "title": "Europe 2024"
             }]
+        }, {
+            "id": "2025-05-usa",
+            "date": "2025-05-11",
+            "mainImage": "/assets/trips/202505_usa/europe_flag.png",
+            "parent": "trips",
+            "translation": [{
+                "language": "en",
+                "title": "USA 2025"
+            }, {
+                "language": "fr",
+                "title": "États-Unis 2025"
+            }]
         }
     ],
     "posts": [
@@ -688,6 +700,20 @@
                 "language": "fr",
                 "path": "2024/10/20241005_reacher2.fr.md",
                 "title": "Reacher, saison 2"
+            }]
+        }, {
+            "id": "2024-10-19-usa2025",
+            "category": "2025-05-usa",
+            "date": "2024-10-17",
+            "mainImage": "/assets/2024/10/20241017_usa2025/fbbt.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/10/20241017_usa2025.en.md",
+                "title": "It All Started With the Five Boro Bike Tour"
+            }, {
+                "language": "fr",
+                "path": "2024/10/20241017_usa2025.fr.md",
+                "title": "Tout a commencé avec le Five Boro Bike Tour"
             }]
         }
     ]
