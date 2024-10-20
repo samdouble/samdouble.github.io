@@ -688,6 +688,20 @@
                 "title": "Pourquoi j'ai passé de Jekyll à React pour ce site web"
             }]
         }, {
+            "id": "2024-10-02-reacher",
+            "category": "movie-reviews",
+            "date": "2024-10-02",
+            "mainImage": "/assets/2024/10/20241002_reacher/reacher.png",
+            "translation": [{
+                "language": "en",
+                "path": "2024/10/20241002_reacher.en.md",
+                "title": "Reacher Season 1"
+            }, {
+                "language": "fr",
+                "path": "2024/10/20241002_reacher.fr.md",
+                "title": "Reacher, saison 1"
+            }]
+        }, {
             "id": "2024-10-05-reacher2",
             "category": "movie-reviews",
             "date": "2024-10-05",
@@ -702,7 +716,7 @@
                 "title": "Reacher, saison 2"
             }]
         }, {
-            "id": "2024-10-19-usa2025",
+            "id": "2024-10-17-usa2025",
             "category": "2025-05-usa",
             "date": "2024-10-17",
             "mainImage": "/assets/2024/10/20241017_usa2025/fbbt.jpg",
@@ -714,6 +728,20 @@
                 "language": "fr",
                 "path": "2024/10/20241017_usa2025.fr.md",
                 "title": "Tout a commencé avec le Five Boro Bike Tour"
+            }]
+        }, {
+            "id": "2024-10-18-usa2025",
+            "category": "2025-05-usa",
+            "date": "2024-10-18",
+            "mainImage": "/assets/2024/10/20241018_usa2025/chicago.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/10/20241018_usa2025.en.md",
+                "title": "How a Weekend in New York Turned into a Week Across 3 States"
+            }, {
+                "language": "fr",
+                "path": "2024/10/20241018_usa2025.fr.md",
+                "title": "Comment une fin de semaine à New York s'est transformée en semaine à travers 3 états"
             }]
         }
     ]
