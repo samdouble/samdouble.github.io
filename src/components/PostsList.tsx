@@ -1,6 +1,7 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import Table from 'react-bootstrap/Table';
 import { RootState } from 'store';
 import { Post } from 'utils/types';
@@ -12,6 +13,8 @@ interface PostsListProps {
 function PostsList({
   posts,
 }: PostsListProps) {
+  const { t } = useTranslation();
+
   const { language } = useSelector((state: RootState) => state.language);
 
   return (
@@ -21,7 +24,7 @@ function PostsList({
           posts
             .sort((postA, postB) => postA.date < postB.date ? 1 : -1)
             .map(post => {
-              const postLanguageInfo = post?.translation.find(t => t.language === language);
+              const postLanguageInfo = post?.translation.find(tr => tr.language === language);
               return (
                 <tr key={post.id}>
                   <td width={180}>
@@ -62,6 +65,20 @@ function PostsList({
               );
             })
         }
+        <tr>
+          <td
+            colSpan={2}
+            style={{
+              borderBottom: 'none',
+              textAlign: 'center',
+            }}
+            width={180}
+          >
+            <Link to="/posts">
+              {t('seeMore')}
+            </Link>
+          </td>
+        </tr>
       </tbody>
     </Table>
   );

@@ -157,6 +157,20 @@
                 "title": "Avant le voyage I"
             }]
         }, {
+            "id": "2022-03-neworleans-02",
+            "category": "2022-03-neworleans",
+            "date": "2022-03-08",
+            "mainImage": "/assets/2022/03/20220308_neworleans/msy.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2022/03/20220308_neworleans-day01.en.md",
+                "title": "Tuesday, March 8th - Arrival in New Orleans"
+            }, {
+                "language": "fr",
+                "path": "2022/03/20220308_neworleans-day01.fr.md",
+                "title": "Mardi 8 mars - Arrivée à New Orleans"
+            }]
+        }, {
             "id": "2022-08-alberta-01",
             "category": "2022-08-alberta",
             "date": "2022-05-01",
@@ -194,11 +208,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2023/03/20230330_john-wick4.en.md",
-                "title": "John Wick 4"
+                "title": "John Wick 4 Sucked"
             }, {
                 "language": "fr",
                 "path": "2023/03/20230330_john-wick4.fr.md",
-                "title": "John Wick 4"
+                "title": "John Wick 4: horriblement long"
             }]
         }, {
             "id": "2023-04-portugal-01",
@@ -741,7 +755,7 @@
             }, {
                 "language": "fr",
                 "path": "2024/10/20241018_usa2025.fr.md",
-                "title": "Comment une fin de semaine à New York s'est transformée en semaine à travers 3 états"
+                "title": "Comment une fin de semaine à New York s'est transformée en une semaine à travers 3 états"
             }]
         }
     ]
