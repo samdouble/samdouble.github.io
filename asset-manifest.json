@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d7bdaf5.css",
-    "main.js": "/static/js/main.6a10fed3.js",
+    "main.css": "/static/css/main.2ccf640b.css",
+    "main.js": "/static/js/main.dc8d9b02.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/2024-04-europe-07-day03.md": "/static/media/2024-04-europe-07-day03.e650ec18d19bb15f22c1.md",
     "static/media/2024-04-europe-06-day02.md": "/static/media/2024-04-europe-06-day02.fb2e3cbe1698ea7a3865.md",
@@ -38,14 +38,16 @@
     "static/media/2024-04-europe-09-day05.md": "/static/media/2024-04-europe-09-day05.b3386c2ac7b044ce1d21.md",
     "static/media/2024-04-europe-17-day13.md": "/static/media/2024-04-europe-17-day13.5e5c3875327c427ae786.md",
     "static/media/20240802_tiradito.en.md": "/static/media/20240802_tiradito.en.1c843ad726c290ab153c.md",
+    "static/media/20241018_usa2025.fr.md": "/static/media/20241018_usa2025.fr.38158e0c92f5b5ca0369.md",
     "static/media/2022-08-alberta-02-day01.md": "/static/media/2022-08-alberta-02-day01.7e099cdfc582e3ee4615.md",
     "static/media/2023-09-newfoundland-10-day08.md": "/static/media/2023-09-newfoundland-10-day08.fcd4e4d027e0d3157a01.md",
     "static/media/2024-04-europe-23-day19.md": "/static/media/2024-04-europe-23-day19.0818ad5724fd2e704e44.md",
     "static/media/20241017_usa2025.fr.md": "/static/media/20241017_usa2025.fr.dddb7c3b6098dc911073.md",
     "static/media/20240127_beekeeper.fr.md": "/static/media/20240127_beekeeper.fr.ec9f07b3d11a5e2f19c7.md",
+    "static/media/20241018_usa2025.en.md": "/static/media/20241018_usa2025.en.85475c2e1d707afb741b.md",
     "static/media/2024-04-europe-10-day06.md": "/static/media/2024-04-europe-10-day06.ab5c0f819f82b3356f3f.md",
     "static/media/2024-04-europe-24-day20.md": "/static/media/2024-04-europe-24-day20.b7fc4aa8ab46236e281a.md",
-    "static/media/20241017_usa2025.en.md": "/static/media/20241017_usa2025.en.a4dd1c316e0cab24acbf.md",
+    "static/media/20241017_usa2025.en.md": "/static/media/20241017_usa2025.en.e90e7102d846c7ab9a67.md",
     "static/media/20240127_beekeeper.en.md": "/static/media/20240127_beekeeper.en.609f7964aaed9f2ea210.md",
     "static/media/2024-04-europe-22-day18.md": "/static/media/2024-04-europe-22-day18.e423224df03c6391d307.md",
     "static/media/2023-09-newfoundland-09-day07.md": "/static/media/2023-09-newfoundland-09-day07.daf1c5c59e70400e9699.md",
@@ -61,20 +63,20 @@
     "static/media/2024-04-europe-04-checklist.md": "/static/media/2024-04-europe-04-checklist.ed2de19cf10f63720894.md",
     "static/media/2024-04-europe-13-day09.md": "/static/media/2024-04-europe-13-day09.89dd02568c8a9e5566e0.md",
     "static/media/2024-04-europe-11-day07.md": "/static/media/2024-04-europe-11-day07.9778f06ecb6483502e1a.md",
-    "static/media/2024-07-12-knuckles.md": "/static/media/2024-07-12-knuckles.47fffbbf03b2288ead3e.md",
-    "static/media/2024-07-19-taverne-atlantic.md": "/static/media/2024-07-19-taverne-atlantic.7e9b19e54674bdd0881d.md",
+    "static/media/2024-07-12-knuckles.md": "/static/media/2024-07-12-knuckles.b2176e55279cf9ea3cef.md",
+    "static/media/2024-07-19-taverne-atlantic.md": "/static/media/2024-07-19-taverne-atlantic.8c9856d2d304c45e3fd3.md",
     "static/media/2024-04-europe-25-conclusion.md": "/static/media/2024-04-europe-25-conclusion.0bf1b8318ce8a68a19fc.md",
     "static/media/2022-08-alberta-01-preparation.md": "/static/media/2022-08-alberta-01-preparation.993cf99496645931553d.md",
     "static/media/2022-03-neworleans.md": "/static/media/2022-03-neworleans.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-06-day04.md": "/static/media/2023-09-newfoundland-06-day04.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
-    "main.6d7bdaf5.css.map": "/static/css/main.6d7bdaf5.css.map",
-    "main.6a10fed3.js.map": "/static/js/main.6a10fed3.js.map",
+    "main.2ccf640b.css.map": "/static/css/main.2ccf640b.css.map",
+    "main.dc8d9b02.js.map": "/static/js/main.dc8d9b02.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d7bdaf5.css",
-    "static/js/main.6a10fed3.js"
+    "static/css/main.2ccf640b.css",
+    "static/js/main.dc8d9b02.js"
   ]
 }
