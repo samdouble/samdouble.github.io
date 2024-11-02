@@ -757,6 +757,19 @@
                 "path": "2024/10/20241018_usa2025.fr.md",
                 "title": "Comment une fin de semaine à New York s'est transformée en une semaine à travers 3 états"
             }]
+        }, {
+            "id": "2024-10-26-redwine",
+            "date": "2024-10-26",
+            "mainImage": "/assets/2024/10/20241026_redwine/pants.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/10/20241026_red-wine.en.md",
+                "title": "In Case I Spill Red Wine on Myself Again"
+            }, {
+                "language": "fr",
+                "path": "2024/10/20241026_red-wine.fr.md",
+                "title": "Au cas où je me renverse encore du vin rouge dessus"
+            }]
         }
     ]
 }
