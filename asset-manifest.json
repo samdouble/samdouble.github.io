@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ccf640b.css",
-    "main.js": "/static/js/main.dc8d9b02.js",
+    "main.js": "/static/js/main.440f16af.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/2024-04-europe-07-day03.md": "/static/media/2024-04-europe-07-day03.e650ec18d19bb15f22c1.md",
     "static/media/2024-04-europe-06-day02.md": "/static/media/2024-04-europe-06-day02.fb2e3cbe1698ea7a3865.md",
@@ -10,9 +10,11 @@
     "static/media/logo.png": "/static/media/logo.b8d4aeb1a633935c5dfd.png",
     "static/media/2023-09-newfoundland-04-day02.md": "/static/media/2023-09-newfoundland-04-day02.3595ef636aadb1d9a84e.md",
     "static/media/2024-04-europe-12-day08.md": "/static/media/2024-04-europe-12-day08.ff782a6d0f2621fadb17.md",
+    "static/media/20220308_neworleans-day01.fr.md": "/static/media/20220308_neworleans-day01.fr.7f139978b6f33344d0fd.md",
     "static/media/2024-04-europe-21-day17.md": "/static/media/2024-04-europe-21-day17.963e01759e92d99ff96e.md",
     "static/media/2024-04-europe-08-day04.md": "/static/media/2024-04-europe-08-day04.8fe190d90202c3c7a781.md",
     "static/media/2024-04-europe-02-preparation.md": "/static/media/2024-04-europe-02-preparation.5816f98fd9709c04b5a4.md",
+    "static/media/20220308_neworleans-day01.en.md": "/static/media/20220308_neworleans-day01.en.f0e0515cedfa8a1965c5.md",
     "static/media/20241005_reacher2.fr.md": "/static/media/20241005_reacher2.fr.ffe28579cb3cb68157b8.md",
     "static/media/2024-04-europe-15-day11.md": "/static/media/2024-04-europe-15-day11.63f3c63c29aad4e9b285.md",
     "static/media/2023-09-newfoundland-01-preparation.md": "/static/media/2023-09-newfoundland-01-preparation.d3ffd4be93838f5befea.md",
@@ -31,10 +33,12 @@
     "static/media/20240819_react.fr.md": "/static/media/20240819_react.fr.3f3ae65fc8ec72234b47.md",
     "static/media/20230330_john-wick4.fr.md": "/static/media/20230330_john-wick4.fr.8047f1911b742c25d730.md",
     "static/media/20230330_john-wick4.en.md": "/static/media/20230330_john-wick4.en.08a1e7b479eec028c8f9.md",
+    "static/media/20241101_greasy-spoon.fr.md": "/static/media/20241101_greasy-spoon.fr.14f050b50fe4473928ca.md",
     "static/media/20240819_react.en.md": "/static/media/20240819_react.en.55b18d88b254ad4990bd.md",
     "static/media/2023-09-newfoundland-05-day03.md": "/static/media/2023-09-newfoundland-05-day03.0485b77349ac2c589232.md",
     "static/media/20240802_tiradito.fr.md": "/static/media/20240802_tiradito.fr.eea7fb2cd64cf966afa5.md",
     "static/media/2023-04-portugal-01-preparation.md": "/static/media/2023-04-portugal-01-preparation.2be54127d789eb044e1c.md",
+    "static/media/20241101_greasy-spoon.en.md": "/static/media/20241101_greasy-spoon.en.de710b0f1ed4ef58cc14.md",
     "static/media/2024-04-europe-09-day05.md": "/static/media/2024-04-europe-09-day05.b3386c2ac7b044ce1d21.md",
     "static/media/2024-04-europe-17-day13.md": "/static/media/2024-04-europe-17-day13.5e5c3875327c427ae786.md",
     "static/media/20240802_tiradito.en.md": "/static/media/20240802_tiradito.en.1c843ad726c290ab153c.md",
@@ -49,7 +53,9 @@
     "static/media/2024-04-europe-24-day20.md": "/static/media/2024-04-europe-24-day20.b7fc4aa8ab46236e281a.md",
     "static/media/20241017_usa2025.en.md": "/static/media/20241017_usa2025.en.e90e7102d846c7ab9a67.md",
     "static/media/20240127_beekeeper.en.md": "/static/media/20240127_beekeeper.en.609f7964aaed9f2ea210.md",
+    "static/media/20241026_red-wine.fr.md": "/static/media/20241026_red-wine.fr.4e9eb051c90ffdd94d7b.md",
     "static/media/2024-04-europe-22-day18.md": "/static/media/2024-04-europe-22-day18.e423224df03c6391d307.md",
+    "static/media/20241026_red-wine.en.md": "/static/media/20241026_red-wine.en.a6d2a4066cf5420a5402.md",
     "static/media/2023-09-newfoundland-09-day07.md": "/static/media/2023-09-newfoundland-09-day07.daf1c5c59e70400e9699.md",
     "static/media/2024-04-europe-16-day12.md": "/static/media/2024-04-europe-16-day12.5358e4f1c592d2d65af6.md",
     "static/media/2023-09-newfoundland-08-day06.md": "/static/media/2023-09-newfoundland-08-day06.48176a31ac56b6642e88.md",
@@ -72,11 +78,11 @@
     "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
     "main.2ccf640b.css.map": "/static/css/main.2ccf640b.css.map",
-    "main.dc8d9b02.js.map": "/static/js/main.dc8d9b02.js.map",
+    "main.440f16af.js.map": "/static/js/main.440f16af.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ccf640b.css",
-    "static/js/main.dc8d9b02.js"
+    "static/js/main.440f16af.js"
   ]
 }
