@@ -770,6 +770,20 @@
                 "path": "2024/10/20241026_red-wine.fr.md",
                 "title": "Au cas où je me renverse encore du vin rouge dessus"
             }]
+        }, {
+            "id": "2024-11-01-greasy-spoon",
+            "category": "restaurant-reviews",
+            "date": "2024-11-01",
+            "mainImage": "/assets/2024/11/20241101_greasy-spoon/inside.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241101_greasy-spoon.en.md",
+                "title": "Greasy Spoon"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241101_greasy-spoon.fr.md",
+                "title": "Greasy Spoon"
+            }]
         }
     ]
 }
