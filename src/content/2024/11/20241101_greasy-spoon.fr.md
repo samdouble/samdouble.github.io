@@ -3,7 +3,7 @@ C'était la deuxième journée de MTLàTABLE aujourd'hui. Cette année, les prix
 ![Le Greasy Spoon, sur Laurier Ouest](/assets/2024/11/20241101_greasy-spoon/front.jpg)
 <p align="center"><b>Le Greasy Spoon, sur Laurier Ouest</b></p>
 
-Je suis arrivé à 18h20 et c'était presque vide à l'intérieur. Le restaurant était long, mais pas très large. À gauche au centre, il y avait un bar. Quelques écrans de télévision étaient répartis dans la place et diffusaient sans son ce qui semblait être une compétition de cuisine sur le Food Network. Vers 19h15, ils ont mis les parties de hockey qui commençaient. Je me suis assis à une petite table.
+Je suis arrivé à 18h20 et c'était presque vide à l'intérieur. Le restaurant était long, mais pas très large. À gauche au centre, il y avait un bar. Quelques écrans de télévision étaient répartis dans la place et diffusaient sans son ce qui semblait être une compétition de cuisine sur le Food Network. Je me suis assis à une petite table.
 
 ![À l'intérieur du restaurant](/assets/2024/11/20241101_greasy-spoon/inside.jpg)
 <p align="center"><b>À l'intérieur du restaurant</b></p>
@@ -23,4 +23,6 @@ Pour le dessert, c'était un tiramisu, servi dans une tasse.
 ![Tiramisu](/assets/2024/11/20241101_greasy-spoon/tiramisu.jpg)
 <p align="center"><b>Tiramisu</b></p>
 
-En somme, j'ai eu un bon repas au Greasy Spoon. J'ai apprécié le service et la nourriture. Seul point négatif: le rapport qualité-prix, qui était correct, mais sans plus. J'ai l'impression que je pourrais retourner au Greasy Spoon manger la même chose pour le même prix sans que ce soit dans le cadre de MTLàTABLE, ce qui est un peu dommage. C'est un évènement créé en bonne partie pour pouvoir essayer des restaurants à des prix moindres que durant le restant de l'année et à 50$ (+ taxes + pourboire) pour une salade, une assiette de pâtes et un tiramisu, je ne suis pas sorti de là avec le sentiment d'avoir eu un "deal".
+En somme, j'ai eu un bon repas au Greasy Spoon. J'ai apprécié le service et la nourriture.
+
+Seul point négatif: le rapport qualité-prix, qui était correct, mais sans plus. J'ai l'impression que je pourrais retourner au Greasy Spoon manger la même chose pour le même prix sans que ce soit dans le cadre de MTLàTABLE, ce qui est un peu dommage. C'est un évènement créé en grande partie pour que les gens puissent essayer des restaurants à des prix moindres que durant le restant de l'année, et à 50$ (+ taxes + pourboire) pour une salade, une assiette de pâtes et un tiramisu, je ne suis pas sorti de là avec le sentiment d'avoir eu un "deal".
