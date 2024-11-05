@@ -699,7 +699,7 @@
             }, {
                 "language": "fr",
                 "path": "2024/08/20240819_react.fr.md",
-                "title": "Pourquoi j'ai passé de Jekyll à React pour ce site web"
+                "title": "Pourquoi je suis passé de Jekyll à React pour ce site web"
             }]
         }, {
             "id": "2024-10-02-reacher",
@@ -737,11 +737,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241017_usa2025.en.md",
-                "title": "It All Started With the Five Boro Bike Tour"
+                "title": "It Started With the Five Boro Bike Tour"
             }, {
                 "language": "fr",
                 "path": "2024/10/20241017_usa2025.fr.md",
-                "title": "Tout a commencé avec le Five Boro Bike Tour"
+                "title": "Ça a commencé avec le Five Boro Bike Tour"
             }]
         }, {
             "id": "2024-10-18-usa2025",
@@ -751,11 +751,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241018_usa2025.en.md",
-                "title": "How a Weekend in New York Turned into a Week Across 3 States"
+                "title": "And it Turned into a Week Across 3 States"
             }, {
                 "language": "fr",
                 "path": "2024/10/20241018_usa2025.fr.md",
-                "title": "Comment une fin de semaine à New York s'est transformée en une semaine à travers 3 états"
+                "title": "Et ça s'est transformé en une semaine à travers 3 états"
             }]
         }, {
             "id": "2024-10-26-redwine",
@@ -783,6 +783,34 @@
                 "language": "fr",
                 "path": "2024/11/20241101_greasy-spoon.fr.md",
                 "title": "Greasy Spoon"
+            }]
+        }, {
+            "id": "2024-11-02-cartier-arms",
+            "category": "restaurant-reviews",
+            "date": "2024-11-02",
+            "mainImage": "/assets/2024/11/20241102_cartier-arms/cartier-arms.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241102_cartier-arms.en.md",
+                "title": "Cartier Arms Pub"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241102_cartier-arms.fr.md",
+                "title": "Pub Cartier Arms"
+            }]
+        }, {
+            "id": "2024-11-03-linfiltre",
+            "category": "book-reviews",
+            "date": "2024-11-03",
+            "mainImage": "/assets/2024/11/20241103_linfiltre/book.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241103_linfiltre.en.md",
+                "title": "The Associate"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241103_linfiltre.fr.md",
+                "title": "L'infiltré"
             }]
         }
     ]

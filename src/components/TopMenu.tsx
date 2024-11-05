@@ -36,10 +36,10 @@ function TopMenu() {
           <Nav.Link href="/#/">{t('home')}</Nav.Link>
           <Nav.Link href="/#/category/projects">{t('projects')}</Nav.Link>
           <Nav.Link href="/#/category/trips">{t('trips')}</Nav.Link>
-          <NavDropdown title={t('miscellaneous')}>
-            <NavDropdown.Item href="/#/category/book-reviews">{t('bookReviews')}</NavDropdown.Item>
-            <NavDropdown.Item href="/#/category/movie-reviews">{t('movieReviews')}</NavDropdown.Item>
-            <NavDropdown.Item href="/#/category/restaurant-reviews">{t('restaurantReviews')}</NavDropdown.Item>
+          <NavDropdown title={t('reviews')}>
+            <NavDropdown.Item href="/#/category/book-reviews">{t('books')}</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/movie-reviews">{t('movies')}</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/restaurant-reviews">{t('restaurants')}</NavDropdown.Item>
           </NavDropdown>
         </Nav>
       </Navbar.Collapse>
