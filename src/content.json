@@ -118,6 +118,18 @@
                 "title": "Europe 2024"
             }]
         }, {
+            "id": "2025-02-japan",
+            "date": "2025-03-01",
+            "mainImage": "/assets/2024/11/20241107_japan2025/flag.webp",
+            "parent": "trips",
+            "translation": [{
+                "language": "en",
+                "title": "Japan 2025"
+            }, {
+                "language": "fr",
+                "title": "Japon 2025"
+            }]
+        }, {
             "id": "2025-05-usa",
             "date": "2025-05-11",
             "mainImage": "/assets/trips/202505_usa/europe_flag.png",
@@ -811,6 +823,34 @@
                 "language": "fr",
                 "path": "2024/11/20241103_linfiltre.fr.md",
                 "title": "L'infiltré"
+            }]
+        }, {
+            "id": "2024-11-07-japan2025",
+            "category": "2025-02-japan",
+            "date": "2024-11-07",
+            "mainImage": "/assets/2024/11/20241107_japan2025/flag.webp",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241107_japan2025.en.md",
+                "title": "2 Weeks in Japan"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241107_japan2025.fr.md",
+                "title": "2 semaines au Japon"
+            }]
+        }, {
+            "id": "2024-11-09-junebuvette",
+            "category": "restaurant-reviews",
+            "date": "2024-11-09",
+            "mainImage": "/assets/2024/11/20241109_junebuvette/inside.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241109_junebuvette.en.md",
+                "title": "June Buvette"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241109_junebuvette.fr.md",
+                "title": "June Buvette"
             }]
         }
     ]
