@@ -742,10 +742,24 @@
                 "title": "Reacher, saison 2"
             }]
         }, {
+            "id": "2024-10-16-bebedonge",
+            "category": "book-reviews",
+            "date": "2024-10-16",
+            "mainImage": "/assets/2024/10/20241016_bebedonge/cover.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/10/20241016_bebedonge.en.md",
+                "title": "The Truth about Bebe Donge"
+            }, {
+                "language": "fr",
+                "path": "2024/10/20241016_bebedonge.fr.md",
+                "title": "La vérité sur Bébé Donge"
+            }]
+        }, {
             "id": "2024-10-17-usa2025",
             "category": "2025-05-usa",
             "date": "2024-10-17",
-            "mainImage": "/assets/2024/10/20241017_usa2025/fbbt.jpg",
+            "mainImage": "/assets/2024/10/20241017_usa2025/flag.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241017_usa2025.en.md",
@@ -759,7 +773,7 @@
             "id": "2024-10-18-usa2025",
             "category": "2025-05-usa",
             "date": "2024-10-18",
-            "mainImage": "/assets/2024/10/20241018_usa2025/chicago.jpg",
+            "mainImage": "/assets/2024/10/20241018_usa2025/flag.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241018_usa2025.en.md",
@@ -832,11 +846,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241107_japan2025.en.md",
-                "title": "2 Weeks in Japan"
+                "title": "900$ for a Round Trip to Japan. Yes, Please!"
             }, {
                 "language": "fr",
                 "path": "2024/11/20241107_japan2025.fr.md",
-                "title": "2 semaines au Japon"
+                "title": "900$ pour un aller-retour au Japon. Oui, svp!"
             }]
         }, {
             "id": "2024-11-09-junebuvette",
@@ -851,6 +865,20 @@
                 "language": "fr",
                 "path": "2024/11/20241109_junebuvette.fr.md",
                 "title": "June Buvette"
+            }]
+        }, {
+            "id": "2024-11-10-beautys",
+            "category": "restaurant-reviews",
+            "date": "2024-11-10",
+            "mainImage": "/assets/2024/11/20241110_beautys/beautys.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241110_beautys.en.md",
+                "title": "Beauty's"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241110_beautys.fr.md",
+                "title": "Beauty's"
             }]
         }
     ]
