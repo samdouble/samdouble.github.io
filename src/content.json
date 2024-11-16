@@ -880,6 +880,34 @@
                 "path": "2024/11/20241110_beautys.fr.md",
                 "title": "Beauty's"
             }]
+        }, {
+            "id": "2024-11-10-japan2025",
+            "category": "2025-02-japan",
+            "date": "2024-11-10 18:00:00",
+            "mainImage": "/assets/2024/11/20241107_japan2025/flag.webp",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241110_japan2025.en.md",
+                "title": "Booking Hotels for Japan: So Many Choices!"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241110_japan2025.fr.md",
+                "title": "Réservation des hôtels pour le Japon: tellement de choix!"
+            }]
+        }, {
+            "id": "2024-11-12-coinfuji",
+            "category": "restaurant-reviews",
+            "date": "2024-11-12",
+            "mainImage": "/assets/2024/11/20241112_coinfuji/inside.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241112_coinfuji.en.md",
+                "title": "Fuji Corner"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241112_coinfuji.fr.md",
+                "title": "Coin de Fuji"
+            }]
         }
     ]
 }
