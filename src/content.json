@@ -908,6 +908,34 @@
                 "path": "2024/11/20241112_coinfuji.fr.md",
                 "title": "Coin de Fuji"
             }]
+        }, {
+            "id": "2024-11-13-caribou-gourmand",
+            "category": "restaurant-reviews",
+            "date": "2024-11-13",
+            "mainImage": "/assets/2024/11/20241113_caribou-gourmand/inside.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241113_caribou-gourmand.en.md",
+                "title": "Caribou Gourmand"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241113_caribou-gourmand.fr.md",
+                "title": "Caribou Gourmand"
+            }]
+        }, {
+            "id": "2024-11-15-heretic",
+            "category": "movie-reviews",
+            "date": "2024-11-15",
+            "mainImage": "/assets/2024/11/20241115_heretic/heretic.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241115_heretic.en.md",
+                "title": "Heretic"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241115_heretic.fr.md",
+                "title": "Heretic"
+            }]
         }
     ]
 }
