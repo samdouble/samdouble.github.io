@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2ccf640b.css",
-    "main.js": "/static/js/main.3c736677.js",
+    "main.js": "/static/js/main.7802daf8.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/2024-04-europe-07-day03.md": "/static/media/2024-04-europe-07-day03.e650ec18d19bb15f22c1.md",
     "static/media/2024-04-europe-06-day02.md": "/static/media/2024-04-europe-06-day02.fb2e3cbe1698ea7a3865.md",
@@ -19,15 +19,19 @@
     "static/media/2024-04-europe-15-day11.md": "/static/media/2024-04-europe-15-day11.63f3c63c29aad4e9b285.md",
     "static/media/2023-09-newfoundland-01-preparation.md": "/static/media/2023-09-newfoundland-01-preparation.d3ffd4be93838f5befea.md",
     "static/media/20241005_reacher2.en.md": "/static/media/20241005_reacher2.en.b1016806f0d67bbfbae4.md",
+    "static/media/20241115_heretic.fr.md": "/static/media/20241115_heretic.fr.c7b27a05b0268e5ce9cb.md",
     "static/media/20230902_newfoundland-day01.fr.md": "/static/media/20230902_newfoundland-day01.fr.2da768cfa876e733359f.md",
+    "static/media/20241112_coinfuji.fr.md": "/static/media/20241112_coinfuji.fr.95012c8d36656459d29f.md",
+    "static/media/20241115_heretic.en.md": "/static/media/20241115_heretic.en.b0180c86e8ade55785df.md",
     "static/media/2023-09-newfoundland-02-preparation.md": "/static/media/2023-09-newfoundland-02-preparation.0eac6378b8ec8741ba4e.md",
     "static/media/20241102_cartier-arms.fr.md": "/static/media/20241102_cartier-arms.fr.4d790bc678b123d0f406.md",
     "static/media/2024-04-europe-18-day14.md": "/static/media/2024-04-europe-18-day14.ba9ec8508228a88e0826.md",
-    "static/media/20241103_linfiltre.fr.md": "/static/media/20241103_linfiltre.fr.d4430efa020b8ce6b023.md",
     "static/media/20231001_equalizer3.fr.md": "/static/media/20231001_equalizer3.fr.de51353ce7056f18a2cb.md",
     "static/media/2024-04-europe-03-restaurants.md": "/static/media/2024-04-europe-03-restaurants.1c673674ab8a1882668a.md",
+    "static/media/20241103_linfiltre.fr.md": "/static/media/20241103_linfiltre.fr.07ff03750ba3dfc446a8.md",
     "static/media/20230902_newfoundland-day01.en.md": "/static/media/20230902_newfoundland-day01.en.71e545dafcab7154a455.md",
     "static/media/2024-04-europe-14-day10.md": "/static/media/2024-04-europe-14-day10.9af1d939606448118343.md",
+    "static/media/20241112_coinfuji.en.md": "/static/media/20241112_coinfuji.en.4d89de087d8c8f8d7a34.md",
     "static/media/20241102_cartier-arms.en.md": "/static/media/20241102_cartier-arms.en.8bb811b304fe663deb07.md",
     "static/media/20231001_equalizer3.en.md": "/static/media/20231001_equalizer3.en.cf0da366da39edab8e51.md",
     "static/media/2024-04-europe-20-day16.md": "/static/media/2024-04-europe-20-day16.ffc5eb9128f54b852f91.md",
@@ -37,14 +41,18 @@
     "static/media/20230330_john-wick4.fr.md": "/static/media/20230330_john-wick4.fr.8047f1911b742c25d730.md",
     "static/media/20230330_john-wick4.en.md": "/static/media/20230330_john-wick4.en.08a1e7b479eec028c8f9.md",
     "static/media/20241110_beautys.fr.md": "/static/media/20241110_beautys.fr.8cf49f802583ca5f4dc3.md",
+    "static/media/20241109_junebuvette.fr.md": "/static/media/20241109_junebuvette.fr.3793bd5402bb8678d0db.md",
+    "static/media/20241110_japan2025.fr.md": "/static/media/20241110_japan2025.fr.d7c009980c6b5779e9bc.md",
     "static/media/20241101_greasy-spoon.fr.md": "/static/media/20241101_greasy-spoon.fr.f439ae69707cff25ecf4.md",
     "static/media/20241103_linfiltre.en.md": "/static/media/20241103_linfiltre.en.3ea4b21f20d098c700a4.md",
     "static/media/20240819_react.en.md": "/static/media/20240819_react.en.55b18d88b254ad4990bd.md",
     "static/media/2023-09-newfoundland-05-day03.md": "/static/media/2023-09-newfoundland-05-day03.0485b77349ac2c589232.md",
     "static/media/20240802_tiradito.fr.md": "/static/media/20240802_tiradito.fr.eea7fb2cd64cf966afa5.md",
     "static/media/20241110_beautys.en.md": "/static/media/20241110_beautys.en.319290be57dbcd84a53f.md",
+    "static/media/20241109_junebuvette.en.md": "/static/media/20241109_junebuvette.en.e0c5e39afc0e81f0a490.md",
     "static/media/2023-04-portugal-01-preparation.md": "/static/media/2023-04-portugal-01-preparation.2be54127d789eb044e1c.md",
     "static/media/20241101_greasy-spoon.en.md": "/static/media/20241101_greasy-spoon.en.00118338fa456be52c24.md",
+    "static/media/20241110_japan2025.en.md": "/static/media/20241110_japan2025.en.5d0abdf9221cc4e927f4.md",
     "static/media/2024-04-europe-09-day05.md": "/static/media/2024-04-europe-09-day05.b3386c2ac7b044ce1d21.md",
     "static/media/2024-04-europe-17-day13.md": "/static/media/2024-04-europe-17-day13.5e5c3875327c427ae786.md",
     "static/media/20240802_tiradito.en.md": "/static/media/20240802_tiradito.en.1c843ad726c290ab153c.md",
@@ -87,11 +95,11 @@
     "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
     "main.2ccf640b.css.map": "/static/css/main.2ccf640b.css.map",
-    "main.3c736677.js.map": "/static/js/main.3c736677.js.map",
+    "main.7802daf8.js.map": "/static/js/main.7802daf8.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ccf640b.css",
-    "static/js/main.3c736677.js"
+    "static/js/main.7802daf8.js"
   ]
 }
