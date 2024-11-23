@@ -742,6 +742,16 @@
                 "title": "Reacher, saison 2"
             }]
         }, {
+            "id": "2024-10-09-moncoeur",
+            "category": "book-reviews",
+            "date": "2024-10-09",
+            "mainImage": "/assets/2024/10/20241009_moncoeur/cover.png",
+            "translation": [{
+                "language": "fr",
+                "path": "2024/10/20241009_moncoeur.fr.md",
+                "title": "Mon coeur a déménagé"
+            }]
+        }, {
             "id": "2024-10-16-bebedonge",
             "category": "book-reviews",
             "date": "2024-10-16",
@@ -935,6 +945,20 @@
                 "language": "fr",
                 "path": "2024/11/20241115_heretic.fr.md",
                 "title": "Heretic"
+            }]
+        }, {
+            "id": "2024-11-16-jacopo",
+            "category": "restaurant-reviews",
+            "date": "2024-11-16",
+            "mainImage": "/assets/2024/11/20241116_jacopo/jacopo.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241116_jacopo.en.md",
+                "title": "Jacopo"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241116_jacopo.fr.md",
+                "title": "Jacopo"
             }]
         }
     ]
