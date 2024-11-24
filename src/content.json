@@ -714,6 +714,20 @@
                 "title": "Pourquoi je suis passé de Jekyll à React pour ce site web"
             }]
         }, {
+            "id": "2024-08-30-monte-cristo",
+            "category": "movie-reviews",
+            "date": "2024-08-30",
+            "mainImage": "/assets/2024/08/20240830_monte-cristo/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2024/08/20240830_monte-cristo.en.md",
+                "title": "The Count of Monte Cristo"
+            }, {
+                "language": "fr",
+                "path": "2024/08/20240830_monte-cristo.fr.md",
+                "title": "Le comte de Monte Cristo"
+            }]
+        }, {
             "id": "2024-10-02-reacher",
             "category": "movie-reviews",
             "date": "2024-10-02",
@@ -959,6 +973,20 @@
                 "language": "fr",
                 "path": "2024/11/20241116_jacopo.fr.md",
                 "title": "Jacopo"
+            }]
+        }, {
+            "id": "2024-11-17-mtlatable",
+            "category": "restaurant-reviews",
+            "date": "2024-11-17",
+            "mainImage": "/assets/2024/11/20241117_mtlatable/image.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241117_mtlatable.en.md",
+                "title": "MTLàTABLE 2024 Recap"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241117_mtlatable.fr.md",
+                "title": "Récapitulatif de MTLàTABLE 2024"
             }]
         }
     ]
