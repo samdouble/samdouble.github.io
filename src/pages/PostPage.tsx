@@ -8,6 +8,7 @@ import { DateTime } from 'luxon';
 import Markdown from 'markdown-to-jsx';
 import { RootState } from 'store';
 import content from 'content.json';
+import ScoreToStars from 'components/ScoreToStars';
 import './styles.css';
 
 function PostPage() {
@@ -42,6 +43,15 @@ function PostPage() {
           <Col lg={12}>
             <h2>{postLanguageInfo?.title}</h2>
             <p>{date?.toRelative()}</p>
+            {
+              post.score !== undefined && (
+                <p>
+                  <ScoreToStars
+                    score={post.score}
+                  />
+                </p>
+              )
+            }
             <Markdown>{text}</Markdown>
           </Col>
         </Row>
