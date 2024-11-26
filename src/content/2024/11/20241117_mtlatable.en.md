@@ -1,4 +1,4 @@
-In this post, I'm recapping my MTLàTABLE 2024 experience. This is the year where I tried the most restaurants, with 5. Since they were all in the same price range ($50), it's quite easy to compare them directly based on the quality of the meal and service.
+This post is a recap of my MTLàTABLE 2024 experience. This is the year where I tried the most restaurants, with 5. Since they were all in the same price range ($50), it's quite easy to compare them directly based on the quality of the meal and service.
 
 #### #1 Caribou Gourmand
 
@@ -25,7 +25,7 @@ I had a good meal at Greasy Spoon. The service was impeccable, and I ate well. M
 **3 courses, weekend evening**  
 Like Greasy Spoon, I felt I could have eaten what I had at Jacopo for the same price at any other time of the year, which is unfortunate. Add to that the fairly high expectations I had knowing it was ranked #5 out of nearly 7,000 restaurants in Montréal on TripAdvisor. At the same time, on TripAdvisor, these are mainly tourist reviews, so it's easy to imagine that the ranking is favorably biased towards restaurants located in the Old Port.
 
-The food itself was good, but I expected more for $50 at MTLàTABLE. The service was decent, although the wait for the main course was too long and stood out from the rest of my experience at the event. Jacopo was the last of the 5 I did this year, and across all services at the four previous restaurants, I couldn't remember having to wait more than 20-25 minutes for a plate. In short, I'm glad I tried Jacopo, but I prefer to leave it to travelers from around the world, who will appreciate it better than I did.
+The food itself was good, but I expected more for $50 at MTLàTABLE. The service was decent, although the wait for the main course was too long and stood out from the rest of my experience at the event. Jacopo was the last of the 5 restaurants I did this year, and across all services at the 4 previous ones, I couldn't remember having to wait more than 20-25 minutes for a dish. In short, I'm glad I tried Jacopo, but I prefer to leave it to travelers from around the world, who will appreciate it better than I did.
 
 #### Conclusion
 

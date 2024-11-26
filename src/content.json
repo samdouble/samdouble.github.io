@@ -671,6 +671,7 @@
             "category": "restaurant-reviews",
             "date": "2024-07-12",
             "mainImage": "/assets/restaurants/20240712_knuckles/restaurant.png",
+            "score": 4,
             "translation": [{
                 "language": "fr",
                 "path": "restaurants/2024-07-12-knuckles.md",
@@ -681,6 +682,7 @@
             "category": "restaurant-reviews",
             "date": "2024-07-19",
             "mainImage": "/assets/restaurants/20240719_taverne-atlantic/restaurant.jpg",
+            "score": 4.5,
             "translation": [{
                 "language": "fr",
                 "path": "restaurants/2024-07-19-taverne-atlantic.md",
@@ -691,6 +693,7 @@
             "category": "restaurant-reviews",
             "date": "2024-08-02",
             "mainImage": "/assets/2024/08/20240802_tiradito/restaurant.jpg",
+            "score": 4,
             "translation": [{
                 "language": "en",
                 "path": "2024/08/20240802_tiradito.en.md",
@@ -718,6 +721,7 @@
             "category": "movie-reviews",
             "date": "2024-08-30",
             "mainImage": "/assets/2024/08/20240830_monte-cristo/image.png",
+            "score": 5,
             "translation": [{
                 "language": "en",
                 "path": "2024/08/20240830_monte-cristo.en.md",
@@ -732,6 +736,7 @@
             "category": "movie-reviews",
             "date": "2024-10-02",
             "mainImage": "/assets/2024/10/20241002_reacher/reacher.png",
+            "score": 5,
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241002_reacher.en.md",
@@ -746,6 +751,7 @@
             "category": "movie-reviews",
             "date": "2024-10-05",
             "mainImage": "/assets/2024/10/20241005_reacher2/reacher2.png",
+            "score": 3,
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241005_reacher2.en.md",
@@ -760,6 +766,7 @@
             "category": "book-reviews",
             "date": "2024-10-09",
             "mainImage": "/assets/2024/10/20241009_moncoeur/cover.png",
+            "score": 4,
             "translation": [{
                 "language": "fr",
                 "path": "2024/10/20241009_moncoeur.fr.md",
@@ -770,6 +777,7 @@
             "category": "book-reviews",
             "date": "2024-10-16",
             "mainImage": "/assets/2024/10/20241016_bebedonge/cover.jpg",
+            "score": 3,
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241016_bebedonge.en.md",
@@ -825,6 +833,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-01",
             "mainImage": "/assets/2024/11/20241101_greasy-spoon/inside.jpg",
+            "score": 4,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241101_greasy-spoon.en.md",
@@ -839,6 +848,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-02",
             "mainImage": "/assets/2024/11/20241102_cartier-arms/cartier-arms.jpg",
+            "score": 4.5,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241102_cartier-arms.en.md",
@@ -853,6 +863,7 @@
             "category": "book-reviews",
             "date": "2024-11-03",
             "mainImage": "/assets/2024/11/20241103_linfiltre/book.jpg",
+            "score": 3.5,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241103_linfiltre.en.md",
@@ -881,6 +892,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-09",
             "mainImage": "/assets/2024/11/20241109_junebuvette/inside.jpg",
+            "score": 4.5,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241109_junebuvette.en.md",
@@ -895,6 +907,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-10",
             "mainImage": "/assets/2024/11/20241110_beautys/beautys.jpg",
+            "score": 4,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241110_beautys.en.md",
@@ -923,6 +936,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-12",
             "mainImage": "/assets/2024/11/20241112_coinfuji/inside.jpg",
+            "score": 2,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241112_coinfuji.en.md",
@@ -937,6 +951,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-13",
             "mainImage": "/assets/2024/11/20241113_caribou-gourmand/inside.jpg",
+            "score": 5,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241113_caribou-gourmand.en.md",
@@ -951,6 +966,7 @@
             "category": "movie-reviews",
             "date": "2024-11-15",
             "mainImage": "/assets/2024/11/20241115_heretic/heretic.jpg",
+            "score": 4.5,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241115_heretic.en.md",
@@ -965,6 +981,7 @@
             "category": "restaurant-reviews",
             "date": "2024-11-16",
             "mainImage": "/assets/2024/11/20241116_jacopo/jacopo.jpg",
+            "score": 3.5,
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241116_jacopo.en.md",

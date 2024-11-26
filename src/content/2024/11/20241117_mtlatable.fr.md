@@ -1,4 +1,4 @@
-Dans ce post, je fais un récapitulatif de mon expérience MTLàTABLE 2024. C'est l'année où j'ai essayé le plus de restaurants, avec 5. Comme ils étaient tous sur la même échelle de prix (50$), c'est assez facile de les comparer directement par la qualité du repas et du service.
+Ce post est un récapitulatif de mon expérience MTLàTABLE 2024. C'est l'année où j'ai essayé le plus de restaurants, avec 5. Comme ils étaient tous sur la même échelle de prix (50$), c'est assez facile de les comparer directement par la qualité du repas et du service.
 
 #### #1 Caribou Gourmand
 
@@ -25,7 +25,7 @@ J'ai eu un bon repas au Greasy Spoon. Le service était irréprochable et j'ai b
 ** 3 services, soir de fin de semaine **  
 À l'instar du Greasy Spoon, j'ai eu l'impression que j'aurais pu manger ce que j'ai mangé au Jacopo pour le même prix à n'importe quel autre moment de l'année, ce qui est dommage. S'ajoutent à cela les attentes assez élevées que j'avais en sachant qu'il était classé #5 de près de 7000 restaurants à Montréal sur TripAdvisor. En même temps, sur TripAdvisor, ce sont principalement des évaluations de touristes, donc c'est facile d'imaginer que le classement est favorablement biaisé pour les restaurants situés dans le Vieux-Port.
 
-La nourriture en tant que tel était bonne, mais je m'attendais à plus pour 50$ à MTLàTABLE. Le service était correct, bien que l'attente pour le plat principal était trop longue et détonnait du reste de mon expérience à l'évènement. Le Jacopo était le dernier des 5 que j'ai faits cette année et sur tous les services aux quatre restaurants précédents, je ne me souvenais pas d'avoir dû attendre plus que 20-25 minutes pour une assiette. En bref, je suis content d'avoir essayé le Jacopo, mais je préfère le laisser aux voyageurs du monde entier, qui sauront l'apprécier mieux que moi.
+La nourriture en tant que tel était bonne, mais je m'attendais à plus pour 50$ à MTLàTABLE. Le service était correct, bien que l'attente pour le plat principal était trop longue et détonnait du reste de mon expérience à l'évènement. Le Jacopo était le dernier des 5 restaurants que j'ai faits cette année et sur tous les services aux 4 précédents, je ne me souvenais pas d'avoir dû attendre plus que 20-25 minutes pour une assiette. En bref, je suis content d'avoir essayé le Jacopo, mais je préfère le laisser aux voyageurs du monde entier, qui sauront l'apprécier mieux que moi.
 
 #### Conclusion
 
