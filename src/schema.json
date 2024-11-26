@@ -1,0 +1,23 @@
+{
+  "type": "object",
+  "discriminator": {
+    "propertyName": "foo"
+  },
+  "required": ["foo"],
+  "oneOf": [
+    {
+      "properties": {
+        "foo": { "const": "x" },
+        "a": { "type": "string" }
+      },
+      "required": ["a"]
+    },
+    {
+      "properties": {
+        "foo": { "enum": ["y", "z"] },
+        "b": { "type": "string" }
+      },
+      "required": ["b"]
+    }
+  ]
+}
