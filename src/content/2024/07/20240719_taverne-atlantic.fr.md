@@ -1,4 +1,4 @@
-Hello Taverne Atlantic
+TODO
 
 ![Terrasse](/assets/2024/07/20240719_taverne-atlantic/restaurant.jpg)
 

@@ -13,7 +13,7 @@ En deuxième position, le Pub Cartier Arms dans le Vieux-Montréal. Bonne ambian
 #### #3 June Buvette
 
 ** 4 services, soir de fin de semaine **  
-Au milieu du peloton se trouve le June Buvette, ce qui semble être une position un peu injuste étant donné la qualité du repas que j'y ai eu. Je pense que cette position témoigne plus de ma satisfaction par rapport au Caribou Gourmand et au Pub Cartier Arms que de quoi que ce soit d'autre. En réalité, le seul point négatif par rapport à ma soirée au June Buvette, c'est que j'avais encore un peu faim en sortant. Par contre, tout ce que j'y ai mangé était savoureux et en étant assis directement au bar, j'ai pu profiter d'un très bon service (que j'aurais probablement eu si j'avais été assis n'importe où ailleurs, de toute façon).
+Au milieu du peloton se trouve le June Buvette. A priori, ça semble être une position un peu injuste étant donné la qualité du repas que j'y ai eu, mais ça témoigne plus de ma satisfaction par rapport au Caribou Gourmand et au Pub Cartier Arms que de quoi que ce soit d'autre. En réalité, le seul point négatif par rapport à ma soirée au June Buvette, c'est que j'avais encore un peu faim en sortant. Par contre, tout ce que j'y ai mangé était savoureux et en étant assis directement au bar, j'ai pu profiter d'un très bon service (que j'aurais probablement eu si j'avais été assis n'importe où ailleurs, de toute façon).
 
 #### #4 Greasy Spoon
 

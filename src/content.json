@@ -670,22 +670,30 @@
             "id": "2024-07-12-knuckles",
             "category": "restaurant-reviews",
             "date": "2024-07-12",
-            "mainImage": "/assets/restaurants/20240712_knuckles/restaurant.png",
+            "mainImage": "/assets/2024/07/20240712_knuckles/restaurant.png",
             "score": 4,
             "translation": [{
+                "language": "en",
+                "path": "2024/07/20240712_knuckles.en.md",
+                "title": "Knuckles"
+            }, {
                 "language": "fr",
-                "path": "restaurants/2024-07-12-knuckles.md",
+                "path": "2024/07/20240712_knuckles.fr.md",
                 "title": "Knuckles"
             }]
         }, {
             "id": "2024-07-19-taverne-atlantic",
             "category": "restaurant-reviews",
             "date": "2024-07-19",
-            "mainImage": "/assets/restaurants/20240719_taverne-atlantic/restaurant.jpg",
+            "mainImage": "/assets/2024/07/20240719_taverne-atlantic/restaurant.jpg",
             "score": 4.5,
             "translation": [{
+                "language": "en",
+                "path": "2024/07/20240719_taverne-atlantic.en.md",
+                "title": "Taverne Atlantic"
+            }, {
                 "language": "fr",
-                "path": "restaurants/2024-07-19-taverne-atlantic.md",
+                "path": "2024/07/20240719_taverne-atlantic.fr.md",
                 "title": "Taverne Atlantic"
             }]
         }, {

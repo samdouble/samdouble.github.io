@@ -13,7 +13,7 @@ In second place, Pub Cartier Arms in Old Montréal. Great atmosphere with the vi
 #### #3 June Buvette
 
 **4 courses, weekend evening**  
-In the middle of the pack is June Buvette, which seems like a somewhat unfair position given the quality of the meal I had there. I think this position reflects more my satisfaction with Caribou Gourmand and Pub Cartier Arms than anything else. In reality, the only negative point about my evening at June Buvette was that I was still a bit hungry when leaving. However, everything I ate was delicious, and being seated directly at the bar, I enjoyed excellent service (which I probably would have had sitting anywhere else, anyway).
+In the middle of the pack is June Buvette. It seems like a somewhat unfair position given the quality of the meal I had there, but it's more reflective of my satisfaction with Caribou Gourmand and Pub Cartier Arms than anything else. In reality, the only negative point about my evening at June Buvette was that I was still a bit hungry when leaving. However, everything I ate was delicious, and being seated directly at the bar, I enjoyed excellent service (which I probably would have had sitting anywhere else, anyway).
 
 #### #4 Greasy Spoon
 
