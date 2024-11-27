@@ -1,23 +1,73 @@
 {
   "type": "object",
-  "discriminator": {
-    "propertyName": "foo"
-  },
-  "required": ["foo"],
-  "oneOf": [
-    {
-      "properties": {
-        "foo": { "const": "x" },
-        "a": { "type": "string" }
-      },
-      "required": ["a"]
+  "properties": {
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "discriminator": {
+          "propertyName": "parent"
+        },
+        "oneOf": [
+          {
+            "$ref": "#/definitions/category",
+            "properties": {
+              "parent": { "type": ["null", "undefined"] }
+            },
+            "required": [
+              "id",
+              "translation"
+            ]
+          },
+          {
+            "$ref": "#/definitions/category",
+            "properties": {
+              "date": { "type": "string" },
+              "mainImage": { "type": "string" },
+              "parent": { "type": "string" }
+            },
+            "required": [
+              "date",
+              "id",
+              "mainImage",
+              "parent",
+              "translation"
+            ]
+          }
+        ]
+      }
     },
-    {
-      "properties": {
-        "foo": { "enum": ["y", "z"] },
-        "b": { "type": "string" }
-      },
-      "required": ["b"]
+    "posts": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
     }
-  ]
+  },
+  "required": ["categories"],
+  "definitions": {
+    "category": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "translation": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "language": {
+                "type": "string",
+                "pattern": "^(en|fr)$"
+              },
+              "title": {
+                "type": "string",
+                "maxLength": 64
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }
