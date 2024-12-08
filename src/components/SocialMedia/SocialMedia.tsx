@@ -39,6 +39,11 @@ const icons = [
     image: '/assets/icons/docker.webp',
     name: 'Docker',
   },
+  {
+    link: 'https://www.kaggle.com/samdouble',
+    image: '/assets/icons/kaggle.webp',
+    name: 'Kaggle',
+  },
 ];
 
 function SocialMedia() {
