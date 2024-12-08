@@ -1013,6 +1013,21 @@
                 "path": "2024/11/20241117_mtlatable.fr.md",
                 "title": "Récapitulatif de MTLàTABLE 2024"
             }]
+        }, {
+            "id": "2024-12-01-maniaque",
+            "category": "book-reviews",
+            "date": "2024-12-01",
+            "mainImage": "/assets/2024/12/20241201_maniaque/cover.png",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2024/12/20241201_maniaque.en.md",
+                "title": "Victims"
+            }, {
+                "language": "fr",
+                "path": "2024/12/20241201_maniaque.fr.md",
+                "title": "Un maniaque dans la ville"
+            }]
         }
     ]
 }

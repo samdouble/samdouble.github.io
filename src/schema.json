@@ -8,11 +8,11 @@
         "discriminator": {
           "propertyName": "parent"
         },
-        "oneOf": [
+        "anyOf": [
           {
             "$ref": "#/definitions/category",
             "properties": {
-              "parent": { "type": ["null", "undefined"] }
+              "parent": { "type": "null" }
             },
             "required": [
               "id",
