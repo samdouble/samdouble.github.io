@@ -740,6 +740,36 @@
                 "title": "Le comte de Monte Cristo"
             }]
         }, {
+            "id": "2024-09-17-speak-no-evil",
+            "category": "movie-reviews",
+            "date": "2024-09-17",
+            "mainImage": "/assets/2024/09/20240917_speak-no-evil/image.jpg",
+            "score": 5,
+            "translation": [{
+                "language": "en",
+                "path": "2024/09/20240917_speak-no-evil.en.md",
+                "title": "Speak No Evil"
+            }, {
+                "language": "fr",
+                "path": "2024/09/20240917_speak-no-evil.fr.md",
+                "title": "Ne dis rien"
+            }]
+        }, {
+            "id": "2024-09-22-amiracist",
+            "category": "movie-reviews",
+            "date": "2024-09-22",
+            "mainImage": "/assets/2024/09/20240922_amiracist/cover.png",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2024/09/20240922_amiracist.en.md",
+                "title": "Am I Racist?"
+            }, {
+                "language": "fr",
+                "path": "2024/09/20240922_amiracist.fr.md",
+                "title": "Am I Racist?"
+            }]
+        }, {
             "id": "2024-10-02-reacher",
             "category": "movie-reviews",
             "date": "2024-10-02",
@@ -1014,6 +1044,21 @@
                 "title": "Récapitulatif de MTLàTABLE 2024"
             }]
         }, {
+            "id": "2024-11-23-artigiani",
+            "category": "restaurant-reviews",
+            "date": "2024-11-23",
+            "mainImage": "/assets/2024/11/20241123_artigiani/inside2.jpg",
+            "score": 5,
+            "translation": [{
+                "language": "en",
+                "path": "2024/11/20241123_artigiani.en.md",
+                "title": "Pizzeria Artigiani"
+            }, {
+                "language": "fr",
+                "path": "2024/11/20241123_artigiani.fr.md",
+                "title": "Pizzeria Artigiani"
+            }]
+        }, {
             "id": "2024-12-01-maniaque",
             "category": "book-reviews",
             "date": "2024-12-01",
@@ -1027,6 +1072,21 @@
                 "language": "fr",
                 "path": "2024/12/20241201_maniaque.fr.md",
                 "title": "Un maniaque dans la ville"
+            }]
+        }, {
+            "id": "2024-12-06-permanently-suspended",
+            "category": "book-reviews",
+            "date": "2024-12-06",
+            "mainImage": "/assets/2024/12/20241206_permanently-suspended/cover.png",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2024/12/20241206_permanently-suspended.en.md",
+                "title": "Permanently Suspended"
+            }, {
+                "language": "fr",
+                "path": "2024/12/20241206_permanently-suspended.fr.md",
+                "title": "Permanently Suspended"
             }]
         }
     ]
