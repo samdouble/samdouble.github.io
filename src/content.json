@@ -1074,19 +1074,34 @@
                 "title": "Un maniaque dans la ville"
             }]
         }, {
-            "id": "2024-12-06-permanently-suspended",
+            "id": "2024-12-04-permanently-suspended",
             "category": "book-reviews",
-            "date": "2024-12-06",
-            "mainImage": "/assets/2024/12/20241206_permanently-suspended/cover.png",
+            "date": "2024-12-04",
+            "mainImage": "/assets/2024/12/20241204_permanently-suspended/cover.png",
             "score": 4,
             "translation": [{
                 "language": "en",
-                "path": "2024/12/20241206_permanently-suspended.en.md",
+                "path": "2024/12/20241204_permanently-suspended.en.md",
                 "title": "Permanently Suspended"
             }, {
                 "language": "fr",
-                "path": "2024/12/20241206_permanently-suspended.fr.md",
+                "path": "2024/12/20241204_permanently-suspended.fr.md",
                 "title": "Permanently Suspended"
+            }]
+        }, {
+            "id": "2024-12-06-our-little-secret",
+            "category": "movie-reviews",
+            "date": "2024-12-06",
+            "mainImage": "/assets/2024/12/20241206_our-little-secret/image.jpg",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2024/12/20241206_our-little-secret.en.md",
+                "title": "Our Little Secret"
+            }, {
+                "language": "fr",
+                "path": "2024/12/20241206_our-little-secret.fr.md",
+                "title": "Our Little Secret"
             }]
         }
     ]
