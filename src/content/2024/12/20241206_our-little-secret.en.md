@@ -1,4 +1,4 @@
-Our Little Secret isn't the type of movie I would have watched on my own (as a matter of fact, I don't have Netflix), but I found it surprisingly good. Obviously, no surprise, it's a classic Christmas movie where everything ends well for everyone, even the pretentious "mean" mother-in-law.
+Our Little Secret isn't the type of movie I would have watched on my own (as a matter of fact, I don't have a Netflix subscription), but I found it surprisingly good. Obviously, no surprise, it's a classic Christmas movie where everything ends well for everyone, even the pretentious and "mean" mother-in-law.
 
 The opening scene was ridiculous and didn't bode well for the rest of the movie. Fortunately, it was the worst scene of all and it only got better from there. The story begins when Logan, at a Christmas party with his girlfriend Avery's family, gets down on one knee to propose. Despite subtle but obvious signs from Avery and 2-3 other people that he should get up and move on, Logan still decides to go ahead with his marriage proposal. It ends as one might expect and an argument immediately breaks out. This is how Logan and Avery's relationship ends.
 
