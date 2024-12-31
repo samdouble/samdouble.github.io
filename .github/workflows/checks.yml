@@ -1,11 +1,6 @@
 name: Checks
-on:
-  pull_request:
-    branches:
-      - '*'
-  push:
-    branches:
-      - master
+
+on: [pull_request]
 
 permissions:
   contents: read
@@ -22,7 +17,7 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: '22.9.0'
+          node-version: 22.9.0
       - name: Validate content.json
         uses: docker://orrosenblatt/validate-json-action:latest
         env:

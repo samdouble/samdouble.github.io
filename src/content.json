@@ -1103,6 +1103,21 @@
                 "path": "2024/12/20241206_our-little-secret.fr.md",
                 "title": "Our Little Secret"
             }]
+        }, {
+            "id": "2024-12-13-virunga",
+            "category": "restaurant-reviews",
+            "date": "2024-12-13",
+            "mainImage": "/assets/2024/12/20241213_virunga/virunga.jpg",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2024/12/20241213_virunga.en.md",
+                "title": "Le Virunga"
+            }, {
+                "language": "fr",
+                "path": "2024/12/20241213_virunga.fr.md",
+                "title": "Le Virunga"
+            }]
         }
     ]
 }
