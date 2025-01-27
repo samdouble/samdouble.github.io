@@ -1,0 +1,9 @@
+Every Falling Star is the autobiography of Sungju Lee, a North Korean who managed to escape his country at the age of 17.
+
+The book tells the story of how one day, when he was still a child, his family had to suddenly leave Pyongyang (the capital city) because his father, who had been a general in the army, was no longer in the government's good graces. To save face in front of Sungju, his parents initially used vacation as a pretext for the move. At first, the lie was believable; in Gyeong-seong, despite the decrepit appearance of their new house, the family enjoyed for some time the wealth they had been able to bring from Pyongyang. As the weeks passed, it became increasingly clear to Sungju that the "vacation" would be permanent and that his family was falling into the same poverty as his neighbors and classmates. Meals became frugal and his parents' physical appearance changed visibly.
+
+To prevent his family from starving, his father announced that he was leaving for a week to find work in China, but never returned. A few weeks later, it was his mother's turn to disappear, who was supposed to go look for food in another city. Left to survive on his own, Sungju dropped out of school and formed a "kotjebi" gang with other children his age where they begged, sang in public places, and stole from people in the markets. For years, his gang and he wandered from town to town where they confronted other gangs to earn their right to stay.
+
+Every Falling Star paints an even worse picture than what I had imagined of North Korea, and the bar was already quite low. As described in the book, people are either in forced adoration of the "supreme leader" and material comfort of Pyongyang, or in extreme poverty and total disillusion.
+
+The story was interesting and not heavy to read, despite the subject matter being heavy. It certainly provided much to reflect on during the Christmas holidays, where food was abundant.

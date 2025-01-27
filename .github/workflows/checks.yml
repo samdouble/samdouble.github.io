@@ -1,0 +1,48 @@
+name: Checks
+
+on: [pull_request]
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Commitlint
+        uses: wagoid/commitlint-github-action@v6
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.9.0
+      - name: Validate content.json
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./src/schema.json
+          INPUT_JSONS: ./src/content.json
+      - name: Check file size
+        uses: freenet-actions/check-file-size@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: public
+          max_size: 1000
+          fail_on_find: true
+          post_comment: true
+      - name: Install
+        run: |
+          npm install
+      - name: Lint
+        run: |
+          npm run lint
+      - name: Audit
+        run: |
+          npm run audit -- --moderate=2 --high=6
+      - name: Test
+        run: |
+          npm test
+      - name: Build
+        run: |
+          npm run build
