@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.container-fluid {
+  margin-top: 30px;
+  text-align: left;
+}
+
+h2, h3, h4 {
+  font-weight: bold;
+}
