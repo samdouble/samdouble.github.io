@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-01-27)
+
+
+### Features
+
+* imported project ([4945400](https://github.com/samdouble/samdouble.github.io/commit/49454007398b750041d6b39ecf719e4a587899cc))
+
 ## [1.2.0](https://github.com/samdouble/samdouble.github.io/compare/v1.1.0...v1.2.0) (2025-01-05)
 
 
