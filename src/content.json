@@ -1237,6 +1237,21 @@
                 "path": "2025/01/20250125_brutalist.fr.md",
                 "title": "Le brutaliste"
             }]
+        }, {
+            "id": "2025-01-29-flight-risk",
+            "category": "movie-reviews",
+            "date": "2025-01-29",
+            "mainImage": "/assets/2025/01/20250129_flight-risk/image.png",
+            "score": 3,
+            "translation": [{
+                "language": "en",
+                "path": "2025/01/20250129_flight-risk.en.md",
+                "title": "Flight Risk"
+            }, {
+                "language": "fr",
+                "path": "2025/01/20250129_flight-risk.fr.md",
+                "title": "Vol à haut risque"
+            }]
         }
     ]
 }
