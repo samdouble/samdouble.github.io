@@ -5,7 +5,7 @@ Quelques années plus tard, Laszlo n'est plus en bons termes avec Attila, vit av
 
 Il y a eu une pause de 20 minutes où les gens ont pu aller se dégourdir les jambes. À ce point-ci, il ne s'était pas passé grand-chose, mais les personnages étaient suffisamment intéressants pour laisser entrevoir une bonne deuxième moitié.
 
-Au début de la deuxième partie, Laszlo, qui habite dans le manoir des Van Buren, va chercher Erzsebet et Zsofia à la station de train. Les connexions politiques de Van Buren ont rendu possible leur immigration aux États-Unis. 
+Au début de la deuxième partie, Laszlo, qui habite dans le manoir des Van Buren, va chercher Erzsebet et Zsofia à la station de train. Les connexions politiques de Van Buren ont rendu possible leur arrivée aux États-Unis. 
 
 Le film était trop long pour ce qu'il s'y passait. La deuxième partie n'a pas réussi à justifier la longue mise en place
 
