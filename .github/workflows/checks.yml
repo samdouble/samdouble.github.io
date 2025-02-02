@@ -23,14 +23,14 @@ jobs:
         env:
           INPUT_SCHEMA: ./src/schema.json
           INPUT_JSONS: ./src/content.json
-      #- name: Check file size
-      #  uses: freenet-actions/check-file-size@v1
-      #  with:
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
-      #    directory: public
-      #    max_size: 1000
-      #    fail_on_find: true
-      #    post_comment: true
+      - name: Check file size
+        uses: freenet-actions/check-file-size@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          directory: public
+          max_size: 1000
+          fail_on_find: true
+          post_comment: true
       - name: Install
         run: |
           npm install
