@@ -31,6 +31,8 @@ jobs:
           max_size: 1000
           fail_on_find: true
           post_comment: true
+          ignored_files: |
+            **/*.xcf
       - name: Install
         run: |
           npm install
