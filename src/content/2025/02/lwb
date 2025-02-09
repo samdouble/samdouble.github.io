@@ -1,0 +1,5 @@
+https://dev.to/henriquejensen/migrating-from-create-react-app-to-vite-a-quick-and-easy-guide-5e72
+
+Débarrassé de CRA (à l'abandon) et de Craco
+option --host
+NODE_ENV remplacé

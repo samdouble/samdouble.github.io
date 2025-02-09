@@ -84,3 +84,8 @@ kirè                                    propre et beau
 totèmo                                  très
 
 shoushinn wa doko dèss ka?              D'où venez-vous?
+haha                                    Maman
+tchitchi                                Papa
+Kazoku                                  Famille
+issogatchi                              occupé
+ènnjènia                                ingénieur

@@ -65,7 +65,7 @@
         }, {
             "id": "2021-07-vancouver",
             "date": "2021-07-09",
-            "mainImage": "/assets/trips/202107_vancouver/vancouver_flag.svg",
+            "mainImage": "/assets/2021/07/20210709_vancouver/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -77,7 +77,7 @@
         }, {
             "id": "2022-03-neworleans",
             "date": "2022-03-08",
-            "mainImage": "/assets/trips/202203_neworleans/neworleans_flag.png",
+            "mainImage": "/assets/2022/03/20220308_neworleans/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -89,7 +89,7 @@
         }, {
             "id": "2022-08-alberta",
             "date": "2022-08-26",
-            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "mainImage": "/assets/2022/08/20220826_alberta/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -101,7 +101,7 @@
         }, {
             "id": "2023-04-portugal",
             "date": "2023-04-21",
-            "mainImage": "/assets/trips/202304_portugal/portugal_flag.png",
+            "mainImage": "/assets/2023/04/20230421_portugal/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -113,7 +113,7 @@
         }, {
             "id": "2023-09-newfoundland",
             "date": "2023-09-02",
-            "mainImage": "/assets/trips/202304_newfoundland/newfoundland_flag.png",
+            "mainImage": "/assets/2023/09/20230902_newfoundland/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -125,7 +125,7 @@
         }, {
             "id": "2024-04-europe",
             "date": "2024-04-11",
-            "mainImage": "/assets/trips/202404_europe/europe_flag.png",
+            "mainImage": "/assets/2024/04/20240411_europe/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -137,7 +137,7 @@
         }, {
             "id": "2025-02-japan",
             "date": "2025-03-01",
-            "mainImage": "/assets/2024/11/20241107_japan2025/flag.webp",
+            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -149,7 +149,7 @@
         }, {
             "id": "2025-05-usa",
             "date": "2025-05-11",
-            "mainImage": "/assets/trips/202505_usa/europe_flag.png",
+            "mainImage": "/assets/2024/10/20241018_usa2025/map.png",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -179,7 +179,7 @@
             "id": "2022-03-neworleans-01",
             "category": "2022-03-neworleans",
             "date": "2022-01-01",
-            "mainImage": "/assets/trips/202203_neworleans/neworleans_flag.png",
+            "mainImage": "/assets/2022/03/20220308_neworleans/map.png",
             "translation": [{
                 "language": "fr",
                 "path": "2022/03/20220301_neworleans.md",
@@ -203,7 +203,7 @@
             "id": "2022-08-alberta-01",
             "category": "2022-08-alberta",
             "date": "2022-05-01",
-            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "mainImage": "/assets/2022/08/20220826_alberta/map.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202208_alberta/2022-08-alberta-01-preparation.md",
@@ -213,7 +213,7 @@
             "id": "2022-08-alberta-02",
             "category": "2022-08-alberta",
             "date": "2022-08-26",
-            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "mainImage": "/assets/2022/08/20220826_alberta/map.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202208_alberta/2022-08-alberta-02-day01.md",
@@ -223,7 +223,7 @@
             "id": "2022-08-alberta-03",
             "category": "2022-08-alberta",
             "date": "2022-08-27",
-            "mainImage": "/assets/trips/202208_alberta/alberta_flag.png",
+            "mainImage": "/assets/2022/08/20220826_alberta/map.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202208_alberta/2022-08-alberta-03-day02.md",
@@ -247,7 +247,7 @@
             "id": "2023-04-portugal-01",
             "category": "2023-04-portugal",
             "date": "2023-04-21",
-            "mainImage": "/assets/trips/202304_portugal/portugal_flag.png",
+            "mainImage": "/assets/2023/04/20230421_portugal/map.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202304_portugal/2023-04-portugal-01-preparation.md",
@@ -846,7 +846,7 @@
             "id": "2024-10-17-usa2025",
             "category": "2025-05-usa",
             "date": "2024-10-17",
-            "mainImage": "/assets/2024/10/20241017_usa2025/flag.jpg",
+            "mainImage": "/assets/2024/10/20241017_usa2025/map.png",
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241017_usa2025.en.md",
@@ -860,7 +860,7 @@
             "id": "2024-10-18-usa2025",
             "category": "2025-05-usa",
             "date": "2024-10-18",
-            "mainImage": "/assets/2024/10/20241018_usa2025/flag.jpg",
+            "mainImage": "/assets/2024/10/20241018_usa2025/map.png",
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241018_usa2025.en.md",
@@ -932,7 +932,7 @@
             "id": "2024-11-07-japan2025",
             "category": "2025-02-japan",
             "date": "2024-11-07",
-            "mainImage": "/assets/2024/11/20241107_japan2025/flag.webp",
+            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241107_japan2025.en.md",
@@ -976,7 +976,7 @@
             "id": "2024-11-10-japan2025",
             "category": "2025-02-japan",
             "date": "2024-11-10 18:00:00",
-            "mainImage": "/assets/2024/11/20241107_japan2025/flag.webp",
+            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
             "translation": [{
                 "language": "en",
                 "path": "2024/11/20241110_japan2025.en.md",
