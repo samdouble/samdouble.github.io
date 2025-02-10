@@ -15,7 +15,7 @@ This is a small application to export a comic book in PDF format from an XML con
 
 Run the following command:
 
-```
+```sh
 npm install
 ```
 
@@ -23,7 +23,7 @@ npm install
 
 Run the following command:
 
-```
+```sh
 npm test
 ```
 
@@ -31,7 +31,7 @@ npm test
 
 Run the following command:
 
-```
+```sh
 npm start
 ```
 

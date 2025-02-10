@@ -67,7 +67,7 @@ Réservé activité à Hiroshima
 
 
 
-yo-okosso                                 bienvenue
+yo-okosso                               bienvenue
 o nama è wa                             quel est votre nom?
 watashi wa ... dèss                     Je suis ...
 ha dji mèmashi tè                       Ravi de vous rencontrer (à une personne qu'on rencontre la 1ère fois)
