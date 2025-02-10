@@ -6,7 +6,7 @@ import Table from 'react-bootstrap/Table';
 import Icon from 'components/Icon';
 import { RootState } from 'store';
 import { Category, Post } from 'utils/types';
-import content from 'content.json';
+import content from '@/content.json';
 
 interface PostsListProps {
   posts: Post[];

@@ -8,7 +8,7 @@ import Pagination from 'react-bootstrap/Pagination';
 import { RootState } from 'store';
 import PostsList from 'components/PostsList';
 import { Post } from 'utils/types';
-import content from 'content.json';
+import content from '@/content.json';
 import './styles.css';
 
 const nbPostsPerPage = 10;
