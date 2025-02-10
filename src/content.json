@@ -1289,6 +1289,17 @@
                 "path": "2025/01/20250131_affaires-droite.fr.md",
                 "title": "Affaires d'état - Extrême droite"
             }]
+        }, {
+            "id": "2025-02-04-affaires-guerre",
+            "category": "book-reviews",
+            "date": "2025-02-04",
+            "mainImage": "/assets/2025/02/20250204_affaires-guerre/image.png",
+            "score": 4,
+            "translation": [{
+                "language": "fr",
+                "path": "2025/01/20250204_affaires-guerre.fr.md",
+                "title": "Affaires d'état - Guerre froide"
+            }]
         }
     ]
 }
