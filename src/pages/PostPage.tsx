@@ -7,7 +7,7 @@ import Row from 'react-bootstrap/Row';
 import { DateTime } from 'luxon';
 import Markdown from 'markdown-to-jsx';
 import { RootState } from 'store';
-import content from '@/content.json';
+import content from 'content.json';
 import MarkdownCarousel from 'components/posts/MarkdownCarousel';
 import ScoreToStars from 'components/ScoreToStars';
 import './styles.css';
