@@ -32,7 +32,7 @@ jobs:
           fail_on_find: true
           post_comment: true
           ignored_files: |
-            public/assets/2024/04/20240411_europe/itinerary.xcf
+            **/*.xcf
       - name: Install
         run: |
           npm install

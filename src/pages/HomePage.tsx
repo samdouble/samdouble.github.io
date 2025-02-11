@@ -11,7 +11,7 @@ import PostsList from 'components/PostsList';
 import SocialMedia from 'components/SocialMedia/SocialMedia';
 import { RootState } from 'store';
 import { Post } from 'utils/types';
-import content from '@/content.json';
+import content from 'content.json';
 import './styles.css';
 import 'react-multi-carousel/lib/styles.css';
 

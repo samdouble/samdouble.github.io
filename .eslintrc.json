@@ -111,8 +111,7 @@
   "settings": {
     "import/resolver": {
       "node": {
-        "extensions": [".ts", ".tsx"],
-        "paths": ["src"]
+        "extensions": [".ts", ".tsx"]
       },
       "typescript": {}
     }
