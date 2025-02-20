@@ -1297,8 +1297,33 @@
             "score": 4,
             "translation": [{
                 "language": "fr",
-                "path": "2025/01/20250204_affaires-guerre.fr.md",
+                "path": "2025/02/20250204_affaires-guerre.fr.md",
                 "title": "Affaires d'état - Guerre froide"
+            }]
+        }, {
+            "id": "2025-02-12-puzzle",
+            "category": "book-reviews",
+            "date": "2025-02-12",
+            "mainImage": "/assets/2025/02/20250212_puzzle/image.png",
+            "score": 5,
+            "translation": [{
+                "language": "fr",
+                "path": "2025/02/20250212_puzzle.fr.md",
+                "title": "Puzzle"
+            }]
+        }, {
+            "id": "2025-02-15-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-15",
+            "mainImage": "/assets/2025/02/20250215_japan/takeoff.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250215_japan2025.en.md",
+                "title": "Departure from Montréal"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250215_japan2025.fr.md",
+                "title": "Départ de Montréal"
             }]
         }
     ]
