@@ -39,19 +39,54 @@ function PostsList({
               return (
                 <tr key={post.id}>
                   <td width={180}>
-                    <Link
-                      to={`/post/${post.id}`}
+                    <div
+                      style={{
+                        position: 'relative',
+                      }}
                     >
-                      <img
-                        alt={postLanguageInfo?.title}
-                        height={100}
-                        src={post.mainImage}
-                        width={160}
+                      <Link
+                        to={`/post/${post.id}`}
+                      >
+                        <img
+                          alt={postLanguageInfo?.title}
+                          height={100}
+                          src={post.mainImage}
+                          width={160}
+                          style={{
+                            objectFit: 'cover',
+                          }}
+                        />
+                      </Link>
+                      <div
                         style={{
-                          objectFit: 'cover',
+                          backgroundColor: 'white',
+                          borderRadius: 3,
+                          bottom: 10,
+                          float: 'right',
+                          marginTop: 15,
+                          padding: 3,
+                          position: 'absolute',
+                          right: 10,
                         }}
-                      />
-                    </Link>
+                      >
+                        {
+                          postCategories.map(category => (
+                            <Link
+                              key={category.id}
+                              to={`/category/${category.id}`}
+                              style={{
+                                color: 'gray',
+                              }}
+                            >
+                              <Icon
+                                name={category.icon}
+                                size="lg"
+                              />
+                            </Link>
+                          ))
+                        }
+                      </div>
+                    </div>
                   </td>
                   <td>
                     <Link
@@ -70,28 +105,6 @@ function PostsList({
                       }}
                     >
                       {post.date}
-                    </div>
-                    <div
-                      style={{
-                        marginTop: 15,
-                      }}
-                    >
-                      {
-                        postCategories.map(category => (
-                          <Link
-                            key={category.id}
-                            to={`/category/${category.id}`}
-                            style={{
-                              color: 'gray',
-                            }}
-                          >
-                            <Icon
-                              name={category.icon}
-                              size="lg"
-                            />
-                          </Link>
-                        ))
-                      }
                     </div>
                   </td>
                 </tr>

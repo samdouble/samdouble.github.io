@@ -1325,6 +1325,90 @@
                 "path": "2025/02/20250215_japan2025.fr.md",
                 "title": "Départ de Montréal"
             }]
+        }, {
+            "id": "2025-02-16-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-16",
+            "mainImage": "/assets/2025/02/20250216_japan/toilets.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250216_japan2025.en.md",
+                "title": "Arrival at Tokyo"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250216_japan2025.fr.md",
+                "title": "Arrivée à Tokyo"
+            }]
+        }, {
+            "id": "2025-02-17-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-17",
+            "mainImage": "/assets/2025/02/20250217_japan/shibuya3.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250217_japan2025.en.md",
+                "title": "The Tsukiji Outer Market, the Skytree, Taito and teamLab Planets"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250217_japan2025.fr.md",
+                "title": "Le marché de Tsukiji, le Skytree, Taito et teamLab Planets"
+            }]
+        }, {
+            "id": "2025-02-18-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-18",
+            "mainImage": "/assets/2025/02/20250218_japan/shibuya3.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250218_japan2025.en.md",
+                "title": "The Imperial Palace, Marunouchi and Shinjuku"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250218_japan2025.fr.md",
+                "title": "Le Palais Impérial, Marunouchi et Shinjuku"
+            }]
+        }, {
+            "id": "2025-02-19-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-19",
+            "mainImage": "/assets/2025/02/20250219_japan/shibuya.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250219_japan2025.en.md",
+                "title": "Hakone and Togendai"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250219_japan2025.fr.md",
+                "title": "Hakone et Togendai"
+            }]
+        }, {
+            "id": "2025-02-20-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-20",
+            "mainImage": "/assets/2025/02/20250220_japan/shibuya.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250220_japan2025.en.md",
+                "title": "Shibuya Sky, Akasaka, Ginza and Akihabara"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250220_japan2025.fr.md",
+                "title": "Shibuya Sky, Akasaka, Ginza et Akihabara"
+            }]
+        }, {
+            "id": "2025-02-21-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-21",
+            "mainImage": "/assets/2025/02/20250221_japan/yoyogi8.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250221_japan2025.en.md",
+                "title": "Yoyogi Park and Arrival in Osaka"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250221_japan2025.fr.md",
+                "title": "Le parc Yoyogi et arrivée à Osaka"
+            }]
         }
     ]
 }
