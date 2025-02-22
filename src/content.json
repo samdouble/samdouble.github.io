@@ -1329,7 +1329,7 @@
             "id": "2025-02-16-japan2025",
             "category": "2025-02-japan",
             "date": "2025-02-16",
-            "mainImage": "/assets/2025/02/20250216_japan/toilets.jpg",
+            "mainImage": "/assets/2025/02/20250216_japan/shibuya5.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/02/20250216_japan2025.en.md",
@@ -1408,6 +1408,20 @@
                 "language": "fr",
                 "path": "2025/02/20250221_japan2025.fr.md",
                 "title": "Le parc Yoyogi et arrivée à Osaka"
+            }]
+        }, {
+            "id": "2025-02-22-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-22",
+            "mainImage": "/assets/2025/02/20250222_japan/yodoyabashi13.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250222_japan2025.en.md",
+                "title": "The Osaka Castle and the Kita Ward"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250222_japan2025.fr.md",
+                "title": "Le château d'Osaka et l'arrondissement Kita"
             }]
         }
     ]

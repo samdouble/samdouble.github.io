@@ -88,7 +88,11 @@ function PostsList({
                       </div>
                     </div>
                   </td>
-                  <td>
+                  <td
+                    style={{
+                      textAlign: 'left',
+                    }}
+                  >
                     <Link
                       style={{
                         color: 'black',
