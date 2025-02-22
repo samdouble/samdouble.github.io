@@ -25,7 +25,10 @@ function CategoryPage() {
 
   return (
     <Container
-      fluid
+      style={{
+        paddingTop: 30,
+        textAlign: 'left',
+      }}
     >
       <Row>
         <Col lg={12}>
