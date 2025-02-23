@@ -1413,7 +1413,7 @@
             "id": "2025-02-22-japan2025",
             "category": "2025-02-japan",
             "date": "2025-02-22",
-            "mainImage": "/assets/2025/02/20250222_japan/yodoyabashi13.jpg",
+            "mainImage": "/assets/2025/02/20250222_japan/castle10.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/02/20250222_japan2025.en.md",
@@ -1422,6 +1422,20 @@
                 "language": "fr",
                 "path": "2025/02/20250222_japan2025.fr.md",
                 "title": "Le château d'Osaka et l'arrondissement Kita"
+            }]
+        }, {
+            "id": "2025-02-23-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-23",
+            "mainImage": "/assets/2025/02/20250223_japan/narapark6.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250223_japan2025.en.md",
+                "title": "Nara"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250223_japan2025.fr.md",
+                "title": "Nara"
             }]
         }
     ]
