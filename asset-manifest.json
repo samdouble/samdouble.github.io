@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a2e0c7f.css",
-    "main.js": "/static/js/main.a3ad1e37.js",
+    "main.js": "/static/js/main.5b7853da.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/20240413_europe-day03.fr.md": "/static/media/20240413_europe-day03.fr.00c5da1a5181b01d2ccd.md",
     "static/media/20240412_europe-day02.fr.md": "/static/media/20240412_europe-day02.fr.e29155d0c461e3bfa5bb.md",
@@ -12,6 +12,7 @@
     "static/media/logo.png": "/static/media/logo.b8d4aeb1a633935c5dfd.png",
     "static/media/2023-09-newfoundland-04-day02.md": "/static/media/2023-09-newfoundland-04-day02.bb0a490a2a1e739b7d33.md",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/20250223_japan2025.fr.md": "/static/media/20250223_japan2025.fr.26ec6bd2671b016f0a14.md",
     "static/media/20220308_neworleans-day01.fr.md": "/static/media/20220308_neworleans-day01.fr.7f139978b6f33344d0fd.md",
     "static/media/20240418_europe-day08.fr.md": "/static/media/20240418_europe-day08.fr.4776914f041714cf30a2.md",
     "static/media/20240427_europe-day17.fr.md": "/static/media/20240427_europe-day17.fr.ba4ca965dc60c4c75c19.md",
@@ -56,8 +57,8 @@
     "static/media/20250125_brutalist.fr.md": "/static/media/20250125_brutalist.fr.f63eef033908f2504298.md",
     "static/media/20240401_europe.fr.md": "/static/media/20240401_europe.fr.4f83c929118d89b0f838.md",
     "static/media/20240425_europe-day15.fr.md": "/static/media/20240425_europe-day15.fr.ee2de326bbf91ff09875.md",
+    "static/media/20250221_japan2025.fr.md": "/static/media/20250221_japan2025.fr.78082814e9e39efe35cd.md",
     "static/media/20240819_react.fr.md": "/static/media/20240819_react.fr.3f3ae65fc8ec72234b47.md",
-    "static/media/20250221_japan2025.fr.md": "/static/media/20250221_japan2025.fr.865117bae592dd25bb1d.md",
     "static/media/20230330_john-wick4.fr.md": "/static/media/20230330_john-wick4.fr.8047f1911b742c25d730.md",
     "static/media/20230330_john-wick4.en.md": "/static/media/20230330_john-wick4.en.08a1e7b479eec028c8f9.md",
     "static/media/20241110_beautys.fr.md": "/static/media/20241110_beautys.fr.49479307fc7b4e4d3bc0.md",
@@ -75,6 +76,7 @@
     "static/media/20241109_junebuvette.en.md": "/static/media/20241109_junebuvette.en.e0c5e39afc0e81f0a490.md",
     "static/media/2023-04-portugal-01-preparation.md": "/static/media/2023-04-portugal-01-preparation.9c5992f7d7e27b14a591.md",
     "static/media/japan.md": "/static/media/japan.9d2447af7c90657231f6.md",
+    "static/media/20250216_japan2025.fr.md": "/static/media/20250216_japan2025.fr.782fd60bcb90b3ec9a2e.md",
     "static/media/20241101_greasy-spoon.en.md": "/static/media/20241101_greasy-spoon.en.00118338fa456be52c24.md",
     "static/media/20241110_japan2025.en.md": "/static/media/20241110_japan2025.en.5d0abdf9221cc4e927f4.md",
     "static/media/20250102_every-falling-star.fr.md": "/static/media/20250102_every-falling-star.fr.21b87fbc60c71d7784c6.md",
@@ -102,6 +104,7 @@
     "static/media/20230714_sound-of-freedom.en.md": "/static/media/20230714_sound-of-freedom.en.5bbe7395ac8774510bb3.md",
     "static/media/20240430_europe-day20.fr.md": "/static/media/20240430_europe-day20.fr.81f516a56d1803ff38df.md",
     "static/media/20241017_usa2025.en.md": "/static/media/20241017_usa2025.en.01ea93a94a568052111e.md",
+    "static/media/20250222_japan2025.fr.md": "/static/media/20250222_japan2025.fr.70aa020e2ab0df5fcfa1.md",
     "static/media/20240127_beekeeper.en.md": "/static/media/20240127_beekeeper.en.609f7964aaed9f2ea210.md",
     "static/media/20241206_our-little-secret.en.md": "/static/media/20241206_our-little-secret.en.875de43a87094f41e3cc.md",
     "static/media/20250120_september5.fr.md": "/static/media/20250120_september5.fr.7cf1049a2d40575f749f.md",
@@ -115,6 +118,7 @@
     "static/media/20241016_bebedonge.fr.md": "/static/media/20241016_bebedonge.fr.65777fdcb4276f832aab.md",
     "static/media/20210709_vancouver-day01.fr.md": "/static/media/20210709_vancouver-day01.fr.eb20d658ed618b8b6081.md",
     "static/media/20241016_bebedonge.en.md": "/static/media/20241016_bebedonge.en.8e3b19dbb2200e34b510.md",
+    "static/media/20250217_japan2025.fr.md": "/static/media/20250217_japan2025.fr.d32635e45eade9420a85.md",
     "static/media/20210709_vancouver-day01.en.md": "/static/media/20210709_vancouver-day01.en.f2e50f84575d5fd59699.md",
     "static/media/20240422_europe-day12.fr.md": "/static/media/20240422_europe-day12.fr.48bca37751daabdf2e12.md",
     "static/media/2023-09-newfoundland-08-day06.md": "/static/media/2023-09-newfoundland-08-day06.48176a31ac56b6642e88.md",
@@ -126,11 +130,9 @@
     "static/media/20240411_europe-day01.en.md": "/static/media/20240411_europe-day01.en.89ca0c0f0bc961b48b6a.md",
     "static/media/2023-09-newfoundland-13-conclusion.md": "/static/media/2023-09-newfoundland-13-conclusion.750d0dce781f54818a47.md",
     "static/media/20250204_affaires-guerre.fr.md": "/static/media/20250204_affaires-guerre.fr.947f29cbef4b3fee67cb.md",
-    "static/media/20250216_japan2025.fr.md": "/static/media/20250216_japan2025.fr.2e8dc846b98191275f0f.md",
     "index.html": "/index.html",
     "static/media/20220309_neworleans-day02.fr.md": "/static/media/20220309_neworleans-day02.fr.1a9f6ad095084f5bb17a.md",
     "static/media/20250218_japan2025.fr.md": "/static/media/20250218_japan2025.fr.15fea917ff5955286c74.md",
-    "static/media/20250217_japan2025.fr.md": "/static/media/20250217_japan2025.fr.a323d2e187aee0a0a928.md",
     "static/media/20250103_biblio.fr.md": "/static/media/20250103_biblio.fr.4f8a498195a179ee7b6a.md",
     "static/media/20250219_japan2025.fr.md": "/static/media/20250219_japan2025.fr.6ebdaed025547daa18f9.md",
     "static/media/20210710_vancouver-day02.fr.md": "/static/media/20210710_vancouver-day02.fr.68579dd883bab62a6aa5.md",
@@ -165,11 +167,11 @@
     "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
     "main.7a2e0c7f.css.map": "/static/css/main.7a2e0c7f.css.map",
-    "main.a3ad1e37.js.map": "/static/js/main.a3ad1e37.js.map",
+    "main.5b7853da.js.map": "/static/js/main.5b7853da.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a2e0c7f.css",
-    "static/js/main.a3ad1e37.js"
+    "static/js/main.5b7853da.js"
   ]
 }
