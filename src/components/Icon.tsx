@@ -24,6 +24,24 @@ function Icon({
   size = undefined,
   style = {},
 }: IconProps) {
+  if (name?.startsWith('flag-')) {
+    const flagIcons = {
+      'flag-japan': 'flag-japan.svg',
+      'flag-usa': 'flag-usa.webp',
+    };
+    const imgFileName = flagIcons[name as keyof typeof flagIcons];
+    return (
+      <img
+        src={`/assets/icons/flags/${imgFileName}`}
+        alt={name}
+        style={{
+          height: 15,
+          position: 'relative',
+          top: -1,
+        }}
+      />
+    );
+  }
   const icons = {
     'book': faBook,
     'film': faFilm,

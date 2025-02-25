@@ -7,6 +7,7 @@ import Icon from 'components/Icon';
 import { RootState } from 'store';
 import { Category, Post } from 'utils/types';
 import content from 'content.json';
+import './PostsList.css';
 
 interface PostsListProps {
   posts: Post[];
@@ -59,31 +60,28 @@ function PostsList({
                       </Link>
                       <div
                         style={{
-                          backgroundColor: 'white',
-                          borderRadius: 3,
-                          bottom: 10,
+                          bottom: 5,
                           float: 'right',
                           marginTop: 15,
-                          padding: 3,
                           position: 'absolute',
-                          right: 10,
+                          right: 5,
                         }}
                       >
                         {
-                          postCategories.map(category => (
-                            <Link
-                              key={category.id}
-                              to={`/category/${category.id}`}
-                              style={{
-                                color: 'gray',
-                              }}
-                            >
-                              <Icon
-                                name={category.icon}
-                                size="lg"
-                              />
-                            </Link>
-                          ))
+                          postCategories
+                            .map(category => (
+                              <Link
+                                className="post-category-icon"
+                                key={category.id}
+                                to={`/category/${category.id}`}
+                              >
+                                <Icon
+                                  name={category.icon}
+                                  size="sm"
+                                />
+                              </Link>
+                            ))
+                            .reverse()
                         }
                       </div>
                     </div>
