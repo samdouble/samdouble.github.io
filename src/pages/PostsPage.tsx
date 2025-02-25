@@ -44,7 +44,9 @@ function PostsPage() {
     >
       <Row>
         <Col lg={8}>
-          <PostsList posts={latestPosts} />
+          <PostsList
+            posts={latestPosts}
+          />
           <Pagination
             style={{
               margin: '0 auto',

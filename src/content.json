@@ -138,6 +138,7 @@
             "id": "2025-02-japan",
             "date": "2025-03-01",
             "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
+            "icon": "flag-japan",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -150,6 +151,7 @@
             "id": "2025-05-usa",
             "date": "2025-05-11",
             "mainImage": "/assets/2024/10/20241018_usa2025/map.png",
+            "icon": "flag-usa",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -1436,6 +1438,34 @@
                 "language": "fr",
                 "path": "2025/02/20250223_japan2025.fr.md",
                 "title": "Nara"
+            }]
+        }, {
+            "id": "2025-02-24-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-24",
+            "mainImage": "/assets/2025/02/20250224_japan/kitahama5.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250224_japan2025.en.md",
+                "title": "The Osaka Aquarium Kaiyukan"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250224_japan2025.fr.md",
+                "title": "L'aquarium Kaiyukan d'Osaka"
+            }]
+        }, {
+            "id": "2025-02-25-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-25",
+            "mainImage": "/assets/2025/02/20250225_japan/kitahama5.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250225_japan2025.en.md",
+                "title": "Hiroshima"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250225_japan2025.fr.md",
+                "title": "Hiroshima"
             }]
         }
     ]
