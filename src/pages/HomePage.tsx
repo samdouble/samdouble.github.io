@@ -115,6 +115,7 @@ function HomePage() {
             <h2>{t('blog')}</h2>
             <PostsList
               posts={latestPosts}
+              showSeeMore
             />
             <h2>{t('elsewhereInternet')}</h2>
             <SocialMedia />
