@@ -1447,11 +1447,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/02/20250224_japan2025.en.md",
-                "title": "The Osaka Aquarium Kaiyukan"
+                "title": "The Osaka Aquarium Kaiyukan and Dotonbori"
             }, {
                 "language": "fr",
                 "path": "2025/02/20250224_japan2025.fr.md",
-                "title": "L'aquarium Kaiyukan d'Osaka"
+                "title": "L'aquarium Kaiyukan d'Osaka et Dotonbori"
             }]
         }, {
             "id": "2025-02-25-japan2025",
@@ -1466,6 +1466,20 @@
                 "language": "fr",
                 "path": "2025/02/20250225_japan2025.fr.md",
                 "title": "Hiroshima"
+            }]
+        }, {
+            "id": "2025-02-26-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-26",
+            "mainImage": "/assets/2025/02/20250226_japan/kuromon3.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250226_japan2025.en.md",
+                "title": "Kuromon Market, Namba and Nagai Park"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250226_japan2025.fr.md",
+                "title": "Le marché Kuromon, Namba et le parc Nagai"
             }]
         }
     ]

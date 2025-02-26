@@ -11,10 +11,12 @@ import './PostsList.css';
 
 interface PostsListProps {
   posts: Post[];
+  showSeeMore?: boolean;
 }
 
 function PostsList({
   posts,
+  showSeeMore = false,
 }: PostsListProps) {
   const { t } = useTranslation();
 
@@ -113,20 +115,24 @@ function PostsList({
               );
             })
         }
-        <tr>
-          <td
-            colSpan={2}
-            style={{
-              borderBottom: 'none',
-              textAlign: 'center',
-            }}
-            width={180}
-          >
-            <Link to="/posts">
-              {t('seeMore')}
-            </Link>
-          </td>
-        </tr>
+        {
+          showSeeMore && (
+            <tr>
+              <td
+                colSpan={2}
+                style={{
+                  borderBottom: 'none',
+                  textAlign: 'center',
+                }}
+                width={180}
+              >
+                <Link to="/posts">
+                  {t('seeMore')}
+                </Link>
+              </td>
+            </tr>
+          )
+        }
       </tbody>
     </Table>
   );

@@ -36,7 +36,6 @@ function PostsPage() {
 
   return (
     <Container
-      className="post-container"
       style={{
         marginTop: 30,
         textAlign: 'justify',
