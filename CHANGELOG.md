@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.0](https://github.com/samdouble/samdouble.github.io/compare/v1.3.0...v1.4.0) (2025-02-27)
+
+
+### Features
+
+* **20250225:** added post ([82b98a5](https://github.com/samdouble/samdouble.github.io/commit/82b98a540a75373738b0d1a9cd4fb092847c2141))
+* **20250225:** added post ([5045745](https://github.com/samdouble/samdouble.github.io/commit/504574504e40e57b20c4ad2b6465663964db86e1))
+* **20250226:** added post ([cd5f2b3](https://github.com/samdouble/samdouble.github.io/commit/cd5f2b3932adf7d812c9baa0b4a5821f00d464fd))
+* **20250227:** added post ([aed2737](https://github.com/samdouble/samdouble.github.io/commit/aed27374eef29ca389a4f26bc893c22285f2c50b))
+
 ## [1.3.0](https://github.com/samdouble/samdouble.github.io/compare/v1.2.0...v1.3.0) (2025-02-23)
 
 
