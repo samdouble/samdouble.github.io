@@ -1443,7 +1443,7 @@
             "id": "2025-02-24-japan2025",
             "category": "2025-02-japan",
             "date": "2025-02-24",
-            "mainImage": "/assets/2025/02/20250224_japan/kitahama5.jpg",
+            "mainImage": "/assets/2025/02/20250224_japan/penguins2.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/02/20250224_japan2025.en.md",
@@ -1480,6 +1480,20 @@
                 "language": "fr",
                 "path": "2025/02/20250226_japan2025.fr.md",
                 "title": "Le marché Kuromon, Namba et le parc Nagai"
+            }]
+        }, {
+            "id": "2025-02-27-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-27",
+            "mainImage": "/assets/2025/02/20250227_japan/fushimi-inari20.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250227_japan2025.en.md",
+                "title": "Kyoto"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250227_japan2025.fr.md",
+                "title": "Kyoto"
             }]
         }
     ]
