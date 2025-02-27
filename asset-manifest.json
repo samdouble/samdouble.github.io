@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a2e0c7f.css",
-    "main.js": "/static/js/main.5b7853da.js",
+    "main.css": "/static/css/main.9923f44b.css",
+    "main.js": "/static/js/main.1796714d.js",
     "static/js/453.734ec232.chunk.js": "/static/js/453.734ec232.chunk.js",
     "static/media/20240413_europe-day03.fr.md": "/static/media/20240413_europe-day03.fr.00c5da1a5181b01d2ccd.md",
     "static/media/20240412_europe-day02.fr.md": "/static/media/20240412_europe-day02.fr.e29155d0c461e3bfa5bb.md",
@@ -12,7 +12,7 @@
     "static/media/logo.png": "/static/media/logo.b8d4aeb1a633935c5dfd.png",
     "static/media/2023-09-newfoundland-04-day02.md": "/static/media/2023-09-newfoundland-04-day02.bb0a490a2a1e739b7d33.md",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/20250223_japan2025.fr.md": "/static/media/20250223_japan2025.fr.26ec6bd2671b016f0a14.md",
+    "static/media/20250223_japan2025.fr.md": "/static/media/20250223_japan2025.fr.08022da3c41b0637c881.md",
     "static/media/20220308_neworleans-day01.fr.md": "/static/media/20220308_neworleans-day01.fr.7f139978b6f33344d0fd.md",
     "static/media/20240418_europe-day08.fr.md": "/static/media/20240418_europe-day08.fr.4776914f041714cf30a2.md",
     "static/media/20240427_europe-day17.fr.md": "/static/media/20240427_europe-day17.fr.ba4ca965dc60c4c75c19.md",
@@ -42,11 +42,14 @@
     "static/media/20231001_equalizer3.fr.md": "/static/media/20231001_equalizer3.fr.de51353ce7056f18a2cb.md",
     "static/media/20240403_europe.fr.md": "/static/media/20240403_europe.fr.1c673674ab8a1882668a.md",
     "static/media/20241103_linfiltre.fr.md": "/static/media/20241103_linfiltre.fr.8dffdfd55a527233e010.md",
+    "static/media/20250225_japan2025.fr.md": "/static/media/20250225_japan2025.fr.21e321b4d385a5d779d0.md",
     "static/media/20230902_newfoundland-day01.en.md": "/static/media/20230902_newfoundland-day01.en.71e545dafcab7154a455.md",
     "static/media/20240420_europe-day10.fr.md": "/static/media/20240420_europe-day10.fr.c7c8e7ade1622c813950.md",
     "static/media/japan": "/static/media/japan.4d9e7f3c2d8bfee67674",
     "static/media/20241112_coinfuji.en.md": "/static/media/20241112_coinfuji.en.3bf53ff051475a57cabe.md",
     "static/media/20241102_cartier-arms.en.md": "/static/media/20241102_cartier-arms.en.8bb811b304fe663deb07.md",
+    "static/media/20250226_japan2025.fr.md": "/static/media/20250226_japan2025.fr.ed9d0153eee402aa940a.md",
+    "static/media/20250227_japan2025.fr.md": "/static/media/20250227_japan2025.fr.e6535dd47129d8c5da2a.md",
     "static/media/20241213_virunga.en.md": "/static/media/20241213_virunga.en.4f019ba739cd4b0d2246.md",
     "static/media/20231001_equalizer3.en.md": "/static/media/20231001_equalizer3.en.cf0da366da39edab8e51.md",
     "static/media/20250126_japan2025.fr.md": "/static/media/20250126_japan2025.fr.db943094dc0e1a9c8870.md",
@@ -59,6 +62,7 @@
     "static/media/20240425_europe-day15.fr.md": "/static/media/20240425_europe-day15.fr.ee2de326bbf91ff09875.md",
     "static/media/20250221_japan2025.fr.md": "/static/media/20250221_japan2025.fr.78082814e9e39efe35cd.md",
     "static/media/20240819_react.fr.md": "/static/media/20240819_react.fr.3f3ae65fc8ec72234b47.md",
+    "static/media/20250224_japan2025.fr.md": "/static/media/20250224_japan2025.fr.8ad33e0b62a93472c717.md",
     "static/media/20230330_john-wick4.fr.md": "/static/media/20230330_john-wick4.fr.8047f1911b742c25d730.md",
     "static/media/20230330_john-wick4.en.md": "/static/media/20230330_john-wick4.en.08a1e7b479eec028c8f9.md",
     "static/media/20241110_beautys.fr.md": "/static/media/20241110_beautys.fr.49479307fc7b4e4d3bc0.md",
@@ -102,6 +106,7 @@
     "static/media/20241123_artigiani.fr.md": "/static/media/20241123_artigiani.fr.aac8cffaf11a5b820754.md",
     "static/media/20240416_europe-day06.fr.md": "/static/media/20240416_europe-day06.fr.2291d3086927c29572b2.md",
     "static/media/20230714_sound-of-freedom.en.md": "/static/media/20230714_sound-of-freedom.en.5bbe7395ac8774510bb3.md",
+    "static/media/irish": "/static/media/irish.3fcb34cf310438823b18",
     "static/media/20240430_europe-day20.fr.md": "/static/media/20240430_europe-day20.fr.81f516a56d1803ff38df.md",
     "static/media/20241017_usa2025.en.md": "/static/media/20241017_usa2025.en.01ea93a94a568052111e.md",
     "static/media/20250222_japan2025.fr.md": "/static/media/20250222_japan2025.fr.70aa020e2ab0df5fcfa1.md",
@@ -127,6 +132,7 @@
     "static/media/20240830_monte-cristo.fr.md": "/static/media/20240830_monte-cristo.fr.8b5dba4b415ab206a9d2.md",
     "static/media/20250214_japan2025.fr.md": "/static/media/20250214_japan2025.fr.1762c5c88f9b39026ead.md",
     "static/media/20241214_gardez-oeil3.fr.md": "/static/media/20241214_gardez-oeil3.fr.f64d2a102e94d66d2dbf.md",
+    "static/media/20250219_japan2025.fr.md": "/static/media/20250219_japan2025.fr.49a9d2d1588c2f6971cc.md",
     "static/media/20240411_europe-day01.en.md": "/static/media/20240411_europe-day01.en.89ca0c0f0bc961b48b6a.md",
     "static/media/2023-09-newfoundland-13-conclusion.md": "/static/media/2023-09-newfoundland-13-conclusion.750d0dce781f54818a47.md",
     "static/media/20250204_affaires-guerre.fr.md": "/static/media/20250204_affaires-guerre.fr.947f29cbef4b3fee67cb.md",
@@ -134,7 +140,6 @@
     "static/media/20220309_neworleans-day02.fr.md": "/static/media/20220309_neworleans-day02.fr.1a9f6ad095084f5bb17a.md",
     "static/media/20250218_japan2025.fr.md": "/static/media/20250218_japan2025.fr.15fea917ff5955286c74.md",
     "static/media/20250103_biblio.fr.md": "/static/media/20250103_biblio.fr.4f8a498195a179ee7b6a.md",
-    "static/media/20250219_japan2025.fr.md": "/static/media/20250219_japan2025.fr.6ebdaed025547daa18f9.md",
     "static/media/20210710_vancouver-day02.fr.md": "/static/media/20210710_vancouver-day02.fr.68579dd883bab62a6aa5.md",
     "static/media/2023-09-newfoundland-12-day10.md": "/static/media/2023-09-newfoundland-12-day10.221eb161fa4ecb7af6e8.md",
     "static/media/20240404_europe.fr.md": "/static/media/20240404_europe.fr.ed2de19cf10f63720894.md",
@@ -166,12 +171,12 @@
     "static/media/2023-09-newfoundland-06-day04.md": "/static/media/2023-09-newfoundland-06-day04.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-07-day05.md": "/static/media/2023-09-newfoundland-07-day05.31d6cfe0d16ae931b73c.md",
     "static/media/2023-09-newfoundland-11-day09.md": "/static/media/2023-09-newfoundland-11-day09.31d6cfe0d16ae931b73c.md",
-    "main.7a2e0c7f.css.map": "/static/css/main.7a2e0c7f.css.map",
-    "main.5b7853da.js.map": "/static/js/main.5b7853da.js.map",
+    "main.9923f44b.css.map": "/static/css/main.9923f44b.css.map",
+    "main.1796714d.js.map": "/static/js/main.1796714d.js.map",
     "453.734ec232.chunk.js.map": "/static/js/453.734ec232.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a2e0c7f.css",
-    "static/js/main.5b7853da.js"
+    "static/css/main.9923f44b.css",
+    "static/js/main.1796714d.js"
   ]
 }
