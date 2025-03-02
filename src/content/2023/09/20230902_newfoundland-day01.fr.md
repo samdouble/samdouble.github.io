@@ -1,13 +1,13 @@
 ### 16h45 NDT
 Le vol était court, d'une durée d'un peu moins de deux heures. Comme prévu, à ma sortie de l'aéroport, j'ai pris un taxi pour aller récupérer ma Subaru Impreza dans le nord de St.John's. Je pensais payer peu pour le taxi, étant donné que l'aéroport est aussi dans le nord, mais le chauffeur m'a dit que de l'aéroport, c'était toujours un taux fixe de 35$[^1].
 
-Le propriétaire de la Subaru m'a laissé les clefs, après avoir pris des photos de sa voiture sous tous les angles. Ça me rendait un peu nerveux de conduire. C'était une voiture automatique, mais ça faisait quelques années que j'avais perdu l'habitude, à force d'habiter en ville. J'ai installé mon GPS sur le tableau de bord et j'ai attendu un peu, le temps qu'il retrouve sa position.
+Le propriétaire de la Subaru m'a laissé les clefs, après avoir pris des photos de sa voiture sous tous les angles. Ça me rendait un peu nerveux de conduire. C'était une voiture automatique, mais ça faisait quelques années que j'avais perdu l'habitude, à force d'habiter en ville. J'ai installé mon GPS sur le tableau de bord et j'ai attendu qu'il retrouve sa position.
 
 ![Ma Subaru Impreza de location](/assets/2023/09/20230902_newfoundland/subaru.jpg)
 <p align="center"><b>Ma Subaru Impreza de location</b></p>
 
 ### 18h00 NDT
-Je suis arrivé à mon AirBnB de Torbay, un petit village à 2-3 kilomètres au nord de l'aéroport de St.John's. C'était une petite maison au bout d'un cul-de-sac. Devant la maison, il y avait le stationnement et tout de suite après, un sentier qui descendait vers la Father Troy's Trail. La vue vers la baie de Torbay en contrebas était imprenable. J'ai parlé un peu avec l'hôtesse, une retraitée qui habitait seule avec son petit chien et qui passait son temps à collectionner des vieilles photos de la région.
+Je suis arrivé à mon AirBnB de Torbay, un petit village à 2-3 kilomètres au nord de l'aéroport de St.John's. C'était une petite maison au bout d'un cul-de-sac. Devant la maison, il y avait le stationnement et tout de suite après, un sentier qui descendait vers la Father Troy's Trail. La vue vers la baie de Torbay en contrebas était imprenable. J'ai parlé quelques minutes avec l'hôtesse, une retraitée qui habitait seule avec son petit chien et qui passait son temps à collectionner des vieilles photos de la région.
 
 ![La vue sur la baie de Torbay prise de devant la maison avec le sentier qui menait à la Father Troy's Trail](/assets/2023/09/20230902_newfoundland/torbaybight.jpg)
 <p align="center"><b>La vue sur la baie de Torbay prise de devant la maison avec le sentier qui menait à la Father Troy's Trail</b></p>

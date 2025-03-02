@@ -9,4 +9,4 @@ Pour une raison ou pour une autre, l'embarquement a été retardé d'environ une
 ### 0h45 PDT
 Comme de fait, une fois à l'aéroport de Vancouver, le temps de récupérer ma valise au carrousel et il était déjà trop tard pour prendre la Canada Line. J'ai pris un taxi qui m'a amené à l'hôtel Sandman, au coin de W. Georgia St. et de Cambie St. pour 40$. Ce n'était pas le départ que je souhaitais pour mon budget de voyage, mais au moins j'étais à destination.
 
-Ma chambre était au 9ème étage et la fenêtre donnait sur les ruelles entre W. Georgia St. et Robson St. Je me suis couché un peu avant 2 heures du matin.
+Ma chambre était au 9ème étage et la fenêtre donnait sur les ruelles entre W. Georgia St. et Robson St. Je me suis couché à presque 2 heures du matin.

@@ -1,6 +1,8 @@
 # samdouble.github.io
 
-This is a small application to export a comic book in PDF format from an XML configuration and a set of images.
+My [blog](samdouble.github.io), hosted on GitHub.
+
+* Déodorant maison
 
 ## Technologies & Languages
 
@@ -36,9 +38,3 @@ npm start
 ```
 
 The webpage should be available on [http://localhost:3000](http://localhost:3000) and refresh automatically when files are changed and saved.
-
-## Production
-
-1. Push your changes to the `master` branch.
-
-Déodorant maison
