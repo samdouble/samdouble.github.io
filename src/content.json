@@ -1495,6 +1495,34 @@
                 "path": "2025/02/20250227_japan2025.fr.md",
                 "title": "Kyoto"
             }]
+        }, {
+            "id": "2025-02-28-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-28",
+            "mainImage": "/assets/2025/02/20250228_japan/sakaisuji2.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250228_japan2025.en.md",
+                "title": "Utsubo Park and Return to Tokyo"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250228_japan2025.fr.md",
+                "title": "Le parc Utsubo et retour à Tokyo"
+            }]
+        }, {
+            "id": "2025-03-01-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-03-01",
+            "mainImage": "/assets/2025/03/20250301_japan/sakaisuji2.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250301_japan2025.en.md",
+                "title": "The Ghibli Museum"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250301_japan2025.fr.md",
+                "title": "Le musée Ghibli"
+            }]
         }
     ]
 }

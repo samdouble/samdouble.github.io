@@ -1,5 +1,5 @@
 ### 6h00 NDT
-Ce matin, je me suis réveillé de bonne heure pour pouvoir prendre le ferry vers [Bell Island](https://en.wikipedia.org/wiki/Bell_Island_(Newfoundland_and_Labrador)). Plus j'y vais tôt, moins il y aura d'autres voitures...en tout cas, j'espère. Je pars de Torbay à 6h30 pour me rendre à 7km de là, au port de Portugal Cove, où je prendrai à 7h25 [le premier bateau](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/) de la journée en direction de Bell Island.
+Ce matin, je me suis réveillé de bonne heure pour pouvoir prendre le ferry vers [Bell Island](https://en.wikipedia.org/wiki/Bell_Island_(Newfoundland_and_Labrador)). Plus j'y vais tôt, moins il y aura d'autres voitures...en tout cas, j'espèrais. Je pars de Torbay à 6h30 pour me rendre à 7km de là, au port de Portugal Cove, où je prendrai à 7h25 [le premier bateau](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/) de la journée en direction de Bell Island.
 
 ![Départ de Portugal Cove, à bord du Flanders](/assets/2023/09/20230903_newfoundland/portugalcove.jpg)
 
@@ -16,12 +16,12 @@ De la route principale, je tourne sur une voie qui descend dans un cul-de-sac, p
 
 ![Plage de Lance Cove](/assets/2023/09/20230903_newfoundland/lancecove.jpg)
 
-Je me remets en route pour chercher la mine #2. J'ai mis un peu de temps à la trouver, vu que mon GPS ne trouvait pas l'adresse qui était indiquée par Google Maps. Il reste encore une bonne heure et demie avant la visite de 10h30. Je patiente un peu dans le coin à réfléchir, peser les pour et les contre de rester à mon emploi actuel et de quitter pour l'un ou l'autre des deux emplois pour lesquels j'ai passé des entrevues.
+Je me remets en route pour chercher la mine #2. J'ai mis du temps à la trouver, vu que mon GPS ne trouvait pas l'adresse qui était indiquée par Google Maps. Il reste encore une bonne heure et demie avant la visite de 10h30. Je patiente dans le coin à réfléchir, peser les pour et les contre de rester à mon emploi actuel et de quitter pour l'un ou l'autre des deux emplois pour lesquels j'ai passé des entrevues.
 
 ![Musée de la mine #2](/assets/2023/09/20230903_newfoundland/bellisland02.jpg)
 
 ### 10h30 NDT
-Un peu avant la visite, je fais le tour du petit musée. On y lit sur le rôle de Bell Island dans la deuxième guerre mondiale, étant le seul endroit sur le continent à avoir été attaqué par les Allemands. On y voit aussi une copie des lettres de renvoi qui ont été données aux mineurs quelques décennies plus tard lorsque l'extraction du minerai de fer sur l'île n'était plus profitable.
+Peu de temps avant la visite, j'ai fait le tour du petit musée. On y lit sur le rôle de Bell Island dans la deuxième guerre mondiale, étant le seul endroit sur le continent à avoir été attaqué par les Allemands. On y voit aussi une copie des lettres de renvoi qui ont été données aux mineurs quelques décennies plus tard lorsque l'extraction du minerai de fer sur l'île n'était plus profitable.
 
 À 10h30, la visite commence. On est un groupe d'environ 20 personnes, quelques américains, quelques ontariens, mais la plupart viennent d'ailleurs à Terre-Neuve. La guide nous fait descendre dans la mine. C'est un long tunnel en pente avec des embranchements sur les côtés. On entre dans quelques-uns de ces embranchements alors que la guide nous parle du travail des enfants, des morts qui survenaient et d'à quel point il faisait noir dans la mine sans électricité, avec seulement la lueur de quelques chandelles.
 
@@ -42,7 +42,7 @@ Je suis reparti vers le quai d'embarquement, pour avoir la chance de manger de c
 
 Pendant les 30 minutes où j'attendais ma commande de fish & chips, j'ai remonté la côte à pied vers Harry's Lookout. Ce n'est pas grand-chose, juste une petite aire de repos avec quelques chaises et une vue sur le quai.
 
-J'ai eu un peu le temps de manger mon fish & chips dans la voiture avant d'embarquer dans le ferry. Ce n'était pas mauvais, mais pour la réputation de l'endroit, je m'attendais à mieux.
+J'ai eu le temps de manger rapidement mon fish & chips dans la voiture avant d'embarquer dans le ferry. Ce n'était pas mauvais, mais pour la réputation de l'endroit, je m'attendais à mieux.
 
 ![Retour au quai d'embarquement](/assets/2023/09/20230903_newfoundland/return_from_bellisland.jpg)
 

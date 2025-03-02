@@ -9,7 +9,7 @@ const languages = [
   {
     id: 'en',
     name: 'English',
-    image: '/assets/icons/flags/flag-usa.webp',
+    image: '/assets/icons/flags/flag-canada.svg',
   }, 
   {
     id: 'fr',
