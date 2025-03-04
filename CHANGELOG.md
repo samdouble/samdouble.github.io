@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.5.0](https://github.com/samdouble/samdouble.github.io/compare/v1.4.0...v1.5.0) (2025-03-04)
+
+
+### Features
+
+* **20250215:** added translation ([1ecca72](https://github.com/samdouble/samdouble.github.io/commit/1ecca72344f5d8092fa86858c22173fac6952bae))
+* **20250216:** added translation ([2e8f2d8](https://github.com/samdouble/samdouble.github.io/commit/2e8f2d8aa8893a1ad6ecb54c22fca0b2420cd63b))
+* **20250217:** added images ([6a6b653](https://github.com/samdouble/samdouble.github.io/commit/6a6b6535ed07b5600a83d52eccc7f166358c744f))
+
 ## [1.4.0](https://github.com/samdouble/samdouble.github.io/compare/v1.3.0...v1.4.0) (2025-02-27)
 
 
