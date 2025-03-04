@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/samdouble/samdouble.github.io/compare/v1.5.0...v1.6.0) (2025-03-04)
+
+
+### Features
+
+* **20250217:** added images ([ceac53c](https://github.com/samdouble/samdouble.github.io/commit/ceac53c20f54e241213b5ad3b9affbb5e0c2ce6a))
+
 ## [1.5.0](https://github.com/samdouble/samdouble.github.io/compare/v1.4.0...v1.5.0) (2025-03-04)
 
 
