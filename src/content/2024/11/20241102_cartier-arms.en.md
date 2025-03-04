@@ -1,7 +1,7 @@
 For the third day of MTLàTABLE, I decided to try another restaurant in the $50 category, the Cartier Arms Pub, located in the Hyatt Centric hotel, near the Clock Tower. To get there on foot, I had to take numerous detours and alternative streets because there was a lot of construction in the area.
 
-![Near the Hyatt Centric, in Old Montreal](/assets/2024/11/20241102_cartier-arms/vieuxport.jpg)
-<p align="center"><b>Near the Hyatt Centric, in Old Montreal</b></p>
+![Near the Hyatt Centric, in Old Montréal](/assets/2024/11/20241102_cartier-arms/vieuxport.jpg)
+<p align="center"><b>Near the Hyatt Centric, in Old Montréal</b></p>
 
 I finally arrived at the Hyatt Centric, 10 minutes late for my reservation.
 
