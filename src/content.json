@@ -1489,11 +1489,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/02/20250227_japan2025.en.md",
-                "title": "Kyoto"
+                "title": "Kyoto: Fushimi Inari Taisha and the Nijō Castle"
             }, {
                 "language": "fr",
                 "path": "2025/02/20250227_japan2025.fr.md",
-                "title": "Kyoto"
+                "title": "Kyoto: Fushimi Inari Taisha et le château de Nijō"
             }]
         }, {
             "id": "2025-02-28-japan2025",
@@ -1513,15 +1513,29 @@
             "id": "2025-03-01-japan2025",
             "category": "2025-02-japan",
             "date": "2025-03-01",
-            "mainImage": "/assets/2025/03/20250301_japan/sakaisuji2.jpg",
+            "mainImage": "/assets/2025/03/20250301_japan/akasaka2.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/03/20250301_japan2025.en.md",
-                "title": "The Ghibli Museum"
+                "title": "The Hamarikyū Gardens and Return to Montréal"
             }, {
                 "language": "fr",
                 "path": "2025/03/20250301_japan2025.fr.md",
-                "title": "Le musée Ghibli"
+                "title": "Le jardin Hamarikyū et retour à Montréal"
+            }]
+        }, {
+            "id": "2025-03-02-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-03-02",
+            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250302_japan2025.en.md",
+                "title": "Conclusion"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250302_japan2025.fr.md",
+                "title": "Conclusion"
             }]
         }
     ]
