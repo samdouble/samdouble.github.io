@@ -136,7 +136,7 @@
             }]
         }, {
             "id": "2025-02-japan",
-            "date": "2025-03-01",
+            "date": "2025-02-15",
             "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
             "icon": "flag-japan",
             "parent": "trips",
@@ -149,7 +149,7 @@
             }]
         }, {
             "id": "2025-05-usa",
-            "date": "2025-05-11",
+            "date": "2025-05-02",
             "mainImage": "/assets/2024/10/20241018_usa2025/map.png",
             "icon": "flag-usa",
             "parent": "trips",

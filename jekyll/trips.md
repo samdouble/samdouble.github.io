@@ -1,17 +1,3 @@
----
-layout: page
-title: Voyages
-permalink: /trips/
----
-
-{% for voyage in site.trips reversed %}
-  <h2>
-    <a href="{{ voyage.url }}">
-      {{ voyage.title }}
-    </a>
-  </h2>
-{% endfor %}
-
 Si possible, éviter les bagages en soute
 - Moins de chances que ce soit perdu
 - À l'arrivée, pas besoin d'aller attendre au carrousel
