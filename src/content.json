@@ -129,10 +129,10 @@
             "parent": "trips",
             "translation": [{
                 "language": "en",
-                "title": "Europe 2024"
+                "title": "Malta, Italy and Paris 2024"
             }, {
                 "language": "fr",
-                "title": "Europe 2024"
+                "title": "Malte, Italie et Paris 2024"
             }]
         }, {
             "id": "2025-02-japan",
@@ -1309,6 +1309,10 @@
             "mainImage": "/assets/2025/02/20250212_puzzle/image.png",
             "score": 5,
             "translation": [{
+                "language": "en",
+                "path": "2025/02/20250212_puzzle.en.md",
+                "title": "Puzzle"
+            },{
                 "language": "fr",
                 "path": "2025/02/20250212_puzzle.fr.md",
                 "title": "Puzzle"
