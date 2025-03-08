@@ -866,11 +866,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2024/10/20241018_usa2025.en.md",
-                "title": "And it Turned into a Week Across 3 States"
+                "title": "Philadelphia and Chicago Added to the Itinerary"
             }, {
                 "language": "fr",
                 "path": "2024/10/20241018_usa2025.fr.md",
-                "title": "Et ça s'est transformé en une semaine à travers 3 états"
+                "title": "Philadelphie et Chicago s'ajoutent à l'itinéraire"
             }]
         }, {
             "id": "2024-10-26-redwine",
@@ -1292,6 +1292,21 @@
                 "title": "Affaires d'état - Extrême droite"
             }]
         }, {
+            "id": "2025-02-02-passe-compose",
+            "category": "restaurant-reviews",
+            "date": "2025-02-02",
+            "mainImage": "/assets/2025/02/20250202_passe-compose/inside.jpg",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250202_passe-compose.en.md",
+                "title": "Passe composé"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250202_passe-compose.fr.md",
+                "title": "Passe composé"
+            }]
+        }, {
             "id": "2025-02-04-affaires-guerre",
             "category": "book-reviews",
             "date": "2025-02-04",
@@ -1301,6 +1316,21 @@
                 "language": "fr",
                 "path": "2025/02/20250204_affaires-guerre.fr.md",
                 "title": "Affaires d'état - Guerre froide"
+            }]
+        }, {
+            "id": "2025-02-09-lloydies",
+            "category": "restaurant-reviews",
+            "date": "2025-02-09",
+            "mainImage": "/assets/2025/02/20250209_lloydies/inside2.jpg",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250209_lloydies.en.md",
+                "title": "Lloydie's"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250209_lloydies.fr.md",
+                "title": "Lloydie's"
             }]
         }, {
             "id": "2025-02-12-puzzle",

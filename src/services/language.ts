@@ -50,7 +50,7 @@ i18n
     },
   });
 
-const todosSlice = createSlice({
+const languagesSlice = createSlice({
   name: 'language',
   initialState,
   reducers: {
@@ -63,6 +63,6 @@ const todosSlice = createSlice({
   },
 });
 
-export const { setLanguage } = todosSlice.actions;
+export const { setLanguage } = languagesSlice.actions;
 
-export default todosSlice.reducer;
+export default languagesSlice.reducer;
