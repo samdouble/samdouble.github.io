@@ -1,12 +1,8 @@
-import { createSlice } from '@reduxjs/toolkit';
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 
 export const defaultLanguage = 'fr';
-
-const initialState = {
-  language: localStorage.getItem('language') || defaultLanguage,
-};
+export const initialLanguage = localStorage.getItem('language') || defaultLanguage;
 
 i18n
   .use(initReactI18next)
@@ -43,26 +39,20 @@ i18n
         },
       },
     },
-    lng: initialState.language,
-    fallbackLng: initialState.language,
+    lng: defaultLanguage,
+    fallbackLng: defaultLanguage,
     interpolation: {
       escapeValue: false,
     },
   });
 
-const languagesSlice = createSlice({
-  name: 'language',
-  initialState,
-  reducers: {
-    setLanguage(state, action) {
-      const { language } = action.payload;
-      state.language = language;
-      i18n.changeLanguage(language);
-      localStorage.setItem('language', language);
-    },
-  },
-});
+export const setLanguage = (language: string) => {
+  i18n.changeLanguage(language);
+  localStorage.setItem('language', language);
+}
 
-export const { setLanguage } = languagesSlice.actions;
-
-export default languagesSlice.reducer;
+export default {
+  defaultLanguage,
+  initialLanguage,
+  setLanguage,
+};

@@ -1,8 +1,7 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import Table from 'react-bootstrap/Table';
-import { RootState } from 'store';
+import { LanguageContext } from 'services/contexts';
 import { Category } from 'utils/types';
 
 interface CategoriesListProps {
@@ -12,7 +11,7 @@ interface CategoriesListProps {
 function CategoriesList({
   categories,
 }: CategoriesListProps) {
-  const { language } = useSelector((state: RootState) => state.language);
+  const language = useContext(LanguageContext);
 
   return (
     <Table>

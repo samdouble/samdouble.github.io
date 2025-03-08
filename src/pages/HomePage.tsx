@@ -1,5 +1,4 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useContext } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
@@ -9,7 +8,7 @@ import Carousel from 'react-multi-carousel';
 import { useTranslation } from 'react-i18next';
 import PostsList from 'components/PostsList';
 import SocialMedia from 'components/SocialMedia/SocialMedia';
-import { RootState } from 'store';
+import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
 import content from 'content.json';
 import './styles.css';
@@ -18,7 +17,7 @@ import 'react-multi-carousel/lib/styles.css';
 function HomePage() {
   const { t } = useTranslation();
 
-  const { language } = useSelector((state: RootState) => state.language);
+  const language = useContext(LanguageContext);
 
   const latestPosts = (content.posts as Post[])
     .filter(post => post.translation.some(tr => tr.language === language))

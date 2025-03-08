@@ -1,8 +1,6 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useContext } from 'react';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import { useDispatch } from 'react-redux';
-import { RootState } from 'store';
+import { LanguageContext } from 'services/contexts';
 import { defaultLanguage, setLanguage } from 'services/language';
 
 const languages = [
@@ -18,9 +16,14 @@ const languages = [
   }
 ];
 
-function LanguageSelector() {
-  const dispatch = useDispatch();
-  const { language } = useSelector((state: RootState) => state.language);
+interface LanguageSelectorProps {
+  onChange: (language: string) => void;
+}
+
+function LanguageSelector({
+  onChange,
+}: LanguageSelectorProps) {
+  const language = useContext(LanguageContext);
   const selectedLanguage = languages.find(l => l.id === language) || languages.find(l => l.id === defaultLanguage);
   const otherLanguages = languages.filter(l => l.id !== selectedLanguage?.id);
 
@@ -46,7 +49,8 @@ function LanguageSelector() {
           <NavDropdown.Item
             key={otherLanguage.id}
             onClick={() => {
-              dispatch(setLanguage({ language: otherLanguage.id }));
+              setLanguage(otherLanguage.id);
+              onChange(otherLanguage.id);
             }}
           >
             <img
