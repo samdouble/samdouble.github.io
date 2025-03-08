@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { createHashRouter, RouterProvider } from 'react-router-dom';
 import TopMenu from 'components/TopMenu';
 import HomePage from 'pages/HomePage';
 import CategoryPage from 'pages/CategoryPage';
 import PostsPage from 'pages/PostsPage';
 import PostPage from 'pages/PostPage';
+import { LanguageContext } from 'services/contexts';
+import { initialLanguage } from 'services/language';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
@@ -25,10 +27,16 @@ const router = createHashRouter(
 );
 
 function App() {
+  const [language, setLanguage] = useState(initialLanguage);
+
   return (
     <div className="App">
-      <TopMenu />
-      <RouterProvider router={router} />
+      <LanguageContext.Provider value={language}>
+        <TopMenu
+          onChangeLanguage={setLanguage}
+        />
+        <RouterProvider router={router} />
+      </LanguageContext.Provider>
     </div>
   );
 }

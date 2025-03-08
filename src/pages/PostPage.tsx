@@ -1,12 +1,11 @@
-import React, { useEffect, useState } from 'react';
-import { useSelector } from 'react-redux';
+import React, { useContext, useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { DateTime } from 'luxon';
 import Markdown from 'markdown-to-jsx';
-import { RootState } from 'store';
+import { LanguageContext } from 'services/contexts';
 import content from 'content.json';
 import MarkdownCarousel from 'components/posts/MarkdownCarousel';
 import ScoreToStars from 'components/ScoreToStars';
@@ -17,7 +16,7 @@ function PostPage() {
   const { id } = useParams();
   const post = content.posts.find(p => p.id === id);
 
-  const { language } = useSelector((state: RootState) => state.language);
+  const language = useContext(LanguageContext);
   const postLanguageInfo = post?.translation.find(t => t.language === language);
 
   useEffect(() => {

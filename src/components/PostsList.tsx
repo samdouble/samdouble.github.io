@@ -1,10 +1,9 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import Table from 'react-bootstrap/Table';
 import Icon from 'components/Icon';
-import { RootState } from 'store';
+import { LanguageContext } from 'services/contexts';
 import { Category, Post } from 'utils/types';
 import content from 'content.json';
 import './PostsList.css';
@@ -20,7 +19,7 @@ function PostsList({
 }: PostsListProps) {
   const { t } = useTranslation();
 
-  const { language } = useSelector((state: RootState) => state.language);
+  const language = useContext(LanguageContext);
 
   return (
     <Table>

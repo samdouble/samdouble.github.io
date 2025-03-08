@@ -1,12 +1,11 @@
-import React from 'react';
-import { useSelector } from 'react-redux';
+import React, { useContext } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Pagination from 'react-bootstrap/Pagination';
-import { RootState } from 'store';
 import PostsList from 'components/PostsList';
+import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
 import content from 'content.json';
 import './styles.css';
@@ -14,7 +13,7 @@ import './styles.css';
 const nbPostsPerPage = 10;
 
 function PostsPage() {
-  const { language } = useSelector((state: RootState) => state.language);
+  const language = useContext(LanguageContext);
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
 

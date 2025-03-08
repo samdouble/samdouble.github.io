@@ -6,7 +6,13 @@ import { useTranslation } from 'react-i18next';
 import LanguageSelector from './LanguageSelector';
 import logo from 'logo.png';
 
-function TopMenu() {
+interface TopMenuProps {
+  onChangeLanguage: (language: string) => void;
+}
+
+function TopMenu({
+  onChangeLanguage,
+}: TopMenuProps) {
   const { t } = useTranslation();
 
   return (
@@ -44,7 +50,9 @@ function TopMenu() {
         </Nav>
       </Navbar.Collapse>
       <Navbar.Collapse className="justify-content-end">
-        <LanguageSelector />
+        <LanguageSelector
+          onChange={onChangeLanguage}
+        />
       </Navbar.Collapse>
     </Navbar>
   );
