@@ -11,8 +11,8 @@ import SocialMedia from 'components/SocialMedia/SocialMedia';
 import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
 import content from 'content.json';
-import './styles.css';
 import 'react-multi-carousel/lib/styles.css';
+import './styles.css';
 
 function HomePage() {
   const { t } = useTranslation();
