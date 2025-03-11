@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.7.0](https://github.com/samdouble/samdouble.github.io/compare/v1.6.0...v1.7.0) (2025-03-11)
+
+
+### Features
+
+* **20250212:** added post ([1f74ee4](https://github.com/samdouble/samdouble.github.io/commit/1f74ee4a0f9bcc4eaa20a1d1bf59d64602dc0970))
+* **20250217:** added Senso-ji ([f1a4529](https://github.com/samdouble/samdouble.github.io/commit/f1a4529927e7afcd876ab48d6c6f822222d1c1e2))
+* **20250217:** added Tokyo Skytree ([cb345aa](https://github.com/samdouble/samdouble.github.io/commit/cb345aa43029fe2cbfdd243cefc037616089b1c6))
+* **20250217:** added Tsukiji market ([ee87c47](https://github.com/samdouble/samdouble.github.io/commit/ee87c474a410cefcd1b055447deae60d5f0bea67))
+
 ## [1.6.0](https://github.com/samdouble/samdouble.github.io/compare/v1.5.0...v1.6.0) (2025-03-04)
 
 
