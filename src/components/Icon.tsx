@@ -2,6 +2,8 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faBook,
+  faCaretLeft,
+  faCaretRight,
   faFilm,
   faFolder,
   faPlane,
@@ -44,6 +46,8 @@ function Icon({
   }
   const icons = {
     'book': faBook,
+    'caret-left': faCaretLeft,
+    'caret-right': faCaretRight,
     'film': faFilm,
     'folder': faFolder,
     'plane': faPlane,
