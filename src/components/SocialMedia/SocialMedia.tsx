@@ -1,5 +1,3 @@
-import React from 'react';
-
 const icons = [
   {
     link: 'https://github.com/samdouble',

@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import { LanguageContext } from 'services/contexts';
 import { defaultLanguage, setLanguage } from 'services/language';

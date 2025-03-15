@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { createHashRouter, RouterProvider } from 'react-router-dom';
+import Footer from 'components/Footer';
 import TopMenu from 'components/TopMenu';
 import HomePage from 'pages/HomePage';
 import CategoryPage from 'pages/CategoryPage';
@@ -36,6 +37,7 @@ function App() {
           onChangeLanguage={setLanguage}
         />
         <RouterProvider router={router} />
+        <Footer />
       </LanguageContext.Provider>
     </div>
   );
