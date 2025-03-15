@@ -1,7 +1,4 @@
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 
 const icons = [
   {
@@ -48,26 +45,34 @@ const icons = [
 
 function SocialMedia() {
   return (
-    <div>
-      <Container>
-        <Row>
-          {
-            icons.map(icon => (
-              <Col key={icon.name}>
-                <div>
-                  <a href={icon.link}>
-                    <img
-                      src={icon.image}
-                      alt={icon.name}
-                      width="60"
-                    />
-                  </a>
-                </div>
-              </Col>
-            ))
-          }
-        </Row>
-      </Container>
+    <div
+      style={{
+        columnGap: 10,
+        display: 'grid',
+        gridTemplateColumns: '15% 15% 15% 15% 15% 15%',
+        gridTemplateRows: 'auto auto',
+        rowGap: 15,
+      }}
+    >
+      {
+        icons.map(icon => (
+          <div key={icon.name}>
+            <a href={icon.link}>
+              <img
+                alt={icon.name}
+                src={icon.image}
+                style={{
+                  height: 30,
+                  marginTop: 10,
+                  objectFit: 'cover',
+                  transform: 'scale(1.8) translate(10px, 0px)',
+                  width: 30,
+                }}
+              />
+            </a>
+          </div>
+        ))
+      }
     </div>
   );
 }
