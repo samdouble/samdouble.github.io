@@ -76,114 +76,122 @@ function PostPage() {
         </Row>
         <Row>
           <Col lg={4}>
-            <div className="prevnext-post-button">
-              <Link
-                to={`/post/${prevPost?.id}`}
-                style={{
-                  color: '#000000',
-                  textAlign: 'left',
-                  textDecoration: 'none',
-                }}
-              >
-                <table
-                  style={{
-                    display: 'table',
-                    tableLayout: 'fixed',
-                    width: '100%',
-                  }}
-                >
-                  <tr>
-                    <td
-                      rowSpan={2}
+            {
+              prevPost && (
+                <div className="prevnext-post-button">
+                  <Link
+                    to={`/post/${prevPost.id}`}
+                    style={{
+                      color: '#000000',
+                      textAlign: 'left',
+                      textDecoration: 'none',
+                    }}
+                  >
+                    <table
                       style={{
-                        paddingRight: 40,
-                        width: 30,
+                        display: 'table',
+                        tableLayout: 'fixed',
+                        width: '100%',
                       }}
                     >
-                      <Icon
-                        name="caret-left"
-                        size="4x"
-                      />
-                    </td>
-                    <td
-                      style={{
-                        width: '99%',
-                      }}
-                    >
-                      <u>{t('previous')}</u>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td
-                      style={{
-                        fontSize: 20,
-                      }}
-                    >
-                      {prevPost?.date}
-                      &nbsp;
-                      -
-                      &nbsp;
-                      {prevPost?.translation.find(tr => tr.language === language)?.title}
-                    </td>
-                  </tr>
-                </table>
-              </Link>
-            </div>
+                      <tr>
+                        <td
+                          rowSpan={2}
+                          style={{
+                            paddingRight: 40,
+                            width: 30,
+                          }}
+                        >
+                          <Icon
+                            name="caret-left"
+                            size="4x"
+                          />
+                        </td>
+                        <td
+                          style={{
+                            width: '99%',
+                          }}
+                        >
+                          <u>{t('previous')}</u>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          style={{
+                            fontSize: 20,
+                          }}
+                        >
+                          {prevPost.date}
+                          &nbsp;
+                          -
+                          &nbsp;
+                          {prevPost.translation.find(tr => tr.language === language)?.title}
+                        </td>
+                      </tr>
+                    </table>
+                  </Link>
+                </div>
+              )
+            }
           </Col>
           <Col lg={4} />
           <Col lg={4}>
-            <div className="prevnext-post-button">
-              <Link
-                to={`/post/${nextPost?.id}`}
-                style={{
-                  color: '#000000',
-                  textAlign: 'left',
-                  textDecoration: 'none',
-                }}
-              >
-                <table
-                  style={{
-                    display: 'table',
-                    tableLayout: 'fixed',
-                    width: '100%',
-                  }}
-                >
-                  <tr>
-                    <td
+            {
+              nextPost && (
+                <div className="prevnext-post-button">
+                  <Link
+                    to={`/post/${nextPost.id}`}
+                    style={{
+                      color: '#000000',
+                      textAlign: 'left',
+                      textDecoration: 'none',
+                    }}
+                  >
+                    <table
                       style={{
-                        width: '99%',
+                        display: 'table',
+                        tableLayout: 'fixed',
+                        width: '100%',
                       }}
                     >
-                      <u>{t('next')}</u>
-                    </td>
-                    <td
-                      rowSpan={2}
-                      style={{
-                        width: 30,
-                      }}
-                    >
-                      <Icon
-                        name="caret-right"
-                        size="4x"
-                      />
-                    </td>
-                  </tr>
-                  <tr>
-                    <td
-                      style={{
-                        fontSize: 20,
-                      }}
-                    >
-                      {nextPost?.date}
-                      &nbsp;
-                      -
-                      &nbsp;
-                      {nextPost?.translation.find(tr => tr.language === language)?.title}
-                    </td>
-                  </tr>
-                </table>
-              </Link>
-            </div>
+                      <tr>
+                        <td
+                          style={{
+                            width: '99%',
+                          }}
+                        >
+                          <u>{t('next')}</u>
+                        </td>
+                        <td
+                          rowSpan={2}
+                          style={{
+                            width: 30,
+                          }}
+                        >
+                          <Icon
+                            name="caret-right"
+                            size="4x"
+                          />
+                        </td>
+                      </tr>
+                      <tr>
+                        <td
+                          style={{
+                            fontSize: 20,
+                          }}
+                        >
+                          {nextPost.date}
+                          &nbsp;
+                          -
+                          &nbsp;
+                          {nextPost.translation.find(tr => tr.language === language)?.title}
+                        </td>
+                      </tr>
+                    </table>
+                  </Link>
+                </div>
+              )
+            }
           </Col>
         </Row>
       </Container>

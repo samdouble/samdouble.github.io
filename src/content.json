@@ -33,14 +33,58 @@
         }, {
             "id": "projects-biblio",
             "date": "2025-01-03",
-            "mainImage": "/assets/2025/01/20250103_biblio/scan.png",
+            "mainImage": "/assets/icons/projects/biblio.png",
             "parent": "projects",
             "translation": [{
                 "language": "en",
-                "title": "Biblio"
+                "title": "Biblio",
+                "description": "Biblio is a web application that allows you to manage your library."
             }, {
                 "language": "fr",
-                "title": "Biblio"
+                "title": "Biblio",
+                "description": "Biblio est une application mobile qui permet de gérer votre bibliothèque."
+            }]
+        }, {
+            "id": "projects-fire",
+            "date": "2025-03-12",
+            "mainImage": "/assets/icons/projects/fire.png",
+            "parent": "projects",
+            "translation": [{
+                "language": "en",
+                "title": "Fire",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Fire",
+                "description": "TODO"
+            }]
+        }, {
+            "id": "projects-fikas",
+            "date": "2020-04-01",
+            "mainImage": "/assets/icons/projects/fikas.png",
+            "parent": "projects",
+            "translation": [{
+                "language": "en",
+                "title": "fikas.io",
+                "description": "fikas.io is a web application that allows you to manage your projects."
+            }, {
+                "language": "fr",
+                "title": "fikas.io",
+                "description": "fikas.io est une application web qui permet de gérer vos projets."
+            }]
+        }, {
+            "id": "projects-toolbelt",
+            "date": "2025-02-08",
+            "mainImage": "/assets/icons/projects/toolbelt.png",
+            "parent": "projects",
+            "translation": [{
+                "language": "en",
+                "title": "Toolbelt",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Toolbelt",
+                "description": "TODO"
             }]
         }, {
             "id": "restaurant-reviews",
