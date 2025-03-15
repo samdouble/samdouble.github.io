@@ -1,17 +1,16 @@
 import React, { useContext } from 'react';
+import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import Carousel from 'react-multi-carousel';
 import { useTranslation } from 'react-i18next';
 import PostsList from 'components/PostsList';
 import SocialMedia from 'components/SocialMedia/SocialMedia';
 import { LanguageContext } from 'services/contexts';
-import { Post } from 'utils/types';
+import { Category, Post } from 'utils/types';
 import content from 'content.json';
-import 'react-multi-carousel/lib/styles.css';
 import './styles.css';
 
 function HomePage() {
@@ -24,92 +23,68 @@ function HomePage() {
     .sort((postA, postB) => postA.date < postB.date ? 1 : -1)
     .slice(0, 5);
 
+  const projects = (content.categories as Category[])
+    .filter(category => category.parent === 'projects')
+    .sort((categoryA, categoryB) => categoryA.date! < categoryB.date! ? 1 : -1);
+
   return (
     <Container
       fluid
     >
       <Row>
-        <Col lg={8}>
+        <Col
+          xl={8}
+          lg={7}
+          sm={12}
+        >
           <h2>{t('projects')}</h2>
-          <Carousel
-            swipeable={false}
-            draggable={false}
-            showDots={true}
-            responsive={{
-              desktop: {
-                breakpoint: { max: 3000, min: 1024 },
-                items: 3,
-                slidesToSlide: 3,
-              },
-              tablet: {
-                breakpoint: { max: 1024, min: 464 },
-                items: 2,
-                slidesToSlide: 2,
-              },
-              mobile: {
-                breakpoint: { max: 464, min: 0 },
-                items: 1,
-                slidesToSlide: 1,
-              }
+          <div
+            style={{
+              columnGap: 10,
+              display: 'grid',
+              gridTemplateColumns: '24% 24% 24% 24%',
+              gridTemplateRows: '250px auto 250px',
+              rowGap: 15,
             }}
-            ssr={true}
-            infinite={true}
-            // autoPlay={this.props.deviceType !== "mobile" ? true : false}
-            autoPlaySpeed={1000}
-            keyBoardControl={true}
-            customTransition="all .5"
-            transitionDuration={500}
-            containerClass="carousel-container"
-            removeArrowOnDeviceType={["tablet", "mobile"]}
-            // deviceType={this.props.deviceType}
-            dotListClass="custom-dot-list-style"
-            itemClass="carousel-item-padding-40-px"
           >
-            <Card
-              style={{
-                maxWidth: '18rem',
-              }}
-            >
-              <Card.Img
-                variant="top"
-                src="/assets/icons/projects/biblio.png"
-                style={{
-                  objectPosition: '0 -5px',
-                }}
-              />
-              <Card.Body>
-                <Card.Title>Biblio</Card.Title>
-                <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
-              </Card.Body>
-            </Card>
-            <Card
-              style={{
-                maxWidth: '18rem',
-              }}
-            >
-              <Card.Img
-                variant="top"
-                src="/assets/icons/projects/fikas.png"
-                style={{
-                  objectPosition: '0 -10px',
-                }}
-              />
-              <Card.Body>
-                <Card.Title>Fikas.io</Card.Title>
-                <Card.Text>
-                  Some quick example text to build on the card title and make up the
-                  bulk of the card's content.
-                </Card.Text>
-                <Button variant="primary">Go somewhere</Button>
-              </Card.Body>
-            </Card>
-          </Carousel>
+            {
+              projects.map(project => (
+                <Card
+                  key={project.id}
+                  style={{
+                    maxWidth: '18rem',
+                  }}
+                >
+                  <Card.Img
+                    variant="top"
+                    src={project.mainImage}
+                    style={{
+                      objectPosition: '0 -8px',
+                    }}
+                  />
+                  <Card.Body>
+                    <Card.Title>{project.translation.find(tr => tr.language === language)?.title}</Card.Title>
+                    <Card.Text>
+                      {project.translation.find(tr => tr.language === language)?.description}
+                    </Card.Text>
+                    <Link
+                      to={`/category/${project.id}`}
+                    >
+                      <Button variant="primary">
+                        {t('seeMore')}
+                      </Button>
+                    </Link>
+                  </Card.Body>
+                </Card>
+              ))
+            }
+          </div>
         </Col>
-        <Col lg={4}>
+        <Col
+          xl={4}
+          lg={5}
+          sm={12}
+        >
           <div>
             <h2>{t('blog')}</h2>
             <PostsList

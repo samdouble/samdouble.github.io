@@ -5,8 +5,11 @@ function ScoreToStars({ score }: { score: number }) {
   return (
     <div>
       {
-        Array.from({ length: Math.floor(score) }).map(() => (
+        Array.from({
+          length: Math.floor(score),
+        }).map((_, index) => (
           <Icon
+            key={index}
             name="star"
             size="lg"
             style={{
@@ -27,8 +30,11 @@ function ScoreToStars({ score }: { score: number }) {
         ) : null
       }
       {
-        Array.from({ length: 5 - Math.ceil(score) }).map(() => (
+        Array.from({
+          length: 5 - Math.ceil(score),
+        }).map((_, index) => (
           <Icon
+            key={index}
             name="star-regular"
             size="lg"
             style={{

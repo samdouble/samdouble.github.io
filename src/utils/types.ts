@@ -4,9 +4,11 @@ export interface Category {
   icon?: string;
   mainImage?: string;
   parent?: string;
+  description?: string;
   translation: [{
     language: string;
     title: string;
+    description?: string;
   }];
 }
 

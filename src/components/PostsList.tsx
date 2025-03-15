@@ -39,7 +39,9 @@ function PostsList({
               }
 
               return (
-                <tr key={post.id}>
+                <tr
+                  key={post.id}
+                >
                   <td width={180}>
                     <div
                       style={{
