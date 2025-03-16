@@ -6,6 +6,7 @@ import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
+import Icon from 'components/Icon';
 import PostsList from 'components/PostsList';
 import SocialMedia from 'components/SocialMedia/SocialMedia';
 import { LanguageContext } from 'services/contexts';
@@ -43,7 +44,7 @@ function HomePage() {
               columnGap: 10,
               display: 'grid',
               gridTemplateColumns: '24% 24% 24% 24%',
-              gridTemplateRows: '250px auto 250px',
+              gridTemplateRows: '260px 260px 260px',
               rowGap: 15,
             }}
           >
@@ -52,6 +53,7 @@ function HomePage() {
                 <Card
                   key={project.id}
                   style={{
+                    cursor: 'auto',
                     maxWidth: '18rem',
                   }}
                 >
@@ -63,6 +65,21 @@ function HomePage() {
                     }}
                   />
                   <Card.Body>
+                    <div>
+                      {
+                        project.techs?.map(tech => (
+                          <Icon
+                            key={tech}
+                            name={`tech-${tech}`}
+                            style={{
+                              height: 20,
+                              margin: '-5px 5px 0 0',
+                              width: 20,
+                            }}
+                          />
+                        ))
+                      }
+                    </div>
                     <Card.Title>{project.translation.find(tr => tr.language === language)?.title}</Card.Title>
                     <Card.Text>
                       {project.translation.find(tr => tr.language === language)?.description}
