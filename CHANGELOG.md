@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.8.0](https://github.com/samdouble/samdouble.github.io/compare/v1.7.0...v1.8.0) (2025-03-16)
+
+
+### Features
+
+* **20250209:** added post ([9768ce5](https://github.com/samdouble/samdouble.github.io/commit/9768ce53e502dfb34519c7ccb48e8701026c1c43))
+* **20250217:** added monja restaurant ([d5dc814](https://github.com/samdouble/samdouble.github.io/commit/d5dc814975986d31d2cda3425062aa6d8f08aa03))
+* add tech logos for projects ([7a8c049](https://github.com/samdouble/samdouble.github.io/commit/7a8c0494ef49b9bc0c72e74882f86911858f6ae8))
+
 ## [1.7.0](https://github.com/samdouble/samdouble.github.io/compare/v1.6.0...v1.7.0) (2025-03-11)
 
 
