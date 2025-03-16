@@ -35,6 +35,7 @@
             "date": "2025-01-03",
             "mainImage": "/assets/icons/projects/biblio.png",
             "parent": "projects",
+            "techs": ["dart", "flutter"],
             "translation": [{
                 "language": "en",
                 "title": "Biblio",
@@ -49,6 +50,7 @@
             "date": "2025-03-12",
             "mainImage": "/assets/icons/projects/fire.png",
             "parent": "projects",
+            "techs": ["svelte"],
             "translation": [{
                 "language": "en",
                 "title": "Fire",
@@ -63,6 +65,7 @@
             "date": "2020-04-01",
             "mainImage": "/assets/icons/projects/fikas.png",
             "parent": "projects",
+            "techs": ["typescript", "react"],
             "translation": [{
                 "language": "en",
                 "title": "fikas.io",
@@ -77,6 +80,7 @@
             "date": "2025-02-08",
             "mainImage": "/assets/icons/projects/toolbelt.png",
             "parent": "projects",
+            "techs": ["rust"],
             "translation": [{
                 "language": "en",
                 "title": "Toolbelt",
@@ -1614,6 +1618,20 @@
                 "language": "fr",
                 "path": "2025/03/20250302_japan2025.fr.md",
                 "title": "Conclusion"
+            }]
+        }, {
+            "id": "2025-03-12-fire",
+            "category": "projects-fire",
+            "date": "2025-03-12",
+            "mainImage": "/assets/2025/03/20250312_fire/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250312_fire.en.md",
+                "title": "Initializing a Svelte Project"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250312_fire.fr.md",
+                "title": "Initialisation d'un projet Svelte"
             }]
         }
     ]

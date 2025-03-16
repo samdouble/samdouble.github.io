@@ -1,42 +1,42 @@
 const icons = [
   {
     link: 'https://github.com/samdouble',
-    image: '/assets/icons/github.png',
+    image: '/assets/icons/platforms/github.png',
     name: 'GitHub',
   },
   {
     link: 'https://medium.com/@samdouble',
-    image: '/assets/icons/medium.png',
+    image: '/assets/icons/platforms/medium.png',
     name: 'Medium',
   },
   {
     link: 'https://snowflake.discourse.group/u/samdouble/summary',
-    image: '/assets/icons/snowflake.png',
+    image: '/assets/icons/platforms/snowflake.png',
     name: 'Snowflake',
   },
   {
     link: 'https://stackoverflow.com/users/12787394/samdouble',
-    image: '/assets/icons/stackoverflow.webp',
+    image: '/assets/icons/platforms/stackoverflow.webp',
     name: 'Stack Overflow',
   },
   {
     link: 'https://www.npmjs.com/~samdouble',
-    image: '/assets/icons/npm.png',
+    image: '/assets/icons/platforms/npm.png',
     name: 'npm',
   },
   {
     link: 'https://pypi.org/user/samdouble',
-    image: '/assets/icons/pypi.png',
+    image: '/assets/icons/platforms/pypi.png',
     name: 'PyPI',
   },
   {
     link: 'https://forums.docker.com/u/samdouble/summary',
-    image: '/assets/icons/docker.webp',
+    image: '/assets/icons/platforms/docker.webp',
     name: 'Docker',
   },
   {
     link: 'https://www.kaggle.com/samdouble',
-    image: '/assets/icons/kaggle.webp',
+    image: '/assets/icons/platforms/kaggle.webp',
     name: 'Kaggle',
   },
 ];

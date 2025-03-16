@@ -1,3 +1,5 @@
+export type Tech = 'dart' | 'flutter' | 'go' | 'react' | 'rust' | 'svelte' | 'typescript';
+
 export interface Category {
   id: string;
   date?: string;
@@ -5,6 +7,7 @@ export interface Category {
   mainImage?: string;
   parent?: string;
   description?: string;
+  techs?: Tech[];
   translation: [{
     language: string;
     title: string;

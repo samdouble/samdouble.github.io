@@ -34,13 +34,32 @@ function Icon({
     const imgFileName = flagIcons[name as keyof typeof flagIcons];
     return (
       <img
-        src={`/assets/icons/flags/${imgFileName}`}
         alt={name}
+        src={`/assets/icons/flags/${imgFileName}`}
         style={{
           height: 15,
           position: 'relative',
           top: -1,
+          ...style,
         }}
+      />
+    );
+  } else if (name?.startsWith('tech-')) {
+    const techIcons = {
+      'tech-dart': 'dart.png',
+      'tech-flutter': 'flutter.webp',
+      'tech-go': 'go.png',
+      'tech-react': 'react.png',
+      'tech-rust': 'rust.png',
+      'tech-svelte': 'svelte.png',
+      'tech-typescript': 'typescript.webp',
+    };
+    const imgFileName = techIcons[name as keyof typeof techIcons];
+    return (
+      <img
+        alt={name}
+        src={`/assets/icons/techs/${imgFileName}`}
+        style={style}
       />
     );
   }
