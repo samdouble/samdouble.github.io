@@ -36,6 +36,9 @@ function CategoriesList({
                         height={100}
                         src={category.mainImage}
                         width={160}
+                        style={{
+                          objectFit: 'cover',
+                        }}
                       />
                     </Link>
                   </td>

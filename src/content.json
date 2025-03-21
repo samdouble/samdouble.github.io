@@ -284,6 +284,7 @@
             "category": "movie-reviews",
             "date": "2023-03-30",
             "mainImage": "/assets/2023/03/20230330_john-wick4/johnwick.jpg",
+            "seen_in": "en",
             "translation": [{
                 "language": "en",
                 "path": "2023/03/20230330_john-wick4.en.md",
@@ -308,6 +309,7 @@
             "category": "movie-reviews",
             "date": "2023-07-14",
             "mainImage": "/assets/2023/07/20230714_sound-of-freedom/sound-of-freedom.jpg",
+            "seen_in": "en",
             "translation": [{
                 "language": "en",
                 "path": "2023/07/20230714_sound-of-freedom.en.md",
@@ -456,6 +458,7 @@
             "category": "movie-reviews",
             "date": "2023-10-01",
             "mainImage": "/assets/2023/10/20231001_equalizer3/equalizer3.jpg",
+            "seen_in": "en",
             "translation": [{
                 "language": "en",
                 "path": "2023/10/20231001_equalizer3.en.md",
@@ -470,6 +473,7 @@
             "category": "movie-reviews",
             "date": "2024-01-27",
             "mainImage": "/assets/2024/01/20240127_beekeeper/beekeeper.jpg",
+            "seen_in": "en",
             "translation": [{
                 "language": "en",
                 "path": "2024/01/20240127_beekeeper.en.md",
@@ -796,6 +800,7 @@
             "category": "movie-reviews",
             "date": "2024-08-30",
             "mainImage": "/assets/2024/08/20240830_monte-cristo/image.png",
+            "seen_in": "fr",
             "score": 5,
             "translation": [{
                 "language": "en",
@@ -811,6 +816,7 @@
             "category": "movie-reviews",
             "date": "2024-09-17",
             "mainImage": "/assets/2024/09/20240917_speak-no-evil/image.jpg",
+            "seen_in": "en",
             "score": 5,
             "translation": [{
                 "language": "en",
@@ -826,6 +832,7 @@
             "category": "movie-reviews",
             "date": "2024-09-22",
             "mainImage": "/assets/2024/09/20240922_amiracist/cover.png",
+            "seen_in": "en",
             "score": 4,
             "translation": [{
                 "language": "en",
@@ -841,6 +848,7 @@
             "category": "movie-reviews",
             "date": "2024-10-02",
             "mainImage": "/assets/2024/10/20241002_reacher1/reacher.png",
+            "seen_in": "en",
             "score": 5,
             "translation": [{
                 "language": "en",
@@ -856,6 +864,7 @@
             "category": "movie-reviews",
             "date": "2024-10-05",
             "mainImage": "/assets/2024/10/20241005_reacher2/reacher2.png",
+            "seen_in": "en",
             "score": 3.5,
             "translation": [{
                 "language": "en",
@@ -871,6 +880,8 @@
             "category": "book-reviews",
             "date": "2024-10-09",
             "mainImage": "/assets/2024/10/20241009_moncoeur/cover.png",
+            "authors": ["Michel Bussi"],
+            "read_in": "fr",
             "score": 4,
             "translation": [{
                 "language": "fr",
@@ -882,6 +893,8 @@
             "category": "book-reviews",
             "date": "2024-10-16",
             "mainImage": "/assets/2024/10/20241016_bebedonge/cover.jpg",
+            "authors": ["Georges Simenon"],
+            "read_in": "fr",
             "score": 3,
             "translation": [{
                 "language": "en",
@@ -968,6 +981,8 @@
             "category": "book-reviews",
             "date": "2024-11-03",
             "mainImage": "/assets/2024/11/20241103_linfiltre/book.jpg",
+            "authors": ["John Grisham"],
+            "read_in": "fr",
             "score": 3.5,
             "translation": [{
                 "language": "en",
@@ -1071,6 +1086,7 @@
             "category": "movie-reviews",
             "date": "2024-11-15",
             "mainImage": "/assets/2024/11/20241115_heretic/heretic.jpg",
+            "seen_in": "en",
             "score": 4.5,
             "translation": [{
                 "language": "en",
@@ -1130,6 +1146,8 @@
             "category": "book-reviews",
             "date": "2024-12-01",
             "mainImage": "/assets/2024/12/20241201_maniaque/cover.png",
+            "authors": ["Jonathan Kellerman"],
+            "read_in": "fr",
             "score": 4,
             "translation": [{
                 "language": "en",
@@ -1145,6 +1163,8 @@
             "category": "book-reviews",
             "date": "2024-12-04",
             "mainImage": "/assets/2024/12/20241204_permanently-suspended/cover.png",
+            "authors": ["Anthony Cumia"],
+            "read_in": "en",
             "score": 4,
             "translation": [{
                 "language": "en",
@@ -1160,6 +1180,7 @@
             "category": "movie-reviews",
             "date": "2024-12-06",
             "mainImage": "/assets/2024/12/20241206_our-little-secret/image.jpg",
+            "seen_in": "en",
             "score": 4,
             "translation": [{
                 "language": "en",
@@ -1205,6 +1226,8 @@
             "category": "book-reviews",
             "date": "2025-01-02",
             "mainImage": "/assets/2025/01/20250102_every-falling-star/cover.jpg",
+            "authors": ["Sung-Ju Lee", "Susan McClelland"],
+            "read_in": "en",
             "score": 4.5,
             "translation": [{
                 "language": "en",
@@ -1234,6 +1257,7 @@
             "category": "movie-reviews",
             "date": "2025-01-04",
             "mainImage": "/assets/2025/01/20250104_mr-robot1/cover.jpg",
+            "seen_in": "en",
             "score": 4.5,
             "translation": [{
                 "language": "en",
@@ -1249,6 +1273,8 @@
             "category": "book-reviews",
             "date": "2025-01-10",
             "mainImage": "/assets/2025/01/20250110_judges-list/cover.jpg",
+            "authors": ["John Grisham"],
+            "read_in": "fr",
             "score": 4,
             "translation": [{
                 "language": "en",
@@ -1277,6 +1303,7 @@
             "category": "movie-reviews",
             "date": "2025-01-20",
             "mainImage": "/assets/2025/01/20250120_september5/image.png",
+            "seen_in": "en",
             "score": 4,
             "translation": [{
                 "language": "en",
@@ -1292,6 +1319,8 @@
             "category": "book-reviews",
             "date": "2025-01-24",
             "mainImage": "/assets/2025/01/20250124_affaires-jihad/image.png",
+            "authors": ["Philippe Richelle"],
+            "read_in": "fr",
             "score": 4.5,
             "translation": [{
                 "language": "fr",
@@ -1303,6 +1332,7 @@
             "category": "movie-reviews",
             "date": "2025-01-25",
             "mainImage": "/assets/2025/01/20250125_brutalist/image.png",
+            "seen_in": "en",
             "score": 3.5,
             "translation": [{
                 "language": "en",
@@ -1318,6 +1348,7 @@
             "category": "movie-reviews",
             "date": "2025-01-29",
             "mainImage": "/assets/2025/01/20250129_flight-risk/image.png",
+            "seen_in": "en",
             "score": 3,
             "translation": [{
                 "language": "en",
@@ -1333,6 +1364,8 @@
             "category": "book-reviews",
             "date": "2025-01-31",
             "mainImage": "/assets/2025/01/20250131_affaires-droite/image.png",
+            "authors": ["Philippe Richelle"],
+            "read_in": "fr",
             "score": 4,
             "translation": [{
                 "language": "fr",
@@ -1359,6 +1392,8 @@
             "category": "book-reviews",
             "date": "2025-02-04",
             "mainImage": "/assets/2025/02/20250204_affaires-guerre/image.png",
+            "authors": ["Philippe Richelle"],
+            "read_in": "fr",
             "score": 4,
             "translation": [{
                 "language": "fr",
@@ -1385,6 +1420,8 @@
             "category": "book-reviews",
             "date": "2025-02-12",
             "mainImage": "/assets/2025/02/20250212_puzzle/image.png",
+            "authors": ["Franck Thilliez"],
+            "read_in": "fr",
             "score": 5,
             "translation": [{
                 "language": "en",
@@ -1632,6 +1669,39 @@
                 "language": "fr",
                 "path": "2025/03/20250312_fire.fr.md",
                 "title": "Initialisation d'un projet Svelte"
+            }]
+        }, {
+            "id": "2025-03-17-inconnus",
+            "category": "book-reviews",
+            "date": "2025-03-17",
+            "mainImage": "/assets/2025/03/20250317_inconnus/image.png",
+            "authors": ["Georges Simenon"],
+            "read_in": "fr",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250317_inconnus.en.md",
+                "title": "The Strangers in the House"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250317_inconnus.fr.md",
+                "title": "Les inconnus dans la maison"
+            }]
+        }, {
+            "id": "2025-03-19-last-breath",
+            "category": "movie-reviews",
+            "date": "2025-03-19",
+            "mainImage": "/assets/2025/03/20250319_last-breath/image.png",
+            "seen_in": "en",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250319_last-breath.en.md",
+                "title": "Last Breath"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250319_last-breath.fr.md",
+                "title": "Last Breath"
             }]
         }
     ]
