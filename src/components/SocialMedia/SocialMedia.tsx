@@ -10,11 +10,6 @@ const icons = [
     name: 'Medium',
   },
   {
-    link: 'https://snowflake.discourse.group/u/samdouble/summary',
-    image: '/assets/icons/platforms/snowflake.png',
-    name: 'Snowflake',
-  },
-  {
     link: 'https://stackoverflow.com/users/12787394/samdouble',
     image: '/assets/icons/platforms/stackoverflow.webp',
     name: 'Stack Overflow',
@@ -28,11 +23,6 @@ const icons = [
     link: 'https://pypi.org/user/samdouble',
     image: '/assets/icons/platforms/pypi.png',
     name: 'PyPI',
-  },
-  {
-    link: 'https://forums.docker.com/u/samdouble/summary',
-    image: '/assets/icons/platforms/docker.webp',
-    name: 'Docker',
   },
   {
     link: 'https://www.kaggle.com/samdouble',
