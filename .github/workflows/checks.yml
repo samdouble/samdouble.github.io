@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: 22.9.0
       - name: Validate content.json
-        uses: docker://orrosenblatt/validate-json-action:0.1.0
+        uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./src/schema.json
           INPUT_JSONS: ./src/content.json
