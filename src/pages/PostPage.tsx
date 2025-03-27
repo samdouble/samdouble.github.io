@@ -10,6 +10,7 @@ import { LanguageContext } from 'services/contexts';
 import content from 'content.json';
 import Icon from 'components/Icon';
 import MarkdownCarousel from 'components/posts/MarkdownCarousel';
+import Spoiler from 'components/posts/Spoiler';
 import ScoreToStars from 'components/ScoreToStars';
 import './PostPage.css';
 import './styles.css';
@@ -66,6 +67,9 @@ function PostPage() {
                 overrides: {
                   Carousel: {
                     component: MarkdownCarousel,
+                  },
+                  Spoiler: {
+                    component: Spoiler,
                   },
                 },
               }}

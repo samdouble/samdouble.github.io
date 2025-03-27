@@ -21,6 +21,16 @@
                 "title": "Revues de films"
             }]
         }, {
+            "id": "game-reviews",
+            "icon": "gamepad",
+            "translation": [{
+                "language": "en",
+                "title": "Game reviews"
+            }, {
+                "language": "fr",
+                "title": "Revues de jeux"
+            }]
+        }, {
             "id": "projects",
             "icon": "folder",
             "translation": [{
@@ -1702,6 +1712,52 @@
                 "language": "fr",
                 "path": "2025/03/20250319_last-breath.fr.md",
                 "title": "Last Breath"
+            }]
+        }, {
+            "id": "2025-03-22-caribou-gourmand",
+            "category": "restaurant-reviews",
+            "date": "2025-03-22 10:00:00",
+            "mainImage": "/assets/2025/03/20250322_caribou-gourmand/caribou.jpg",
+            "score": 5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250322_caribou-gourmand.en.md",
+                "title": "Caribou Gourmand"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250322_caribou-gourmand.fr.md",
+                "title": "Caribou Gourmand"
+            }]
+        }, {
+            "id": "2025-03-22-black-bag",
+            "category": "movie-reviews",
+            "date": "2025-03-22 19:30:00",
+            "mainImage": "/assets/2025/03/20250322_black-bag/image.png",
+            "seen_in": "fr",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250322_black-bag.en.md",
+                "title": "Black Bag"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250322_black-bag.fr.md",
+                "title": "Le sac noir"
+            }]
+        }, {
+            "id": "2025-03-26-this-bed-we-made",
+            "category": "game-reviews",
+            "date": "2025-03-26",
+            "mainImage": "/assets/2025/03/20250326_this-bed-we-made/image.png",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250326_this-bed-we-made.en.md",
+                "title": "This Bed We Made"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250326_this-bed-we-made.fr.md",
+                "title": "This Bed We Made"
             }]
         }
     ]
