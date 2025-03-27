@@ -43,6 +43,7 @@ function TopMenu({
           <Nav.Link href="/#/category/trips">{t('trips')}</Nav.Link>
           <NavDropdown title={t('reviews')}>
             <NavDropdown.Item href="/#/category/book-reviews">{t('books')}</NavDropdown.Item>
+            <NavDropdown.Item href="/#/category/game-reviews">{t('games')}</NavDropdown.Item>
             <NavDropdown.Item href="/#/category/movie-reviews">{t('movies')}</NavDropdown.Item>
             <NavDropdown.Item href="/#/category/restaurant-reviews">{t('restaurants')}</NavDropdown.Item>
           </NavDropdown>
