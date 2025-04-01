@@ -109,11 +109,11 @@
             "translation": [{
                 "language": "en",
                 "title": "Toolbelt",
-                "description": "TODO"
+                "description": "A CLI tool to facilitate access to frequently used commands and scripts"
             }, {
                 "language": "fr",
                 "title": "Toolbelt",
-                "description": "TODO"
+                "description": "Un outil CLI pour faciliter l'accès aux commandes et scripts fréquemment utilisés"
             }]
         }, {
             "id": "restaurant-reviews",
@@ -1470,6 +1470,20 @@
                 "language": "fr",
                 "path": "2025/02/20250212_puzzle.fr.md",
                 "title": "Puzzle"
+            }]
+        }, {
+            "id": "2025-02-14-japan2025",
+            "category": "2025-02-japan",
+            "date": "2025-02-14",
+            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250214_japan2025.en.md",
+                "title": "TODO"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250214_japan2025.fr.md",
+                "title": "TODO"
             }]
         }, {
             "id": "2025-02-15-japan2025",
