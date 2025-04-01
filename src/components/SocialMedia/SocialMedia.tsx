@@ -5,11 +5,6 @@ const icons = [
     name: 'GitHub',
   },
   {
-    link: 'https://medium.com/@samdouble',
-    image: '/assets/icons/platforms/medium.png',
-    name: 'Medium',
-  },
-  {
     link: 'https://stackoverflow.com/users/12787394/samdouble',
     image: '/assets/icons/platforms/stackoverflow.webp',
     name: 'Stack Overflow',
@@ -28,6 +23,11 @@ const icons = [
     link: 'https://www.kaggle.com/samdouble',
     image: '/assets/icons/platforms/kaggle.webp',
     name: 'Kaggle',
+  },
+  {
+    link: 'https://medium.com/@samdouble',
+    image: '/assets/icons/platforms/medium.png',
+    name: 'Medium',
   },
 ];
 

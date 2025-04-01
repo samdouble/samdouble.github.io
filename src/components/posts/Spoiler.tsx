@@ -10,7 +10,7 @@ function Spoiler({
     <span
       onClick={() => setIsRevealed(!isRevealed)}
       style={{
-        backgroundColor: isRevealed ? 'transparent' : '#fff8d1',
+        backgroundColor: isRevealed ? '#fff8d1' : '#f2f2f2',
         cursor: 'pointer',
       }}
     >

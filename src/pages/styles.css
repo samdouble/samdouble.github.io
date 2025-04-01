@@ -16,10 +16,9 @@ img {
 .card-img-top {
   filter: grayscale(30%);
   height: 50px;
-  margin-left: 16px;
   object-fit: cover;
-  object-position: 0 -5px;
-  width: 200px !important;
+  object-position: 0 -8px;
+  width: 100% !important;
 }
 
 .card:hover .card-img-top {

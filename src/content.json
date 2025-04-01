@@ -49,11 +49,11 @@
             "translation": [{
                 "language": "en",
                 "title": "Biblio",
-                "description": "Biblio is a web application that allows you to manage your library."
+                "description": "A web application that allows you to manage your library."
             }, {
                 "language": "fr",
                 "title": "Biblio",
-                "description": "Biblio est une application mobile qui permet de gérer votre bibliothèque."
+                "description": "Une application mobile qui permet de gérer votre bibliothèque."
             }]
         }, {
             "id": "projects-fire",
@@ -79,11 +79,26 @@
             "translation": [{
                 "language": "en",
                 "title": "fikas.io",
-                "description": "fikas.io is a web application that allows you to manage your projects."
+                "description": "A web application that allows you to manage your projects."
             }, {
                 "language": "fr",
                 "title": "fikas.io",
-                "description": "fikas.io est une application web qui permet de gérer vos projets."
+                "description": "Une application web qui permet de gérer vos projets."
+            }]
+        }, {
+            "id": "projects-lwb",
+            "date": "2023-10-12",
+            "mainImage": "/assets/icons/projects/lwb.png",
+            "parent": "projects",
+            "techs": ["typescript", "react"],
+            "translation": [{
+                "language": "en",
+                "title": "LWB",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "LWB",
+                "description": "TODO"
             }]
         }, {
             "id": "projects-toolbelt",
@@ -1411,6 +1426,20 @@
                 "title": "Affaires d'état - Guerre froide"
             }]
         }, {
+            "id": "2025-02-08-lwb-vite",
+            "category": "projects-lwb",
+            "date": "2025-02-08",
+            "mainImage": "/assets/2025/02/20250208_lwb-vite/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/02/20250208_lwb-vite.en.md",
+                "title": "Replacing Create-React-App with Vite"
+            }, {
+                "language": "fr",
+                "path": "2025/02/20250208_lwb-vite.fr.md",
+                "title": "Remplacement de Create-React-App par Vite"
+            }]
+        }, {
             "id": "2025-02-09-lloydies",
             "category": "restaurant-reviews",
             "date": "2025-02-09",
@@ -1758,6 +1787,21 @@
                 "language": "fr",
                 "path": "2025/03/20250326_this-bed-we-made.fr.md",
                 "title": "This Bed We Made"
+            }]
+        }, {
+            "id": "2025-03-29-cafe-aragon",
+            "category": "restaurant-reviews",
+            "date": "2025-03-29 10:00:00",
+            "mainImage": "/assets/2025/03/20250329_cafe-aragon/cafe.jpg",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2025/03/20250329_cafe-aragon.en.md",
+                "title": "Café Aragon"
+            }, {
+                "language": "fr",
+                "path": "2025/03/20250329_cafe-aragon.fr.md",
+                "title": "Café Aragon"
             }]
         }
     ]
