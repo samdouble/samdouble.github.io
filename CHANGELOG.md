@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.9.0](https://github.com/samdouble/samdouble.github.io/compare/v1.8.0...v1.9.0) (2025-04-01)
+
+
+### Features
+
+* **20250219:** added trip to Hakone ([54059df](https://github.com/samdouble/samdouble.github.io/commit/54059df38648ce00a44adc967088bec6525462f4))
+* **20250319:** added post ([ba07aed](https://github.com/samdouble/samdouble.github.io/commit/ba07aed2e35e4909d18c44f32bb7c44de52cfd80))
+* **20250322:** added post ([86ecf42](https://github.com/samdouble/samdouble.github.io/commit/86ecf4262e564c5cf50e3b3cf5af064311fd6b77))
+
 ## [1.8.0](https://github.com/samdouble/samdouble.github.io/compare/v1.7.0...v1.8.0) (2025-03-16)
 
 
