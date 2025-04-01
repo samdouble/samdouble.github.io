@@ -109,7 +109,7 @@ function PostsList({
                         color: 'gray',
                       }}
                     >
-                      {post.date}
+                      {new Date(post.date).toISOString().split('T')[0]}
                     </div>
                   </td>
                 </tr>
