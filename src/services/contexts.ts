@@ -1,7 +1,7 @@
 import { createContext } from 'react';
-import { defaultLanguage } from './language';
+import { initialLanguage } from './language';
 
-export const LanguageContext = createContext<string>(defaultLanguage);
+export const LanguageContext = createContext<string>(initialLanguage);
 
 export default {
   LanguageContext,

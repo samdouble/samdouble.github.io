@@ -6,6 +6,7 @@ import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
+import { useElementSize } from '@custom-react-hooks/use-element-size';
 import Icon from 'components/Icon';
 import PostsList from 'components/PostsList';
 import SocialMedia from 'components/SocialMedia/SocialMedia';
@@ -15,6 +16,8 @@ import content from 'content.json';
 import './styles.css';
 
 function HomePage() {
+  const [setRef, size] = useElementSize();
+
   const { t } = useTranslation();
 
   const language = useContext(LanguageContext);
@@ -28,6 +31,13 @@ function HomePage() {
     .filter(category => category.parent === 'projects')
     .sort((categoryA, categoryB) => categoryA.date! < categoryB.date! ? 1 : -1);
 
+  const {
+    width: projectGridWidth,
+  } = size;
+  const projectGridTemplateColumns = (projectGridWidth < 800)
+    ? '32% 32% 32%'
+    : '24% 24% 24% 24%';
+
   return (
     <Container
       fluid
@@ -40,11 +50,12 @@ function HomePage() {
         >
           <h2>{t('projects')}</h2>
           <div
+            ref={setRef}
             style={{
               columnGap: 10,
               display: 'grid',
-              gridTemplateColumns: '24% 24% 24% 24%',
-              gridTemplateRows: '260px 260px 260px',
+              gridTemplateColumns: projectGridTemplateColumns,
+              gridTemplateRows: 'auto auto auto',
               rowGap: 15,
             }}
           >
@@ -64,7 +75,12 @@ function HomePage() {
                       objectPosition: '0 -8px',
                     }}
                   />
-                  <Card.Body>
+                  <Card.Body
+                    style={{
+                      marginBottom: 35,
+                      position: 'relative',
+                    }}
+                  >
                     <div>
                       {
                         project.techs?.map(tech => (
@@ -85,9 +101,15 @@ function HomePage() {
                       {project.translation.find(tr => tr.language === language)?.description}
                     </Card.Text>
                     <Link
+                      style={{
+                        position: 'absolute',
+                        bottom: -20,
+                      }}
                       to={`/category/${project.id}`}
                     >
-                      <Button variant="primary">
+                      <Button
+                        variant="primary"
+                      >
                         {t('seeMore')}
                       </Button>
                     </Link>
