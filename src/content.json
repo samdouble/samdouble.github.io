@@ -94,11 +94,11 @@
             "translation": [{
                 "language": "en",
                 "title": "GitHub Text Analysis Action",
-                "description": "TODO"
+                "description": "A GitHub Action that performs simple checks on text"
             }, {
                 "language": "fr",
                 "title": "GitHub Text Analysis Action",
-                "description": "TODO"
+                "description": "Une action GitHub qui fait des analyses simples sur du texte"
             }]
         }, {
             "id": "projects-lwb",
