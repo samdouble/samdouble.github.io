@@ -86,6 +86,21 @@
                 "description": "Une application web qui permet de gérer vos projets."
             }]
         }, {
+            "id": "projects-github-text-analysis-action",
+            "date": "2025-04-01",
+            "mainImage": "/assets/icons/projects/logo-github-text-analysis-action.png",
+            "parent": "projects",
+            "techs": ["typescript", "github-actions"],
+            "translation": [{
+                "language": "en",
+                "title": "GitHub Text Analysis Action",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "GitHub Text Analysis Action",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-lwb",
             "date": "2023-10-12",
             "mainImage": "/assets/icons/projects/lwb.png",
@@ -1816,6 +1831,20 @@
                 "language": "fr",
                 "path": "2025/03/20250329_cafe-aragon.fr.md",
                 "title": "Café Aragon"
+            }]
+        }, {
+            "id": "2025-04-01-text-analysis",
+            "category": "projects-github-text-analysis-action",
+            "date": "2025-04-01",
+            "mainImage": "/assets/2025/04/20250401_text-analysis/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250401_text-analysis.en.md",
+                "title": "A GitHub Action that performs simple checks on text"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250401_text-analysis.fr.md",
+                "title": "Une action GitHub qui fait des analyses simples sur du texte"
             }]
         }
     ]

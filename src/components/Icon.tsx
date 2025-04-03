@@ -49,6 +49,7 @@ function Icon({
     const techIcons = {
       'tech-dart': 'dart.png',
       'tech-flutter': 'flutter.webp',
+      'tech-github-actions': 'github-actions.svg',
       'tech-go': 'go.png',
       'tech-react': 'react.png',
       'tech-rust': 'rust.png',

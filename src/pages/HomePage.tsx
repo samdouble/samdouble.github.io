@@ -124,7 +124,11 @@ function HomePage() {
           lg={5}
           sm={12}
         >
-          <div>
+          <div
+            style={{
+              marginBottom: 20,
+            }}
+          >
             <h2>{t('blog')}</h2>
             <PostsList
               posts={latestPosts}
