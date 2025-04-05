@@ -1846,6 +1846,36 @@
                 "path": "2025/04/20250401_text-analysis.fr.md",
                 "title": "Une action GitHub qui fait des analyses simples sur du texte"
             }]
+        }, {
+            "id": "2025-04-05-text-analysis",
+            "category": "projects-github-text-analysis-action",
+            "date": "2025-04-05",
+            "mainImage": "/assets/2025/04/20250405_text-analysis/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250405_text-analysis.en.md",
+                "title": "A GitHub Action that performs simple checks on text"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250405_text-analysis.fr.md",
+                "title": "Une action GitHub qui fait des analyses simples sur du texte"
+            }]
+        }, {
+            "id": "2025-04-05-working-man",
+            "category": "movie-reviews",
+            "date": "2025-04-05",
+            "mainImage": "/assets/2025/04/20250405_working-man/image.png",
+            "seen_in": "en",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250405_working-man.en.md",
+                "title": "A Working Man"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250405_working-man.fr.md",
+                "title": "Un homme de parole"
+            }]
         }
     ]
 }
