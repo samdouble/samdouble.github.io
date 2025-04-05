@@ -21,6 +21,7 @@ https://unsaferguard.org/un-saferguard/kingery-bulmash
 
 
 
-choeur brouhaha
+choeur du brouhaha
+https://choeurdubrouhaha.com/
 
 TODO

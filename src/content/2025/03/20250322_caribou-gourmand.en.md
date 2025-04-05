@@ -8,7 +8,8 @@ The restaurant had just opened, and I was one of the first customers. I was assi
 ![At the table](/assets/2025/03/20250322_caribou-gourmand/table.jpg)
 <p align="center"><b>At the table</b></p>
 
-The menu was divided into 3 sections, each with 3 to 4 options: sweet breakfasts, savory breakfasts, and the classic brunch. It was hard to choose; I wanted everything. Finally, I went for the Sugar Shack Platter. It seemed like the choice that would let me try a bit of everything. The plate included maple-braised ham, apple and maple sausage from Jean Talon Market, maple syrup bacon, baked beans, maple scrambled eggs, yak cretons from the Yakiti Yack farm in Bolton East, oreilles de crisse (deep-fried pork rinds), sweet pickles, toasted country bread, breakfast potatoes, and mesclun.
+The menu was divided into 3 sections, each with 3 to 4 options: sweet breakfasts, savory breakfasts, and the classic brunch. It was hard to choose; I wanted everything. Finally, I went for the Sugar Shack Platter. It seemed like the choice that would let me try a bit of everything.  
+The dish included maple-braised ham, apple and maple sausage from Jean Talon Market, maple syrup bacon, baked beans, maple scrambled eggs, yak cretons from the Yakiti Yack farm in Bolton East, oreilles de crisse (deep-fried pork rinds), sweet pickles, toasted country bread, breakfast potatoes, and mesclun.
 
 ![Sugar Shack Platter](/assets/2025/03/20250322_caribou-gourmand/table.jpg)
 <p align="center"><b>The Sugar Shack Platter</b></p>
