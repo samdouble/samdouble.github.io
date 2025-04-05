@@ -11,7 +11,8 @@
     "lint": "eslint --ext .ts,.tsx ./",
     "predeploy": "npm run build",
     "start": "ESLINT_NO_DEV_ERRORS=true react-scripts start",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "textlinter": "textlinter"
   },
   "dependencies": {
     "@ctrl/react-adsense": "^1.8.0",

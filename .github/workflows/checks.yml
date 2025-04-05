@@ -10,8 +10,8 @@ jobs:
   checks:
     runs-on: ubuntu-latest
     steps:
-      #- name: Commitlint
-      #  uses: wagoid/commitlint-github-action@v6
+      - name: Commitlint
+        uses: wagoid/commitlint-github-action@v6
       - name: Checkout
         uses: actions/checkout@v4
       - name: Set up Node
@@ -34,9 +34,8 @@ jobs:
           ignored_files: |
             public/assets/2024/04/20240411_europe/itinerary.xcf
       - name: Text analysis
-        uses: samdouble/github-text-analysis-action@test/build-action
+        uses: samdouble/textlinter@feat/make-lib
         with:
-          gh-token: ${{ secrets.GITHUB_TOKEN }}
           label: samdouble
       - name: Install
         run: |

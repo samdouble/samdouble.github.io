@@ -8,7 +8,7 @@ Although the café's clientele was quite diverse, it seemed like the kind of pla
 ![Inside](/assets/2025/03/20250329_cafe-aragon/inside.jpg)
 <p align="center"><b>Inside</b></p>
 
-The menu was original, but I wasn't. I chose "L'Anglaise", a plate of waffles with potatoes, fruit, and maple syrup. At $13.50, it was great value for money.
+The menu was original, but me, not that much. I chose "L'Anglaise", a plate of waffles with potatoes, fruit, and maple syrup. At $13.50, it was great value for money.
 
 ![L'Anglaise](/assets/2025/03/20250329_cafe-aragon/plate.jpg)
 <p align="center"><b>L'Anglaise</b></p>
