@@ -21,7 +21,7 @@ function ProjectsGridTile({
 
   const language = useContext(LanguageContext);
 
-  const imagePositionY = (size.width < 230) ? -8 : -18;
+  const imagePositionY = (size.width < 230) ? -8 : -15;
 
   return (
     <Card

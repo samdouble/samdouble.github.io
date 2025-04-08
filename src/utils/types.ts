@@ -20,6 +20,9 @@ export interface Post {
   date: string;
   id: string;
   mainImage: string;
+  score?: number;
+  read_in?: string;
+  seen_in?: string;
   translation: [{
     language: string;
     path: string;

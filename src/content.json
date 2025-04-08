@@ -44,6 +44,7 @@
             "id": "projects-biblio",
             "date": "2025-01-03",
             "mainImage": "/assets/icons/projects/biblio.png",
+            "icon": "project-biblio",
             "parent": "projects",
             "techs": ["dart", "flutter"],
             "translation": [{
@@ -74,6 +75,7 @@
             "id": "projects-fikas",
             "date": "2020-04-01",
             "mainImage": "/assets/icons/projects/fikas.png",
+            "icon": "project-fikas",
             "parent": "projects",
             "techs": ["typescript", "react"],
             "translation": [{
@@ -84,21 +86,6 @@
                 "language": "fr",
                 "title": "fikas.io",
                 "description": "Une application web qui permet de gérer vos projets."
-            }]
-        }, {
-            "id": "projects-github-text-analysis-action",
-            "date": "2025-04-01",
-            "mainImage": "/assets/icons/projects/logo-github-text-analysis-action.png",
-            "parent": "projects",
-            "techs": ["typescript", "github-actions"],
-            "translation": [{
-                "language": "en",
-                "title": "GitHub Text Analysis Action",
-                "description": "A GitHub Action that performs simple checks on text"
-            }, {
-                "language": "fr",
-                "title": "GitHub Text Analysis Action",
-                "description": "Une action GitHub qui fait des analyses simples sur du texte"
             }]
         }, {
             "id": "projects-lwb",
@@ -114,6 +101,22 @@
                 "language": "fr",
                 "title": "LWB",
                 "description": "TODO"
+            }]
+        }, {
+            "id": "projects-textlinter",
+            "date": "2025-04-01",
+            "mainImage": "/assets/icons/projects/textlinter.png",
+            "icon": "project-textlinter",
+            "parent": "projects",
+            "techs": ["typescript", "github-actions"],
+            "translation": [{
+                "language": "en",
+                "title": "TextLinter",
+                "description": "A GitHub Action that performs simple checks on text"
+            }, {
+                "language": "fr",
+                "title": "TextLinter",
+                "description": "Une action GitHub qui fait des analyses simples sur du texte"
             }]
         }, {
             "id": "projects-toolbelt",
@@ -325,6 +328,7 @@
             "date": "2023-03-30",
             "mainImage": "/assets/2023/03/20230330_john-wick4/johnwick.jpg",
             "seen_in": "en",
+            "score": 2.5,
             "translation": [{
                 "language": "en",
                 "path": "2023/03/20230330_john-wick4.en.md",
@@ -521,7 +525,7 @@
             }, {
                 "language": "fr",
                 "path": "2024/01/20240127_beekeeper.fr.md",
-                "title": "The Beekeeper"
+                "title": "Le Gardien"
             }]
         }, {
             "id": "2024-04-europe-01",
@@ -1834,7 +1838,7 @@
             }]
         }, {
             "id": "2025-04-01-text-analysis",
-            "category": "projects-github-text-analysis-action",
+            "category": "projects-textlinter",
             "date": "2025-04-01",
             "mainImage": "/assets/2025/04/20250401_text-analysis/image.png",
             "translation": [{
@@ -1844,20 +1848,6 @@
             }, {
                 "language": "fr",
                 "path": "2025/04/20250401_text-analysis.fr.md",
-                "title": "Une action GitHub qui fait des analyses simples sur du texte"
-            }]
-        }, {
-            "id": "2025-04-05-text-analysis",
-            "category": "projects-github-text-analysis-action",
-            "date": "2025-04-05",
-            "mainImage": "/assets/2025/04/20250405_text-analysis/image.png",
-            "translation": [{
-                "language": "en",
-                "path": "2025/04/20250405_text-analysis.en.md",
-                "title": "A GitHub Action that performs simple checks on text"
-            }, {
-                "language": "fr",
-                "path": "2025/04/20250405_text-analysis.fr.md",
                 "title": "Une action GitHub qui fait des analyses simples sur du texte"
             }]
         }, {
@@ -1875,6 +1865,20 @@
                 "language": "fr",
                 "path": "2025/04/20250405_working-man.fr.md",
                 "title": "Un homme de parole"
+            }]
+        }, {
+            "id": "2025-04-06-text-analysis",
+            "category": "projects-textlinter",
+            "date": "2025-04-06",
+            "mainImage": "/assets/2025/04/20250406_text-analysis/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250406_text-analysis.en.md",
+                "title": "GitHub Action or CLI?"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250406_text-analysis.fr.md",
+                "title": "Action GitHub ou CLI?"
             }]
         }
     ]

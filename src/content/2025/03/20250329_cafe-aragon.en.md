@@ -8,7 +8,7 @@ Although the café's clientele was quite diverse, it seemed like the kind of pla
 ![Inside](/assets/2025/03/20250329_cafe-aragon/inside.jpg)
 <p align="center"><b>Inside</b></p>
 
-The menu was original, but me, not that much. I chose "L'Anglaise", a plate of waffles with potatoes, fruit, and maple syrup. At $13.50, it was great value for money.
+The menu was original. Me, not that much. I chose "L'Anglaise", a plate of waffles with potatoes, fruit, and maple syrup. At $13.50, it was great value for money.
 
 ![L'Anglaise](/assets/2025/03/20250329_cafe-aragon/plate.jpg)
 <p align="center"><b>L'Anglaise</b></p>
@@ -18,4 +18,4 @@ To drink, I had the Vermeil, a smoothie with apples, strawberries, raspberries, 
 ![The Vermeil](/assets/2025/03/20250329_cafe-aragon/vermeil.jpg)
 <p align="center"><b>The Vermeil</b></p>
 
-The service was decent and overall, it was a good breakfast.
+The service was decent and overall, it was a good breakfast. I would definitely go back.
