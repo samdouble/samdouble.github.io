@@ -45,4 +45,4 @@ For dessert, it was an apple and caramel crumble with vanilla ice cream and fleu
 ![Apple and Caramel Crisp, vanilla ice cream, fleur de sel caramel](/assets/2024/11/20241102_cartier-arms/cake.jpg)
 <p align="center"><b>Apple and Caramel Crisp, vanilla ice cream, salted caramel</b></p>
 
-Overall, I really enjoyed my experience at Pub Cartier Arms and I felt I got a bit more for my money than at the Greasy Spoon the day before.
+Overall, I really enjoyed my experience at Pub Cartier Arms and I felt I got more for my money than at the Greasy Spoon the day before.

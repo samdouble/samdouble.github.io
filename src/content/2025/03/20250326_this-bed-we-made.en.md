@@ -17,4 +17,4 @@ The conclusion was disappointing. The one I got, anyway. It's true that I played
 
 Another disappointment was the voices. While it's nice to hear references to real places like Outremont or Stanley Street, it's unfortunate that the French voices use European French accents. Perhaps the developers made this choice because the French accent reaches more people worldwide, but hearing "mec," "putain," and "flic" in downtown Montréal in 1957 took me out of the immersion, and was a missed opportunity to showcase our accent and expressions.
 
-Nonetheless, it's a very good game, and I'll probably play it again in a few months when the solutions to the puzzles are less fresh in my memory.
+Nonetheless, it's a very good game, and I'll probably play it again in a few months when I'll have forgotten the solutions to the puzzles.

@@ -45,6 +45,26 @@ function Icon({
         }}
       />
     );
+  } else if (name?.startsWith('project-')) {
+    const projectIcons = {
+      'project-biblio': 'biblio.png',
+      'project-fikas': 'fikas.png',
+      'project-textlinter': 'textlinter.png',
+    };
+    const imgFileName = projectIcons[name as keyof typeof projectIcons];
+    return (
+      <img
+        alt={name}
+        src={`/assets/icons/projects/${imgFileName}`}
+        style={{
+          aspectRatio: 1,
+          height: 15,
+          objectFit: 'cover',
+          position: 'relative',
+          ...style,
+        }}
+      />
+    );
   } else if (name?.startsWith('tech-')) {
     const techIcons = {
       'tech-dart': 'dart.png',

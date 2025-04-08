@@ -17,4 +17,4 @@ La conclusion était décevante. Celle que j'ai eue, en tout cas. C'est vrai que
 
 Une autre déception, c'était les voix. Autant c'est plaisant d'entendre parler d'endroits concrets comme Outremont ou la rue Stanley, autant c'est dommage que les voix en français soient en français de France. Peut-être les développeurs ont-ils fait ce choix parce que l'accent français rejoint plus de gens dans le monde, mais entendre "mec", "putain" et "flic" au centre-ville de Montréal en 1957 m'a sorti de l'immersion, en plus d'être une occasion ratée de faire découvrir notre accent et nos expressions.
 
-Néanmoins, c'est un très bon jeu et je vais probablement y rejouer dans quelques mois, quand les solutions aux énigmes seront moins fraîches dans ma mémoire.
+Néanmoins, c'est un très bon jeu et je vais probablement y rejouer dans quelques mois, quand j'aurai oublié la plupart des solutions aux énigmes.

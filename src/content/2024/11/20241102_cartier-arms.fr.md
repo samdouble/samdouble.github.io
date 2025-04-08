@@ -45,4 +45,4 @@ Pour le dessert, c'était un croquant aux pommes et caramel avec crème glacée 
 ![Croquant aux pommes et caramel, glace vanille et caramel fleur de sel](/assets/2024/11/20241102_cartier-arms/cake.jpg)
 <p align="center"><b>Croquant aux pommes et caramel, glace vanille et caramel fleur de sel</b></p>
 
-Finalement, j'ai bien aimé mon expérience au Pub Cartier Arms et j'ai l'impression d'en avoir eu un peu plus pour mon argent qu'au Greasy Spoon la veille.
+Finalement, j'ai bien aimé mon expérience au Pub Cartier Arms et j'ai l'impression d'en avoir eu plus pour mon argent qu'au Greasy Spoon la veille.
