@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.10.0](https://github.com/samdouble/samdouble.github.io/compare/v1.9.0...v1.10.0) (2025-04-08)
+
+
+### Features
+
+* **20250329:** added post ([9f12946](https://github.com/samdouble/samdouble.github.io/commit/9f12946a79b7f8b55db9c7fb74cbe41c3802aca9))
+* **20250405:** added post ([2a1d505](https://github.com/samdouble/samdouble.github.io/commit/2a1d5058c5dbdefa3527c625169ac76c291f769b))
+* access GitHub Action from textlinter repo ([3ebebd5](https://github.com/samdouble/samdouble.github.io/commit/3ebebd5b67d978ac2265a93da6c5147caa47056e))
+* improve positioning of images on Homepage projects grid ([f633985](https://github.com/samdouble/samdouble.github.io/commit/f633985bcce12bc6995e17f605af9beffc5338a4))
+* improve responsivity of HomePage grid ([c22940e](https://github.com/samdouble/samdouble.github.io/commit/c22940e21b3aa42d450ddbee971ddf6a0702aab0))
+* make footer stick at the bottom of the page ([f020368](https://github.com/samdouble/samdouble.github.io/commit/f02036841b2668a07936c7e8231d865f838fc51b))
+
+
+### Bug Fixes
+
+* fix issue with ResizeObserver in tests ([c452406](https://github.com/samdouble/samdouble.github.io/commit/c452406e80e899f93c4f547c424bf7939d3ecb72))
+
 ## [1.9.0](https://github.com/samdouble/samdouble.github.io/compare/v1.8.0...v1.9.0) (2025-04-01)
 
 
