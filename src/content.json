@@ -103,6 +103,21 @@
                 "description": "TODO"
             }]
         }, {
+            "id": "projects-mock-puppeteer-goto",
+            "date": "2021-08-26",
+            "mainImage": "/assets/icons/projects/mock-puppeteer-goto.png",
+            "parent": "projects",
+            "techs": ["typescript", "puppeteer", "playwright", "jest"],
+            "translation": [{
+                "language": "en",
+                "title": "mock-puppeteer-goto",
+                "description": "A TypeScript library to mock the goto method of Puppeteer and Playwright with local HTML files"
+            }, {
+                "language": "fr",
+                "title": "mock-puppeteer-goto",
+                "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
+            }]
+        }, {
             "id": "projects-textlinter",
             "date": "2025-04-01",
             "mainImage": "/assets/icons/projects/textlinter.png",
@@ -1540,7 +1555,7 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/02/20250217_japan2025.en.md",
-                "title": "The Tsukiji Outer Market, the Skytree, Taito and teamLab Planets"
+                "title": "The Tsukiji Market, the Skytree, Taito and teamLab Planets"
             }, {
                 "language": "fr",
                 "path": "2025/02/20250217_japan2025.fr.md",
