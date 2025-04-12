@@ -1,4 +1,4 @@
-Ce matin, je suis allé bruncher au Passé Composé, qui est dans le Vieux-Montréal depuis un an. Je ne suis jamais allé à l'original, mais je crois que cette nouvelle version se veut plus chic.
+Ce matin, je suis allé bruncher au Passé Composé, qui a réouvert dans le Vieux-Montréal il y a un an. Je ne suis jamais allé à l'original, mais je crois que cette nouvelle version se veut plus chic.
 
 ![At the airport](/assets/2025/02/20250202_passe-compose/passecompose.jpg)
 <p align="center"><b>At the airport</b></p>

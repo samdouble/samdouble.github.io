@@ -1781,6 +1781,7 @@
             "mainImage": "/assets/2025/03/20250319_last-breath/image.png",
             "seen_in": "en",
             "score": 4.5,
+            "score10": 8.5,
             "translation": [{
                 "language": "en",
                 "path": "2025/03/20250319_last-breath.en.md",
@@ -1812,6 +1813,7 @@
             "mainImage": "/assets/2025/03/20250322_black-bag/image.png",
             "seen_in": "fr",
             "score": 4.5,
+            "score10": 9,
             "translation": [{
                 "language": "en",
                 "path": "2025/03/20250322_black-bag.en.md",
@@ -1827,6 +1829,7 @@
             "date": "2025-03-26",
             "mainImage": "/assets/2025/03/20250326_this-bed-we-made/image.png",
             "score": 4.5,
+            "score10": 9,
             "translation": [{
                 "language": "en",
                 "path": "2025/03/20250326_this-bed-we-made.en.md",
@@ -1859,11 +1862,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/04/20250401_text-analysis.en.md",
-                "title": "A GitHub Action that performs simple checks on text"
+                "title": "A GitHub Action that validates text"
             }, {
                 "language": "fr",
                 "path": "2025/04/20250401_text-analysis.fr.md",
-                "title": "Une action GitHub qui fait des analyses simples sur du texte"
+                "title": "Une action GitHub qui valide du texte"
             }]
         }, {
             "id": "2025-04-05-working-man",
@@ -1872,6 +1875,7 @@
             "mainImage": "/assets/2025/04/20250405_working-man/image.png",
             "seen_in": "en",
             "score": 4,
+            "score10": 7,
             "translation": [{
                 "language": "en",
                 "path": "2025/04/20250405_working-man.en.md",
@@ -1894,6 +1898,54 @@
                 "language": "fr",
                 "path": "2025/04/20250406_text-analysis.fr.md",
                 "title": "Action GitHub ou CLI?"
+            }]
+        }, {
+            "id": "2025-04-09-shenyun",
+            "date": "2025-04-09",
+            "mainImage": "/assets/2025/04/20250409_shenyun/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250409_shenyun.en.md",
+                "title": "Shen Yun 2025"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250409_shenyun.fr.md",
+                "title": "Shen Yun 2025"
+            }]
+        }, {
+            "id": "2025-04-09-killing-floor",
+            "category": "book-reviews",
+            "date": "2025-04-09",
+            "mainImage": "/assets/2025/04/20250409_killing-floor/image.png",
+            "authors": ["Lee Child"],
+            "read_in": "en",
+            "score": 5,
+            "score10": 10,
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250409_killing-floor.en.md",
+                "title": "Killing Floor"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250409_killing-floor.fr.md",
+                "title": "Du fond de l'abîme"
+            }]
+        }, {
+            "id": "2025-04-11-amateur",
+            "category": "movie-reviews",
+            "date": "2025-04-11",
+            "mainImage": "/assets/2025/04/20250411_amateur/image.png",
+            "seen_in": "fr",
+            "score": 4,
+            "score10": 7,
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250411_amateur.en.md",
+                "title": "The Amateur"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250411_amateur.fr.md",
+                "title": "L'amateur"
             }]
         }
     ]
