@@ -27,19 +27,30 @@ lè                  le                  avec
 ah                  ach                 mais
 nil                 níl                 ne/pas
 go                  go                  pour/vers
+mar                 mar                 parce que
 
 Verbes
 ---
-larimm              labhraím            parler (1ère sing.)
+tamid ...           táimid ...          nous sommes ...
+lareemm             labhraím            parler (1ère sing.)
 lariènn             labhraíonn          parler (3ème sing./plur.)
+ibreem              oibrím              travailler (1ère sing.)
+ibreen              oibríonn            travailler (3ème sing./plur.)
+imreem              imrím               jouer (1ère sing.)
+imreen              imríonn             jouer (3ème sing./plur.)
+imreemidz           imrímid             jouer (1ère plur.)
 
 anouil              an bhfuil           être
 anouilshé           an bhfuil sé ...?   est-ce ...?
-kowil               cá bhfuil ...?      où est ...?
+kowil ...           cá bhfuil ...?      où est ...?
 kadasstou           cad as tú           d'où viens-tu?
 issass ... méé      is as ... mé        je viens de ...
 ... iss anèmdom     ... is ainm dom     je m'appelle ...
+tamé ...            ta mé ...           je suis ...
 cadèss anèmdètch    cad is ainm duit?   comment t'appelles-tu?
+iss malom ...       is maith liom ...   j'aime ...
+ni ma lom ...       ní maith liom ...   je n'aime pas ...
+Ann marh latt ...   an maith leat ...?  aimes-tu ...?
 
 Mots
 ---
@@ -54,6 +65,7 @@ iniou               inniu               aujourd'hui
 garh lâ             gach lá             chaque jour
 ano                 anocht              ce soir
 g'minék             go minic            souvent
+oorannta            uaireanta           parfois
 amoui               amuigh              dehors
 annsho              anseo               ici
 annshinn            ansin               là
@@ -61,10 +73,13 @@ annshinn            ansin               là
 Lieux
 ---
 skol                scoil               école
+olskol              ollscoil            université
 kashlaan            caisleán            château
 eersmaln            iarsmalann          musée
 tcharh tovénia      teach tábhairne     pub
 lawerlan            leabharlann         bibliothèque
+ospédzél            ospidéal            hôpital
+shopa               siopa               magasin
 
 Nourriture
 ---
@@ -94,6 +109,16 @@ djèr-veur           deirfiúr            soeur
 moyèr-veur          mo dheirfiúr        ma soeur
 tsaïlah             teaghlach           famille
 
+Métiers
+---
+doktoor             dochtúir            docteur
+altra               altra               infirmier
+dalta               dalta               étudiant
+mentchor            múinteoir           professeur
+dlíèdorr            dlíodóir            avocat
+rooni               rúnaí               secrétaire
+banistor            bainisteoir         gérant
+
 Adjectifs
 ---
 mor                 mór                 grand
@@ -112,13 +137,32 @@ noua                nua                 nouveau
 ord                 arg                 grand
 sasta               sásta               content
 grann-ver           greannmhar          drôle
+tsinn               tinn                malade
+kardjool            cairdiúil           amical
+kilchta             cliste              intelligent
+g'no-ha             gnóthach            occupé
+tèrsha              tuirseach           fatigué
+kinalta             cineálta            gentil
+soltver             sultmhar            plaisant
+spéshool            spéisiúil           intéressant
+sprioul             spraíúil            amusant
+ladranah            leadránach          ennuyant
 
 Nationalités
 ---
 sassnarh            Sasanach            anglais
-irish               éireannach          irlandais
+irish               Éireannach          irlandais
 frankok             Francach            français
-kanadarh            Ceanadach            canadien
+kanadarh            Ceanadach           canadien
+
+Sports
+---
+sport               spórt               sport
+roogbi              rugbaí              rugby
+ladog               leadóg              tennis
+kishfèl             cispheil            basketball
+pèl                 peil                football
+galf                galf                golf
 
 Langues
 ---

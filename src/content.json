@@ -103,6 +103,21 @@
                 "description": "TODO"
             }]
         }, {
+            "id": "projects-markdown-it-add-line-numbers",
+            "date": "2025-04-19",
+            "mainImage": "/assets/icons/projects/markdown-it-add-line-numbers.png",
+            "parent": "projects",
+            "techs": ["typescript", "npm", "markdown"],
+            "translation": [{
+                "language": "en",
+                "title": "markdown-it-add-line-numbers",
+                "description": "A plugin for markdown-it that adds line numbers to generated HTML"
+            }, {
+                "language": "fr",
+                "title": "markdown-it-add-line-numbers",
+                "description": "Un plugin pour markdown-it qui ajoute des numéros de ligne au HTML généré"
+            }]
+        }, {
             "id": "projects-mock-puppeteer-goto",
             "date": "2021-08-26",
             "mainImage": "/assets/icons/projects/mock-puppeteer-goto.png",
@@ -116,6 +131,21 @@
                 "language": "fr",
                 "title": "mock-puppeteer-goto",
                 "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
+            }]
+        }, {
+            "id": "projects-snowflake-data-checker",
+            "date": "2025-04-22",
+            "mainImage": "/assets/icons/projects/snowflake-data-checker.png",
+            "parent": "projects",
+            "techs": ["python", "snowflake"],
+            "translation": [{
+                "language": "en",
+                "title": "snowflake-data-checker",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "snowflake-data-checker",
+                "description": "TODO"
             }]
         }, {
             "id": "projects-textlinter",
@@ -1946,6 +1976,38 @@
                 "language": "fr",
                 "path": "2025/04/20250411_amateur.fr.md",
                 "title": "L'amateur"
+            }]
+        }, {
+            "id": "2025-04-12-caribou-gourmand",
+            "category": "restaurant-reviews",
+            "date": "2025-04-12",
+            "mainImage": "/assets/2025/04/20250412_caribou-gourmand/caribou.jpg",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250412_caribou-gourmand.en.md",
+                "title": "Caribou Gourmand"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250412_caribou-gourmand.fr.md",
+                "title": "Caribou Gourmand"
+            }]
+        }, {
+            "id": "2025-04-19-drop",
+            "category": "movie-reviews",
+            "date": "2025-04-19",
+            "mainImage": "/assets/2025/04/20250419_drop/image.png",
+            "seen_in": "fr",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250419_drop.en.md",
+                "title": "Drop"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250419_drop.fr.md",
+                "title": "Trollée"
             }]
         }
     ]
