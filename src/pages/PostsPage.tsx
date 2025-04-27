@@ -44,6 +44,7 @@ function PostsPage() {
         <Col lg={8}>
           <PostsList
             posts={latestPosts}
+            showScore
           />
           <Pagination
             style={{

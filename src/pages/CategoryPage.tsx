@@ -33,7 +33,10 @@ function CategoryPage() {
         <Col lg={12}>
           <h2>{categoryLanguageInfo?.title}</h2>
           <CategoriesList categories={subCategories} />
-          <PostsList posts={latestPosts} />
+          <PostsList
+            posts={latestPosts}
+            showScore
+          />
         </Col>
       </Row>
     </Container>

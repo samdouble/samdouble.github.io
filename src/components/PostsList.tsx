@@ -11,11 +11,13 @@ import './PostsList.css';
 
 interface PostsListProps {
   posts: Post[];
+  showScore?: boolean;
   showSeeMore?: boolean;
 }
 
 function PostsList({
   posts,
+  showScore = false,
   showSeeMore = false,
 }: PostsListProps) {
   const { t } = useTranslation();
@@ -56,10 +58,10 @@ function PostsList({
                           alt={postLanguageInfo?.title}
                           height={100}
                           src={post.mainImage}
-                          width={160}
                           style={{
                             objectFit: 'cover',
                           }}
+                          width={160}
                         />
                       </Link>
                       <div
@@ -113,7 +115,7 @@ function PostsList({
                       {new Date(post.date).toISOString().split('T')[0]}
                     </div>
                     {
-                      post.score && (
+                      showScore && post.score && (
                         <div>
                           <ScoreToStars
                             score={post.score}

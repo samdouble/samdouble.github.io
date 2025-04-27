@@ -1993,6 +1993,20 @@
                 "title": "Caribou Gourmand"
             }]
         }, {
+            "id": "2025-04-15-mushrooms",
+            "category": "projects-textlinter",
+            "date": "2025-04-15",
+            "mainImage": "/assets/2025/04/20250415_mushrooms/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250415_mushrooms.en.md",
+                "title": "Cooking Mushrooms"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250415_mushrooms.fr.md",
+                "title": "Cuisiner des champignons"
+            }]
+        }, {
             "id": "2025-04-19-drop",
             "category": "movie-reviews",
             "date": "2025-04-19",
@@ -2008,6 +2022,51 @@
                 "language": "fr",
                 "path": "2025/04/20250419_drop.fr.md",
                 "title": "Trollée"
+            }]
+        }, {
+            "id": "2025-04-20-markdown-it-add-line-numbers",
+            "category": "projects-markdown-it",
+            "date": "2025-04-20",
+            "mainImage": "/assets/2025/04/20250420_markdown-it-add-line-numbers/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250420_markdown-it-add-line-numbers.en.md",
+                "title": "Add line numbers to Markdown"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250420_markdown-it-add-line-numbers.fr.md",
+                "title": "Ajouter les numéros de ligne à Markdown"
+            }]
+        }, {
+            "id": "2025-04-22-snowflake-data-checker",
+            "category": "projects-snowflake-data-checker",
+            "date": "2025-04-22",
+            "mainImage": "/assets/2025/04/20250422_snowflake-data-checker/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250422_snowflake-data-checker.en.md",
+                "title": "Snowflake Data Checker"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250422_snowflake-data-checker.fr.md",
+                "title": "Vérificateur de données Snowflake"
+            }]
+        }, {
+            "id": "2025-04-26-warfare",
+            "category": "movie-reviews",
+            "date": "2025-04-26",
+            "mainImage": "/assets/2025/04/20250426_warfare/image.png",
+            "seen_in": "en",
+            "score": 4.5,
+            "score10": 8,
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250426_warfare.en.md",
+                "title": "Warfare"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250426_warfare.fr.md",
+                "title": "Warfare"
             }]
         }
     ]
