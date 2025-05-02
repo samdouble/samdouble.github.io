@@ -2068,6 +2068,20 @@
                 "path": "2025/04/20250426_warfare.fr.md",
                 "title": "Warfare"
             }]
+        }, {
+            "id": "2025-05-02-usa2025",
+            "category": "2025-05-usa",
+            "date": "2025-05-02",
+            "mainImage": "/assets/2025/05/20250502_usa2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250502_usa2025.en.md",
+                "title": "Conclusion"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250502_usa2025.fr.md",
+                "title": "Conclusion"
+            }]
         }
     ]
 }

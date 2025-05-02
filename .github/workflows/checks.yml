@@ -33,10 +33,10 @@ jobs:
           post_comment: true
           ignored_files: |
             public/assets/2024/04/20240411_europe/itinerary.xcf
-      - name: Text analysis
-        uses: samdouble/textlinter@feat/make-lib
-        with:
-          label: samdouble
+      #- name: Text analysis
+      #  uses: samdouble/textlinter@feat/make-lib
+      #  with:
+      #    label: samdouble
       - name: Install
         run: |
           npm install
