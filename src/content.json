@@ -2082,6 +2082,48 @@
                 "path": "2025/05/20250502_usa2025.fr.md",
                 "title": "Conclusion"
             }]
+        }, {
+            "id": "2025-05-03-usa2025",
+            "category": "2025-05-usa",
+            "date": "2025-05-03",
+            "mainImage": "/assets/2025/05/20250503_usa2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250503_usa2025.en.md",
+                "title": "Conclusion"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250503_usa2025.fr.md",
+                "title": "Conclusion"
+            }]
+        }, {
+            "id": "2025-05-04-usa2025",
+            "category": "2025-05-usa",
+            "date": "2025-05-04",
+            "mainImage": "/assets/2025/05/20250504_usa2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250504_usa2025.en.md",
+                "title": "Conclusion"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250504_usa2025.fr.md",
+                "title": "Conclusion"
+            }]
+        }, {
+            "id": "2025-05-05-usa2025",
+            "category": "2025-05-usa",
+            "date": "2025-05-05",
+            "mainImage": "/assets/2025/05/20250505_usa2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250505_usa2025.en.md",
+                "title": "Conclusion"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250505_usa2025.fr.md",
+                "title": "Central Park"
+            }]
         }
     ]
 }
