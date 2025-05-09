@@ -2072,15 +2072,15 @@
             "id": "2025-05-02-usa2025",
             "category": "2025-05-usa",
             "date": "2025-05-02",
-            "mainImage": "/assets/2025/05/20250502_usa2025/image.png",
+            "mainImage": "/assets/2025/05/20250502_usa2025/pennstation.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250502_usa2025.en.md",
-                "title": "Conclusion"
+                "title": "Arrival in New York and Yankees Game"
             }, {
                 "language": "fr",
                 "path": "2025/05/20250502_usa2025.fr.md",
-                "title": "Conclusion"
+                "title": "Arrivée à New York et match des Yankees"
             }]
         }, {
             "id": "2025-05-03-usa2025",
@@ -2123,6 +2123,24 @@
                 "language": "fr",
                 "path": "2025/05/20250505_usa2025.fr.md",
                 "title": "Central Park"
+            }]
+        }, {
+            "id": "2025-05-08-die-trying",
+            "category": "book-reviews",
+            "date": "2025-05-08",
+            "mainImage": "/assets/2025/05/20250508_die-trying/image.png",
+            "authors": ["Lee Child"],
+            "read_in": "fr",
+            "score": 4,
+            "score10": 8,
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250508_die-trying.en.md",
+                "title": "Die Trying"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250508_die-trying.fr.md",
+                "title": "Les caves de la Maison-Blanche"
             }]
         }
     ]

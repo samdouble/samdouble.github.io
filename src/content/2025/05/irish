@@ -38,11 +38,16 @@ ibreem                  oibrím                  je travaille
 ibreen                  oibríonn                travailler (3ème sing./plur.)
 imreem                  imrím                   je joue
 imreen                  imríonn                 jouer (3ème sing./plur.)
-imreemidz               imrímid                 jouer (1ère plur.)
+imreemidz               imrímid                 nous jouons
 ihim                    ithim                   je mange
 ihenn                   itheann                 manger (3ème sing./plur.)
+ihimidz                 ithimid                 nous mangeons
 olam                    ólaim                   je bois
-olann                   ólann                   boire (3ème sing./plur.)
+olenn                   ólann                   boire (3ème sing./plur.)
+olamidz                 ólaimid                 nous buvons
+léém                    léim                    je lis
+léenn                   léann                   lire (3ème sing./plur.)
+lémidz                  léimid                  nous lisons
 
 agatt ...               agat                    avoir
 anouil                  an bhfuil               être
@@ -51,7 +56,15 @@ kowil ...               cá bhfuil ...?          où est ...?
 kadasstou               cad as tú               d'où viens-tu?
 issass ... méé          is as ... mé            je viens de ...
 ... iss anèmdom         ... is ainm dom         je m'appelle ...
-tamé ...                ta mé ...               je suis ...
+ta ... agam             tá ... agam             j'ai ...
+ta ... aga              tá ... aige             il a ...
+ta ... aki              tá ... aici             elle a ...
+tamé ...                tá mé ...               je suis ...
+tam ...                 taim ...                je suis ...
+tatou ...               tá tú ...               tu es ...
+tamidz ...              táimid ...              nous sommes ...
+tashiv ...              tá sibh ...             vous êtes ...
+tasheed ...             tá siad ...             ils sont ...
 cadèss anèmdètch        cad is ainm duit?       comment t'appelles-tu?
 iss malom ...           is maith liom ...       j'aime ...
 ni ma lom ...           ní maith liom ...       je n'aime pas ...
@@ -64,6 +77,11 @@ Mots
 ---
 koupann                 cupán                   tasse
 glèna                   gloine                  un verre de
+taxi                    tacsaí                  taxi
+stashioon               stáisiún                station
+tréé                    traein                  train
+nouhtann                nuachtán                journal
+lawer                   leabhar                 livre
 
 Temps et lieux
 ---
@@ -106,14 +124,21 @@ iougeurt                iógart                  yogourt
 euraan                  arán                    pain
 im                      im                      beurre
 piètsa                  piotsa                  pizza
+reesh                   rís                     riz
 
 Gens
 ---
 kalinn                  cailín                  fille
+nakalinn                na cailíní              les filles
 buhol                   buachaill               garçon
+nabouholi               na buachaillí           les garçons
 bann                    bean                    femme
+namna                   na mná                  les femmes
 far                     fear                    homme
+fir                     fír                     hommes
+nafir                   na fir                  les hommes
 pashta                  páiste                  enfant
+napashti                na páistí               les enfants
 
 Famille
 ---
@@ -189,10 +214,6 @@ gwélga                  Gaeilge                 irlandais
 bèrla                   Béarla                  anglais
 spânish                 Spáinnis                espagnol
 frankish                Fraincis                français
-
-taxi                    tacsaí                  taxi
-stashioon               stáisiún                station
-tréé                    traein                  train
 
 Villes
 ---
