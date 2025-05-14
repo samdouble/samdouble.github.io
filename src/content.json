@@ -57,21 +57,6 @@
                 "description": "Une application mobile qui permet de gérer votre bibliothèque."
             }]
         }, {
-            "id": "projects-fire",
-            "date": "2025-03-12",
-            "mainImage": "/assets/icons/projects/fire.png",
-            "parent": "projects",
-            "techs": ["svelte"],
-            "translation": [{
-                "language": "en",
-                "title": "Fire",
-                "description": "TODO"
-            }, {
-                "language": "fr",
-                "title": "Fire",
-                "description": "TODO"
-            }]
-        }, {
             "id": "projects-fikas",
             "date": "2020-04-01",
             "mainImage": "/assets/icons/projects/fikas.png",
@@ -88,9 +73,24 @@
                 "description": "Une application web qui permet de gérer vos projets."
             }]
         }, {
+            "id": "projects-fire",
+            "date": "2025-03-12",
+            "mainImage": "/assets/todo.png",
+            "parent": "projects",
+            "techs": ["svelte"],
+            "translation": [{
+                "language": "en",
+                "title": "Fire",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Fire",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-lwb",
             "date": "2023-10-12",
-            "mainImage": "/assets/icons/projects/lwb.png",
+            "mainImage": "/assets/todo.png",
             "parent": "projects",
             "techs": ["typescript", "react"],
             "translation": [{
@@ -105,7 +105,7 @@
         }, {
             "id": "projects-markdown-it-add-line-numbers",
             "date": "2025-04-19",
-            "mainImage": "/assets/icons/projects/markdown-it-add-line-numbers.png",
+            "mainImage": "/assets/todo.png",
             "parent": "projects",
             "techs": ["typescript", "npm", "markdown"],
             "translation": [{
@@ -120,7 +120,7 @@
         }, {
             "id": "projects-mock-puppeteer-goto",
             "date": "2021-08-26",
-            "mainImage": "/assets/icons/projects/mock-puppeteer-goto.png",
+            "mainImage": "/assets/todo.png",
             "parent": "projects",
             "techs": ["typescript", "puppeteer", "playwright", "jest"],
             "translation": [{
@@ -135,7 +135,7 @@
         }, {
             "id": "projects-snowflake-data-checker",
             "date": "2025-04-22",
-            "mainImage": "/assets/icons/projects/snowflake-data-checker.png",
+            "mainImage": "/assets/todo.png",
             "parent": "projects",
             "techs": ["python", "snowflake"],
             "translation": [{
@@ -166,7 +166,7 @@
         }, {
             "id": "projects-toolbelt",
             "date": "2025-02-08",
-            "mainImage": "/assets/icons/projects/toolbelt.png",
+            "mainImage": "/assets/todo.png",
             "parent": "projects",
             "techs": ["rust"],
             "translation": [{
@@ -1996,7 +1996,7 @@
             "id": "2025-04-15-mushrooms",
             "category": "projects-textlinter",
             "date": "2025-04-15",
-            "mainImage": "/assets/2025/04/20250415_mushrooms/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/04/20250415_mushrooms.en.md",
@@ -2027,7 +2027,7 @@
             "id": "2025-04-20-markdown-it-add-line-numbers",
             "category": "projects-markdown-it",
             "date": "2025-04-20",
-            "mainImage": "/assets/2025/04/20250420_markdown-it-add-line-numbers/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/04/20250420_markdown-it-add-line-numbers.en.md",
@@ -2041,7 +2041,7 @@
             "id": "2025-04-22-snowflake-data-checker",
             "category": "projects-snowflake-data-checker",
             "date": "2025-04-22",
-            "mainImage": "/assets/2025/04/20250422_snowflake-data-checker/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/04/20250422_snowflake-data-checker.en.md",
@@ -2086,7 +2086,7 @@
             "id": "2025-05-03-usa2025",
             "category": "2025-05-usa",
             "date": "2025-05-03",
-            "mainImage": "/assets/2025/05/20250503_usa2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250503_usa2025.en.md",
@@ -2100,7 +2100,7 @@
             "id": "2025-05-04-usa2025",
             "category": "2025-05-usa",
             "date": "2025-05-04",
-            "mainImage": "/assets/2025/05/20250504_usa2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250504_usa2025.en.md",
@@ -2114,7 +2114,7 @@
             "id": "2025-05-05-usa2025",
             "category": "2025-05-usa",
             "date": "2025-05-05",
-            "mainImage": "/assets/2025/05/20250505_usa2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250505_usa2025.en.md",
@@ -2141,6 +2141,19 @@
                 "language": "fr",
                 "path": "2025/05/20250508_die-trying.fr.md",
                 "title": "Les caves de la Maison-Blanche"
+            }]
+        }, {
+            "id": "2025-05-10-ufc315",
+            "date": "2025-05-10",
+            "mainImage": "/assets/2025/05/20250510_ufc315/jdm_walkout.jpg",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250510_ufc315.en.md",
+                "title": "UFC 315 at the Bell Centre"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250510_ufc315.fr.md",
+                "title": "UFC 315 au Centre Bell"
             }]
         }
     ]
