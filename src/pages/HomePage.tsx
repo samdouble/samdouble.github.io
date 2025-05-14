@@ -33,6 +33,7 @@ function HomePage() {
         >
           <h2>{t('projects')}</h2>
           <ProjectsGrid />
+          <br />
         </Col>
         <Col
           xl={4}
