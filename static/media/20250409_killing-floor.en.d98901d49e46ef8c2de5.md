@@ -1,0 +1,11 @@
+I just finished reading Killing Floor, the first of 29 novels (so far) in the Jack Reacher series.
+After watching the first two seasons of the TV series, I had to read the books. The first season in particular, which was by far the better of the two, is based on Killing Floor.
+
+When I started reading, I wasn't sure if it would be like Jason Bourne, where the movies have nothing to do with the books except for some character names. Not at all: aside from a few small differences, season 1 of the series is very faithful to the novel.
+The biggest difference, in my opinion, is the role of the Kliners. In the series, the main antagonist is the son, KJ. At one point, we learned that he killed his own father because he wants to manage their counterfeiting operation alone. He's also the one who killed Joe, Reacher's brother, and it's against him that Reacher fights in the final scene.
+In the book, the author didn't even give him a first name. "The Kliner kid" is essentially the leader of the gang of killers that his father sends to eliminate people who get too close to investigating the Kliner Foundation's activities. He dies at least 100 pages before the end, drowned in a pool, while trying to kill Reacher. It's Kliner Sr. and Teale, the town's mayor and self-proclaimed chief of police of Margrave, who are the main antagonists.
+
+The story was told in first person by Reacher. This resulted in short, straight-to-the-point sentences. The pacing was good, the action was continuous, and I found myself reading until too late at night several times because I wanted to know what happened next. In reality, I already knew what would happen, but for some reason, I kept thinking there would be a moment where the book would diverge from what I had seen in the TV series. Fortunately, that moment never came. It was simply an excellent book adapted into an excellent TV series.
+The only time I was disappointed the story wasn't different (and this is simply because I like 100% happy endings) was when Reacher explains that things didn't work out between him and Roscoe. The conclusion of Killing Floor left me with the same feeling as the movie The Town. Nothing wrong with that, quite the contrary: I was invested in the characters.
+
+I'm looking forward to reading the following volumes. Let's hope that across 29 adventures, it stays just as good.
