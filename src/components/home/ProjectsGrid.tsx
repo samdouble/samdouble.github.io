@@ -2,6 +2,7 @@ import { useElementSize } from '@custom-react-hooks/use-element-size';
 import ProjectsGridTile from 'components/home/ProjectsGridTile';
 import { Category } from 'utils/types';
 import content from 'content.json';
+
 function ProjectsGrid() {
   const [setRef, size] = useElementSize();
 

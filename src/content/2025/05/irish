@@ -78,6 +78,7 @@ cadèss anèmdètch        cad is ainm duit?       comment t'appelles-tu?
 iss malom ...           is maith liom ...       j'aime ...
 ni ma lom ...           ní maith liom ...       je n'aime pas ...
 iss bra lom ...         is breá liom ...        j'adore ...
+iss fiar lom ...        is fearr liom ...       je préfère ...
 ann marh latt ...       an maith leat ...?      aimes-tu ...?
 ta kooni orm ...        tá cónaí orm ...        je vis ...
 ko will kooni ort?      cá bhfuil cónaí ort?    où vis-tu?
@@ -92,8 +93,10 @@ tréé                    traein                  train
 nouhtann                nuachtán                journal
 lawer                   leabhar                 livre
 brônn                   brón                    tristesse
+béla                    béile                   repas
 brikfasta               bricfeasta              déjeuner
 lônn                    lón                     lunch
+dziner                  dinnéar                 dîner
 
 Temps et lieux
 ---
@@ -128,6 +131,9 @@ cafè                    caife                   café
 bania                   bainne                  lait
 oull                    úll                     pomme
 orashta                 oráiste                 orange
+taloo                   talún                   fraise
+banana                  banana                  banane
+brokoli                 brocailí                brocoli
 annra                   anraith                 soupe
 kapara                  ceapaire                sandwich
 shou                    sú                      jus
@@ -138,14 +144,26 @@ im                      im                      beurre
 piètsa                  piotsa                  pizza
 pasta                   pasta                   pâtes
 reesh                   rís                     riz
+fool                    feoil                   viande
 ièsk                    iasc                    poisson
 shikeen                 sicín                   poulet
+martzoul                mairteoil               boeuf
+meukioul                muiceoil                porc
+stég                    stéig                   steak
+bagoon                  bagún                   bacon
 fiènn                   fíon                    vin
 teura                   toradh                  fruit
 teur-hee                torthaí                 fruits
 glâshree                glasraí                 légumes
 kosh                    cáis                    fromage
 karéd                   cairéad                 carotte
+trata                   tráta                   tomate
+bior                    beoir                   bière
+ola                     ola                     huile
+salann                  salann                  sel
+piobeur                 piobar                  poivre
+shaklâdz                seacláid                chocolat
+ov                      ubh                     oeuf
 
 Gens
 ---
