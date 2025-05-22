@@ -1,7 +1,6 @@
 # samdouble.github.io
 
 [![CI](https://github.com/samdouble/samdouble.github.io/actions/workflows/checks.yml/badge.svg)](https://github.com/samdouble/samdouble.github.io/actions/workflows/checks.yml)
-[![npm version](https://img.shields.io/npm/v/samdouble.github.io.svg?style=flat)](https://www.npmjs.org/package/samdouble.github.io)
 [![Coverage Status](https://coveralls.io/repos/samdouble/samdouble.github.io/badge.svg?branch=master&service=github)](https://coveralls.io/github/samdouble/samdouble.github.io?branch=master)
 
 My [blog](samdouble.github.io), hosted on GitHub.
