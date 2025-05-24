@@ -18,6 +18,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22.9.0
+      - name: Pull Request Analysis
+        uses: samdouble/clavid-pull-request-reviewer@feat/basic-github-action
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          additional_instructions: "Give me a random word in French"
       - name: Validate content.json
         uses: docker://orrosenblatt/validate-json-action:latest
         env:

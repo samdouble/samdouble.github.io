@@ -57,6 +57,21 @@
                 "description": "Une application mobile qui permet de gérer votre bibliothèque."
             }]
         }, {
+            "id": "projects-clea-project-manager-assistant",
+            "date": "2025-05-11",
+            "mainImage": "/assets/todo.png",
+            "parent": "projects",
+            "techs": ["python", "anthropic", "claude", "linear"],
+            "translation": [{
+                "language": "en",
+                "title": "Cléa, the project manager assistant",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Cléa, l'assistant de gestion de projet",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-fikas",
             "date": "2020-04-01",
             "mainImage": "/assets/icons/projects/fikas.png",
@@ -140,12 +155,27 @@
             "techs": ["python", "snowflake"],
             "translation": [{
                 "language": "en",
-                "title": "snowflake-data-checker",
+                "title": "Snowflake Data Checker",
                 "description": "TODO"
             }, {
                 "language": "fr",
-                "title": "snowflake-data-checker",
+                "title": "Snowflake Data Checker",
                 "description": "TODO"
+            }]
+        }, {
+            "id": "projects-snowflake-mongodb-connector",
+            "date": "2025-04-29",
+            "mainImage": "/assets/todo.png",
+            "parent": "projects",
+            "techs": ["python", "snowflake", "mongodb"],
+            "translation": [{
+                "language": "en",
+                "title": "Snowflake MongoDB Connector",
+                "description": "A Snowflake native application to synchronize data from MongoDB"
+            }, {
+                "language": "fr",
+                "title": "Snowflake MongoDB Connector",
+                "description": "Une application native Snowflake pour synchroniser des données de MongoDB"
             }]
         }, {
             "id": "projects-textlinter",
