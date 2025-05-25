@@ -1,4 +1,4 @@
-It was the second day of MTLàTABLE today. This year, the prices are $35, $50, $65, and $80. For this Friday evening, I decided to go to Greasy Spoon ($50), on Laurier Street West, in the Mile-End.
+It was the second day of MTLàTABLE today. This year, the prices are $35, $50, $65, and $80. For this Friday evening, I decided to go to Greasy Spoon ($50), on Laurier West, in the Mile-End.
 
 ![Greasy Spoon, on Laurier West](/assets/2024/11/20241101_greasy-spoon/front.jpg)
 <p align="center"><b>Greasy Spoon, on Laurier West</b></p>
