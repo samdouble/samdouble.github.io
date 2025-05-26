@@ -8,12 +8,12 @@ Je suis arrivé à 18h20 et c'était presque vide à l'intérieur. Le restaurant
 ![À l'intérieur du restaurant](/assets/2024/11/20241101_greasy-spoon/inside.jpg)
 <p align="center"><b>À l'intérieur du restaurant</b></p>
 
-En entrée, la salade de brie frit était simple, avec des cubes de brie frit et des tomates cerises. C'était bon, en grande partie à cause des cubes de brie qui, je crois, avaient été trempés dans le miel.
+En entrée, la salade de brie frit était simple, avec des cubes de brie frit et des tomates cerises. C'était bon, en grande partie à cause des cubes de brie qui avaient été trempés dans le miel.
 
 ![Salade de brie frit](/assets/2024/11/20241101_greasy-spoon/salad.jpg)
 <p align="center"><b>Salade de brie frit</b></p>
 
-Pour le plat principal, j'ai pris des linguines aux fruits de mer. Il y avait des pétoncles, quelques grosses crevettes et des anneaux de calmar. Quand j'ai reçu mon assiette, je me suis dit que j'aurais probablement faim en sortant du restaurant, mais finalement il n'en était rien. C'était bien dosé. Pendant mon repas, plusieurs membres du personnel m'ont demandé si j'étais satisfait.
+Pour le plat principal, j'ai pris des linguines aux fruits de mer. Il y avait des pétoncles, quelques grosses crevettes et des anneaux de calmar. Quand j'ai reçu mon assiette, je me suis dit que j'aurais probablement faim en sortant du restaurant. Finalement, non. C'était bien dosé. Pendant mon repas, plusieurs membres du personnel m'ont demandé si j'étais satisfait.
 
 ![Linguines aux fruits de mer, sauce aux quatre fromages](/assets/2024/11/20241101_greasy-spoon/pasta.jpg)
 <p align="center"><b>Linguines aux fruits de mer, sauce aux quatre fromages</b></p>

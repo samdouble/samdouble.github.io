@@ -292,6 +292,7 @@
             "id": "2024-04-europe",
             "date": "2024-04-11",
             "mainImage": "/assets/2024/04/20240411_europe/map.png",
+            "icon": "flag-eu",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -314,17 +315,43 @@
                 "title": "Japon 2025"
             }]
         }, {
-            "id": "2025-05-usa",
+            "id": "2025-05-newyork",
             "date": "2025-05-02",
-            "mainImage": "/assets/2024/10/20241018_usa2025/map.png",
+            "mainImage": "/assets/2025/05/20250502_usa2025/5-38.jpg",
             "icon": "flag-usa",
             "parent": "trips",
             "translation": [{
                 "language": "en",
-                "title": "USA 2025"
+                "title": "New York 2025"
             }, {
                 "language": "fr",
-                "title": "États-Unis 2025"
+                "title": "New York 2025"
+            }]
+        }, {
+            "id": "2025-06-sanfrancisco",
+            "date": "2025-06-01",
+            "mainImage": "/assets/todo.png",
+            "icon": "flag-usa",
+            "parent": "trips",
+            "translation": [{
+                "language": "en",
+                "title": "San Francisco 2025"
+            }, {
+                "language": "fr",
+                "title": "San Francisco 2025"
+            }]
+        }, {
+            "id": "2025-10-united-kingdom",
+            "date": "2025-10-04",
+            "mainImage": "/assets/todo.png",
+            "icon": "flag-uk",
+            "parent": "trips",
+            "translation": [{
+                "language": "en",
+                "title": "Ireland and Scotland 2025"
+            }, {
+                "language": "fr",
+                "title": "Irlande et Écosse 2025"
             }]
         }
     ],
@@ -606,7 +633,7 @@
             "id": "2024-04-europe-01",
             "category": "2024-04-europe",
             "date": "2024-04-01",
-            "mainImage": "/assets/2024/04/20240401_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202404_europe/2024-04-europe-01-preparation.md",
@@ -616,7 +643,7 @@
             "id": "2024-04-europe-02",
             "category": "2024-04-europe",
             "date": "2024-04-02",
-            "mainImage": "/assets/2024/04/20240402_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202404_europe/2024-04-europe-02-preparation.md",
@@ -626,7 +653,7 @@
             "id": "2024-04-europe-03",
             "category": "2024-04-europe",
             "date": "2024-04-03",
-            "mainImage": "/assets/2024/04/20240403_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "fr",
                 "path": "trips/202404_europe/2024-04-europe-03-restaurants.md",
@@ -636,7 +663,7 @@
             "id": "2024-04-europe-04",
             "category": "2024-04-europe",
             "date": "2024-04-04",
-            "mainImage": "/assets/2024/04/20240404_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "fr",
                 "path": "2024/04/20240404_europe.fr.md",
@@ -650,208 +677,288 @@
             "translation": [{
                 "language": "en",
                 "path": "2024/04/20240411_europe-day01.en.md",
-                "title": "Thursday, Apr. 11th - Departure from YUL"
+                "title": "Departure from Montréal"
             }, {
                 "language": "fr",
                 "path": "2024/04/20240411_europe-day01.fr.md",
-                "title": "Jeudi, 11 avril - Départ de Montréal"
+                "title": "Départ de Montréal"
             }]
         }, {
             "id": "2024-04-europe-06",
             "category": "2024-04-europe",
             "date": "2024-04-12",
-            "mainImage": "/assets/2024/04/20240412_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240412_europe-day02.en.md",
+                "title": "Arrival in Valletta"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240412_europe-day02.fr.md",
-                "title": "Vendredi, 12 avril - Arrivée à La Valette"
+                "title": "Arrivée à La Valette"
             }]
         }, {
             "id": "2024-04-europe-07",
             "category": "2024-04-europe",
             "date": "2024-04-13",
-            "mainImage": "/assets/2024/04/20240413_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240413_europe-day03.en.md",
+                "title": "Valletta, Marsaskala and Marsaxlokk"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240413_europe-day03.fr.md",
-                "title": "Samedi, 13 avril - La Valette, Marsaskala et Marsaxlokk"
+                "title": "La Valette, Marsaskala et Marsaxlokk"
             }]
         }, {
             "id": "2024-04-europe-08",
             "category": "2024-04-europe",
             "date": "2024-04-14",
-            "mainImage": "/assets/2024/04/20240414_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240414_europe-day04.en.md",
+                "title": "Day-Trip to Gozo and Comino"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240414_europe-day04.fr.md",
-                "title": "Dimanche, 14 avril - Excursion en bateau à Gozo et Comino"
+                "title": "Excursion à Gozo et Comino"
             }]
         }, {
             "id": "2024-04-europe-09",
             "category": "2024-04-europe",
             "date": "2024-04-15",
-            "mainImage": "/assets/2024/04/20240415_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240415_europe-day05.en.md",
+                "title": "Valletta, Sliema and Floriana"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240415_europe-day05.fr.md",
-                "title": "Lundi, 15 avril - La Valette, Sliema, Floriana et arrivée à Catania"
+                "title": "La Valette, Sliema and Floriana"
             }]
         }, {
             "id": "2024-04-europe-10",
             "category": "2024-04-europe",
             "date": "2024-04-16",
-            "mainImage": "/assets/2024/04/20240416_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240416_europe-day06.en.md",
+                "title": "Catania and arrival in Palermo"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240416_europe-day06.fr.md",
-                "title": "Mardi, 16 avril - Catania et arrivée à Palermo"
+                "title": "Catania et arrivée à Palermo"
             }]
         }, {
             "id": "2024-04-europe-11",
             "category": "2024-04-europe",
             "date": "2024-04-17",
-            "mainImage": "/assets/2024/04/20240417_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240417_europe-day07.en.md",
+                "title": "Palermo"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240417_europe-day07.fr.md",
-                "title": "Mercredi, 17 avril - Palermo"
+                "title": "Palermo"
             }]
         }, {
             "id": "2024-04-europe-12",
             "category": "2024-04-europe",
             "date": "2024-04-18",
-            "mainImage": "/assets/2024/04/20240418_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240418_europe-day08.en.md",
+                "title": "Arrival in Naples"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240418_europe-day08.fr.md",
-                "title": "Jeudi, 18 avril - Arrivée à Naples"
+                "title": "Arrivée à Naples"
             }]
         }, {
             "id": "2024-04-europe-13",
             "category": "2024-04-europe",
             "date": "2024-04-19",
-            "mainImage": "/assets/2024/04/20240419_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240419_europe-day09.en.md",
+                "title": "Naples"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240419_europe-day09.fr.md",
-                "title": "Vendredi, 19 avril - Naples"
+                "title": "Naples"
             }]
         }, {
             "id": "2024-04-europe-14",
             "category": "2024-04-europe",
             "date": "2024-04-20",
-            "mainImage": "/assets/2024/04/20240420_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240420_europe-day10.en.md",
+                "title": "Pompei and Mount Vesuvius"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240420_europe-day10.fr.md",
-                "title": "Samedi, 20 avril - Pompéi et le Mont Vésuve"
+                "title": "Pompéi et le Mont Vésuve"
             }]
         }, {
             "id": "2024-04-europe-15",
             "category": "2024-04-europe",
             "date": "2024-04-21",
-            "mainImage": "/assets/2024/04/20240421_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240421_europe-day11.en.md",
+                "title": "Amalfi Coast and arrival in Rome"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240421_europe-day11.fr.md",
-                "title": "Dimanche, 21 avril - La côte amalfitaine et arrivée à Rome"
+                "title": "La côte amalfitaine et arrivée à Rome"
             }]
         }, {
             "id": "2024-04-europe-16",
             "category": "2024-04-europe",
             "date": "2024-04-22",
-            "mainImage": "/assets/2024/04/20240422_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240422_europe-day12.en.md",
+                "title": "The Pantheon, the monument to Vittorio Emanuele II and Villa Borghese"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240422_europe-day12.fr.md",
-                "title": "Lundi, 22 avril - Le Panthéon, le monument à Vittorio Emanuele II et Villa Borghese"
+                "title": "Le Panthéon, le monument à Vittorio Emanuele II et Villa Borghese"
             }]
         }, {
             "id": "2024-04-europe-17",
             "category": "2024-04-europe",
             "date": "2024-04-23",
-            "mainImage": "/assets/2024/04/20240423_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240423_europe-day13.en.md",
+                "title": "The Vatican"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240423_europe-day13.fr.md",
-                "title": "Mardi, 23 avril - Le Vatican"
+                "title": "Le Vatican"
             }]
         }, {
             "id": "2024-04-europe-18",
             "category": "2024-04-europe",
             "date": "2024-04-24",
-            "mainImage": "/assets/2024/04/20240424_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240424_europe-day14.en.md",
+                "title": "The Coliseum, the Roman Forum and the Circus Maximus"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240424_europe-day14.fr.md",
-                "title": "Mercredi, 24 avril - Le Colisée, le Forum Romain et le Circus Maximus"
+                "title": "Le Colisée, le Forum Romain et le Circus Maximus"
             }]
         }, {
             "id": "2024-04-europe-19",
             "category": "2024-04-europe",
             "date": "2024-04-25",
-            "mainImage": "/assets/2024/04/20240425_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240425_europe-day15.en.md",
+                "title": "Arrival in Paris"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240425_europe-day15.fr.md",
-                "title": "Jeudi, 25 avril - Arrivée à Paris"
+                "title": "Arrivée à Paris"
             }]
         }, {
             "id": "2024-04-europe-20",
             "category": "2024-04-europe",
             "date": "2024-04-26",
-            "mainImage": "/assets/2024/04/20240426_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240426_europe-day16.en.md",
+                "title": "The Trocadéro, the Petit Palais, the Opéra Garnier and the Tuileries Garden"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240426_europe-day16.fr.md",
-                "title": "Vendredi, 26 avril - Le Trocadéro, le Petit Palais, l'Opéra Garnier et le Jardin des Tuileries"
+                "title": "Le Trocadéro, le Petit Palais, l'Opéra Garnier et le Jardin des Tuileries"
             }]
         }, {
             "id": "2024-04-europe-21",
             "category": "2024-04-europe",
             "date": "2024-04-27",
-            "mainImage": "/assets/2024/04/20240427_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240427_europe-day17.en.md",
+                "title": "The Eiffel Tower and the Hôtel des Invalides"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240427_europe-day17.fr.md",
-                "title": "Samedi, 27 avril - La Tour Eiffel et l'Hôtel des Invalides"
+                "title": "La Tour Eiffel et l'Hôtel des Invalides"
             }]
         }, {
             "id": "2024-04-europe-22",
             "category": "2024-04-europe",
             "date": "2024-04-28",
-            "mainImage": "/assets/2024/04/20240428_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240428_europe-day18.en.md",
+                "title": "The Arc de Triomphe, the Marais and the Luxembourg Gardens"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240428_europe-day18.fr.md",
-                "title": "Dimanche, 28 avril - L'Arc de Triomphe, le Marais et les Jardins du Luxembourg"
+                "title": "L'Arc de Triomphe, le Marais et les Jardins du Luxembourg"
             }]
         }, {
             "id": "2024-04-europe-23",
             "category": "2024-04-europe",
             "date": "2024-04-29",
-            "mainImage": "/assets/2024/04/20240429_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240429_europe-day19.en.md",
+                "title": "Montmartre and the Sacré-Cœur Basilica"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240429_europe-day19.fr.md",
-                "title": "Lundi, 29 avril - Montmartre et la Basilique du Sacré-Cœur"
+                "title": "Montmartre et la Basilique du Sacré-Cœur"
             }]
         }, {
             "id": "2024-04-europe-24",
             "category": "2024-04-europe",
             "date": "2024-04-30",
-            "mainImage": "/assets/2024/04/20240430_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240430_europe-day20.en.md",
+                "title": "Return to Montréal"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240430_europe-day20.fr.md",
-                "title": "Mardi, 30 avril - Retour à Montréal"
+                "title": "Retour à Montréal"
             }]
         }, {
             "id": "2024-04-europe-25",
             "category": "2024-04-europe",
             "date": "2024-05-03",
-            "mainImage": "/assets/2024/04/20240503_europe/portugalcove.jpg",
+            "mainImage": "/assets/todo.png",
             "translation": [{
+                "language": "en",
+                "path": "2024/04/20240503_europe.en.md",
+                "title": "Conclusion"
+            }, {
                 "language": "fr",
                 "path": "2024/04/20240503_europe.fr.md",
                 "title": "Conclusion"
@@ -1026,7 +1133,7 @@
             }]
         }, {
             "id": "2024-10-17-usa2025",
-            "category": "2025-05-usa",
+            "category": "2025-05-newyork",
             "date": "2024-10-17",
             "mainImage": "/assets/2024/10/20241017_usa2025/map.png",
             "translation": [{
@@ -1040,7 +1147,7 @@
             }]
         }, {
             "id": "2024-10-18-usa2025",
-            "category": "2025-05-usa",
+            "category": "2025-05-newyork",
             "date": "2024-10-18",
             "mainImage": "/assets/2024/10/20241018_usa2025/map.png",
             "translation": [{
@@ -1960,6 +2067,20 @@
                 "title": "Action GitHub ou CLI?"
             }]
         }, {
+            "id": "2025-04-07-sanfrancisco",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-04-07",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250407_sanfrancisco.en.md",
+                "title": "I'm going to the Snowflake Summit!"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250407_sanfrancisco.fr.md",
+                "title": "Je vais au Snowflake Summit!"
+            }]
+        }, {
             "id": "2025-04-09-shenyun",
             "date": "2025-04-09",
             "mainImage": "/assets/2025/04/20250409_shenyun/image.png",
@@ -2082,6 +2203,20 @@
                 "title": "Vérificateur de données Snowflake"
             }]
         }, {
+            "id": "2025-04-25-usa2025",
+            "category": "2025-05-newyork",
+            "date": "2025-04-25",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/04/20250425_usa2025.en.md",
+                "title": "Route planning"
+            }, {
+                "language": "fr",
+                "path": "2025/04/20250425_usa2025.fr.md",
+                "title": "Planification de l'itinéraire"
+            }]
+        }, {
             "id": "2025-04-26-warfare",
             "category": "movie-reviews",
             "date": "2025-04-26",
@@ -2100,7 +2235,7 @@
             }]
         }, {
             "id": "2025-05-02-usa2025",
-            "category": "2025-05-usa",
+            "category": "2025-05-newyork",
             "date": "2025-05-02",
             "mainImage": "/assets/2025/05/20250502_usa2025/pennstation.jpg",
             "translation": [{
@@ -2114,45 +2249,45 @@
             }]
         }, {
             "id": "2025-05-03-usa2025",
-            "category": "2025-05-usa",
+            "category": "2025-05-newyork",
             "date": "2025-05-03",
             "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250503_usa2025.en.md",
-                "title": "Conclusion"
+                "title": "Brooklyn and Lower Manhattan"
             }, {
                 "language": "fr",
                 "path": "2025/05/20250503_usa2025.fr.md",
-                "title": "Conclusion"
+                "title": "Brooklyn et Lower Manhattan"
             }]
         }, {
             "id": "2025-05-04-usa2025",
-            "category": "2025-05-usa",
+            "category": "2025-05-newyork",
             "date": "2025-05-04",
             "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250504_usa2025.en.md",
-                "title": "Conclusion"
+                "title": "The Five Boro Bike Tour and Times Square"
             }, {
                 "language": "fr",
                 "path": "2025/05/20250504_usa2025.fr.md",
-                "title": "Conclusion"
+                "title": "Le Five Boro Bike Tour et Times Square"
             }]
         }, {
             "id": "2025-05-05-usa2025",
-            "category": "2025-05-usa",
+            "category": "2025-05-newyork",
             "date": "2025-05-05",
             "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250505_usa2025.en.md",
-                "title": "Conclusion"
+                "title": "Central Park and return to Montréal"
             }, {
                 "language": "fr",
                 "path": "2025/05/20250505_usa2025.fr.md",
-                "title": "Central Park"
+                "title": "Central Park et retour à Montréal"
             }]
         }, {
             "id": "2025-05-08-die-trying",
@@ -2201,6 +2336,20 @@
                 "language": "fr",
                 "path": "2025/05/20250516_accountant2.fr.md",
                 "title": "Mr.Wolff 2"
+            }]
+        }, {
+            "id": "2025-05-23-united-kingdom",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-05-23",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250523_united-kingdom.en.md",
+                "title": "Route planning"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250523_united-kingdom.fr.md",
+                "title": "Planification de l'itinéraire"
             }]
         }
     ]

@@ -34,6 +34,8 @@ ah                      ach                     mais
 nil                     níl                     ne/pas
 go                      go                      pour/vers
 mar                     mar                     parce que
+ér                      ar                      sur
+riv                     roimh                   devant
 
 Verbes
 ---
@@ -66,12 +68,19 @@ issass ... méé          is as ... mé            je viens de ...
 ta ... agam             tá ... agam             j'ai ...
 ta ... aga              tá ... aige             il a ...
 ta ... aki              tá ... aici             elle a ...
+**Être**
 tamé ...                tá mé ...               je suis ...
 tam ...                 taim ...                je suis ...
 tatou ...               tá tú ...               tu es ...
 tamidz ...              táimid ...              nous sommes ...
 tashiv ...              tá sibh ...             vous êtes ...
 tasheed ...             tá siad ...             ils sont ...
+iss ... méé             is ... mé               je suis ...
+iss ... tou             is ... tú               tu es ...
+iss ... é               is ... é                il est ...
+iss ... ee              is ... i                elle est ...
+iss ... mouid           is ... muid             nous sommes ...
+iss ... eed             is ... iad              ils sont ...
 tamé goma               tá mé go maith          je vais bien
 konass euta sé?         conas atá sé?           comment est-il?
 cadèss anèmdètch        cad is ainm duit?       comment t'appelles-tu?
@@ -91,7 +100,9 @@ taxi                    tacsaí                  taxi
 stashioon               stáisiún                station
 tréé                    traein                  train
 nouhtann                nuachtán                journal
+nouhtann                nuachtáin               journaux
 lawer                   leabhar                 livre
+lawer                   leabhair                livres
 brônn                   brón                    tristesse
 béla                    béile                   repas
 brikfasta               bricfeasta              déjeuner
@@ -108,6 +119,7 @@ foui laher              faoi láthair            présentement
 garh lâ                 gach lá                 chaque jour
 ano                     anocht                  ce soir
 g'minék                 go minic                souvent
+igonee                  i gcónaí                toujours
 oorannta                uaireanta               parfois
 amoui                   amuigh                  dehors
 annsho                  anseo                   ici
@@ -130,12 +142,14 @@ Nourriture
 cafè                    caife                   café
 bania                   bainne                  lait
 oull                    úll                     pomme
+oula                    úlla                    pommes
 orashta                 oráiste                 orange
 taloo                   talún                   fraise
 banana                  banana                  banane
 brokoli                 brocailí                brocoli
 annra                   anraith                 soupe
-kapara                  ceapaire                sandwich
+kapeura                 ceapaire                sandwich
+kipeuri                 ceapairí                sandwichs
 shou                    sú                      jus
 bresca                  briosca                 biscuit
 iougeurt                iógart                  yogourt
@@ -234,27 +248,36 @@ breevar                 bríomhar                animé/vivant
 Animaux
 ---
 annvi                   ainmhí                  animal
+annviha                 ainmhithe               animaux
 pata                    peata                   animal domestique
 dawann ala              damhán alla             araignée
 laha                    lacha                   canard
-fia                     fia                     cerf 
+lahann                  lachan                  canards
+fia                     fia                     cerf
 kâtt                    cat                     chat
+kâtt                    cait                    chats
 capal                   capall                  cheval
+capel                   capaill                 chevaux
 madra                   madra                   chien
+madri                   madraí                  chiens
 portann                 portán                  crabe
 èlèfinntz               eilifint                éléphant
+èlèfinnti               eilifinti               éléphants
 oul hawann              ulchabhán               hibou
 koneen                  coinín                  lapin
 loonn                   leon                    lion
 énn                     éan                     oiseau
 bér                     béar                    ours
+bér                     béir                    ours (plur.)
 féilakann               féileacán               papillon
 rônn                    rón                     phoque
 shona                   sionnach                renard
 mongki                  moncaí                  singe
 leuh                    luch                    souris
+louha                   lucha                   souris (plur.)
 teegeur                 tíogar                  tigre
 teurteur                turtar                  tortue
+teurteur                turtair                 tortues
 
 Nationalités
 ---
@@ -285,3 +308,5 @@ keurki                  Corcaigh                Cork
 balia othclii           Baile Átha Cliath       Dublin
 londènn                 Londain                 Londres
 porass                  Porás                   Paris
+
+na: déterminant pluriel
