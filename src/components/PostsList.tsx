@@ -5,8 +5,8 @@ import Table from 'react-bootstrap/Table';
 import Icon from 'components/Icon';
 import { LanguageContext } from 'services/contexts';
 import { Category, Post } from 'utils/types';
-import ScoreToStars from './ScoreToStars';
 import content from 'content.json';
+import ScoreToStars from './ScoreToStars';
 import './PostsList.css';
 
 interface PostsListProps {
@@ -29,7 +29,7 @@ function PostsList({
       <tbody>
         {
           posts
-            .sort((postA, postB) => postA.date < postB.date ? 1 : -1)
+            .sort((postA, postB) => (postA.date < postB.date ? 1 : -1))
             .map((post: Post) => {
               const postLanguageInfo = post?.translation.find(tr => tr.language === language);
               const postCategory = content.categories.find(cat => cat.id === post?.category);

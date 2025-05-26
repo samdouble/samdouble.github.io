@@ -8,12 +8,12 @@ const languages = [
     id: 'en',
     name: 'English',
     image: '/assets/icons/flags/flag-canada.svg',
-  }, 
+  },
   {
     id: 'fr',
     name: 'Français',
     image: '/assets/icons/flags/flag-quebec.png',
-  }
+  },
 ];
 
 interface LanguageSelectorProps {
@@ -30,7 +30,7 @@ function LanguageSelector({
   return (
     <NavDropdown
       align="end"
-      title={
+      title={(
         <>
           <img
             src={selectedLanguage?.image}
@@ -42,7 +42,7 @@ function LanguageSelector({
           />
           {selectedLanguage?.name}
         </>
-      }
+      )}
     >
       {
         otherLanguages.map(otherLanguage => (

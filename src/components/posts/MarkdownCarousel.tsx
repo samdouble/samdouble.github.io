@@ -9,7 +9,7 @@ function MarkdownCarousel({
     <Carousel
       swipeable={false}
       draggable={false}
-      showDots={true}
+      showDots
       responsive={{
         desktop: {
           breakpoint: { max: 3000, min: 1024 },
@@ -25,24 +25,24 @@ function MarkdownCarousel({
           breakpoint: { max: 464, min: 0 },
           items: 1,
           slidesToSlide: 1,
-        }
+        },
       }}
-      ssr={true}
-      infinite={true}
+      ssr
+      infinite
       // autoPlay={this.props.deviceType !== "mobile" ? true : false}
       autoPlaySpeed={1000}
-      keyBoardControl={true}
+      keyBoardControl
       customTransition="all .5"
       transitionDuration={500}
       containerClass="carousel-container"
-      removeArrowOnDeviceType={["tablet", "mobile"]}
+      removeArrowOnDeviceType={['tablet', 'mobile']}
       // deviceType={this.props.deviceType}
       dotListClass="custom-dot-list-style"
       itemClass="carousel-item-padding-40-px"
     >
       {
-        images.split(',').map(image => (
-          <div>
+        images.split(',').map((image, index) => (
+          <div key={index}>
             <img src={image} alt={caption} />
           </div>
         ))

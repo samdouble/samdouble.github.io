@@ -14,14 +14,14 @@ import './App.css';
 const router = createHashRouter(
   [
     {
-      path: "/",
+      path: '/',
       // errorElement: <Error />,
-      children : [
-        { path: "/", element: <HomePage /> },
-        { path: "/home", element: <HomePage /> },
-        { path: "/category/:id", element: <CategoryPage /> },
-        { path: "/posts", element: <PostsPage /> },
-        { path: "/post/:id", element: <PostPage /> },
+      children: [
+        { path: '/', element: <HomePage /> },
+        { path: '/home', element: <HomePage /> },
+        { path: '/category/:id', element: <CategoryPage /> },
+        { path: '/posts', element: <PostsPage /> },
+        { path: '/post/:id', element: <PostPage /> },
       ],
     },
   ],
