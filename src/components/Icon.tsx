@@ -29,7 +29,9 @@ function Icon({
 }: IconProps) {
   if (name?.startsWith('flag-')) {
     const flagIcons = {
+      'flag-eu': 'flag-eu.webp',
       'flag-japan': 'flag-japan.svg',
+      'flag-uk': 'flag-uk.webp',
       'flag-usa': 'flag-usa.webp',
     };
     const imgFileName = flagIcons[name as keyof typeof flagIcons];
@@ -67,12 +69,16 @@ function Icon({
     );
   } else if (name?.startsWith('tech-')) {
     const techIcons = {
+      'tech-anthropic': 'anthropic.png',
+      'tech-claude': 'claude.png',
       'tech-dart': 'dart.png',
       'tech-flutter': 'flutter.webp',
       'tech-github-actions': 'github-actions.svg',
       'tech-go': 'go.png',
       'tech-jest': 'jest.svg',
+      'tech-linear': 'linear.svg',
       'tech-markdown': 'markdown.png',
+      'tech-mongodb': 'mongodb.svg',
       'tech-npm': 'npm.png',
       'tech-playwright': 'playwright.png',
       'tech-puppeteer': 'puppeteer.svg',
