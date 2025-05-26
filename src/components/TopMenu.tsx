@@ -2,8 +2,8 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import { useTranslation } from 'react-i18next';
-import LanguageSelector from './LanguageSelector';
 import logo from 'logo.png';
+import LanguageSelector from './LanguageSelector';
 
 interface TopMenuProps {
   onChangeLanguage: (language: string) => void;

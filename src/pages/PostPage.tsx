@@ -41,7 +41,7 @@ function PostPage() {
   const date = post && DateTime.fromFormat(post.date, 'yyyy-MM-dd');
 
   return post
-  ? (
+    ? (
       <Container
         className="post-container"
         style={{
@@ -200,7 +200,7 @@ function PostPage() {
         </Row>
       </Container>
     )
-  : null;
+    : null;
 }
 
 export default PostPage;

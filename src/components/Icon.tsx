@@ -47,7 +47,7 @@ function Icon({
         }}
       />
     );
-  } else if (name?.startsWith('project-')) {
+  } if (name?.startsWith('project-')) {
     const projectIcons = {
       'project-biblio': 'biblio.png',
       'project-fikas': 'fikas.png',
@@ -67,7 +67,7 @@ function Icon({
         }}
       />
     );
-  } else if (name?.startsWith('tech-')) {
+  } if (name?.startsWith('tech-')) {
     const techIcons = {
       'tech-anthropic': 'anthropic.png',
       'tech-claude': 'claude.png',
@@ -99,17 +99,17 @@ function Icon({
     );
   }
   const icons = {
-    'book': faBook,
+    book: faBook,
     'caret-left': faCaretLeft,
     'caret-right': faCaretRight,
-    'film': faFilm,
-    'folder': faFolder,
-    'gamepad': faGamepad,
-    'plane': faPlane,
-    'star': faStar,
+    film: faFilm,
+    folder: faFolder,
+    gamepad: faGamepad,
+    plane: faPlane,
+    star: faStar,
     'star-half': faStarHalfStroke,
     'star-regular': faStarRegular,
-    'utensils': faUtensils,
+    utensils: faUtensils,
   };
   const icon = name && icons[name as keyof typeof icons];
 

@@ -30,7 +30,7 @@ function PostsPage() {
   const nbPages = Math.ceil(filteredPosts.length / nbPostsPerPage);
 
   const latestPosts = filteredPosts
-    .sort((postA, postB) => postA.date < postB.date ? 1 : -1)
+    .sort((postA, postB) => (postA.date < postB.date ? 1 : -1))
     .slice((page - 1) * nbPostsPerPage, page * nbPostsPerPage);
 
   return (
@@ -77,9 +77,7 @@ function PostsPage() {
           </Pagination>
         </Col>
         <Col lg={4}>
-          <div>
-            
-          </div>
+          <div />
         </Col>
       </Row>
     </Container>
