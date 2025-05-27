@@ -17,7 +17,7 @@ const languages = [
 ];
 
 interface LanguageSelectorProps {
-  onChange: (language: string) => void;
+  onChange: (_language: string) => void;
 }
 
 function LanguageSelector({

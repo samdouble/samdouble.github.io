@@ -68,7 +68,7 @@
                 "description": "TODO"
             }, {
                 "language": "fr",
-                "title": "Cléa, l'assistant de gestion de projet",
+                "title": "Cléa, assistante de gestion de projet",
                 "description": "TODO"
             }]
         }, {
@@ -137,7 +137,7 @@
             "date": "2021-08-26",
             "mainImage": "/assets/todo.png",
             "parent": "projects",
-            "techs": ["typescript", "puppeteer", "playwright", "jest"],
+            "techs": ["typescript", "puppeteer", "playwright", "jest", "npm"],
             "translation": [{
                 "language": "en",
                 "title": "mock-puppeteer-goto",
@@ -183,7 +183,7 @@
             "mainImage": "/assets/icons/projects/textlinter.png",
             "icon": "project-textlinter",
             "parent": "projects",
-            "techs": ["typescript", "github-actions"],
+            "techs": ["typescript", "github-actions", "markdown"],
             "translation": [{
                 "language": "en",
                 "title": "TextLinter",
@@ -2283,7 +2283,7 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250505_usa2025.en.md",
-                "title": "Central Park and return to Montréal"
+                "title": "Central Park and Return to Montréal"
             }, {
                 "language": "fr",
                 "path": "2025/05/20250505_usa2025.fr.md",

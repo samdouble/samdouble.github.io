@@ -6,7 +6,7 @@ import logo from 'logo.png';
 import LanguageSelector from './LanguageSelector';
 
 interface TopMenuProps {
-  onChangeLanguage: (language: string) => void;
+  onChangeLanguage: (_language: string) => void;
 }
 
 function TopMenu({

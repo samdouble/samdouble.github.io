@@ -1,0 +1,97 @@
+[
+  {
+    "id": "tech-anthropic",
+    "name": "Anthropic",
+    "logo": "anthropic.png"
+  },
+  {
+    "id": "tech-claude",
+    "name": "Claude",
+    "logo": "claude.png"
+  },
+  {
+    "id": "tech-dart",
+    "name": "Dart",
+    "logo": "dart.png"
+  },
+  {
+    "id": "tech-flutter",
+    "name": "Flutter",
+    "logo": "flutter.webp"
+  },
+  {
+    "id": "tech-github-actions",
+    "name": "GitHub Actions",
+    "logo": "github-actions.svg"
+  },
+  {
+    "id": "tech-go",
+    "name": "Go",
+    "logo": "go.png"
+  },
+  {
+    "id": "tech-jest",
+    "name": "Jest",
+    "logo": "jest.svg"
+  },
+  {
+    "id": "tech-linear",
+    "name": "Linear",
+    "logo": "linear.svg"
+  },
+  {
+    "id": "tech-markdown",
+    "name": "Markdown",
+    "logo": "markdown.png"
+  },
+  {
+    "id": "tech-mongodb",
+    "name": "MongoDB",
+    "logo": "mongodb.svg"
+  },
+  {
+    "id": "tech-npm",
+    "name": "npm",
+    "logo": "npm.png"
+  },
+  {
+    "id": "tech-playwright",
+    "name": "Playwright",
+    "logo": "playwright.png"
+  },
+  {
+    "id": "tech-puppeteer",
+    "name": "Puppeteer",
+    "logo": "puppeteer.svg"
+  },
+  {
+    "id": "tech-python",
+    "name": "Python",
+    "logo": "python.webp"
+  },
+  {
+    "id": "tech-react",
+    "name": "React",
+    "logo": "react.png"
+  },
+  {
+    "id": "tech-rust",
+    "name": "Rust",
+    "logo": "rust.png"
+  },
+  {
+    "id": "tech-snowflake",
+    "name": "Snowflake",
+    "logo": "snowflake.png"
+  },
+  {
+    "id": "tech-svelte",
+    "name": "Svelte",
+    "logo": "svelte.png"
+  },
+  {
+    "id": "tech-typescript",
+    "name": "TypeScript",
+    "logo": "typescript.webp"
+  }
+]
