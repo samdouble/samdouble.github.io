@@ -15,6 +15,8 @@ import {
 import {
   faStar as faStarRegular,
 } from '@fortawesome/free-regular-svg-icons';
+import { Tooltip } from 'react-tooltip';
+import techs from 'utils/techs.json';
 
 interface IconProps {
   name?: string;
@@ -68,34 +70,18 @@ function Icon({
       />
     );
   } if (name?.startsWith('tech-')) {
-    const techIcons = {
-      'tech-anthropic': 'anthropic.png',
-      'tech-claude': 'claude.png',
-      'tech-dart': 'dart.png',
-      'tech-flutter': 'flutter.webp',
-      'tech-github-actions': 'github-actions.svg',
-      'tech-go': 'go.png',
-      'tech-jest': 'jest.svg',
-      'tech-linear': 'linear.svg',
-      'tech-markdown': 'markdown.png',
-      'tech-mongodb': 'mongodb.svg',
-      'tech-npm': 'npm.png',
-      'tech-playwright': 'playwright.png',
-      'tech-puppeteer': 'puppeteer.svg',
-      'tech-python': 'python.webp',
-      'tech-react': 'react.png',
-      'tech-rust': 'rust.png',
-      'tech-snowflake': 'snowflake.png',
-      'tech-svelte': 'svelte.png',
-      'tech-typescript': 'typescript.webp',
-    };
-    const imgFileName = techIcons[name as keyof typeof techIcons];
+    const tech = techs.find(t => t.id === name);
     return (
-      <img
-        alt={name}
-        src={`/assets/icons/techs/${imgFileName}`}
-        style={style}
-      />
+      <>
+        <Tooltip id={`icon-tech-tooltip-${tech?.id}`} />
+        <img
+          alt={tech?.name}
+          src={`/assets/icons/techs/${tech?.logo}`}
+          style={style}
+          data-tooltip-id={`icon-tech-tooltip-${tech?.id}`}
+          data-tooltip-content={tech?.name}
+        />
+      </>
     );
   }
   const icons = {
