@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.12.0](https://github.com/samdouble/samdouble.github.io/compare/v1.11.0...v1.12.0) (2025-05-30)
+
+
+### Features
+
+* **20250407:** added post ([f27c360](https://github.com/samdouble/samdouble.github.io/commit/f27c360be52bcbd811f8f6d14f22fabde834a85b))
+* **20250502:** added photos ([6145a9c](https://github.com/samdouble/samdouble.github.io/commit/6145a9cac63e54d4a6ff3a2a8cd38ffa81b22044))
+* **20250502:** added post ([3ed4617](https://github.com/samdouble/samdouble.github.io/commit/3ed4617a727e20049ef3bbf9139a2b94bea87c71))
+* **20250508:** added post ([cc68142](https://github.com/samdouble/samdouble.github.io/commit/cc68142d72138dfbb9f4c5ec74a98fbba105cec6))
+* **20250510:** added images ([b7bbd08](https://github.com/samdouble/samdouble.github.io/commit/b7bbd0815c300d120f16e80395964e4b57f00d3d))
+* **20250516:** added post ([99a54e4](https://github.com/samdouble/samdouble.github.io/commit/99a54e42d3fa42cf3d44e8b1125a5539396fd42a))
+* **20250518:** added images ([1680cd2](https://github.com/samdouble/samdouble.github.io/commit/1680cd298344aa932f2f20086769f9235e4f489d))
+
 ## [1.11.0](https://github.com/samdouble/samdouble.github.io/compare/v1.10.0...v1.11.0) (2025-05-14)
 
 
