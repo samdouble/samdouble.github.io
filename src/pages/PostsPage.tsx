@@ -20,7 +20,7 @@ function PostsPage() {
   let page = 1;
   try {
     page = parseInt(searchParams.get('page') || '1', 10);
-  } catch (error) {
+  } catch {
     page = 1;
   }
 
