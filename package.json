@@ -8,7 +8,7 @@
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
-    "lint": "eslint --ext .ts,.tsx ./",
+    "lint": "eslint .",
     "predeploy": "npm run build",
     "start": "ESLINT_NO_DEV_ERRORS=true react-scripts start",
     "test": "react-scripts test",
@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@eslint/js": "^9.27.0",
     "@testing-library/jest-dom": "^6.5.0",
     "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^14.5.2",
@@ -46,14 +47,13 @@
     "@types/node": "^22.5.5",
     "@types/react": "^18.3.8",
     "@types/react-dom": "^18.3.0",
-    "eslint": "^8.57.1",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-import-resolver-typescript": "^4.4.0",
-    "eslint-plugin-import": "^2.30.0",
-    "eslint-plugin-react": "^7.36.1",
+    "eslint": "^9.27.0",
+    "eslint-plugin-react": "^7.37.5",
     "gh-pages": "^6.1.1",
+    "globals": "^16.2.0",
     "npm-audit-pipeline": "^0.6.1",
-    "resize-observer-polyfill": "^1.5.1"
+    "resize-observer-polyfill": "^1.5.1",
+    "typescript-eslint": "^8.33.0"
   },
   "browserslist": {
     "production": [
