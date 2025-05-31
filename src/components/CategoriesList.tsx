@@ -8,7 +8,7 @@ interface CategoriesListProps {
   categories: Category[];
 }
 
-function CategoriesList({
+export default function CategoriesList({
   categories,
 }: CategoriesListProps) {
   const language = useContext(LanguageContext);
@@ -69,5 +69,3 @@ function CategoriesList({
     </Table>
   );
 }
-
-export default CategoriesList;
