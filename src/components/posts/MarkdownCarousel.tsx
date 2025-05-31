@@ -1,7 +1,7 @@
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
-function MarkdownCarousel({
+export default function MarkdownCarousel({
   caption,
   images,
 }: { caption: string, images: string }) {
@@ -50,5 +50,3 @@ function MarkdownCarousel({
     </Carousel>
   );
 }
-
-export default MarkdownCarousel;

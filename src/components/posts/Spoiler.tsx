@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-function Spoiler({
+export default function Spoiler({
   children,
   shownText,
 }: { children: string, shownText: string }) {
@@ -18,5 +18,3 @@ function Spoiler({
     </span>
   );
 }
-
-export default Spoiler;

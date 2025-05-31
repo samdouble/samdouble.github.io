@@ -31,7 +31,7 @@ const icons = [
   },
 ];
 
-function SocialMedia() {
+export default function SocialMedia() {
   return (
     <div
       style={{
@@ -64,5 +64,3 @@ function SocialMedia() {
     </div>
   );
 }
-
-export default SocialMedia;
