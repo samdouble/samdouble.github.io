@@ -2338,6 +2338,20 @@
                 "title": "Mr.Wolff 2"
             }]
         }, {
+            "id": "2025-05-18-simon-cantine",
+            "category": "restaurant-reviews",
+            "date": "2025-05-18",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250518_simon-cantine.en.md",
+                "title": "Chez Simon Cantine Urbaine"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250518_simon-cantine.fr.md",
+                "title": "Chez Simon Cantine Urbaine"
+            }]
+        }, {
             "id": "2025-05-23-united-kingdom",
             "category": "2025-10-united-kingdom",
             "date": "2025-05-23",
@@ -2350,6 +2364,19 @@
                 "language": "fr",
                 "path": "2025/05/20250523_united-kingdom.fr.md",
                 "title": "Planification de l'itinéraire"
+            }]
+        }, {
+            "id": "2025-05-30-irish1",
+            "date": "2025-05-30",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/05/20250530_irish1.en.md",
+                "title": "Irish 1"
+            }, {
+                "language": "fr",
+                "path": "2025/05/20250530_irish1.fr.md",
+                "title": "Irlandais 1"
             }]
         }
     ]
