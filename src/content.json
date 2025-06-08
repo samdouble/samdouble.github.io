@@ -1570,6 +1570,19 @@
                 "title": "Le brutaliste"
             }]
         }, {
+            "id": "2025-01-26-japanese1",
+            "date": "2025-01-26",
+            "mainImage": "/assets/2025/01/20250126_japanese1/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/01/20250126_japanese1.en.md",
+                "title": "Japanese 1"
+            }, {
+                "language": "fr",
+                "path": "2025/01/20250126_japanese1.fr.md",
+                "title": "Japonais 1"
+            }]
+        }, {
             "id": "2025-01-29-flight-risk",
             "category": "movie-reviews",
             "date": "2025-01-29",
@@ -2368,7 +2381,7 @@
         }, {
             "id": "2025-05-30-irish1",
             "date": "2025-05-30",
-            "mainImage": "/assets/todo.png",
+            "mainImage": "/assets/2025/05/20250530_irish1/image.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250530_irish1.en.md",
@@ -2377,6 +2390,104 @@
                 "language": "fr",
                 "path": "2025/05/20250530_irish1.fr.md",
                 "title": "Irlandais 1"
+            }]
+        }, {
+            "id": "2025-06-01-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-01",
+            "mainImage": "/assets/2025/06/20250601_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250601_sf2025.en.md",
+                "title": "Arrival in San Francisco"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250601_sf2025.fr.md",
+                "title": "Arrivée à San Francisco"
+            }]
+        }, {
+            "id": "2025-06-02-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-02",
+            "mainImage": "/assets/2025/06/20250602_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250602_sf2025.en.md",
+                "title": "Snowflake Summit, Day 1: Data for Good Hackathon"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250602_sf2025.fr.md",
+                "title": "Snowflake Summit, jour 1: le hackathon Data for Good"
+            }]
+        }, {
+            "id": "2025-06-03-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-03",
+            "mainImage": "/assets/2025/06/20250603_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250603_sf2025.en.md",
+                "title": "Snowflake Summit, Day 2: Data for Good Hackathon"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250603_sf2025.fr.md",
+                "title": "Snowflake Summit, jour 2: Data for Good Hackathon"
+            }]
+        }, {
+            "id": "2025-06-04-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-04",
+            "mainImage": "/assets/2025/06/20250604_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250604_sf2025.en.md",
+                "title": "Snowflake Summit, Day 3: Data for Good Hackathon"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250604_sf2025.fr.md",
+                "title": "Snowflake Summit, jour 3: Data for Good Hackathon"
+            }]
+        }, {
+            "id": "2025-06-05-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-05",
+            "mainImage": "/assets/2025/06/20250605_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250605_sf2025.en.md",
+                "title": "Snowflake Summit, Day 4: Data for Good Hackathon"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250605_sf2025.fr.md",
+                "title": "Snowflake Summit, jour 4: Data for Good Hackathon"
+            }]
+        }, {
+            "id": "2025-06-06-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-06",
+            "mainImage": "/assets/2025/06/20250606_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250606_sf2025.en.md",
+                "title": "Walking tour of San Francisco"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250606_sf2025.fr.md",
+                "title": "Tour à pied de San Francisco"
+            }]
+        }, {
+            "id": "2025-06-07-sf2025",
+            "category": "2025-06-sanfrancisco",
+            "date": "2025-06-07",
+            "mainImage": "/assets/2025/06/20250607_sf2025/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250607_sf2025.en.md",
+                "title": "Return to Montréal"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250607_sf2025.fr.md",
+                "title": "Retour à Montréal"
             }]
         }
     ]
