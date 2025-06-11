@@ -2086,11 +2086,11 @@
             "mainImage": "/assets/2025/04/20250407_sanfrancisco/image.png",
             "translation": [{
                 "language": "en",
-                "path": "2025/04/20250407_sanfrancisco.en.md",
+                "path": "2025/04/20250407_sanfrancisco2025.en.md",
                 "title": "I'm going to the Snowflake Summit!"
             }, {
                 "language": "fr",
-                "path": "2025/04/20250407_sanfrancisco.fr.md",
+                "path": "2025/04/20250407_sanfrancisco2025.fr.md",
                 "title": "Je vais au Snowflake Summit!"
             }]
         }, {
@@ -2395,7 +2395,7 @@
             "id": "2025-06-01-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-01",
-            "mainImage": "/assets/2025/06/20250601_sf2025/image.png",
+            "mainImage": "/assets/2025/06/20250601_sf2025/adagio2.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250601_sf2025.en.md",
@@ -2409,7 +2409,7 @@
             "id": "2025-06-02-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-02",
-            "mainImage": "/assets/2025/06/20250602_sf2025/image.png",
+            "mainImage": "/assets/2025/06/20250602_sf2025/summit.jpg",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250602_sf2025.en.md",
@@ -2427,11 +2427,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250603_sf2025.en.md",
-                "title": "Snowflake Summit, Day 2: Data for Good Hackathon"
+                "title": "Snowflake Summit, Day 2: Sessions"
             }, {
                 "language": "fr",
                 "path": "2025/06/20250603_sf2025.fr.md",
-                "title": "Snowflake Summit, jour 2: Data for Good Hackathon"
+                "title": "Snowflake Summit, jour 2: des sessions"
             }]
         }, {
             "id": "2025-06-04-sf2025",
@@ -2441,11 +2441,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250604_sf2025.en.md",
-                "title": "Snowflake Summit, Day 3: Data for Good Hackathon"
+                "title": "Snowflake Summit, Day 3: More sessions"
             }, {
                 "language": "fr",
                 "path": "2025/06/20250604_sf2025.fr.md",
-                "title": "Snowflake Summit, jour 3: Data for Good Hackathon"
+                "title": "Snowflake Summit, jour 3: plus de sessions"
             }]
         }, {
             "id": "2025-06-05-sf2025",
@@ -2455,11 +2455,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250605_sf2025.en.md",
-                "title": "Snowflake Summit, Day 4: Data for Good Hackathon"
+                "title": "Snowflake Summit, Day 4: Dev Day"
             }, {
                 "language": "fr",
                 "path": "2025/06/20250605_sf2025.fr.md",
-                "title": "Snowflake Summit, jour 4: Data for Good Hackathon"
+                "title": "Snowflake Summit, jour 4: Dev Day"
             }]
         }, {
             "id": "2025-06-06-sf2025",
