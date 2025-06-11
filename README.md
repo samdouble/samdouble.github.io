@@ -24,20 +24,30 @@ Run the following command:
 npm install
 ```
 
-### Running the tests
-
-Run the following command:
-
-```sh
-npm test
-```
-
 ### Starting the app locally
 
 Run the following command:
 
 ```sh
 npm start
+```
+
+### Running the built app locally
+
+Run the following command:
+
+```sh
+npm run build
+npm install -g serve
+serve -s build
+```
+
+### Running the tests
+
+Run the following command:
+
+```sh
+npm test
 ```
 
 The webpage should be available on [http://localhost:3000](http://localhost:3000) and refresh automatically when files are changed and saved.
