@@ -1,6 +1,6 @@
 Je viens d'aller voir Sound of Freedom au cinéma. Quel bon film c'était. Pas seulement à cause de l'important message sur tout ce qui a trait au trafic d'enfants, mais l'action en tant que tel m'a tenu en haleine pendant la totalité des 130 minutes.
 
-Quand on lit un peu sur le film en ligne et dans les journaux, on s'apercevra vite que les critiques le décrivent comme un film "chrétien", voire même un film qui promeut des théories du complot. Les producteurs de Sound of Freedom sont mormons, mais bon, il faut croire que toutes les religions sont les mêmes pour les génies athées dont le métier est de commenter des films.
+Quand on lit sur le film en ligne et dans les journaux, on s'aperçoit vite que les critiques le décrivent comme un film "chrétien", voire même un film qui promeut des théories du complot. Les producteurs de Sound of Freedom sont mormons, mais bon, il faut croire que toutes les religions sont les mêmes pour les génies athées dont le métier est de commenter des films.
 
 Dans tous les cas, je n'ai compté dans tout le film que 3 références à la Bible, et elles n'étaient pas du tout utiles à la compréhension ou l'appréciation du film. La première, c'est quand Tim, le personnage principal, cite un psaume, juste avant d'arrêter un pédophile. La deuxième, c'est quand Tim dit "God's Children are not for sale". Et finalement, la troisième, c'est lorsque Vampiro dit quelque chose qui ressemble à "Dieu a encore du travail pour moi sur cette Terre". 
 

@@ -17,7 +17,7 @@ Sur la suggestion de mon hôtesse, je suis parti pour le Post Taphouse, un resta
 ![Sur la Father Troy's Trail](/assets/2023/09/20230902_newfoundland/fathertroys_trail.jpg)
 <p align="center"><b>Sur la Father Troy's Trail</b></p>
 
-20 minutes plus tard, je suis arrivé au restaurant. C'était plein, mais ils m'ont trouvé une place sur la terrasse, avec vue sur la baie. J'ai regretté de ne pas avoir apporté de coupe-vent, parce qu'avec le soleil qui commençait à se coucher, il faisait un peu froid.
+20 minutes plus tard, je suis arrivé au restaurant. C'était plein, mais ils m'ont trouvé une place sur la terrasse, avec vue sur la baie. J'ai regretté de ne pas avoir apporté de coupe-vent, parce qu'avec le soleil qui commençait à se coucher, c'était frisquet.
 
 ![Vue de la terrasse du Post Taphouse](/assets/2023/09/20230902_newfoundland/post_taphouse02.jpg)
 <p align="center"><b>Vue de la terrasse du Post Taphouse</b></p>

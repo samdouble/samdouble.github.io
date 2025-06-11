@@ -17,7 +17,7 @@ On my hostess's suggestion, I left for the Post Taphouse, a restaurant on Torbay
 ![On Father Troy's Trail](/assets/2023/09/20230902_newfoundland/fathertroys_trail.jpg)
 <p align="center"><b>On Father Troy's Trail</b></p>
 
-20 minutes later, I arrived at the restaurant. It was full, but they found me a spot on the terrace, with a view on the bay. I regretted not bringing a windbreaker, because with the sun starting to set, it was a bit cold.
+20 minutes later, I arrived at the restaurant. It was full, but they found me a spot on the terrace, with a view on the bay. I regretted not bringing a windbreaker, because with the sun starting to set, it was chilly.
 
 ![View from the Post Taphouse terrace](/assets/2023/09/20230902_newfoundland/post_taphouse02.jpg)
 <p align="center"><b>View from the Post Taphouse terrace</b></p>

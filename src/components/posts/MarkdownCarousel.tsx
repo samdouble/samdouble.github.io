@@ -1,15 +1,16 @@
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
-function MarkdownCarousel({
+export default function MarkdownCarousel({
   caption,
   images,
 }: { caption: string, images: string }) {
+  const imagesPaths = images.split(',');
+
   return (
     <Carousel
-      swipeable={false}
+      arrows={imagesPaths.length > 1}
       draggable={false}
-      showDots
       responsive={{
         desktop: {
           breakpoint: { max: 3000, min: 1024 },
@@ -27,7 +28,9 @@ function MarkdownCarousel({
           slidesToSlide: 1,
         },
       }}
+      showDots
       ssr
+      swipeable={false}
       infinite
       // autoPlay={this.props.deviceType !== "mobile" ? true : false}
       autoPlaySpeed={1000}
@@ -41,7 +44,7 @@ function MarkdownCarousel({
       itemClass="carousel-item-padding-40-px"
     >
       {
-        images.split(',').map((image, index) => (
+        imagesPaths.map((image, index) => (
           <div key={index}>
             <img src={image} alt={caption} />
           </div>
@@ -50,5 +53,3 @@ function MarkdownCarousel({
     </Carousel>
   );
 }
-
-export default MarkdownCarousel;
