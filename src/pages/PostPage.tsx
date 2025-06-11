@@ -6,12 +6,12 @@ import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
 import { DateTime } from 'luxon';
 import Markdown from 'markdown-to-jsx';
-import { LanguageContext } from 'services/contexts';
-import content from 'content.json';
 import Icon from 'components/Icon';
 import MarkdownCarousel from 'components/posts/MarkdownCarousel';
 import Spoiler from 'components/posts/Spoiler';
 import ScoreToStars from 'components/ScoreToStars';
+import { LanguageContext } from 'services/contexts';
+import content from 'content.json';
 import './PostPage.css';
 import './styles.css';
 
@@ -98,40 +98,42 @@ function PostPage() {
                         width: '100%',
                       }}
                     >
-                      <tr>
-                        <td
-                          rowSpan={2}
-                          style={{
-                            paddingRight: 40,
-                            width: 30,
-                          }}
-                        >
-                          <Icon
-                            name="caret-left"
-                            size="4x"
-                          />
-                        </td>
-                        <td
-                          style={{
-                            width: '99%',
-                          }}
-                        >
-                          <u>{t('previous')}</u>
-                        </td>
-                      </tr>
-                      <tr>
-                        <td
-                          style={{
-                            fontSize: 20,
-                          }}
-                        >
-                          {prevPost.date}
-                          &nbsp;
-                          -
-                          &nbsp;
-                          {prevPost.translation.find(tr => tr.language === language)?.title}
-                        </td>
-                      </tr>
+                      <tbody>
+                        <tr>
+                          <td
+                            rowSpan={2}
+                            style={{
+                              paddingRight: 40,
+                              width: 30,
+                            }}
+                          >
+                            <Icon
+                              name="caret-left"
+                              size="4x"
+                            />
+                          </td>
+                          <td
+                            style={{
+                              width: '99%',
+                            }}
+                          >
+                            <u>{t('previous')}</u>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            style={{
+                              fontSize: 20,
+                            }}
+                          >
+                            {prevPost.date}
+                            &nbsp;
+                            -
+                            &nbsp;
+                            {prevPost.translation.find(tr => tr.language === language)?.title}
+                          </td>
+                        </tr>
+                      </tbody>
                     </table>
                   </Link>
                 </div>
@@ -158,39 +160,41 @@ function PostPage() {
                         width: '100%',
                       }}
                     >
-                      <tr>
-                        <td
-                          style={{
-                            width: '99%',
-                          }}
-                        >
-                          <u>{t('next')}</u>
-                        </td>
-                        <td
-                          rowSpan={2}
-                          style={{
-                            width: 30,
-                          }}
-                        >
-                          <Icon
-                            name="caret-right"
-                            size="4x"
-                          />
-                        </td>
-                      </tr>
-                      <tr>
-                        <td
-                          style={{
-                            fontSize: 20,
-                          }}
-                        >
-                          {nextPost.date}
-                          &nbsp;
-                          -
-                          &nbsp;
-                          {nextPost.translation.find(tr => tr.language === language)?.title}
-                        </td>
-                      </tr>
+                      <tbody>
+                        <tr>
+                          <td
+                            style={{
+                              width: '99%',
+                            }}
+                          >
+                            <u>{t('next')}</u>
+                          </td>
+                          <td
+                            rowSpan={2}
+                            style={{
+                              width: 30,
+                            }}
+                          >
+                            <Icon
+                              name="caret-right"
+                              size="4x"
+                            />
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            style={{
+                              fontSize: 20,
+                            }}
+                          >
+                            {nextPost.date}
+                            &nbsp;
+                            -
+                            &nbsp;
+                            {nextPost.translation.find(tr => tr.language === language)?.title}
+                          </td>
+                        </tr>
+                      </tbody>
                     </table>
                   </Link>
                 </div>
