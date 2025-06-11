@@ -8,7 +8,7 @@ import PostsList from 'components/PostsList';
 import SocialMedia from 'components/SocialMedia/SocialMedia';
 import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
-import content from 'content.json';
+import content from '../content/content.json';
 import './styles.css';
 
 function HomePage() {

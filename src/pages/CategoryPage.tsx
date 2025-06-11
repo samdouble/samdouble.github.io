@@ -7,7 +7,7 @@ import CategoriesList from 'components/CategoriesList';
 import PostsList from 'components/PostsList';
 import { LanguageContext } from 'services/contexts';
 import { Category, Post } from 'utils/types';
-import content from 'content.json';
+import content from '../content/content.json';
 
 function CategoryPage() {
   const { id } = useParams();

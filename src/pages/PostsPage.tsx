@@ -7,7 +7,7 @@ import Pagination from 'react-bootstrap/Pagination';
 import PostsList from 'components/PostsList';
 import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
-import content from 'content.json';
+import content from '../content/content.json';
 import './styles.css';
 
 const nbPostsPerPage = 10;
@@ -25,7 +25,7 @@ function PostsPage() {
   }
 
   const filteredPosts = (content.posts as Post[])
-    .filter(post => post.translation.some(tr => tr.language === language));
+    .filter(post => post.translation.some((tr: any) => tr.language === language));
 
   const nbPages = Math.ceil(filteredPosts.length / nbPostsPerPage);
 

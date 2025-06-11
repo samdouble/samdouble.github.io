@@ -5,7 +5,7 @@ import Table from 'react-bootstrap/Table';
 import Icon from 'components/Icon';
 import { LanguageContext } from 'services/contexts';
 import { Category, Post } from 'utils/types';
-import content from 'content.json';
+import content from '../content/content.json';
 import ScoreToStars from './ScoreToStars';
 import './PostsList.css';
 
