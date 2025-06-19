@@ -2489,6 +2489,23 @@
                 "path": "2025/06/20250607_sf2025.fr.md",
                 "title": "Retour à Montréal"
             }]
+        }, {
+            "id": "2025-06-15-reacher3",
+            "category": "movie-reviews",
+            "date": "2025-06-15",
+            "mainImage": "/assets/2025/06/20250615_reacher3/image.png",
+            "seen_in": "en",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250615_reacher3.en.md",
+                "title": "Reacher Season 3"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250615_reacher3.fr.md",
+                "title": "Reacher, saison 3"
+            }]
         }
     ]
 }
