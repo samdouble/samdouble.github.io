@@ -2480,11 +2480,11 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250606_sf2025.en.md",
-                "title": "Walking tour of San Francisco"
+                "title": "Walking Tour of San Francisco and Alcatraz"
             }, {
                 "language": "fr",
                 "path": "2025/06/20250606_sf2025.fr.md",
-                "title": "Tour à pied de San Francisco"
+                "title": "Marche dans San Francisco et Alcatraz"
             }]
         }, {
             "id": "2025-06-07-sf2025",
@@ -2516,6 +2516,23 @@
                 "language": "fr",
                 "path": "2025/06/20250615_reacher3.fr.md",
                 "title": "Reacher, saison 3"
+            }]
+        }, {
+            "id": "2025-06-20-terminallist",
+            "category": "movie-reviews",
+            "date": "2025-06-20",
+            "mainImage": "/assets/2025/06/20250620_terminallist/image.png",
+            "seen_in": "en",
+            "score": 5,
+            "score10": 10,
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250620_terminallist.en.md",
+                "title": "The Terminal List"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250620_terminallist.fr.md",
+                "title": "La liste terminale"
             }]
         }
     ]

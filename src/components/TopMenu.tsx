@@ -17,8 +17,8 @@ function TopMenu({
   return (
     <Navbar
       expand="lg"
-      className="bg-body-tertiary"
       style={{
+        backgroundColor: '#e6d946',
         paddingLeft: 15,
         paddingRight: 15,
       }}

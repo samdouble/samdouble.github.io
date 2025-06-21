@@ -39,6 +39,7 @@ function CategoryPage() {
       <Row>
         <Col lg={12}>
           <h2>{categoryLanguageInfo?.title}</h2>
+          <br />
           {
             React.createElement(PageTemplate, {
               category,
