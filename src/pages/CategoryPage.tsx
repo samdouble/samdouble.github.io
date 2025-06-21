@@ -4,18 +4,23 @@ import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import DefaultPageTemplate from 'pages/blogTemplates/DefaultPageTemplate';
-import ProjectPageTemplate from 'pages/blogTemplates/ProjectPageTemplate';
+import ProjectPageTemplate, { ProjectPageTemplateProps } from 'pages/blogTemplates/ProjectPageTemplate';
 import { LanguageContext } from 'services/contexts';
+import { Category } from 'utils/types';
 import content from 'content.json';
 
 
-const pageTemplates: { [key: string]: any } = {
-  ProjectPageTemplate,
+const pageTemplates: {
+  [key: string]: (
+    React.FC<ProjectPageTemplateProps>
+  )
+} = {
+  'ProjectPageTemplate': ProjectPageTemplate,
 }
 
 function CategoryPage() {
   const { id } = useParams();
-  const category = content.categories.find(cat => cat.id === id);
+  const category: Category | undefined = content.categories.find(cat => cat.id === id);
 
   const language = useContext(LanguageContext);
   const categoryLanguageInfo = category?.translation.find(t => t.language === language);

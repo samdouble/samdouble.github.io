@@ -3,18 +3,18 @@ import PostsList from 'components/PostsList';
 import { Category, Post } from 'utils/types';
 import content from 'content.json';
 
-type DefaultPageTemplateProps = {
-  category: Category;
+export type DefaultPageTemplateProps = {
+  category?: Category;
 };
 
-function DefaultPageTemplate({
+const DefaultPageTemplate: React.FC<DefaultPageTemplateProps> = ({
   category,
-}: DefaultPageTemplateProps) {
+}) => {
   const subCategories = (content.categories as Category[])
-    .filter(cat => cat.parent === category.id);
+    .filter(cat => cat.parent === category?.id);
 
   const latestPosts = (content.posts as Post[])
-    .filter(post => post.category === category.id);
+    .filter(post => post.category === category?.id);
 
   return (
     <>
