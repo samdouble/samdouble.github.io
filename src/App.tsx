@@ -22,6 +22,7 @@ const router = createHashRouter(
         { path: '/category/:id', element: <CategoryPage /> },
         { path: '/posts', element: <PostsPage /> },
         { path: '/post/:id', element: <PostPage /> },
+        { path: '/404', element: <div>404</div> },
       ],
     },
   ],

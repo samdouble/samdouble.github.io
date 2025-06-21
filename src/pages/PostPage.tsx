@@ -1,5 +1,5 @@
 import { useContext, useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
@@ -17,6 +17,7 @@ import './styles.css';
 
 function PostPage() {
   const [text, setText] = useState<string>('');
+  const navigate = useNavigate();
   const { id } = useParams();
   const { t } = useTranslation();
   const post = content.posts.find(p => p.id === id);
@@ -31,10 +32,14 @@ function PostPage() {
 
   useEffect(() => {
     if (postLanguageInfo) {
-      const termsFrPath = require(`../content/${postLanguageInfo?.path}`);
-      fetch(termsFrPath)
-        .then(response => response.text())
-        .then(responseText => setText(responseText));
+      try {
+        const termsFrPath = require(`../content/${postLanguageInfo?.path}`);
+        fetch(termsFrPath)
+          .then(response => response.text())
+          .then(responseText => setText(responseText));
+      } catch (error) {
+        navigate('/404');
+      }
     }
   }, [post, language]);
 
