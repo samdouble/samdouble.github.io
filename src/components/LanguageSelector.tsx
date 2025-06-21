@@ -16,9 +16,9 @@ const languages = [
   },
 ];
 
-interface LanguageSelectorProps {
+type LanguageSelectorProps = {
   onChange: (_language: string) => void;
-}
+};
 
 function LanguageSelector({
   onChange,

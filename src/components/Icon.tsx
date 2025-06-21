@@ -18,11 +18,11 @@ import {
 import { Tooltip } from 'react-tooltip';
 import techs from 'utils/techs.json';
 
-interface IconProps {
+type IconProps = {
   name?: string;
   size?: 'xs' | 'sm' | 'lg' | 'xl' | '2xl' | '1x' | '2x' | '3x' | '4x' | '5x' | '6x' | '7x' | '8x' | '9x' | '10x';
   style?: React.CSSProperties;
-}
+};
 
 function Icon({
   name,

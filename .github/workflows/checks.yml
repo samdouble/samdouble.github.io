@@ -50,7 +50,7 @@ jobs:
           npm run lint
       - name: Audit
         run: |
-          npm run audit -- --moderate=6 --high=6
+          npm run audit -- --moderate=3 --high=6
       - name: Test
         run: |
           npm test

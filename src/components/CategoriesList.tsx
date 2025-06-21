@@ -4,7 +4,7 @@ import Table from 'react-bootstrap/Table';
 import { LanguageContext } from 'services/contexts';
 import { Category } from 'utils/types';
 
-interface CategoriesListProps {
+type CategoriesListProps = {
   categories: Category[];
 }
 
