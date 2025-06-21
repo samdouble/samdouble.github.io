@@ -1,7 +1,6 @@
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
-import Table from 'react-bootstrap/Table';
 import Icon from 'components/Icon';
 import { LanguageContext } from 'services/contexts';
 import { Category, Post } from 'utils/types';
@@ -25,7 +24,7 @@ function PostsList({
   const language = useContext(LanguageContext);
 
   return (
-    <Table>
+    <table>
       <tbody>
         {
           posts
@@ -70,7 +69,7 @@ function PostsList({
                           float: 'right',
                           marginTop: 15,
                           position: 'absolute',
-                          right: 5,
+                          right: 20,
                         }}
                       >
                         {
@@ -95,6 +94,7 @@ function PostsList({
                   <td
                     style={{
                       textAlign: 'left',
+                      verticalAlign: 'top',
                     }}
                   >
                     <Link
@@ -147,7 +147,7 @@ function PostsList({
           )
         }
       </tbody>
-    </Table>
+    </table>
   );
 }
 

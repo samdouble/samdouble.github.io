@@ -1,12 +1,11 @@
 import { useContext } from 'react';
-import { Link } from 'react-router-dom';
-import Button from 'react-bootstrap/Button';
+import { useNavigate } from 'react-router-dom';
 import Card from 'react-bootstrap/Card';
-import { useTranslation } from 'react-i18next';
 import { useElementSize } from '@custom-react-hooks/use-element-size';
 import Icon from 'components/Icon';
 import { LanguageContext } from 'services/contexts';
 import { Category } from 'utils/types';
+import './ProjectGridTile.css';
 
 type ProjectsGridTileProps = {
   project: Category;
@@ -16,8 +15,7 @@ function ProjectsGridTile({
   project,
 }: ProjectsGridTileProps) {
   const [setRef, size] = useElementSize();
-
-  const { t } = useTranslation();
+  const navigate = useNavigate();
 
   const language = useContext(LanguageContext);
 
@@ -25,12 +23,12 @@ function ProjectsGridTile({
 
   return (
     <Card
+      className="project-grid-tile"
       key={project.id}
-      ref={setRef}
-      style={{
-        cursor: 'auto',
-        maxWidth: '18rem',
+      onClick={() => {
+        navigate(`/category/${project.id}`);
       }}
+      ref={setRef}
     >
       <Card.Img
         variant="top"
@@ -64,19 +62,6 @@ function ProjectsGridTile({
         <Card.Text>
           {project.translation.find(tr => tr.language === language)?.description}
         </Card.Text>
-        <Link
-          style={{
-            position: 'absolute',
-            bottom: -20,
-          }}
-          to={`/category/${project.id}`}
-        >
-          <Button
-            variant="primary"
-          >
-            {t('seeMore')}
-          </Button>
-        </Link>
       </Card.Body>
     </Card>
   );

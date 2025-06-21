@@ -1,6 +1,5 @@
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
-import Table from 'react-bootstrap/Table';
 import { LanguageContext } from 'services/contexts';
 import { Category } from 'utils/types';
 
@@ -14,7 +13,7 @@ export default function CategoriesList({
   const language = useContext(LanguageContext);
 
   return (
-    <Table>
+    <table>
       <tbody>
         {
           categories
@@ -42,7 +41,11 @@ export default function CategoriesList({
                       />
                     </Link>
                   </td>
-                  <td>
+                  <td
+                    style={{
+                      verticalAlign: 'top',
+                    }}
+                  >
                     <Link
                       style={{
                         color: 'black',
@@ -66,6 +69,6 @@ export default function CategoriesList({
             })
         }
       </tbody>
-    </Table>
+    </table>
   );
 }
