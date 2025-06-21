@@ -5,9 +5,9 @@ import { useTranslation } from 'react-i18next';
 import logo from 'logo.png';
 import LanguageSelector from './LanguageSelector';
 
-interface TopMenuProps {
+type TopMenuProps = {
   onChangeLanguage: (_language: string) => void;
-}
+};
 
 function TopMenu({
   onChangeLanguage,

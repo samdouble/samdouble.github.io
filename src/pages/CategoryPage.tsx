@@ -1,13 +1,17 @@
-import { useContext } from 'react';
+import React, { useContext } from 'react';
 import { useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import CategoriesList from 'components/CategoriesList';
-import PostsList from 'components/PostsList';
+import DefaultPageTemplate from 'pages/blogTemplates/DefaultPageTemplate';
+import ProjectPageTemplate from 'pages/blogTemplates/ProjectPageTemplate';
 import { LanguageContext } from 'services/contexts';
-import { Category, Post } from 'utils/types';
 import content from 'content.json';
+
+
+const pageTemplates: { [key: string]: any } = {
+  ProjectPageTemplate,
+}
 
 function CategoryPage() {
   const { id } = useParams();
@@ -16,11 +20,9 @@ function CategoryPage() {
   const language = useContext(LanguageContext);
   const categoryLanguageInfo = category?.translation.find(t => t.language === language);
 
-  const subCategories = (content.categories as Category[])
-    .filter(cat => cat.parent === id);
-
-  const latestPosts = (content.posts as Post[])
-    .filter(post => post.category === id);
+  const PageTemplate = category?.pageTemplate && Object.prototype.hasOwnProperty.call(pageTemplates, category.pageTemplate)
+    ? pageTemplates[category.pageTemplate]
+    : DefaultPageTemplate;
 
   return (
     <Container
@@ -32,11 +34,11 @@ function CategoryPage() {
       <Row>
         <Col lg={12}>
           <h2>{categoryLanguageInfo?.title}</h2>
-          <CategoriesList categories={subCategories} />
-          <PostsList
-            posts={latestPosts}
-            showScore
-          />
+          {
+            React.createElement(PageTemplate, {
+              category,
+            })
+          }
         </Col>
       </Row>
     </Container>

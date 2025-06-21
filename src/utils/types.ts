@@ -1,6 +1,6 @@
 export type Tech = 'dart' | 'flutter' | 'go' | 'react' | 'rust' | 'svelte' | 'typescript';
 
-export interface Category {
+export type Category = {
   id: string;
   date?: string;
   icon?: string;
@@ -13,9 +13,9 @@ export interface Category {
     title: string;
     description?: string;
   }];
-}
+};
 
-export interface Post {
+export type Post = {
   category: string;
   date: string;
   id: string;
@@ -28,4 +28,4 @@ export interface Post {
     path: string;
     title: string;
   }];
-}
+};

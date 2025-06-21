@@ -9,11 +9,11 @@ import content from 'content.json';
 import ScoreToStars from './ScoreToStars';
 import './PostsList.css';
 
-interface PostsListProps {
+type PostsListProps = {
   posts: Post[];
   showScore?: boolean;
   showSeeMore?: boolean;
-}
+};
 
 function PostsList({
   posts,
