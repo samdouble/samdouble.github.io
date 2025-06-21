@@ -1,18 +1,38 @@
-export type Tech = 'dart' | 'flutter' | 'go' | 'react' | 'rust' | 'svelte' | 'typescript';
+export type Tech =
+  | 'anthropic'
+  | 'claude'
+  | 'dart'
+  | 'flutter'
+  | 'go'
+  | 'jest'
+  | 'linear'
+  | 'markdown'
+  | 'mongodb'
+  | 'npm'
+  | 'playwright'
+  | 'puppeteer'
+  | 'python'
+  | 'react'
+  | 'rust'
+  | 'snowflake'
+  | 'svelte'
+  | 'typescript'
+  | string;
 
 export type Category = {
   id: string;
   date?: string;
   icon?: string;
+  pageTemplate?: string;
   mainImage?: string;
   parent?: string;
   description?: string;
   techs?: Tech[];
-  translation: [{
+  translation: {
     language: string;
     title: string;
     description?: string;
-  }];
+  }[];
 };
 
 export type Post = {
