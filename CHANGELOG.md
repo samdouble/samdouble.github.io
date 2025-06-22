@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.13.0](https://github.com/samdouble/samdouble.github.io/compare/v1.12.0...v1.13.0) (2025-06-22)
+
+
+### Features
+
+* **20250530:** added post ([0abf01e](https://github.com/samdouble/samdouble.github.io/commit/0abf01e076d959bd3c7045f7efac13760cea7fc4))
+* **20250601:** added images ([bb6243c](https://github.com/samdouble/samdouble.github.io/commit/bb6243cc7a085850c3c3e9f43c5f9d26e081c0b0))
+* **20250603:** added images ([aa0bd86](https://github.com/samdouble/samdouble.github.io/commit/aa0bd86836dff1a53ade77caa48865dcbaf4e3d0))
+* **20250615:** added post ([bbe1f8c](https://github.com/samdouble/samdouble.github.io/commit/bbe1f8c8f3f9a1ec127bdbc8817d329f277f3b9b))
+* add page templates for projects ([7065762](https://github.com/samdouble/samdouble.github.io/commit/7065762051aac12508c4cac99725f5ac86243720))
+* improve style of website with yellow header ([1ddf745](https://github.com/samdouble/samdouble.github.io/commit/1ddf7456ca204a98b240d3e01303a3ff96fffe67))
+
+
+### Bug Fixes
+
+* added custom very basic 404 page ([73c8fbd](https://github.com/samdouble/samdouble.github.io/commit/73c8fbdf4744620d7b038e1c97182cf0a06e0611))
+
 ## [1.12.0](https://github.com/samdouble/samdouble.github.io/compare/v1.11.0...v1.12.0) (2025-05-30)
 
 
