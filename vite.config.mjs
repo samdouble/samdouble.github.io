@@ -8,16 +8,6 @@ export default defineConfig({
   },
   plugins: [
     tsconfigPaths(),
-    {
-      name: "markdown-loader",
-      transform(code, id) {
-        console.log(id);
-        if (id.slice(-3) === ".md") {
-          // For .md files, get the raw content
-          return `export default ${JSON.stringify(code)};`;
-        }
-      }
-    },
     react(),
   ],
   test: {
