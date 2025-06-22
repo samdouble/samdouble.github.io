@@ -1,13 +1,13 @@
 import { useState } from 'react';
 import { createHashRouter, RouterProvider } from 'react-router-dom';
-import Footer from 'components/Footer';
-import TopMenu from 'components/TopMenu';
-import HomePage from 'pages/HomePage';
-import CategoryPage from 'pages/CategoryPage';
-import PostsPage from 'pages/PostsPage';
-import PostPage from 'pages/PostPage';
-import { LanguageContext } from 'services/contexts';
-import { initialLanguage } from 'services/language';
+import Footer from '@/components/Footer';
+import TopMenu from '@/components/TopMenu';
+import HomePage from '@/pages/HomePage';
+import CategoryPage from '@/pages/CategoryPage';
+import PostsPage from '@/pages/PostsPage';
+import PostPage from '@/pages/PostPage';
+import { LanguageContext } from '@/services/contexts';
+import { initialLanguage } from '@/services/language';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
