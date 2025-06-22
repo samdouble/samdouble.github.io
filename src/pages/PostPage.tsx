@@ -56,7 +56,7 @@ function PostPage() {
         <Row>
           <Col lg={12}>
             <h2>{postLanguageInfo?.title}</h2>
-            <p>{date?.toRelative()}</p>
+            <p><b>{date?.toRelative()}</b></p>
             {
               post.score !== undefined && (
                 <div>

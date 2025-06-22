@@ -3,6 +3,8 @@ export type Tech =
   | 'claude'
   | 'dart'
   | 'flutter'
+  | 'github-actions'
+  | 'github-pages'
   | 'go'
   | 'jest'
   | 'linear'
@@ -43,6 +45,7 @@ export type Post = {
   score?: number;
   read_in?: string;
   seen_in?: string;
+  hideFromMainFeed?: boolean;
   translation: [{
     language: string;
     path: string;
