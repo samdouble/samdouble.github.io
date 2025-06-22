@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.13.1](https://github.com/samdouble/samdouble.github.io/compare/v1.13.0...v1.13.1) (2025-06-22)
+
+
+### Bug Fixes
+
+* fix deployment with vite ([ea8c05a](https://github.com/samdouble/samdouble.github.io/commit/ea8c05a696f715e1deaaae72427dba332e9cca48))
+
 ## [1.13.0](https://github.com/samdouble/samdouble.github.io/compare/v1.12.0...v1.13.0) (2025-06-22)
 
 
