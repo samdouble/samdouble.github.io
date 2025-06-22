@@ -50,7 +50,7 @@ Run the following command:
 npm test
 ```
 
-The webpage should be available on [http://localhost:3000](http://localhost:3000) and refresh automatically when files are changed and saved.
+The webpage should be available on [http://localhost:5173](http://localhost:5173) and refresh automatically when files are changed and saved.
 
 ## Warnings
 The branch `gh-pages` is used for deployment. For this reason, it should be as lean as possible and should not be synced with the main branch, which contains all the development files.
