@@ -33,11 +33,10 @@ function PostPage() {
   useEffect(() => {
     if (postLanguageInfo) {
       try {
-        const termsFrPath = require(`../content/${postLanguageInfo?.path}`);
-        fetch(termsFrPath)
+        fetch(`/assets/content/${postLanguageInfo?.path}`)
           .then(response => response.text())
           .then(responseText => setText(responseText));
-      } catch (error) {
+      } catch {
         navigate('/404');
       }
     }
@@ -60,11 +59,11 @@ function PostPage() {
             <p>{date?.toRelative()}</p>
             {
               post.score !== undefined && (
-                <p>
+                <div>
                   <ScoreToStars
                     score={post.score}
                   />
-                </p>
+                </div>
               )
             }
             <Markdown
