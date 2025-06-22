@@ -30,6 +30,7 @@ function PostsPage() {
   const nbPages = Math.ceil(filteredPosts.length / nbPostsPerPage);
 
   const latestPosts = filteredPosts
+    .filter(post => !post.hideFromMainFeed)
     .sort((postA, postB) => (postA.date < postB.date ? 1 : -1))
     .slice((page - 1) * nbPostsPerPage, page * nbPostsPerPage);
 

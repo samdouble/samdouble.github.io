@@ -155,6 +155,22 @@
                 "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
             }]
         }, {
+            "id": "projects-samdouble-github-io",
+            "date": "2020-12-25",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["typescript", "react", "github-pages", "markdown"],
+            "translation": [{
+                "language": "en",
+                "title": "My Blog on samdouble.github.io",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Mon blog sur samdouble.github.io",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-snowflake-data-checker",
             "date": "2025-04-22",
             "mainImage": "/assets/todo.png",
@@ -1021,16 +1037,18 @@
             }]
         }, {
             "id": "2024-08-19-react",
+            "category": "projects-samdouble-github-io",
             "date": "2024-08-19",
-            "mainImage": "/assets/2024/08/20240819_react/react.png",
+            "mainImage": "/assets/todo.png",
+            "hideFromMainFeed": true,
             "translation": [{
                 "language": "en",
                 "path": "2024/08/20240819_react.en.md",
-                "title": "Why I Switched From Jekyll to React for This Website"
+                "title": "Replacing Jekyll by React"
             }, {
                 "language": "fr",
                 "path": "2024/08/20240819_react.fr.md",
-                "title": "Pourquoi je suis passé de Jekyll à React pour ce site web"
+                "title": "Remplacement de Jekyll par React"
             }]
         }, {
             "id": "2024-08-30-monte-cristo",
@@ -2366,6 +2384,7 @@
             "category": "restaurant-reviews",
             "date": "2025-05-18",
             "mainImage": "/assets/todo.png",
+            "score": 4,
             "translation": [{
                 "language": "en",
                 "path": "2025/05/20250518_simon-cantine.en.md",
@@ -2434,7 +2453,7 @@
             "id": "2025-06-03-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-03",
-            "mainImage": "/assets/2025/06/20250603_sf2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250603_sf2025.en.md",
@@ -2448,7 +2467,7 @@
             "id": "2025-06-04-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-04",
-            "mainImage": "/assets/2025/06/20250604_sf2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250604_sf2025.en.md",
@@ -2462,7 +2481,7 @@
             "id": "2025-06-05-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-05",
-            "mainImage": "/assets/2025/06/20250605_sf2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250605_sf2025.en.md",
@@ -2476,7 +2495,7 @@
             "id": "2025-06-06-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-06",
-            "mainImage": "/assets/2025/06/20250606_sf2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250606_sf2025.en.md",
@@ -2490,7 +2509,7 @@
             "id": "2025-06-07-sf2025",
             "category": "2025-06-sanfrancisco",
             "date": "2025-06-07",
-            "mainImage": "/assets/2025/06/20250607_sf2025/image.png",
+            "mainImage": "/assets/todo.png",
             "translation": [{
                 "language": "en",
                 "path": "2025/06/20250607_sf2025.en.md",
@@ -2533,6 +2552,51 @@
                 "language": "fr",
                 "path": "2025/06/20250620_terminallist.fr.md",
                 "title": "La liste terminale"
+            }]
+        }, {
+            "id": "2025-06-21-paulo-et-suzanne",
+            "category": "restaurant-reviews",
+            "date": "2025-06-21",
+            "mainImage": "/assets/todo.png",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250621_paulo-et-suzanne.en.md",
+                "title": "Paulo & Suzanne"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250621_paulo-et-suzanne.fr.md",
+                "title": "Paulo & Suzanne"
+            }]
+        }, {
+            "id": "2025-06-21-samdoublegithub-appearance",
+            "category": "projects-samdouble-github-io",
+            "date": "2025-06-21 18:00:00",
+            "mainImage": "/assets/todo.png",
+            "hideFromMainFeed": true,
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250621_samdoublegithub-appearance.en.md",
+                "title": "New Look"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250621_samdoublegithub-appearance.fr.md",
+                "title": "Changement d'apparence"
+            }]
+        }, {
+            "id": "2025-06-21-samdoublegithub-vite",
+            "category": "projects-samdouble-github-io",
+            "date": "2025-06-21 19:00:00",
+            "mainImage": "/assets/todo.png",
+            "hideFromMainFeed": true,
+            "translation": [{
+                "language": "en",
+                "path": "2025/06/20250621_samdoublegithub-vite.en.md",
+                "title": "Replacing Create React App by Vite"
+            }, {
+                "language": "fr",
+                "path": "2025/06/20250621_samdoublegithub-vite.fr.md",
+                "title": "Remplacement de Create React App par Vite"
             }]
         }
     ]

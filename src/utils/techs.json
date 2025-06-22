@@ -25,6 +25,11 @@
     "logo": "github-actions.svg"
   },
   {
+    "id": "tech-github-pages",
+    "name": "GitHub Pages",
+    "logo": "github-pages.png"
+  },
+  {
     "id": "tech-go",
     "name": "Go",
     "logo": "go.png"
