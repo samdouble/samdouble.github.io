@@ -18,7 +18,7 @@ Au milieu du peloton se trouve le June Buvette. A priori, ça semble être une p
 #### #4 Greasy Spoon
 
 **3 services, soir de fin de semaine**  
-J'ai eu un bon repas au Greasy Spoon. Le service était irréprochable et j'ai bien mangé. Ma principale critique, c'est le manque d'originalité du menu et le fait que j'aurais sûrement pu y manger la même chose pour le même prix hors-MTLàTABLE, alors que l'évènement vise précisément à permettre aux gens de découvrir des restaurants à des prix moindres que durant le restant de l'année.
+J'ai eu un bon repas au Greasy Spoon. Le service était irréprochable et j'ai bien mangé. Ma principale critique, c'est le manque d'originalité du menu et le fait que j'aurais sûrement pu y manger la même chose pour le même prix en dehors de MTLàTABLE, alors que l'évènement vise précisément à permettre aux gens de découvrir des restaurants à des prix plus bas que le reste de l'année.
 
 #### #5 Jacopo
 

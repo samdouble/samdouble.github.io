@@ -33,7 +33,7 @@ function PostPage() {
   useEffect(() => {
     if (postLanguageInfo) {
       try {
-        fetch(`/assets/content/${postLanguageInfo?.path}`)
+        fetch(`/assets/${postLanguageInfo?.path}`)
           .then(response => response.text())
           .then(responseText => setText(responseText));
       } catch {

@@ -4,6 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Pagination from 'react-bootstrap/Pagination';
+import { useTranslation } from 'react-i18next';
 import PostsList from 'components/PostsList';
 import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
@@ -16,6 +17,7 @@ function PostsPage() {
   const language = useContext(LanguageContext);
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
+  const { t } = useTranslation();
 
   let page = 1;
   try {
@@ -43,6 +45,7 @@ function PostsPage() {
     >
       <Row>
         <Col lg={8}>
+          <h2>{t('blog')}</h2>
           <PostsList
             posts={latestPosts}
             showScore

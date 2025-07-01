@@ -2,6 +2,7 @@ export type Tech =
   | 'anthropic'
   | 'claude'
   | 'dart'
+  | 'digitalocean-functions'
   | 'flutter'
   | 'github-actions'
   | 'github-pages'
