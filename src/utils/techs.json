@@ -15,6 +15,11 @@
     "logo": "dart.png"
   },
   {
+    "id": "tech-digitalocean-functions",
+    "name": "DigitalOcean Functions",
+    "logo": "digitalocean.webp"
+  },
+  {
     "id": "tech-flutter",
     "name": "Flutter",
     "logo": "flutter.webp"
