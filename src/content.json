@@ -296,6 +296,7 @@
         }, {
             "id": "trips",
             "icon": "plane",
+            "pageTemplate": "TripsPageTemplate",
             "translation": [{
                 "language": "en",
                 "title": "Trips"
@@ -307,6 +308,7 @@
             "id": "2021-07-vancouver",
             "date": "2021-07-09",
             "mainImage": "/assets/2021/07/20210709_vancouver/map.png",
+            "pageTemplate": "TripPageTemplate",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -319,6 +321,7 @@
             "id": "2022-03-neworleans",
             "date": "2022-03-08",
             "mainImage": "/assets/2022/03/20220308_neworleans/map.png",
+            "pageTemplate": "TripPageTemplate",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -331,6 +334,7 @@
             "id": "2022-08-alberta",
             "date": "2022-08-26",
             "mainImage": "/assets/2022/08/20220826_alberta/map.png",
+            "pageTemplate": "TripPageTemplate",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -343,6 +347,7 @@
             "id": "2023-04-portugal",
             "date": "2023-04-21",
             "mainImage": "/assets/2023/04/20230421_portugal/map.png",
+            "pageTemplate": "TripPageTemplate",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -355,6 +360,7 @@
             "id": "2023-09-newfoundland",
             "date": "2023-09-02",
             "mainImage": "/assets/2023/09/20230902_newfoundland/map.png",
+            "pageTemplate": "TripPageTemplate",
             "parent": "trips",
             "translation": [{
                 "language": "en",
@@ -367,6 +373,7 @@
             "id": "2024-04-europe",
             "date": "2024-04-11",
             "mainImage": "/assets/2024/04/20240411_europe/map.png",
+            "pageTemplate": "TripPageTemplate",
             "icon": "flag-eu",
             "parent": "trips",
             "translation": [{
@@ -380,6 +387,7 @@
             "id": "2025-02-japan",
             "date": "2025-02-15",
             "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
+            "pageTemplate": "TripPageTemplate",
             "icon": "flag-japan",
             "parent": "trips",
             "translation": [{
@@ -393,6 +401,7 @@
             "id": "2025-05-newyork",
             "date": "2025-05-02",
             "mainImage": "/assets/2025/05/20250502_usa2025/5-38.jpg",
+            "pageTemplate": "TripPageTemplate",
             "icon": "flag-usa",
             "parent": "trips",
             "translation": [{
@@ -406,6 +415,7 @@
             "id": "2025-06-sanfrancisco",
             "date": "2025-06-01",
             "mainImage": "/assets/todo.png",
+            "pageTemplate": "TripPageTemplate",
             "icon": "flag-usa",
             "parent": "trips",
             "translation": [{
@@ -419,6 +429,7 @@
             "id": "2025-10-united-kingdom",
             "date": "2025-10-04",
             "mainImage": "/assets/todo.png",
+            "pageTemplate": "TripPageTemplate",
             "icon": "flag-uk",
             "parent": "trips",
             "translation": [{
@@ -2657,7 +2668,7 @@
             "id": "2025-06-27-squidgame1",
             "category": "movie-reviews",
             "date": "2025-06-27",
-            "mainImage": "/assets/todo.png",
+            "mainImage": "/assets/2025/06/20250627_squidgame1/image.png",
             "seen_in": "ko",
             "score": 5,
             "score10": 10,

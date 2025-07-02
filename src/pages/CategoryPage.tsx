@@ -5,6 +5,8 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import DefaultPageTemplate from 'pages/blogTemplates/DefaultPageTemplate';
 import ProjectPageTemplate, { ProjectPageTemplateProps } from 'pages/blogTemplates/ProjectPageTemplate';
+import TripPageTemplate, { TripPageTemplateProps } from 'pages/blogTemplates/TripPageTemplate';
+import TripsPageTemplate, { TripsPageTemplateProps } from 'pages/blogTemplates/TripsPageTemplate';
 import { LanguageContext } from 'services/contexts';
 import { Category } from 'utils/types';
 import content from 'content.json';
@@ -16,6 +18,8 @@ const pageTemplates: {
   )
 } = {
   'ProjectPageTemplate': ProjectPageTemplate,
+  'TripPageTemplate': TripPageTemplate,
+  'TripsPageTemplate': TripsPageTemplate,
 }
 
 function CategoryPage() {
