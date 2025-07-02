@@ -5,7 +5,6 @@ import { useElementSize } from '@custom-react-hooks/use-element-size';
 import Icon from 'components/Icon';
 import { LanguageContext } from 'services/contexts';
 import { Category } from 'utils/types';
-import './ProjectGridTile.css';
 
 type ProjectsGridTileProps = {
   project: Category;
@@ -23,7 +22,7 @@ function ProjectsGridTile({
 
   return (
     <Card
-      className="project-grid-tile"
+      className="tiltable"
       key={project.id}
       onClick={() => {
         navigate(`/category/${project.id}`);

@@ -1,10 +1,10 @@
 import { useContext } from 'react';
-import { useNavigate, useSearchParams } from 'react-router-dom';
+import { useSearchParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import Pagination from 'react-bootstrap/Pagination';
 import { useTranslation } from 'react-i18next';
+import Pagination from 'components/Pagination';
 import PostsList from 'components/PostsList';
 import { LanguageContext } from 'services/contexts';
 import { Post } from 'utils/types';
@@ -15,7 +15,6 @@ const nbPostsPerPage = 10;
 
 function PostsPage() {
   const language = useContext(LanguageContext);
-  const navigate = useNavigate();
   const [searchParams] = useSearchParams();
   const { t } = useTranslation();
 
@@ -27,12 +26,12 @@ function PostsPage() {
   }
 
   const filteredPosts = (content.posts as Post[])
+    .filter(post => !post.hideFromMainFeed)
     .filter(post => post.translation.some(tr => tr.language === language));
 
   const nbPages = Math.ceil(filteredPosts.length / nbPostsPerPage);
 
   const latestPosts = filteredPosts
-    .filter(post => !post.hideFromMainFeed)
     .sort((postA, postB) => (postA.date < postB.date ? 1 : -1))
     .slice((page - 1) * nbPostsPerPage, page * nbPostsPerPage);
 
@@ -50,35 +49,12 @@ function PostsPage() {
             posts={latestPosts}
             showScore
           />
+          <br />
           <Pagination
-            style={{
-              margin: '0 auto',
-            }}
-          >
-            <Pagination.First
-              disabled={page === 1}
-            />
-            <Pagination.Prev
-              disabled={page === 1}
-            />
-            {
-              Array.from({ length: nbPages }).map((_, index) => (
-                <Pagination.Item
-                  active={index + 1 === page}
-                  key={index}
-                  onClick={() => navigate(`/posts?page=${index + 1}`)}
-                >
-                  {index + 1}
-                </Pagination.Item>
-              ))
-            }
-            <Pagination.Next
-              disabled={page === nbPages}
-            />
-            <Pagination.Last
-              disabled={page === nbPages}
-            />
-          </Pagination>
+            currentPage={page}
+            getUrl={pageNo => `/posts?page=${pageNo}`}
+            nbPages={nbPages}
+          />
         </Col>
         <Col lg={4}>
           <div />

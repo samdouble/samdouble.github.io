@@ -24,3 +24,14 @@ img {
 .card:hover .card-img-top {
   filter: none;
 }
+
+.tiltable {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  cursor: pointer;
+  max-width: 18rem;
+  transition: all 0.3s ease;
+
+  &:hover {
+    transform: scale(1.03) rotate(-1deg);
+  }
+}
