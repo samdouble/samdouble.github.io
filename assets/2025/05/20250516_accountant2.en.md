@@ -1,0 +1,9 @@
+The film begins as Ray King meets the mysterious assassin Anaïs in a bar to discuss the case of a Salvadoran family that has disappeared. He only has an old photo of a young boy and his parents. Suddenly, they are attacked by what appears to be cartel members. King takes refuge in the bathroom. He defends himself well, manages to eliminate 2-3 men, but is ultimately shot by a sniper as he exits the bar. Anaïs manages to escape.  
+Later at the morgue, Medina identifies her boss's body. In the bathroom partition, just before his final battle, King had time to write a message for Medina on his arm: "Find the Accountant."
+
+It was entertaining, but I admit I got lost in the story a few times. In that respect, it didn’t hold together as well as the first film.
+For example, Anaïs: we finally learn that she’s the woman in the photo (the woman from the missing family). I spent the rest of the film wondering if I had understood correctly. This ordinary housewife with an average face would, a few years after a car accident, become a pin-up, chess champion, and super-assassin?  
+Then, I didn’t understand the importance of the missing family. More specifically, the importance they had for Christian and especially his brother Braxton, for them to be so motivated to solve this case. It would have been clearer if it had been Robert McCall from Equalizer, but for the Wolff brothers, apart from the obvious fact that human trafficking is wrong, the film didn’t explain very clearly why they were so involved.
+
+Nevertheless, I had a good time. The first scene with King in the bar kicked off the movie really well.  
+The chemistry between the brothers was authentic. Usually, I'm not a fan of comic relief scenes in action movies, but in this one, even though there were several that didn't further the main plot, it worked well.
