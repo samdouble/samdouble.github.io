@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.14.0](https://github.com/samdouble/samdouble.github.io/compare/v1.13.1...v1.14.0) (2025-07-12)
+
+
+### Features
+
+* **20250707:** added post ([ce54988](https://github.com/samdouble/samdouble.github.io/commit/ce54988f9d3ae511b5621286b4d1bf699a3b86ef))
+* allow hiding posts from the main feed ([afe8969](https://github.com/samdouble/samdouble.github.io/commit/afe896907dc4e846b34a092c1726d2556bdd1d2c))
+* new custom pagination ([659bc5d](https://github.com/samdouble/samdouble.github.io/commit/659bc5dc5c1f09ae9452a09afa7bc514365610b4))
+
 ## [1.13.1](https://github.com/samdouble/samdouble.github.io/compare/v1.13.0...v1.13.1) (2025-06-22)
 
 
