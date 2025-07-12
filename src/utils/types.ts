@@ -1,8 +1,10 @@
 export type Tech =
   | 'anthropic'
   | 'claude'
+  | 'csharp'
   | 'dart'
   | 'digitalocean-functions'
+  | 'dotnet'
   | 'flutter'
   | 'github-actions'
   | 'github-pages'
@@ -26,6 +28,7 @@ export type Category = {
   id: string;
   date?: string;
   icon?: string;
+  isHidden?: boolean;
   pageTemplate?: string;
   mainImage?: string;
   parent?: string;

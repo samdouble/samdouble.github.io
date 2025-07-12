@@ -8,6 +8,7 @@ function ProjectsGrid() {
 
   const projects = (content.categories as Category[])
     .filter(category => category.parent === 'projects')
+    .filter(category => !category.isHidden)
     .sort((categoryA, categoryB) => (categoryA.date! < categoryB.date! ? 1 : -1));
 
   const {

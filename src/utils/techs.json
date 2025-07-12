@@ -10,6 +10,11 @@
     "logo": "claude.png"
   },
   {
+    "id": "tech-csharp",
+    "name": "C#",
+    "logo": "csharp.png"
+  },
+  {
     "id": "tech-dart",
     "name": "Dart",
     "logo": "dart.png"
@@ -18,6 +23,11 @@
     "id": "tech-digitalocean-functions",
     "name": "DigitalOcean Functions",
     "logo": "digitalocean.webp"
+  },
+  {
+    "id": "tech-dotnet",
+    "name": ".NET",
+    "logo": "dotnet.png"
   },
   {
     "id": "tech-flutter",

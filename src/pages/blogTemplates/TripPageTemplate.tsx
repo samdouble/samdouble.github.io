@@ -1,5 +1,4 @@
 import CategoriesList from 'components/CategoriesList';
-import Icon from 'components/Icon';
 import PostsList from 'components/PostsList';
 import { Category, Post } from 'utils/types';
 import content from 'content.json';

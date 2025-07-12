@@ -1,6 +1,5 @@
-React 19
+Ça faisait quelques semaines que je voulais faire la transition de Create React App, officiellement obsolète depuis quelques mois, à Vite. Le projet commençait à accumuler des vulnérabilités de sécurité pour lesquelles il n'y avait aucune autre solution que de revenir à une version de CRA vieille de 5-6 ans.
 
-https://adhithiravi.medium.com/migrating-from-create-react-app-to-vite-a-modern-approach-76148adb8983
+J'en ai profité pour faire la transition de React 18 à 19. C'était très facile en suivant [la documentation officielle](https://react.dev/blog/2024/04/25/react-19-upgrade-guide). Elle fournit même des scripts ("codemods") pour faire certains changements automatiquement dans le code. Les modifications étaient mineures.
 
-TODO
-
+Pour passer de CRA à Vite, suivre les étapes de cet [article sur Medium](https://adhithiravi.medium.com/migrating-from-create-react-app-to-vite-a-modern-approach-76148adb8983) m'a beaucoup aidé. Avec ça, j'ai complété 80% de ce qu'il fallait faire pour la migration. Le 20% restant, c'était de réparer la lecture des fichiers Markdown qui composent les articles du blogue. Pour que ça fonctionne de nouveau, j'ai dû bouger les fichiers Markdown du dossier `src` au dossier `public/assets`. Au fond, c'est pour le mieux: les articles sont du contenu, pas du code source. Et en bonus, ils sont maintenant côte-à-côte avec les images qu'ils contiennent au lieu d'être dans 2 dossiers complètement séparés.

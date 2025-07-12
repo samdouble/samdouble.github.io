@@ -66,11 +66,11 @@
             "techs": ["python", "anthropic", "claude", "linear"],
             "translation": [{
                 "language": "en",
-                "title": "Cléa, the project manager assistant",
+                "title": "Cléa, Project Manager Assistant",
                 "description": "TODO"
             }, {
                 "language": "fr",
-                "title": "Cléa, assistante de gestion de projet",
+                "title": "Cléa, assistante en gestion de projet",
                 "description": "TODO"
             }]
         }, {
@@ -113,6 +113,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["svelte"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Fire",
@@ -171,12 +172,29 @@
                 "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
             }]
         }, {
+            "id": "projects-panels",
+            "date": "2020-03-01",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["csharp", "dotnet"],
+            "translation": [{
+                "language": "en",
+                "title": "Panels",
+                "description": "A CLI tool that allows you to export a comic book in PDF format from an XML configuration and a set of images"
+            }, {
+                "language": "fr",
+                "title": "Panels",
+                "description": "Un outil CLI qui permet d'exporter une bande dessinée en format PDF à partir d'une configuration XML et d'un ensemble d'images"
+            }]
+        }, {
             "id": "projects-perflake",
             "date": "2025-06-28",
             "mainImage": "/assets/todo.png",
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["python", "snowflake"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Perflake",
@@ -195,11 +213,11 @@
             "techs": ["typescript", "react", "github-pages", "markdown"],
             "translation": [{
                 "language": "en",
-                "title": "My Blog on samdouble.github.io",
+                "title": "samdouble.github.io",
                 "description": "TODO"
             }, {
                 "language": "fr",
-                "title": "Mon blog sur samdouble.github.io",
+                "title": "samdouble.github.io",
                 "description": "TODO"
             }]
         }, {
@@ -209,6 +227,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["python", "snowflake"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Snowflake Data Checker",
@@ -241,6 +260,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["python", "snowflake", "mongodb"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Snowflake MongoDB Connector",
@@ -2251,7 +2271,6 @@
             }]
         }, {
             "id": "2025-04-15-mushrooms",
-            "category": "projects-textlinter",
             "date": "2025-04-15",
             "mainImage": "/assets/todo.png",
             "translation": [{
@@ -2623,7 +2642,7 @@
             "id": "2025-06-21-paulo-et-suzanne",
             "category": "restaurant-reviews",
             "date": "2025-06-21",
-            "mainImage": "/assets/todo.png",
+            "mainImage": "/assets/2025/06/20250621_paulosuzanne/outside.jpg",
             "score": 4.5,
             "translation": [{
                 "language": "en",
@@ -2695,6 +2714,70 @@
                 "language": "fr",
                 "path": "2025/06/20250630_dataset-generator.fr.md",
                 "title": "Snowflake Dataset Generator"
+            }]
+        }, {
+            "id": "2025-07-05-squidgame2-3",
+            "category": "movie-reviews",
+            "date": "2025-07-05",
+            "mainImage": "/assets/2025/07/20250705_squidgame2-3/image.png",
+            "seen_in": "ko",
+            "score": 4.5,
+            "score10": 10,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250705_squidgame2-3.en.md",
+                "title": "Squid Game, seasons 2 & 3"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250705_squidgame2-3.fr.md",
+                "title": "Squid Game, saisons 2 & 3"
+            }]
+        }, {
+            "id": "2025-07-07-f1",
+            "category": "movie-reviews",
+            "date": "2025-07-07",
+            "mainImage": "/assets/2025/07/20250707_f1/image.png",
+            "seen_in": "en",
+            "score": 5,
+            "score10": 10,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250707_f1.en.md",
+                "title": "F1: The Movie"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250707_f1.fr.md",
+                "title": "F1: Le film"
+            }]
+        }, {
+            "id": "2025-07-09-panels",
+            "category": "projects-panels",
+            "date": "2025-07-09",
+            "mainImage": "/assets/todo.png",
+            "hideFromMainFeed": true,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250709_panels.en.md",
+                "title": "Migration to .NET 8 and iText 9"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250709_panels.fr.md",
+                "title": "Migration à .NET 8 et iText 9"
+            }]
+        }, {
+            "id": "2025-07-10-panels",
+            "category": "projects-panels",
+            "date": "2025-07-10",
+            "mainImage": "/assets/todo.png",
+            "hideFromMainFeed": true,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250710_panels.en.md",
+                "title": "Adding Snapshot Tests"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250710_panels.fr.md",
+                "title": "Ajout de snapshot tests"
             }]
         }
     ]

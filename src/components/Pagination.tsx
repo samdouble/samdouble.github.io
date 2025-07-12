@@ -93,6 +93,7 @@ export default function Pagination({
             if (value === currentPage) {
               return (
                 <PaginationItem
+                  key={value}
                   isActive
                   onClick={() => navigate(getUrl(value))}
                   text={value.toString()}
@@ -108,6 +109,7 @@ export default function Pagination({
                   && pagesArray.includes(pagesArray[index - 1] + 1)
                   && (
                     <PaginationItem
+                      key={value}
                       isDisabled
                       onClick={() => navigate(getUrl(value))}
                       text="..."
@@ -116,6 +118,7 @@ export default function Pagination({
                   )
                 }
                 <PaginationItem
+                  key={value}
                   onClick={() => navigate(getUrl(value))}
                   text={value.toString()}
                   value={value}
@@ -125,6 +128,7 @@ export default function Pagination({
                   && value < nbPages
                   && (
                     <PaginationItem
+                      key={value}
                       isDisabled
                       onClick={() => navigate(getUrl(value))}
                       text="..."
