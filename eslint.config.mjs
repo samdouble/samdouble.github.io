@@ -22,7 +22,7 @@ export default defineConfig([
         },
       ],
       'react/prop-types': 'off',
-      'react/react-in-jsx-scope': 'warn',
+      'react/react-in-jsx-scope': 'off',
     },
   },
 ]);
