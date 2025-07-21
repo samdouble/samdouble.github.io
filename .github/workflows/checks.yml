@@ -8,21 +8,18 @@ permissions:
 
 jobs:
   checks:
-    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: ['ubuntu-latest']
+        node-version: [20.19.4, 22.12.0]
+    runs-on: ${{ matrix.os }}
     steps:
-      - name: Commitlint
-        uses: wagoid/commitlint-github-action@v6
       - name: Checkout
         uses: actions/checkout@v4
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22.9.0
-      # - name: Analyze pull request
-      #   uses: samdouble/clavid-pull-request-reviewer@feat/basic-github-action
-      #   with:
-      #     anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-      #     additional_instructions: "Give me a random word in French"
+          node-version: ${{ matrix.node-version }}
       - name: Validate content.json
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
