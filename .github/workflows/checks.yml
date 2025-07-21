@@ -8,21 +8,18 @@ permissions:
 
 jobs:
   checks:
-    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        os: ['ubuntu-latest']
+        node-version: [20.19.4, 22.12.0]
+    runs-on: ${{ matrix.os }}
     steps:
-      - name: Commitlint
-        uses: wagoid/commitlint-github-action@v6
       - name: Checkout
         uses: actions/checkout@v4
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22.9.0
-      # - name: Analyze pull request
-      #   uses: samdouble/clavid-pull-request-reviewer@feat/basic-github-action
-      #   with:
-      #     anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-      #     additional_instructions: "Give me a random word in French"
+          node-version: ${{ matrix.node-version }}
       - name: Validate content.json
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
@@ -54,6 +51,22 @@ jobs:
       - name: Test
         run: |
           npm test
+      - name: Visual Regression Tests
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgtk-3-0 libwebkit2gtk-4.0-37 libwoff1 libharfbuzz-icu0 \
+            libgstreamer-plugins-base1.0-0 libgstreamer-gl1.0-0 libgstreamer1.0-0 \
+            libegl1 libopus0 libxslt1.1 libgstreamer-plugins-bad1.0-0 \
+            libgstreamer-plugins-good1.0-0 libvpx7 libenchant-2-2 libsecret-1-0 \
+            libhyphen0 libmanette-0.2-0
+          npx playwright install
+          npm run test-visual
+      - name: Upload screenshots
+        uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: playwright-snapshots
+          path: test-results
       - name: Build
         run: |
           npm run build

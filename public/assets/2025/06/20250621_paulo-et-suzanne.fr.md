@@ -21,4 +21,4 @@ J'ai mangé dehors, sur la petite terrasse donnant sur le boulevard Gouin. Les d
 ![La terrasse](/assets/2025/06/20250621_paulosuzanne/terrasse.jpg)
 <p align="center"><b>La terrasse</b></p>
 
-Je vais certainement revenir un jour, quand une autre escapade à vélo va de nouveau m'emmener dans Cartierville.
+Je vais certainement revenir un jour, dans le cadre d'une autre escapade à vélo dans Cartierville.

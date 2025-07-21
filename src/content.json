@@ -2270,19 +2270,6 @@
                 "title": "Caribou Gourmand"
             }]
         }, {
-            "id": "2025-04-15-mushrooms",
-            "date": "2025-04-15",
-            "mainImage": "/assets/todo.png",
-            "translation": [{
-                "language": "en",
-                "path": "2025/04/20250415_mushrooms.en.md",
-                "title": "Cooking Mushrooms"
-            }, {
-                "language": "fr",
-                "path": "2025/04/20250415_mushrooms.fr.md",
-                "title": "Cuisiner des champignons"
-            }]
-        }, {
             "id": "2025-04-19-drop",
             "category": "movie-reviews",
             "date": "2025-04-19",
@@ -2738,8 +2725,8 @@
             "date": "2025-07-07",
             "mainImage": "/assets/2025/07/20250707_f1/image.png",
             "seen_in": "en",
-            "score": 5,
-            "score10": 10,
+            "score": 4.5,
+            "score10": 9,
             "translation": [{
                 "language": "en",
                 "path": "2025/07/20250707_f1.en.md",
@@ -2748,21 +2735,6 @@
                 "language": "fr",
                 "path": "2025/07/20250707_f1.fr.md",
                 "title": "F1: Le film"
-            }]
-        }, {
-            "id": "2025-07-09-panels",
-            "category": "projects-panels",
-            "date": "2025-07-09",
-            "mainImage": "/assets/todo.png",
-            "hideFromMainFeed": true,
-            "translation": [{
-                "language": "en",
-                "path": "2025/07/20250709_panels.en.md",
-                "title": "Migration to .NET 8 and iText 9"
-            }, {
-                "language": "fr",
-                "path": "2025/07/20250709_panels.fr.md",
-                "title": "Migration à .NET 8 et iText 9"
             }]
         }, {
             "id": "2025-07-10-panels",
@@ -2778,6 +2750,42 @@
                 "language": "fr",
                 "path": "2025/07/20250710_panels.fr.md",
                 "title": "Ajout de snapshot tests"
+            }]
+        }, {
+            "id": "2025-07-12-houses-unholy",
+            "category": "book-reviews",
+            "date": "2025-07-12",
+            "mainImage": "/assets/2025/07/20250712_houses-unholy/image.png",
+            "authors": ["Ed Brubaker", "Sean Phillips"],
+            "read_in": "en",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250712_houses-unholy.en.md",
+                "title": "Houses of the Unholy"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250712_houses-unholy.fr.md",
+                "title": "Houses of the Unholy"
+            }]
+        }, {
+            "id": "2025-07-15-tramp1",
+            "category": "book-reviews",
+            "date": "2025-07-15",
+            "mainImage": "/assets/2025/07/20250715_tramp1/image.png",
+            "authors": ["Jean-Charles Kraehn", "Patrick Jusseaume"],
+            "read_in": "fr",
+            "score": 5,
+            "score10": 10,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250715_tramp1.en.md",
+                "title": "Tramp, cycle 1"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250715_tramp1.fr.md",
+                "title": "Tramp, cycle 1"
             }]
         }
     ]
