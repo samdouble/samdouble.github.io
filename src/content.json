@@ -172,6 +172,23 @@
                 "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
             }]
         }, {
+            "id": "projects-package-reputation-action",
+            "date": "2025-07-18",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["typescript", "npm", "github-actions"],
+            "isHidden": true,
+            "translation": [{
+                "language": "en",
+                "title": "Package Reputation Action",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Package Reputation Action",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-panels",
             "date": "2020-03-01",
             "mainImage": "/assets/todo.png",
@@ -271,6 +288,23 @@
                 "description": "Une application native Snowflake pour synchroniser des données de MongoDB"
             }]
         }, {
+            "id": "projects-stobe",
+            "date": "2025-07-30",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["typescript", "npm"],
+            "isHidden": true,
+            "translation": [{
+                "language": "en",
+                "title": "STOBE",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "STOBE",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-textlinter",
             "date": "2025-04-01",
             "mainImage": "/assets/icons/projects/textlinter.png",
@@ -278,6 +312,7 @@
             "icon": "project-textlinter",
             "parent": "projects",
             "techs": ["typescript", "github-actions", "markdown"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "TextLinter",
@@ -2786,6 +2821,39 @@
                 "language": "fr",
                 "path": "2025/07/20250715_tramp1.fr.md",
                 "title": "Tramp, cycle 1"
+            }]
+        }, {
+            "id": "2025-07-25-ilfocolaio",
+            "category": "restaurant-reviews",
+            "date": "2025-07-25",
+            "mainImage": "/assets/2025/07/20250725_ilfocolaio/outside.jpg",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250725_ilfocolaio.en.md",
+                "title": "Il Focolaio"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250725_ilfocolaio.fr.md",
+                "title": "Il Focolaio"
+            }]
+        }, {
+            "id": "2025-07-29-insoutenable",
+            "category": "book-reviews",
+            "date": "2025-07-29",
+            "mainImage": "/assets/todo.png",
+            "authors": ["Milan Kundera"],
+            "read_in": "fr",
+            "score": 3.5,
+            "score10": 6.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250729_insoutenable.en.md",
+                "title": "The Unbearable Lightness of Being"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250729_insoutenable.fr.md",
+                "title": "L'insoutenable légèreté de l'être"
             }]
         }
     ]

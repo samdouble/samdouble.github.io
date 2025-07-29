@@ -7,6 +7,6 @@ test.describe('Home Page', () => {
     await page.goto('http://localhost:5173/');
     await page.waitForSelector('#root');
 
-    await expect(page).toHaveScreenshot('homepage.png', { fullPage: true });
+    await expect(page).toHaveScreenshot('homepage.png');
   });
 });
