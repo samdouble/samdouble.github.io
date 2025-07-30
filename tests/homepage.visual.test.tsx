@@ -6,9 +6,7 @@ test.describe('Home Page', () => {
 
     await page.goto('http://localhost:5173/');
     await page.waitForSelector('#root');
-    const root = await page.locator('#root');
-    const box = await root.boundingBox();
 
-    await expect(page).toHaveScreenshot('homepage.png', { clip: box, fullPage: true });
+    await expect(page).toHaveScreenshot('homepage.png');
   });
 });
