@@ -10,8 +10,8 @@ jobs:
   checks:
     strategy:
       matrix:
-        os: ['macos-latest']
-        node-version: [20.19.4, 22.12.0]
+        os: ['ubuntu-22.04']
+        node-version: ['20.19.4', '22.12.0']
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout
@@ -20,11 +20,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-      # - name: Validate content.json
-      #   uses: docker://orrosenblatt/validate-json-action:latest
-      #   env:
-      #     INPUT_SCHEMA: ./src/schema.json
-      #     INPUT_JSONS: ./src/content.json
+      - name: Validate content.json
+        uses: docker://orrosenblatt/validate-json-action:latest
+        env:
+          INPUT_SCHEMA: ./src/schema.json
+          INPUT_JSONS: ./src/content.json
       - name: Check file size
         uses: freenet-actions/check-file-size@v1
         with:
