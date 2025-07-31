@@ -14,9 +14,13 @@ function ProjectsGrid() {
   const {
     width: projectGridWidth,
   } = size;
-  const projectGridTemplateColumns = (projectGridWidth < 800)
-    ? '32% 32% 32%'
-    : '24% 24% 24% 24%';
+  let projectGridTemplateColumns = '24% 24% 24% 24%';
+  if (projectGridWidth < 600) {
+    projectGridTemplateColumns = '48% 48%';
+  } else if (projectGridWidth < 900) {
+    projectGridTemplateColumns = '32% 32% 32%';
+  }
+  console.log(projectGridWidth, projectGridTemplateColumns);
 
   return (
     <div
