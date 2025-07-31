@@ -172,6 +172,23 @@
                 "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
             }]
         }, {
+            "id": "projects-package-reputation-action",
+            "date": "2025-07-18",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["typescript", "npm", "github-actions"],
+            "isHidden": true,
+            "translation": [{
+                "language": "en",
+                "title": "Package Reputation Action",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "Package Reputation Action",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-panels",
             "date": "2020-03-01",
             "mainImage": "/assets/todo.png",
@@ -271,6 +288,23 @@
                 "description": "Une application native Snowflake pour synchroniser des données de MongoDB"
             }]
         }, {
+            "id": "projects-stobe",
+            "date": "2025-07-30",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["typescript", "npm"],
+            "isHidden": true,
+            "translation": [{
+                "language": "en",
+                "title": "STOBE",
+                "description": "TODO"
+            }, {
+                "language": "fr",
+                "title": "STOBE",
+                "description": "TODO"
+            }]
+        }, {
             "id": "projects-textlinter",
             "date": "2025-04-01",
             "mainImage": "/assets/icons/projects/textlinter.png",
@@ -278,6 +312,7 @@
             "icon": "project-textlinter",
             "parent": "projects",
             "techs": ["typescript", "github-actions", "markdown"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "TextLinter",
