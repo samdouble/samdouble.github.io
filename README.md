@@ -69,3 +69,7 @@ python scripts/optimize_images <folder_path>
 
 The branch `gh-pages` is used for deployment. For this reason, it should be as lean as possible and should not be synced with the main branch, which contains all the development files.
 It should be left as is and only be modified by the GitHub Actions workflows.
+
+
+linear-gradient(135deg, #00ffff, #8a2be2)
+

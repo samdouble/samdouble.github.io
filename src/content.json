@@ -2811,8 +2811,8 @@
             "mainImage": "/assets/2025/07/20250715_tramp1/image.png",
             "authors": ["Jean-Charles Kraehn", "Patrick Jusseaume"],
             "read_in": "fr",
-            "score": 5,
-            "score10": 10,
+            "score": 4.5,
+            "score10": 9,
             "translation": [{
                 "language": "en",
                 "path": "2025/07/20250715_tramp1.en.md",
@@ -2838,10 +2838,25 @@
                 "title": "Il Focolaio"
             }]
         }, {
+            "id": "2025-07-27-chez-anna",
+            "category": "restaurant-reviews",
+            "date": "2025-07-27",
+            "mainImage": "/assets/2025/07/20250727_chez-anna/outside.jpg",
+            "score": 4.5,
+            "translation": [{
+                "language": "en",
+                "path": "2025/07/20250727_chez-anna.en.md",
+                "title": "Chez Anna"
+            }, {
+                "language": "fr",
+                "path": "2025/07/20250727_chez-anna.fr.md",
+                "title": "Chez Anna"
+            }]
+        }, {
             "id": "2025-07-29-insoutenable",
             "category": "book-reviews",
             "date": "2025-07-29",
-            "mainImage": "/assets/todo.png",
+            "mainImage": "/assets/2025/07/20250729_insoutenable/image.png",
             "authors": ["Milan Kundera"],
             "read_in": "fr",
             "score": 3.5,
@@ -2854,6 +2869,50 @@
                 "language": "fr",
                 "path": "2025/07/20250729_insoutenable.fr.md",
                 "title": "L'insoutenable légèreté de l'être"
+            }]
+        }, {
+            "id": "2025-08-02-paris-1874",
+            "date": "2025-08-02 10:00:00",
+            "mainImage": "/assets/2025/08/20250802_paris1874/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/08/20250802_paris-1874.en.md",
+                "title": "A Night with the Impressionists: Paris 1874"
+            }, {
+                "language": "fr",
+                "path": "2025/08/20250802_paris-1874.fr.md",
+                "title": "Un soir avec les impressionnistes : Paris 1874"
+            }]
+        }, {
+            "id": "2025-08-02-kheops",
+            "date": "2025-08-02 18:00:00",
+            "mainImage": "/assets/2025/08/20250802_kheops/image.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/08/20250802_kheops.en.md",
+                "title": "Horizon of Khufu"
+            }, {
+                "language": "fr",
+                "path": "2025/08/20250802_kheops.fr.md",
+                "title": "L'horizon de Khéops"
+            }]
+        }, {
+            "id": "2025-08-06-tramp2",
+            "category": "book-reviews",
+            "date": "2025-08-06",
+            "mainImage": "/assets/2025/08/20250806_tramp2/image.png",
+            "authors": ["Jean-Charles Kraehn", "Patrick Jusseaume"],
+            "read_in": "fr",
+            "score": 4,
+            "score10": 8,
+            "translation": [{
+                "language": "en",
+                "path": "2025/08/20250806_tramp2.en.md",
+                "title": "Tramp, cycle 2"
+            }, {
+                "language": "fr",
+                "path": "2025/08/20250806_tramp2.fr.md",
+                "title": "Tramp, cycle 2"
             }]
         }
     ]
