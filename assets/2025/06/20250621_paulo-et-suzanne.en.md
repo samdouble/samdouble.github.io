@@ -21,4 +21,4 @@ I ate outside, on the small terrace by Gouin Boulevard. Both hot dogs were excel
 ![La terrasse](/assets/2025/06/20250621_paulosuzanne/terrasse.jpg)
 <p align="center"><b>The Terrace</b></p>
 
-I'll definitely be back, on a day when another bike ride takes me to Cartierville again.
+I'll definitely be back, in the context of another bike ride in Cartierville.
