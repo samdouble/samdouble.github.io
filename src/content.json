@@ -48,6 +48,7 @@
             "icon": "project-biblio",
             "parent": "projects",
             "techs": ["dart", "flutter", "mongodb", "digitalocean-functions"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Biblio",
@@ -71,22 +72,6 @@
             }, {
                 "language": "fr",
                 "title": "Cléa, assistante en gestion de projet",
-                "description": "TODO"
-            }]
-        }, {
-            "id": "projects-crypto-dataset",
-            "date": "2025-05-17",
-            "mainImage": "/assets/todo.png",
-            "pageTemplate": "ProjectPageTemplate",
-            "parent": "projects",
-            "techs": ["python", "snowflake"],
-            "translation": [{
-                "language": "en",
-                "title": "Crypto Dataset",
-                "description": "TODO"
-            }, {
-                "language": "fr",
-                "title": "Crypto Dataset",
                 "description": "TODO"
             }]
         }, {
@@ -124,6 +109,49 @@
                 "description": "TODO"
             }]
         }, {
+            "id": "projects-hodlflake",
+            "date": "2025-05-17",
+            "mainImage": "/assets/todo.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "parent": "projects",
+            "techs": ["python", "snowflake"],
+            "annexPages": [
+                {
+                    "key": "privacy",
+                    "translation": [{
+                        "language": "en",
+                        "title": "Privacy Policy",
+                        "path": "projects/hodlflake/privacy.en.md"
+                    }, {
+                        "language": "fr",
+                        "title": "Politique de confidentialité",
+                        "path": "projects/hodlflake/privacy.fr.md"
+                    }]
+                }, {
+                    "key": "tos",
+                    "translation": [{
+                        "language": "en",
+                        "title": "Terms of Service",
+                        "path": "projects/hodlflake/tos.en.md"
+                    }, {
+                        "language": "fr",
+                        "title": "Conditions d'utilisation",
+                        "path": "projects/hodlflake/tos.fr.md"
+                    }]
+                }
+            ],
+            "translation": [{
+                "language": "en",
+                "title": "Hodlflake",
+                "description": "A Snowflake native application for historical data analysis on various cryptocurrencies.",
+                "tos": "projects/hodlflake/tos.en.md"
+            }, {
+                "language": "fr",
+                "title": "Hodlflake",
+                "description": "Une application native Snowflake pour faire des analyses de données historiques sur diverses cryptomonnaies.",
+                "tos": "projects/hodlflake/tos.fr.md"
+            }]
+        }, {
             "id": "projects-lwb",
             "date": "2023-10-12",
             "mainImage": "/assets/todo.png",
@@ -146,6 +174,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["typescript", "npm", "markdown"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "markdown-it-add-line-numbers",

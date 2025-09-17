@@ -26,6 +26,14 @@ export type Tech =
 
 export type Category = {
   id: string;
+  annexPages?: {
+    key: string;
+    translation: {
+      language: string;
+      title: string;
+      path: string;
+    }[];
+  }[];
   date?: string;
   icon?: string;
   isHidden?: boolean;
