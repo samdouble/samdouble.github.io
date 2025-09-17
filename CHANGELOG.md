@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.15.0](https://github.com/samdouble/samdouble.github.io/compare/v1.14.0...v1.15.0) (2025-09-17)
+
+
+### Features
+
+* **20250725:** added post ([0c1756c](https://github.com/samdouble/samdouble.github.io/commit/0c1756c0eb080109ba3ee5325de492c0288fdbe4))
+* **20250806:** added post ([52f514b](https://github.com/samdouble/samdouble.github.io/commit/52f514b45bfb9d4f70c5e19c415e87bec0bfcb78))
+* **hodlflake:** add ToS and Privacy Policy ([dcdb165](https://github.com/samdouble/samdouble.github.io/commit/dcdb1651dd0c379b77e1a6c9b6d4b8288fdd038b))
+
 ## [1.14.0](https://github.com/samdouble/samdouble.github.io/compare/v1.13.1...v1.14.0) (2025-07-12)
 
 
