@@ -1,6 +1,9 @@
+import React, { useContext } from 'react';
+import { Link } from 'react-router-dom';
 import CategoriesList from 'components/CategoriesList';
 import Icon from 'components/Icon';
 import PostsList from 'components/PostsList';
+import { LanguageContext } from 'services/contexts';
 import { Category, Post } from 'utils/types';
 import content from 'content.json';
 
@@ -11,6 +14,8 @@ export type ProjectPageTemplateProps = {
 const ProjectPageTemplate: React.FC<ProjectPageTemplateProps> = ({
   category,
 }) => {
+  const language = useContext(LanguageContext);
+
   const subCategories = (content.categories as Category[])
     .filter(cat => cat.parent === category?.id);
 
@@ -56,6 +61,25 @@ const ProjectPageTemplate: React.FC<ProjectPageTemplateProps> = ({
               />
             ))
           }
+        </div>
+        <br />
+        <div>
+          <b>Pages</b>
+          <ul>
+            {
+              category?.annexPages?.map(annexPage => (
+                <li
+                  key={annexPage.key}
+                >
+                  <Link to={`/category/${category.id}/${annexPage.key}`}>
+                    {
+                      annexPage.translation.find(t => t.language === language)?.title
+                    }
+                  </Link>
+                </li>
+              ))
+            }
+          </ul>
         </div>
       </div>
     </>

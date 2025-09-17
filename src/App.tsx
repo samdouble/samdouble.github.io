@@ -4,6 +4,7 @@ import Footer from '@/components/Footer';
 import TopMenu from '@/components/TopMenu';
 import HomePage from '@/pages/HomePage';
 import CategoryPage from '@/pages/CategoryPage';
+import CategoryAnnexPage from '@/pages/CategoryAnnexPage';
 import PostsPage from '@/pages/PostsPage';
 import PostPage from '@/pages/PostPage';
 import { LanguageContext } from '@/services/contexts';
@@ -20,6 +21,7 @@ const router = createHashRouter(
         { path: '/', element: <HomePage /> },
         { path: '/home', element: <HomePage /> },
         { path: '/category/:id', element: <CategoryPage /> },
+        { path: '/category/:id/:page', element: <CategoryAnnexPage /> },
         { path: '/posts', element: <PostsPage /> },
         { path: '/post/:id', element: <PostPage /> },
         { path: '/404', element: <div>404</div> },
