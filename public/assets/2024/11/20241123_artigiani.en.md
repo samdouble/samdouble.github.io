@@ -4,7 +4,6 @@ Tonight, I had dinner at Artigiani pizzeria, a restaurant I had spotted on the M
     images="/assets/2024/11/20241123_artigiani/inside.jpg,/assets/2024/11/20241123_artigiani/inside2.jpg",
     caption="Inside"
 />
-<p align="center"><b>Inside</b></p>
 
 For starters, I ordered the burrata, which was very good.
 

@@ -2943,6 +2943,20 @@
                 "path": "2025/08/20250806_tramp2.fr.md",
                 "title": "Tramp, cycle 2"
             }]
+        }, {
+            "id": "2025-10-15-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-15",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251015_europe.en.md",
+                "title": "Arrival in Inverness"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251015_europe.fr.md",
+                "title": "Arrivée à Inverness"
+            }]
         }
     ]
 }
