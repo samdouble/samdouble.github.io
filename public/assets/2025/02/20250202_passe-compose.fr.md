@@ -7,7 +7,6 @@ Ce matin, je suis allé bruncher au Passé Composé, qui a réouvert dans le Vie
     images="/assets/2025/02/20250202_passe-compose/inside.jpg,/assets/2025/02/20250202_passe-compose/inside2.jpg,/assets/2025/02/20250202_passe-compose/inside3.jpg",
     caption="À l'intérieur"
 />
-<p align="center"><b>À l'intérieur</b></p>
 
 J'ai pris le grilled cheese authentique: pain campagnard, prosciutto, compote de pommes, cheddar fort, caramel de Xérès et amandes effilées.
 

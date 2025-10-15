@@ -4,7 +4,6 @@ Ce soir, j'ai été souper à la pizzeria Artigiani, un restaurant que j'avais c
     images="/assets/2024/11/20241123_artigiani/inside.jpg,/assets/2024/11/20241123_artigiani/inside2.jpg",
     caption="À l'intérieur"
 />
-<p align="center"><b>À l'intérieur</b></p>
 
 En entrée, j'ai commandé la burrata, qui était très bonne.
 
