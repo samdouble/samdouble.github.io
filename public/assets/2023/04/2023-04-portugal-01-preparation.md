@@ -15,7 +15,10 @@ C'est à la mi-janvier que je commence à préparer plus sérieusement mon voyag
 - 5 mai, 18h45: Départ de LIS
 - 5 mai, 21h15: Arrivée à YUL
 
-![Itinéraire](/assets/2023/04/20230421_portugal/itinerary.png)
+<Carousel
+    images="/assets/2023/04/20230421_portugal/itinerary.png",
+    caption="Itinéraire"
+/>
 
 Je devrai prendre un avion entre Porto et Faro. Je pourrais le faire en train, mais ça prendrait une journée complète.
 

@@ -2944,6 +2944,174 @@
                 "title": "Tramp, cycle 2"
             }]
         }, {
+            "id": "2025-10-03-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-03",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251003_europe.en.md",
+                "title": "Departure from Montréal"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251003_europe.fr.md",
+                "title": "Départ de Montréal"
+            }]
+        }, {
+            "id": "2025-10-04-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-04",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251004_europe.en.md",
+                "title": "Arrival in Dublin"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251004_europe.fr.md",
+                "title": "Arrivée à Dublin"
+            }]
+        }, {
+            "id": "2025-10-05-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-05",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251005_europe.en.md",
+                "title": "The Trinity College, the Dublin Castle and St-Patrick's Cathedral"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251005_europe.fr.md",
+                "title": "Le Trinity College, le château de Dublin et la cathédrale de St-Patrick"
+            }]
+        }, {
+            "id": "2025-10-06-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-06",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251006_europe.en.md",
+                "title": "The Cliffs of Moher, Burren National Park and Galway"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251006_europe.fr.md",
+                "title": "Les falaises de Moher, le parc national de Burren et Galway"
+            }]
+        }, {
+            "id": "2025-10-07-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-07",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251007_europe.en.md",
+                "title": "Saint Stephen's Green, Dublinia and the Guinness Storehouse"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251007_europe.fr.md",
+                "title": "Saint Stephen's Green, Dublinia et le Guinness Storehouse"
+            }]
+        }, {
+            "id": "2025-10-08-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-08",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251008_europe.en.md",
+                "title": "Departure from Dublin and Walk in Belfast"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251008_europe.fr.md",
+                "title": "Départ de Dublin et marche dans Belfast"
+            }]
+        }, {
+            "id": "2025-10-09-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-09",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251009_europe.en.md",
+                "title": "Giant's Causeway"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251009_europe.fr.md",
+                "title": "La chaussée des géants"
+            }]
+        }, {
+            "id": "2025-10-10-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-10",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251010_europe.en.md",
+                "title": "The Titanic Experience, a Black Taxi Tour and Departure from Belfast"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251010_europe.fr.md",
+                "title": "Le Titanic Experience, un tour de Black Taxi et départ de Belfast"
+            }]
+        }, {
+            "id": "2025-10-11-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-11",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251011_europe.en.md",
+                "title": "The Loch Lomond, the Trossachs and the Stirling Castle"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251011_europe.fr.md",
+                "title": "Le Loch Lomond, les Trossachs et le château de Stirling"
+            }]
+        }, {
+            "id": "2025-10-12-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-12",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251012_europe.en.md",
+                "title": "Walking in Glasgow"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251012_europe.fr.md",
+                "title": "Marche dans Glasgow"
+            }]
+        }, {
+            "id": "2025-10-13-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-13",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251013_europe.en.md",
+                "title": "The Isle of Skye and the Castle of Eilean Donan"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251013_europe.fr.md",
+                "title": "L'île de Skye et le château d'Eilean Donan"
+            }]
+        }, {
+            "id": "2025-10-14-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-14",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251014_europe.en.md",
+                "title": "The Loch Ness, the Glenfinnan Viaduct and Mallaig"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251014_europe.fr.md",
+                "title": "Le Loch Ness, le viaduc de Glenfinnan et Mallaig"
+            }]
+        }, {
             "id": "2025-10-15-europe2025",
             "category": "2025-10-united-kingdom",
             "date": "2025-10-15",
@@ -2951,11 +3119,53 @@
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251015_europe.en.md",
-                "title": "Arrival in Inverness"
+                "title": "Arrival in Edinburgh"
             }, {
                 "language": "fr",
                 "path": "2025/10/20251015_europe.fr.md",
-                "title": "Arrivée à Inverness"
+                "title": "Arrivée à Édimbourg"
+            }]
+        }, {
+            "id": "2025-10-16-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-16",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251016_europe.en.md",
+                "title": "Edinburgh Castle, Dean Village and Calton Hill"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251016_europe.fr.md",
+                "title": "Le château d'Édimbourg, Dean Village et Calton Hill"
+            }]
+        }, {
+            "id": "2025-10-17-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-17",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251017_europe.en.md",
+                "title": "The Meadows, the Royal Mile and Arthur's Seat"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251017_europe.fr.md",
+                "title": "The Meadows, le Royal Mile et Arthur's Seat"
+            }]
+        }, {
+            "id": "2025-10-18-europe2025",
+            "category": "2025-10-united-kingdom",
+            "date": "2025-10-18",
+            "mainImage": "/assets/todo.png",
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251018_europe.en.md",
+                "title": "Return to Montréal"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251018_europe.fr.md",
+                "title": "Retour à Montréal"
             }]
         }
     ]
