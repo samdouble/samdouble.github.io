@@ -1,7 +1,10 @@
 ### 6h00 NDT
 Ce matin, je me suis réveillé de bonne heure pour pouvoir prendre le ferry vers [Bell Island](https://en.wikipedia.org/wiki/Bell_Island_(Newfoundland_and_Labrador)). Plus j'y vais tôt, moins il y aura d'autres voitures...en tout cas, j'espèrais. Je pars de Torbay à 6h30 pour me rendre à 7km de là, au port de Portugal Cove, où je prendrai à 7h25 [le premier bateau](https://www.gov.nl.ca/ti/ferryservices/schedules/a-bipc/) de la journée en direction de Bell Island.
 
-![Départ de Portugal Cove, à bord du Flanders](/assets/2023/09/20230903_newfoundland/portugalcove.jpg)
+<Carousel
+    images="/assets/2023/09/20230903_newfoundland/portugalcove.jpg",
+    caption="Départ de Portugal Cove, à bord du Flanders"
+/>
 
 ### 7h45 NDT
 La traversée dure une vingtaine de minutes. J'arrive à Bell Island un peu avant 8h. Il me reste encore pas mal de temps à attendre avant la visite de la mine #2. 

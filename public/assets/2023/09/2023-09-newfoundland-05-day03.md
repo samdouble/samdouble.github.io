@@ -4,7 +4,10 @@ Je me suis réveillé à 7h. J'ai pris une heure dans ma chambre pour préparer 
 ### 8h00 NDT
 Il y a deux choses que je dois régler avant de partir de Torbay: je dois réserver une nouvelle excursion pour voir les baleines et je dois, si possible, obtenir en avance le code pour entrer dans ma chambre à Clarenville. J'ai pris en note tous les numéros de téléphone que je dois appeler avant de quitter la maison. Je pars me promener sur la Father Troy's Trail, en direction nord cette fois, en mangeant des scones et de la confiture maison que m'a laissés mon hôte. Sur le sentier, j'appelle une à une les compagnies d'observation de baleines. Assez rapidement, je trouve une place pour le 5 à Trinity.
 
-![Sur la Father Troy's Trail](/assets/2023/09/20230904_newfoundland/fathertroys_trail.jpg)
+<Carousel
+    images="/assets/2023/09/20230904_newfoundland/fathertroys_trail.jpg",
+    caption="Sur la Father Troy's Trail"
+/>
 
 TODO
 
