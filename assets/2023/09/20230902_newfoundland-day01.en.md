@@ -3,8 +3,10 @@ The flight was short, lasting just under two hours. As planned, upon exiting the
 
 The Subaru owner left me the keys after taking photos of his car from all angles. I was a bit nervous about driving. It was an automatic car, but I had lost the habit, having lived in the city for the last few years. I installed my GPS on the dashboard and waited a bit for it to find its position.
 
-![My rental Subaru Impreza](/assets/2023/09/20230902_newfoundland/subaru.jpg)
-<p align="center"><b>My rental Subaru Impreza</b></p>
+<Carousel
+    images="/assets/2023/09/20230902_newfoundland/subaru.jpg",
+    caption="My rental Subaru Impreza"
+/>
 
 ### 6:00 PM NDT
 I arrived at my AirBnB in Torbay, a small village 2-3 kilometers north of St. John's airport. It was a small house at the end of a cul-de-sac. In front of the house was the parking lot and immediately after, a trail that led down to Father Troy's Trail. The view towards Torbay Bay below was breathtaking. I chatted a bit with the hostess, a retiree who lived alone with her small dog and spent her time collecting old photos of the area.

@@ -109,7 +109,10 @@ Avec la liste des endroits que je veux visiter, je peux maintenant organiser un 
 - 13h00: Départ de YYT
 - 14h15: Arrivée à YUL
 
-![Itinéraire](/assets/2023/09/20230902_newfoundland/itinerary.png)
+<Carousel
+   images="/assets/2023/09/20230902_newfoundland/itinerary.png",
+   caption="Itinéraire"
+/>
 
 ### 
 Je ne sais pas si je vais avoir le temps TODO
