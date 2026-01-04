@@ -38,7 +38,7 @@ export default function MarkdownCarousel({
           slidesToSlide: 1,
         },
       }}
-      showDots
+      showDots={imagesPaths.length > 1}
       ssr
       swipeable={false}
       infinite
