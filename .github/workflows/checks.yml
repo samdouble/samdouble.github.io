@@ -10,8 +10,8 @@ jobs:
   checks:
     strategy:
       matrix:
-        os: ['ubuntu-22.04']
-        node-version: ['20.19.4', '22.12.0']
+        os: ['ubuntu-24.04']
+        node-version: ['22.12.0', '24.11.0']
     runs-on: ${{ matrix.os }}
     steps:
       - name: Checkout
@@ -47,7 +47,7 @@ jobs:
           npm run lint
       - name: Audit
         run: |
-          npm run audit -- --moderate=3 --high=6
+          npm audit --audit-level=moderate --production
       - name: Check for packages
         uses: samdouble/package-reputation-action@master
         with:
