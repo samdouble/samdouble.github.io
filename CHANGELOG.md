@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.16.0](https://github.com/samdouble/samdouble.github.io/compare/v1.15.0...v1.16.0) (2026-01-04)
+
+
+### Features
+
+* **20251017:** added pictures for 2025-10-17 ([3a12220](https://github.com/samdouble/samdouble.github.io/commit/3a12220cb843065774c9c78398574f3d1ef0508f))
+* **20251018:** added images ([1b072b4](https://github.com/samdouble/samdouble.github.io/commit/1b072b4ed229243acd1dd625208d5adf567c49ae))
+* add black caption box under images in carousel ([7e24a1c](https://github.com/samdouble/samdouble.github.io/commit/7e24a1c28a1f2d194633c7d020ba400bd2c91af1))
+
 ## [1.15.0](https://github.com/samdouble/samdouble.github.io/compare/v1.14.0...v1.15.0) (2025-09-17)
 
 
