@@ -1,32 +1,51 @@
 TODO
 
-![À l'intérieur](/assets/2024/12/20241220_vinmonlapin/inside.jpg)
-<p align="center"><b>À l'intérieur</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/inside.jpg",
+    caption="À l'intérieur"
+/>
 
-![Le menu du jour](/assets/2024/12/20241220_vinmonlapin/menu.jpg)
-<p align="center"><b>Le menu du jour</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/menu.jpg",
+    caption="Le menu du jour"
+/>
 
-![Pain bâtard d'Automne](/assets/2024/12/20241220_vinmonlapin/pain.jpg)
-<p align="center"><b>Pain bâtard d'Automne</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/pain.jpg",
+    caption="Pain bâtard d'Automne"
+/>
 
-![Croquettes de tete de porc, ravigote](/assets/2024/12/20241220_vinmonlapin/croquettes.jpg)
-<p align="center"><b>Croquettes de tete de porc, ravigote</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/croquettes.jpg",
+    caption="Croquettes de tete de porc, ravigote"
+/>
 
-![Couteaux de mer sur glace, céleri](/assets/2024/12/20241220_vinmonlapin/couteaux.jpg)
-<p align="center"><b>Couteaux de mer sur glace, céleri</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/couteaux.jpg",
+    caption="Couteaux de mer sur glace, céleri"
+/>
 
-![Croque-pétoncle, rouille classique](/assets/2024/12/20241220_vinmonlapin/croque.jpg)
-<p align="center"><b>Croque-pétoncle, rouille classique</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/croque.jpg",
+    caption="Croque-pétoncle, rouille classique"
+/>
 
-![Carottes, jaune d'oeuf - pollen d'abeille](/assets/2024/12/20241220_vinmonlapin/carottes.jpg)
-<p align="center"><b>Carottes, jaune d'oeuf - pollen d'abeille</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/carottes.jpg",
+    caption="Carottes, jaune d'oeuf - pollen d'abeille"
+/>
 
-![Tagliolini maison à la truffe](/assets/2024/12/20241220_vinmonlapin/tagliolini.jpg)
-<p align="center"><b>Tagliolini maison à la truffe</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/tagliolini.jpg",
+    caption="Tagliolini maison à la truffe"
+/>
 
-![Pot-au-feu de champignons & joues de morue](/assets/2024/12/20241220_vinmonlapin/pot-au-feu.jpg)
-<p align="center"><b>Pot-au-feu de champignons & joues de morue</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/pot-au-feu.jpg",
+    caption="Pot-au-feu de champignons & joues de morue"
+/>
 
-![Gâteau au sarrasin](/assets/2024/12/20241220_vinmonlapin/gateau.jpg)
-![Gâteau au sarrasin](/assets/2024/12/20241220_vinmonlapin/gateau2.jpg)
-<p align="center"><b>Gâteau au sarrasin</b></p>
+<Carousel
+    images="/assets/2024/12/20241220_vinmonlapin/gateau.jpg,/assets/2024/12/20241220_vinmonlapin/gateau2.jpg",
+    caption="Gâteau au sarrasin"
+/>
