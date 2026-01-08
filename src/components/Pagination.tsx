@@ -1,5 +1,7 @@
+import { Fragment } from 'react';
 import { useNavigate } from 'react-router-dom';
 import clsx from 'clsx';
+import { getPaginationPageNumbers } from 'utils/pagination';
 import './Pagination.css';
 
 type PaginationItemProps = {
@@ -49,29 +51,7 @@ export default function Pagination({
 }: PaginationProps) {
   const navigate = useNavigate();
 
-  const pagesArray: number[] = [];
-
-  if (nbPages <= 10) {
-    pagesArray.push(...Array.from({ length: nbPages }, (_, index) => index + 1));
-  } else {
-    const minPage = Math.max(1, currentPage - 2);
-    const maxPage = Math.min(nbPages, currentPage + 2);
-    const quarter = Math.floor(nbPages / 4);
-    const half = Math.floor(nbPages / 2);
-    const threeQuarters = Math.ceil(3 * nbPages / 4);
-    pagesArray.push(
-      ...Array
-        .from(
-          new Set([
-            ...Array.from({ length: maxPage - minPage + 1 }, (_, index) => index + minPage),
-            quarter,
-            half,
-            threeQuarters,
-          ])
-        )
-        .sort((a, b) => a < b ? -1 : 1),
-    );
-  }
+  const pagesArray = getPaginationPageNumbers(currentPage, nbPages);
 
   return (
     <div className="pagination">
@@ -102,14 +82,13 @@ export default function Pagination({
               )
             }
             return (
-              <>
+              <Fragment key={value}>
                 {
                   !pagesArray.includes(value - 1)
                   && value > 1
                   && pagesArray.includes(pagesArray[index - 1] + 1)
                   && (
                     <PaginationItem
-                      key={value}
                       isDisabled
                       onClick={() => navigate(getUrl(value))}
                       text="..."
@@ -118,7 +97,6 @@ export default function Pagination({
                   )
                 }
                 <PaginationItem
-                  key={value}
                   onClick={() => navigate(getUrl(value))}
                   text={value.toString()}
                   value={value}
@@ -128,7 +106,6 @@ export default function Pagination({
                   && value < nbPages
                   && (
                     <PaginationItem
-                      key={value}
                       isDisabled
                       onClick={() => navigate(getUrl(value))}
                       text="..."
@@ -136,7 +113,7 @@ export default function Pagination({
                     />
                   )
                 }
-              </>
+              </Fragment>
             )
           })
       }

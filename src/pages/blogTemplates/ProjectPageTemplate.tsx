@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 import CategoriesList from 'components/CategoriesList';
 import Icon from 'components/Icon';
 import PostsList from 'components/PostsList';
@@ -14,6 +15,7 @@ export type ProjectPageTemplateProps = {
 const ProjectPageTemplate: React.FC<ProjectPageTemplateProps> = ({
   category,
 }) => {
+  const { t } = useTranslation();
   const language = useContext(LanguageContext);
 
   const subCategories = (content.categories as Category[])
@@ -45,7 +47,7 @@ const ProjectPageTemplate: React.FC<ProjectPageTemplateProps> = ({
           width: '30%',
         }}
       >
-        <div><b>Technologies</b></div>
+        <div><b>{t('technologies')}</b></div>
         <br />
         <div>
           {
