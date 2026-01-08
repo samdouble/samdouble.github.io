@@ -17,7 +17,7 @@ function HomePage() {
   const language = useContext(LanguageContext);
 
   const latestPosts = (content.posts as Post[])
-    .filter(post => post.translation.some(tr => tr.language === language))
+    .filter(post => post.translation?.some(tr => tr.language === language))
     .filter(post => !post.hideFromMainFeed)
     .sort((postA, postB) => (postA.date < postB.date ? 1 : -1))
     .slice(0, 5);
