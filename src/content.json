@@ -2944,6 +2944,24 @@
                 "title": "Tramp, cycle 2"
             }]
         }, {
+            "id": "2025-10-01-tripwire",
+            "category": "book-reviews",
+            "date": "2025-10-01",
+            "mainImage": "/assets/todo.png",
+            "authors": ["Lee Child"],
+            "read_in": "en",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "en",
+                "path": "2025/10/20251001_tripwire.en.md",
+                "title": "Tripwire"
+            }, {
+                "language": "fr",
+                "path": "2025/10/20251001_tripwire.fr.md",
+                "title": "Trompe-l'œil"
+            }]
+        }, {
             "id": "2025-10-03-europe2025",
             "category": "2025-10-united-kingdom",
             "date": "2025-10-03",
@@ -3166,6 +3184,38 @@
                 "language": "fr",
                 "path": "2025/10/20251018_europe.fr.md",
                 "title": "Retour à Montréal"
+            }]
+        }, {
+            "id": "2025-12-28-proie-meute",
+            "category": "book-reviews",
+            "date": "2025-12-28",
+            "mainImage": "/assets/2025/12/20251228_proie-meute/cover.png",
+            "authors": ["Simon François"],
+            "read_in": "fr",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "fr",
+                "path": "2025/12/20251228_proie-meute.fr.md",
+                "title": "La proie et la meute"
+            }]
+        }, {
+            "id": "2026-01-03-exchange",
+            "category": "book-reviews",
+            "date": "2026-01-03",
+            "mainImage": "/assets/2026/01/20260103_exchange/cover.png",
+            "authors": ["John Grisham"],
+            "read_in": "fr",
+            "score": 3,
+            "score10": 6,
+            "translation": [{
+                "language": "en",
+                "path": "2026/01/20260103_exchange.en.md",
+                "title": "The Exchange: After the Firm"
+            }, {
+                "language": "fr",
+                "path": "2026/01/20260103_exchange.fr.md",
+                "title": "Le Réseau: après la Firme"
             }]
         }
     ]

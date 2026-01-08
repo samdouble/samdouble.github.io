@@ -11,17 +11,11 @@
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
+[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](https://vitest.dev/)
 
 My [blog](samdouble.github.io), hosted on GitHub.
 
 * Déodorant maison
-
-## Technologies & Languages
-
-- React 19
-- Node 22
-- GitHub Actions
-- GitHub Pages
 
 ## Development
 
@@ -77,7 +71,3 @@ python scripts/optimize_images <folder_path>
 
 The branch `gh-pages` is used for deployment. For this reason, it should be as lean as possible and should not be synced with the main branch, which contains all the development files.
 It should be left as is and only be modified by the GitHub Actions workflows.
-
-
-linear-gradient(135deg, #00ffff, #8a2be2)
-

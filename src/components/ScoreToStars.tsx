@@ -1,6 +1,14 @@
 import Icon from 'components/Icon';
 
 function ScoreToStars({ score }: { score: number }) {
+  let color = 'red';
+  if (score >= 4) {
+    color = 'green';
+  } else if (score >= 3) {
+    color = 'gold';
+  } else if (score >= 2) {
+    color = 'orange';
+  }
   return (
     <div>
       {
@@ -12,7 +20,7 @@ function ScoreToStars({ score }: { score: number }) {
             name="star"
             size="lg"
             style={{
-              color: 'gold',
+              color,
             }}
           />
         ))
@@ -23,7 +31,7 @@ function ScoreToStars({ score }: { score: number }) {
             name="star-half"
             size="lg"
             style={{
-              color: 'gold',
+              color,
             }}
           />
         ) : null
@@ -37,7 +45,7 @@ function ScoreToStars({ score }: { score: number }) {
             name="star-regular"
             size="lg"
             style={{
-              color: 'gold',
+              color,
             }}
           />
         ))

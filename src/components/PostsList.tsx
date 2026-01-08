@@ -28,6 +28,7 @@ function PostsList({
       <tbody>
         {
           posts
+            .filter(post => post.translation.some(tr => tr.language === language))
             .sort((postA, postB) => (postA.date < postB.date ? 1 : -1))
             .map((post: Post) => {
               const postLanguageInfo = post?.translation.find(tr => tr.language === language);
