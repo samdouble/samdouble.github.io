@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.17.0](https://github.com/samdouble/samdouble.github.io/compare/v1.16.0...v1.17.0) (2026-01-16)
+
+
+### Features
+
+* **20260103:** added post ([10f1b06](https://github.com/samdouble/samdouble.github.io/commit/10f1b06cf19cd1a6cd8e27f33702037913ec73a5))
+
+
+### Bug Fixes
+
+* fix issue with pagination items being duplicated ([820628c](https://github.com/samdouble/samdouble.github.io/commit/820628cef0053b77e015bf407c889cb82f61ac0f))
+
 ## [1.16.0](https://github.com/samdouble/samdouble.github.io/compare/v1.15.0...v1.16.0) (2026-01-04)
 
 
