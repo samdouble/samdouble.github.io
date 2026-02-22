@@ -7,10 +7,11 @@ import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
+const ROOT_DIR = path.join(__dirname, '..');
 
-const CONTENT_DIR = path.join(__dirname, '..', 'src');
-const PUBLIC_DIR = path.join(__dirname, '..', 'public');
-const ASSETS_DIR = path.join(PUBLIC_DIR, 'assets');
+const CONTENT_DIR = process.env.CONTENT_DIR || path.join(ROOT_DIR, 'src');
+const PUBLIC_DIR = process.env.PUBLIC_DIR || path.join(ROOT_DIR, 'public');
+const ASSETS_DIR = process.env.ASSETS_DIR || path.join(PUBLIC_DIR, 'assets');
 
 function findContentFiles(dir) {
   const files = fs.readdirSync(dir);
@@ -35,21 +36,27 @@ function mergeContentFiles(files) {
   return merged;
 }
 
-function extractPaths(obj, paths = { images: [], markdownFiles: [] }) {
-  if (!obj || typeof obj !== 'object') return paths;
+function extractPaths(obj, paths = { images: [], markdownFiles: [] }, skipHidden = true) {
+  if (!obj || typeof obj !== 'object') {
+    return paths;
+  }
 
   if (Array.isArray(obj)) {
     for (const item of obj) {
-      extractPaths(item, paths);
+      extractPaths(item, paths, skipHidden);
     }
   } else {
+    if (skipHidden && obj.isHidden === true) {
+      return paths;
+    }
+
     for (const [key, value] of Object.entries(obj)) {
       if (key === 'mainImage' && typeof value === 'string') {
         paths.images.push(value);
       } else if (typeof value === 'string' && value.endsWith('.md')) {
         paths.markdownFiles.push(value);
       } else if (typeof value === 'object') {
-        extractPaths(value, paths);
+        extractPaths(value, paths, skipHidden);
       }
     }
   }
@@ -73,6 +80,32 @@ function validatePath(filePath) {
     fullPath,
     exists: fs.existsSync(fullPath),
   };
+}
+
+function findMarkdownFiles(dir, fileList = []) {
+  const files = fs.readdirSync(dir);
+
+  for (const file of files) {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+
+    if (stat.isDirectory()) {
+      findMarkdownFiles(filePath, fileList);
+    } else if (file.endsWith('.md')) {
+      fileList.push(filePath);
+    }
+  }
+
+  return fileList;
+}
+
+function normalizeToRelativePath(mdPath) {
+  if (mdPath.startsWith('/assets/')) {
+    return mdPath.slice(8);
+  } else if (mdPath.startsWith('/')) {
+    return mdPath.slice(1);
+  }
+  return mdPath;
 }
 
 function main() {
@@ -114,12 +147,40 @@ function main() {
     }
   }
 
+  console.log('Checking for orphaned markdown files...');
+  const allMarkdownOnDisk = findMarkdownFiles(ASSETS_DIR);
+  const normalizedJsonPaths = new Set(uniqueMarkdown.map(normalizeToRelativePath));
+
+  const IGNORED_DIRS = ['drafts'];
+  const orphanedFiles = [];
+  for (const filePath of allMarkdownOnDisk) {
+    const relativePath = path.relative(ASSETS_DIR, filePath);
+    const isIgnored = IGNORED_DIRS.some(dir => relativePath.startsWith(dir + path.sep) || relativePath.startsWith(dir + '/'));
+    if (!isIgnored && !normalizedJsonPaths.has(relativePath)) {
+      orphanedFiles.push(relativePath);
+    }
+  }
+
+  let hasErrors = false;
+
   if (errors.length > 0) {
     console.error(`\n❌ Found ${errors.length} missing file(s):\n`);
     for (const error of errors) {
       console.error(`  [${error.type}] ${error.path}`);
       console.error(`    Expected at: ${error.fullPath}`);
     }
+    hasErrors = true;
+  }
+
+  if (orphanedFiles.length > 0) {
+    console.error(`\n❌ Found ${orphanedFiles.length} orphaned markdown file(s) not referenced in JSON:\n`);
+    for (const file of orphanedFiles) {
+      console.error(`  ${file}`);
+    }
+    hasErrors = true;
+  }
+
+  if (hasErrors) {
     process.exit(1);
   }
 

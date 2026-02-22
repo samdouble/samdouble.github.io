@@ -27,6 +27,10 @@ jobs:
           INPUT_SCHEMA: ./src/schema.json
           INPUT_JSONS: ./src/content.json
       - name: Validate content paths
+        env:
+          CONTENT_DIR: ./src
+          PUBLIC_DIR: ./public
+          ASSETS_DIR: ./public/assets
         run: node scripts/validate-content-paths.js
       - name: Check file size
         uses: freenet-actions/check-file-size@v1
