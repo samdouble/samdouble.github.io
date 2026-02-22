@@ -22,7 +22,9 @@ function PostPage() {
   const { t } = useTranslation();
   const post = content.posts.find(p => p.id === id);
   const category = post?.category;
-  const categoryPosts = category ? content.posts.filter(p => p.category === category) : [];
+  const categoryPosts = category
+    ? content.posts.filter(p => p.category === category).filter(p => !p.isHidden)
+    : [];
   const currentPostIndex = categoryPosts.findIndex(p => p.id === id);
   const prevPost = categoryPosts[currentPostIndex - 1];
   const nextPost = categoryPosts[currentPostIndex + 1];
