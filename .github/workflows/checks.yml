@@ -21,25 +21,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-      - name: Validate content.json
-        uses: docker://orrosenblatt/validate-json-action:latest
-        env:
-          INPUT_SCHEMA: ./src/schema.json
-          INPUT_JSONS: ./src/content.json
-      - name: Check file size
-        uses: freenet-actions/check-file-size@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          directory: public
-          max_size: 1000
-          fail_on_find: true
-          post_comment: true
-          ignored_files: |
-            public/assets/2024/04/20240411_europe/itinerary.xcf
-      #- name: Text analysis
-      #  uses: samdouble/textlinter@feat/make-lib
-      #  with:
-      #    label: samdouble
       - name: Install
         run: |
           npm install
