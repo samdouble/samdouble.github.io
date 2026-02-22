@@ -626,6 +626,8 @@
             "date": "2023-07-14",
             "mainImage": "/assets/2023/07/20230714_sound-of-freedom/sound-of-freedom.jpg",
             "seen_in": "en",
+            "score": 5,
+            "score10": 10,
             "translation": [{
                 "language": "en",
                 "path": "2023/07/20230714_sound-of-freedom.en.md",
@@ -1546,7 +1548,8 @@
             "mainImage": "/assets/2024/12/20241201_maniaque/cover.png",
             "authors": ["Jonathan Kellerman"],
             "read_in": "fr",
-            "score": 4,
+            "score": 3.5,
+            "score10": 7,
             "translation": [{
                 "language": "en",
                 "path": "2024/12/20241201_maniaque.en.md",
@@ -3186,6 +3189,22 @@
                 "title": "Retour à Montréal"
             }]
         }, {
+            "id": "2025-12-19-wake-up-dead-man",
+            "category": "movie-reviews",
+            "date": "2025-12-19",
+            "mainImage": "/assets/todo.png",
+            "seen_in": "en",
+            "score": 4,
+            "translation": [{
+                "language": "en",
+                "path": "2025/12/20251219_wake-up-dead-man.en.md",
+                "title": "Wake Up Dead Man"
+            }, {
+                "language": "fr",
+                "path": "2025/12/20251219_wake-up-dead-man.fr.md",
+                "title": "Wake Up Dead Man"
+            }]
+        }, {
             "id": "2025-12-28-proie-meute",
             "category": "book-reviews",
             "date": "2025-12-28",
@@ -3216,6 +3235,92 @@
                 "language": "fr",
                 "path": "2026/01/20260103_exchange.fr.md",
                 "title": "Le Réseau: après la Firme"
+            }]
+        }, {
+            "id": "2026-01-14-housemaid",
+            "category": "movie-reviews",
+            "date": "2026-01-14",
+            "mainImage": "/assets/2026/01/20260114_housemaid/cover.png",
+            "seen_in": "en",
+            "score": 4.5,
+            "score10": 8,
+            "translation": [{
+                "language": "en",
+                "path": "2026/01/20260114_housemaid.en.md",
+                "title": "The Housemaid"
+            }, {
+                "language": "fr",
+                "path": "2026/01/20260114_housemaid.fr.md",
+                "title": "La femme de ménage"
+            }]
+        }, {
+            "id": "2026-01-16-pony",
+            "category": "restaurant-reviews",
+            "date": "2026-01-16",
+            "mainImage": "/assets/2026/01/20260116_pony/restaurant.png",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "en",
+                "path": "2026/01/20260116_pony.en.md",
+                "title": "Pony"
+            }, {
+                "language": "fr",
+                "path": "2026/01/20260116_pony.fr.md",
+                "title": "Pony"
+            }]
+        }, {
+            "id": "2026-02-07-mystery-guest",
+            "category": "book-reviews",
+            "date": "2026-02-07",
+            "mainImage": "/assets/2026/02/20260207_mystery-guest/cover.png",
+            "authors": ["Nita Prose"],
+            "read_in": "fr",
+            "score": 3.5,
+            "score10": 7,
+            "translation": [{
+                "language": "en",
+                "path": "2026/02/20260207_mystery-guest.en.md",
+                "title": "The Mystery Guest: A Maid Novel"
+            }, {
+                "language": "fr",
+                "path": "2026/02/20260207_mystery-guest.fr.md",
+                "title": "La femme de chambre"
+            }]
+        }, {
+            "id": "2026-02-14-murder-report",
+            "category": "movie-reviews",
+            "date": "2026-02-14",
+            "mainImage": "/assets/2026/02/20260214_murder-report/cover.png",
+            "seen_in": "en",
+            "score": 4,
+            "score10": 8,
+            "translation": [{
+                "language": "en",
+                "path": "2026/02/20260214_murder-report.en.md",
+                "title": "Murderer Report"
+            }, {
+                "language": "fr",
+                "path": "2026/02/20260214_murder-report.fr.md",
+                "title": "Murderer Report"
+            }]
+        }, {
+            "id": "2026-02-22-36-ways-kill",
+            "category": "book-reviews",
+            "date": "2026-02-22",
+            "mainImage": "/assets/2026/02/20260222_36-ways-kill/cover.png",
+            "authors": ["Stefan Ahnhem"],
+            "read_in": "fr",
+            "score": 4.5,
+            "score10": 9,
+            "translation": [{
+                "language": "en",
+                "path": "2026/02/20260222_36-ways-kill.en.md",
+                "title": "36 Ways to Kill"
+            }, {
+                "language": "fr",
+                "path": "2026/02/20260222_36-ways-kill.fr.md",
+                "title": "36 façons de tuer"
             }]
         }
     ]
