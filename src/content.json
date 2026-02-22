@@ -3053,6 +3053,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-09",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251009_europe.en.md",
@@ -3067,6 +3068,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-10",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251010_europe.en.md",
@@ -3081,6 +3083,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-11",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251011_europe.en.md",
@@ -3095,6 +3098,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-12",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251012_europe.en.md",
@@ -3109,6 +3113,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-13",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251013_europe.en.md",
@@ -3123,6 +3128,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-14",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251014_europe.en.md",
@@ -3137,6 +3143,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-15",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251015_europe.en.md",
@@ -3151,6 +3158,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-16",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251016_europe.en.md",
@@ -3165,6 +3173,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-17",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251017_europe.en.md",
@@ -3179,6 +3188,7 @@
             "category": "2025-10-united-kingdom",
             "date": "2025-10-18",
             "mainImage": "/assets/todo.png",
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/10/20251018_europe.en.md",
@@ -3195,6 +3205,7 @@
             "mainImage": "/assets/todo.png",
             "seen_in": "en",
             "score": 4,
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "path": "2025/12/20251219_wake-up-dead-man.en.md",
