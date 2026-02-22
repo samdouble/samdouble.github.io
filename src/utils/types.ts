@@ -58,6 +58,7 @@ export type Post = {
   read_in?: string;
   seen_in?: string;
   hideFromMainFeed?: boolean;
+  isHidden?: boolean;
   translation: [{
     language: string;
     path: string;

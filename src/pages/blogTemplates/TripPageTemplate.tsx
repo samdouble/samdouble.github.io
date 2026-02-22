@@ -14,6 +14,7 @@ const TripPageTemplate: React.FC<TripPageTemplateProps> = ({
     .filter(cat => cat.parent === category?.id);
 
   const latestPosts = (content.posts as Post[])
+    .filter(post => !post.isHidden)
     .filter(post => post.category === category?.id);
 
   return (

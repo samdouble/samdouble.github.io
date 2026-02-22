@@ -27,6 +27,7 @@ function PostsPage() {
 
   const filteredPosts = (content.posts as Post[])
     .filter(post => !post.hideFromMainFeed)
+    .filter(post => !post.isHidden)
     .filter(post => post.translation.some(tr => tr.language === language));
 
   const nbPages = Math.ceil(filteredPosts.length / nbPostsPerPage);

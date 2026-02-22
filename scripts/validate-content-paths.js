@@ -149,7 +149,9 @@ function main() {
 
   console.log('Checking for orphaned markdown files...');
   const allMarkdownOnDisk = findMarkdownFiles(ASSETS_DIR);
-  const normalizedJsonPaths = new Set(uniqueMarkdown.map(normalizeToRelativePath));
+  const allPaths = extractPaths(merged, { images: [], markdownFiles: [] }, false);
+  const allMarkdownPaths = [...new Set(allPaths.markdownFiles)];
+  const normalizedJsonPaths = new Set(allMarkdownPaths.map(normalizeToRelativePath));
 
   const IGNORED_DIRS = ['drafts'];
   const orphanedFiles = [];
