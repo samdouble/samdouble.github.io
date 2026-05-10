@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.17.0](https://github.com/samdouble/samdouble.github.io/compare/v1.16.0...v1.17.0) (2026-05-10)
+
+
+### Features
+
+* **20260103:** added post ([10f1b06](https://github.com/samdouble/samdouble.github.io/commit/10f1b06cf19cd1a6cd8e27f33702037913ec73a5))
+* add link to Youtube channel ([92e7cb2](https://github.com/samdouble/samdouble.github.io/commit/92e7cb2407ee2b2ee222481f84f7ed13d5fdd1b5))
+* clean up incomplete posts ([058412a](https://github.com/samdouble/samdouble.github.io/commit/058412ae7ab5247011b8f74f4a54537310faa2ce))
+
+
+### Bug Fixes
+
+* fix issue with pagination items being duplicated ([820628c](https://github.com/samdouble/samdouble.github.io/commit/820628cef0053b77e015bf407c889cb82f61ac0f))
+
 ## [1.16.0](https://github.com/samdouble/samdouble.github.io/compare/v1.15.0...v1.16.0) (2026-01-04)
 
 
