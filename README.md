@@ -1,5 +1,7 @@
 # samdouble.github.io
 
+My [blog](samdouble.github.io), hosted on GitHub.
+
 [![CI](https://github.com/samdouble/samdouble.github.io/actions/workflows/checks.yml/badge.svg)](https://github.com/samdouble/samdouble.github.io/actions/workflows/checks.yml)
 [![Coverage Status](https://coveralls.io/repos/samdouble/samdouble.github.io/badge.svg?branch=master&service=github)](https://coveralls.io/github/samdouble/samdouble.github.io?branch=master)
 
@@ -12,8 +14,6 @@
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](https://vitest.dev/)
-
-My [blog](samdouble.github.io), hosted on GitHub.
 
 * Déodorant maison
 

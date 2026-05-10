@@ -47,16 +47,42 @@
             "pageTemplate": "ProjectPageTemplate",
             "icon": "project-biblio",
             "parent": "projects",
-            "techs": ["dart", "flutter", "mongodb", "digitalocean-functions"],
-            "isHidden": true,
+            "techs": ["dart", "flutter", "mongodb"],
+            "annexPages": [
+                {
+                    "key": "privacy",
+                    "translation": [{
+                        "language": "en",
+                        "title": "Privacy Policy",
+                        "path": "projects/biblio/privacy.en.md"
+                    }, {
+                        "language": "fr",
+                        "title": "Politique de confidentialité",
+                        "path": "projects/biblio/privacy.fr.md"
+                    }]
+                }, {
+                    "key": "tos",
+                    "translation": [{
+                        "language": "en",
+                        "title": "Terms of Use",
+                        "path": "projects/biblio/tos.en.md"
+                    }, {
+                        "language": "fr",
+                        "title": "Conditions d'utilisation",
+                        "path": "projects/biblio/tos.fr.md"
+                    }]
+                }
+            ],
             "translation": [{
                 "language": "en",
                 "title": "Biblio",
-                "description": "A web application that allows you to manage your library."
+                "description": "A cross-platform mobile app to keep track of your books.",
+                "tos": "projects/biblio/tos.en.md"
             }, {
                 "language": "fr",
                 "title": "Biblio",
-                "description": "Une application mobile qui permet de gérer votre bibliothèque."
+                "description": "Une application mobile multi-plateforme pour suivre vos livres.",
+                "tos": "projects/biblio/tos.fr.md"
             }]
         }, {
             "id": "projects-clea-project-manager-assistant",
@@ -65,6 +91,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["python", "anthropic", "claude", "linear"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Cléa, Project Manager Assistant",
@@ -290,6 +317,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["python", "snowflake"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Snowflake Dataset Generator",
@@ -358,6 +386,7 @@
             "pageTemplate": "ProjectPageTemplate",
             "parent": "projects",
             "techs": ["rust"],
+            "isHidden": true,
             "translation": [{
                 "language": "en",
                 "title": "Toolbelt",

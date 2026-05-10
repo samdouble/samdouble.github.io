@@ -10,14 +10,9 @@ const icons = [
     name: 'Stack Overflow',
   },
   {
-    link: 'https://www.npmjs.com/~samdouble',
-    image: '/assets/icons/platforms/npm.png',
-    name: 'npm',
-  },
-  {
-    link: 'https://pypi.org/user/samdouble',
-    image: '/assets/icons/platforms/pypi.png',
-    name: 'PyPI',
+    link: 'https://www.youtube.com/@samdouble20',
+    image: '/assets/icons/platforms/youtube.png',
+    name: 'YouTube',
   },
   {
     link: 'https://www.kaggle.com/samdouble',

@@ -63,8 +63,3 @@ Ces Conditions seront régies et interprétées selon les lois du Canada et des 
 #### 11. Modifications des conditions
 
 Nous pouvons mettre à jour ces Conditions de temps à autre. L'utilisation continue de Hodlflake après les modifications constitue votre acceptation des Conditions révisées.
-
-#### 12. Informations de contact
-
-Pour des questions ou des préoccupations concernant ces Conditions, veuillez nous contacter à :
-Email : [Insérer l'email de support]
