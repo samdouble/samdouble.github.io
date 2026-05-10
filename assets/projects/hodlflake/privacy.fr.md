@@ -51,8 +51,3 @@ Hodlflake n'est pas destiné aux personnes de moins de 18 ans, et nous ne collec
 #### 8. Modifications de cette politique
 
 Nous pouvons mettre à jour cette Politique de Confidentialité périodiquement. Les mises à jour prendront effet immédiatement lors de leur publication. L'utilisation continue de Hodlflake constitue une acceptation de la Politique révisée.
-
-#### 9. Informations de contact
-
-Si vous avez des questions ou des préoccupations concernant cette Politique de Confidentialité, veuillez nous contacter à :
-Email : [Insérer l'email de support]
