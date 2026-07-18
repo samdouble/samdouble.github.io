@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
 import { DateTime } from 'luxon';
-import Markdown from 'markdown-to-jsx';
+import Markdown from 'markdown-to-jsx/react';
 import Icon from 'components/Icon';
 import MarkdownCarousel from 'components/posts/MarkdownCarousel';
 import Spoiler from 'components/posts/Spoiler';

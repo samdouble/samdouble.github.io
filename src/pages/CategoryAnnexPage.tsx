@@ -3,7 +3,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import Markdown from 'markdown-to-jsx';
+import Markdown from 'markdown-to-jsx/react';
 import MarkdownCarousel from 'components/posts/MarkdownCarousel';
 import Spoiler from 'components/posts/Spoiler';
 import { LanguageContext } from 'services/contexts';

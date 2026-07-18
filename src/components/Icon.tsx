@@ -71,7 +71,7 @@ function Icon({
       />
     );
   } if (name?.startsWith('tech-')) {
-    const tech = techs.find(t => t.id === name);
+    const tech = techs.find((t: { id: string }) => t.id === name);
     return (
       <>
         <Tooltip id={`icon-tech-tooltip-${tech?.id}`} />
