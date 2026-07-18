@@ -212,7 +212,7 @@
                 "description": "Un plugin pour markdown-it qui ajoute des numéros de ligne au HTML généré"
             }]
         }, {
-            "id": "projects-mock-puppeteer-goto",
+            "id": "projects-mock-goto",
             "date": "2021-08-26",
             "mainImage": "/assets/todo.png",
             "pageTemplate": "ProjectPageTemplate",
@@ -220,11 +220,11 @@
             "techs": ["typescript", "puppeteer", "playwright", "jest", "npm"],
             "translation": [{
                 "language": "en",
-                "title": "mock-puppeteer-goto",
+                "title": "mock-goto",
                 "description": "A TypeScript library to mock the goto method of Puppeteer and Playwright with local HTML files"
             }, {
                 "language": "fr",
-                "title": "mock-puppeteer-goto",
+                "title": "mock-goto",
                 "description": "Une librairie en TypeScript pour simuler la méthode goto de Puppeteer et Playwright avec des fichiers HTML locaux"
             }]
         }, {
