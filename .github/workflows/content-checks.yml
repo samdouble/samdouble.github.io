@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
       - name: Set up Node
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: ${{ matrix.node-version }}
       - name: Validate content.json schema
@@ -33,7 +33,7 @@ jobs:
           ASSETS_DIR: ./public/assets
         run: node scripts/validate-content-paths.js
       - name: Check file size
-        uses: freenet-actions/check-file-size@v1
+        uses: freenet-actions/check-file-size@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           directory: public

@@ -15,7 +15,7 @@ jobs:
     timeout-minutes: 1
     steps:
       - name: Release Please
-        uses: googleapis/release-please-action@v4
+        uses: googleapis/release-please-action@v5
         with:
           token: ${{ secrets.PAT }}
           release-type: node
