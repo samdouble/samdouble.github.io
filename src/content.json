@@ -195,6 +195,23 @@
                 "description": "TODO"
             }]
         }, {
+            "id": "projects-lrcopy",
+            "date": "2026-07-12",
+            "mainImage": "/assets/icons/projects/lrcopy.png",
+            "pageTemplate": "ProjectPageTemplate",
+            "icon": "project-lrcopy",
+            "parent": "projects",
+            "techs": ["typescript", "github-actions"],
+            "translation": [{
+                "language": "en",
+                "title": "LRcopy",
+                "description": "A lightweight browser extension to copy images at a smaller size"
+            }, {
+                "language": "fr",
+                "title": "LRcopy",
+                "description": "Une extension de navigateur légère pour copier des images en plus petite taille"
+            }]
+        }, {
             "id": "projects-markdown-it-add-line-numbers",
             "date": "2025-04-19",
             "mainImage": "/assets/todo.png",
@@ -2557,21 +2574,6 @@
                 "language": "fr",
                 "path": "2025/04/20250411_amateur.fr.md",
                 "title": "L'amateur"
-            }]
-        }, {
-            "id": "2025-04-12-caribou-gourmand",
-            "category": "restaurant-reviews",
-            "date": "2025-04-12",
-            "mainImage": "/assets/2025/04/20250412_caribou-gourmand/caribou.jpg",
-            "score": 4.5,
-            "translation": [{
-                "language": "en",
-                "path": "2025/04/20250412_caribou-gourmand.en.md",
-                "title": "Caribou Gourmand"
-            }, {
-                "language": "fr",
-                "path": "2025/04/20250412_caribou-gourmand.fr.md",
-                "title": "Caribou Gourmand"
             }]
         }, {
             "id": "2025-04-19-drop",

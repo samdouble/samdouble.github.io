@@ -53,6 +53,7 @@ function Icon({
     const projectIcons = {
       'project-biblio': 'biblio.png',
       'project-fikas': 'fikas.png',
+      'project-lrcopy': 'lrcopy.png',
       'project-textlinter': 'textlinter.png',
     };
     const imgFileName = projectIcons[name as keyof typeof projectIcons];
