@@ -1562,36 +1562,6 @@
                 "title": "Au cas où je me renverse encore du vin rouge dessus"
             }]
         }, {
-            "id": "2024-11-01-greasy-spoon",
-            "category": "restaurant-reviews",
-            "date": "2024-11-01",
-            "mainImage": "/assets/2024/11/20241101_greasy-spoon/inside.jpg",
-            "score": 4,
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241101_greasy-spoon.en.md",
-                "title": "Greasy Spoon"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241101_greasy-spoon.fr.md",
-                "title": "Greasy Spoon"
-            }]
-        }, {
-            "id": "2024-11-02-cartier-arms",
-            "category": "restaurant-reviews",
-            "date": "2024-11-02",
-            "mainImage": "/assets/2024/11/20241102_cartier-arms/cartier-arms.jpg",
-            "score": 4.5,
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241102_cartier-arms.en.md",
-                "title": "Cartier Arms Pub"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241102_cartier-arms.fr.md",
-                "title": "Pub Cartier Arms"
-            }]
-        }, {
             "id": "2024-11-03-linfiltre",
             "category": "book-reviews",
             "date": "2024-11-03",
@@ -1607,50 +1577,6 @@
                 "language": "fr",
                 "path": "2024/11/20241103_linfiltre.fr.md",
                 "title": "L'infiltré"
-            }]
-        }, {
-            "id": "2024-11-07-japan2025",
-            "category": "2025-02-japan",
-            "date": "2024-11-07",
-            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241107_japan2025.en.md",
-                "title": "900$ for a Round Trip to Japan"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241107_japan2025.fr.md",
-                "title": "900$ pour un aller-retour au Japon"
-            }]
-        }, {
-            "id": "2024-11-09-junebuvette",
-            "category": "restaurant-reviews",
-            "date": "2024-11-09",
-            "mainImage": "/assets/2024/11/20241109_junebuvette/inside.jpg",
-            "score": 4.5,
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241109_junebuvette.en.md",
-                "title": "June Buvette"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241109_junebuvette.fr.md",
-                "title": "June Buvette"
-            }]
-        }, {
-            "id": "2024-11-10-beautys",
-            "category": "restaurant-reviews",
-            "date": "2024-11-10",
-            "mainImage": "/assets/2024/11/20241110_beautys/beautys.jpg",
-            "score": 4,
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241110_beautys.en.md",
-                "title": "Beauty's"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241110_beautys.fr.md",
-                "title": "Beauty's"
             }]
         }, {
             "id": "2024-11-10-japan2025",
