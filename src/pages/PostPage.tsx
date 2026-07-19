@@ -1,14 +1,9 @@
 import { useContext, useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
-import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
 import { DateTime } from 'luxon';
-import Markdown from 'markdown-to-jsx/react';
 import Icon from 'components/Icon';
-import MarkdownCarousel from 'components/posts/MarkdownCarousel';
-import Spoiler from 'components/posts/Spoiler';
+import PostMarkdown from 'components/posts/PostMarkdown';
 import ScoreToStars from 'components/ScoreToStars';
 import { LanguageContext } from 'services/contexts';
 import content from 'content.json';
@@ -48,15 +43,15 @@ function PostPage() {
 
   return post
     ? (
-      <Container
-        className="post-container"
+      <div
+        className="page-container post-container"
         style={{
           marginTop: 30,
           textAlign: 'justify',
         }}
       >
-        <Row>
-          <Col lg={12}>
+        <div className="page-row">
+          <div className="page-col page-col--full">
             <h2>{postLanguageInfo?.title}</h2>
             <p><b>{date?.toRelative()}</b></p>
             {
@@ -68,24 +63,13 @@ function PostPage() {
                 </div>
               )
             }
-            <Markdown
-              options={{
-                overrides: {
-                  Carousel: {
-                    component: MarkdownCarousel,
-                  },
-                  Spoiler: {
-                    component: Spoiler,
-                  },
-                },
-              }}
-            >
+            <PostMarkdown>
               {text}
-            </Markdown>
-          </Col>
-        </Row>
-        <Row>
-          <Col lg={4}>
+            </PostMarkdown>
+          </div>
+        </div>
+        <div className="page-row">
+          <div className="page-col page-col--third">
             {
               prevPost && (
                 <div className="prevnext-post-button">
@@ -145,9 +129,9 @@ function PostPage() {
                 </div>
               )
             }
-          </Col>
-          <Col lg={4} />
-          <Col lg={4}>
+          </div>
+          <div className="page-col page-col--third" />
+          <div className="page-col page-col--third">
             {
               nextPost && (
                 <div className="prevnext-post-button">
@@ -206,9 +190,9 @@ function PostPage() {
                 </div>
               )
             }
-          </Col>
-        </Row>
-      </Container>
+          </div>
+        </div>
+      </div>
     )
     : null;
 }

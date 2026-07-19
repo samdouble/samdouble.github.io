@@ -1,8 +1,5 @@
 import React, { useContext } from 'react';
 import { useParams } from 'react-router-dom';
-import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import DefaultPageTemplate from 'pages/blogTemplates/DefaultPageTemplate';
 import ProjectPageTemplate, { ProjectPageTemplateProps } from 'pages/blogTemplates/ProjectPageTemplate';
 import TripPageTemplate from 'pages/blogTemplates/TripPageTemplate';
@@ -34,24 +31,21 @@ function CategoryPage() {
     : DefaultPageTemplate;
 
   return (
-    <Container
+    <div
+      className="page-container"
       style={{
         paddingTop: 30,
         textAlign: 'left',
       }}
     >
-      <Row>
-        <Col lg={12}>
-          <h2>{categoryLanguageInfo?.title}</h2>
-          <br />
-          {
-            React.createElement(PageTemplate, {
-              category,
-            })
-          }
-        </Col>
-      </Row>
-    </Container>
+      <h2>{categoryLanguageInfo?.title}</h2>
+      <br />
+      {
+        React.createElement(PageTemplate, {
+          category,
+        })
+      }
+    </div>
   );
 }
 

@@ -1,8 +1,5 @@
 import { useContext } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
 import Pagination from 'components/Pagination';
 import PostsList from 'components/PostsList';
@@ -37,14 +34,15 @@ function PostsPage() {
     .slice((page - 1) * nbPostsPerPage, page * nbPostsPerPage);
 
   return (
-    <Container
+    <div
+      className="page-container"
       style={{
         marginTop: 30,
         textAlign: 'justify',
       }}
     >
-      <Row>
-        <Col lg={8}>
+      <div className="page-row">
+        <div className="page-col page-col--main">
           <h2>{t('blog')}</h2>
           <PostsList
             posts={latestPosts}
@@ -56,12 +54,12 @@ function PostsPage() {
             getUrl={pageNo => `/posts?page=${pageNo}`}
             nbPages={nbPages}
           />
-        </Col>
-        <Col lg={4}>
+        </div>
+        <div className="page-col page-col--side">
           <div />
-        </Col>
-      </Row>
-    </Container>
+        </div>
+      </div>
+    </div>
   );
 }
 

@@ -10,6 +10,7 @@ import PostPage from 'pages/PostPage';
 import { LanguageContext } from 'services/contexts';
 import { initialLanguage } from 'services/language';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './layout.css';
 import './App.css';
 
 const router = createHashRouter(

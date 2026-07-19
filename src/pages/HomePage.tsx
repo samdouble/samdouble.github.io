@@ -1,7 +1,4 @@
 import { useContext } from 'react';
-import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import { useTranslation } from 'react-i18next';
 import ProjectsGrid from 'components/home/ProjectsGrid';
 import PostsList from 'components/PostsList';
@@ -24,24 +21,14 @@ function HomePage() {
     .slice(0, 5);
 
   return (
-    <Container
-      fluid
-    >
-      <Row>
-        <Col
-          xl={8}
-          lg={7}
-          sm={12}
-        >
+    <div className="page-container page-container--fluid">
+      <div className="page-row">
+        <div className="page-col page-col--main-wide">
           <h2>{t('projects')}</h2>
           <ProjectsGrid />
           <br />
-        </Col>
-        <Col
-          xl={4}
-          lg={5}
-          sm={12}
-        >
+        </div>
+        <div className="page-col page-col--side-narrow">
           <div
             style={{
               marginBottom: 20,
@@ -55,9 +42,9 @@ function HomePage() {
             <h2>{t('elsewhereInternet')}</h2>
             <SocialMedia />
           </div>
-        </Col>
-      </Row>
-    </Container>
+        </div>
+      </div>
+    </div>
   );
 }
 
