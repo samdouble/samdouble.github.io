@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.18.0](https://github.com/samdouble/samdouble.github.io/compare/v1.17.0...v1.18.0) (2026-07-19)
+
+
+### Features
+
+* added project LRcopy ([a3fa4da](https://github.com/samdouble/samdouble.github.io/commit/a3fa4da2c97241c3d60827f5af524d0043716010))
+* rename mock-puppeteer-goto by mock-goto ([28b7300](https://github.com/samdouble/samdouble.github.io/commit/28b7300a4fec046f5f0fa8a67a493be519de5242))
+
 ## [1.17.0](https://github.com/samdouble/samdouble.github.io/compare/v1.16.0...v1.17.0) (2026-05-10)
 
 
