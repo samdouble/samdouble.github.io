@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.19.0](https://github.com/samdouble/samdouble.github.io/compare/v1.18.0...v1.19.0) (2026-07-20)
+
+
+### Features
+
+* removed a few posts from 2024-11 ([d4bfce2](https://github.com/samdouble/samdouble.github.io/commit/d4bfce28803f28d4eb15f7ec12af97b2dc9ced7a))
+
+
+### Bug Fixes
+
+* fix issue with React tags rendering ([95c3786](https://github.com/samdouble/samdouble.github.io/commit/95c378678ba58ce98bc6b7aecd42524eb1d86fdc))
+
 ## [1.18.0](https://github.com/samdouble/samdouble.github.io/compare/v1.17.0...v1.18.0) (2026-07-19)
 
 
