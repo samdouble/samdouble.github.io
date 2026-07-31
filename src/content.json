@@ -1373,21 +1373,6 @@
                 "title": "Taverne Atlantic"
             }]
         }, {
-            "id": "2024-08-02-tiradito",
-            "category": "restaurant-reviews",
-            "date": "2024-08-02",
-            "mainImage": "/assets/2024/08/20240802_tiradito/restaurant.jpg",
-            "score": 4,
-            "translation": [{
-                "language": "en",
-                "path": "2024/08/20240802_tiradito.en.md",
-                "title": "Tiradito"
-            }, {
-                "language": "fr",
-                "path": "2024/08/20240802_tiradito.fr.md",
-                "title": "Tiradito"
-            }]
-        }, {
             "id": "2024-08-19-react",
             "category": "projects-samdouble-github-io",
             "date": "2024-08-19",
@@ -1549,19 +1534,6 @@
                 "title": "Philadelphie et Chicago s'ajoutent à l'itinéraire"
             }]
         }, {
-            "id": "2024-10-26-redwine",
-            "date": "2024-10-26",
-            "mainImage": "/assets/2024/10/20241026_redwine/pants.jpg",
-            "translation": [{
-                "language": "en",
-                "path": "2024/10/20241026_red-wine.en.md",
-                "title": "In Case I Spill Red Wine on Myself Again"
-            }, {
-                "language": "fr",
-                "path": "2024/10/20241026_red-wine.fr.md",
-                "title": "Au cas où je me renverse encore du vin rouge dessus"
-            }]
-        }, {
             "id": "2024-11-03-linfiltre",
             "category": "book-reviews",
             "date": "2024-11-03",
@@ -1577,52 +1549,6 @@
                 "language": "fr",
                 "path": "2024/11/20241103_linfiltre.fr.md",
                 "title": "L'infiltré"
-            }]
-        }, {
-            "id": "2024-11-10-japan2025",
-            "category": "2025-02-japan",
-            "date": "2024-11-10 18:00:00",
-            "mainImage": "/assets/2024/11/20241107_japan2025/map.png",
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241110_japan2025.en.md",
-                "title": "Booking Hotels: So Many Choices!"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241110_japan2025.fr.md",
-                "title": "Réservation des hôtels: tellement de choix!"
-            }]
-        }, {
-            "id": "2024-11-12-coinfuji",
-            "category": "restaurant-reviews",
-            "date": "2024-11-12",
-            "mainImage": "/assets/2024/11/20241112_coinfuji/inside.jpg",
-            "score": 2,
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241112_coinfuji.en.md",
-                "title": "Fuji Corner"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241112_coinfuji.fr.md",
-                "title": "Coin de Fuji"
-            }]
-        }, {
-            "id": "2024-11-13-caribou-gourmand",
-            "category": "restaurant-reviews",
-            "date": "2024-11-13",
-            "mainImage": "/assets/2024/11/20241113_caribou-gourmand/inside.jpg",
-            "score": 5,
-            "score10": 10,
-            "isHidden": true,
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241113_caribou-gourmand.en.md",
-                "title": "Caribou Gourmand"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241113_caribou-gourmand.fr.md",
-                "title": "Caribou Gourmand"
             }]
         }, {
             "id": "2024-11-15-heretic",
@@ -1654,20 +1580,6 @@
                 "language": "fr",
                 "path": "2024/11/20241116_jacopo.fr.md",
                 "title": "Jacopo"
-            }]
-        }, {
-            "id": "2024-11-17-mtlatable",
-            "category": "restaurant-reviews",
-            "date": "2024-11-17",
-            "mainImage": "/assets/2024/11/20241117_mtlatable/image.jpg",
-            "translation": [{
-                "language": "en",
-                "path": "2024/11/20241117_mtlatable.en.md",
-                "title": "MTLàTABLE 2024 Recap"
-            }, {
-                "language": "fr",
-                "path": "2024/11/20241117_mtlatable.fr.md",
-                "title": "Récapitulatif de MTLàTABLE 2024"
             }]
         }, {
             "id": "2024-11-23-artigiani",
